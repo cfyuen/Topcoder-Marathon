@@ -21,5 +21,7 @@ BounceOff: https://community.topcoder.com/longcontest/?module=ViewProblemStateme
 
 MegaParty: https://community.topcoder.com/longcontest/stats/?module=ViewOverview&rd=13709
 
+KnightsMoveCipher: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13679&pm=10242
+
 GraphicalAuthentication: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13568&pm=10147
 

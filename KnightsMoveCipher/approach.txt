@@ -1,0 +1,30 @@
+weighted words
+
+take top 100, try 3-5 distance (variable d?)
+	By character (count frequency)?
+	By words?
+put words together (LCSubstring)
+result words guess what it is (tries)
+
+space? (know how many are rubbish)
+
+specific char (eg. Q,X,W)
+
+from highest freq 1st word find, match delta
+	then 2nd word...
+
+divide the whole grid into some parts, try to match word and delta
+
+use smaller distance (4) at first, match the phrase
+	use bigger and bigger distance (for a certain phrase period)
+ignore the end first, until most of the front is done
+
+use provided dict now
+
+constraint (delta) satisfacation trying
+	by finding random sample (using phrases), list possible words
+
+use hash/index to represent word, O(1) match time and source code compression
+
+collect a set of possible path to one final point of a phrase
+	then only mark the sure point to v=1, otherwise continue to search

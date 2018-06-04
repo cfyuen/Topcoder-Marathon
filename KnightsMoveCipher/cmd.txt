@@ -1,0 +1,5 @@
+
+"C:\Programfiler\Java\jdk1.6.0_11\bin\javac" "C:\Documents and Settings\yuch6304\KnightsMoveCipher.java"
+
+
+java -Xmx1024M -jar KMC.jar -exec "C:\Documents and Settings\yuch6304\Skrivebord\document\computer\KnightsMoveCipher\v0" -seed 1 -output 1
