@@ -11,6 +11,8 @@ RollingBalls: https://community.topcoder.com/longcontest/?module=ViewProblemStat
 
 SnowCleaning: http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=15608&pm=12487
 
+ImageScanner: http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14502&pm=11367
+
 RockyMine: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14455&pm=9854
 
 BookSelection: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14227&pm=10885
