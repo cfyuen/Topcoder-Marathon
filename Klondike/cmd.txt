@@ -1,0 +1,3 @@
+java -jar Klondike.jar -exec "C:\Documents and Settings\yuch2304\Skrivebord\document\computer\Klondike\Klondie.exe" -seed 1 -pause 3
+
+java -jar Klondike.jar -exec "Klondike vis.exe" -seed 1 -pause 500

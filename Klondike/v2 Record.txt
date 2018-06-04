@@ -1,0 +1,1504 @@
+Game 8,25,62,68,70,76,79,81,90,93,99
+
+DECK:
+6C 5C 3C 9D 4S AS KD 7D 8D 6S 
+            /\
+Completed: 2 4 3 0 
+Stack:
+ KC  KS  KH  ##  ##  ##  ## 
+ QD  QH  QS  ##  ##  ##  ## 
+ JS  JC  JH  6H  ##  ##  ## 
+ TH  TD  TC      ##  3S  5H 
+ 9S      9H      6D      4C 
+ 8H              5S         
+Game 1 finished in 8.875s
+
+DECK:
+4D 5D 7C 5C 8S TC 9D 
+   /\
+Completed: 4 3 4 3 
+Stack:
+ KH  QD  6H  KC  KD  ##  ## 
+ QC          QH  QS  ##  ## 
+ JD          JC      7D  ## 
+ TS          TH      6S  ## 
+ 9H          9S          ## 
+ 8C          8D          9C 
+ 7H          7S             
+ 6C          6D             
+             5S             
+Game 2 finished in 9.734s
+
+DECK:
+2D 5C 8H 4D 7S QC JC 9S 
+/\
+Completed: 0 0 1 4 
+Stack:
+ 4H  3D  ##  ##  ##  ##  ## 
+         JD  ##  QS  ##  ## 
+         TS  KC  JH  ##  ## 
+         9H      TC  ##  ## 
+         8S          7H  ## 
+         7D          6C  ## 
+         6S              KS 
+         5D              QH 
+         4C              JS 
+         3H              TD 
+         2C              9C 
+                         8D 
+                         7C 
+Game 3 finished in 11.625s
+
+DECK:
+6H 7C 8C 9S KC TC 5C TH JS QD QS JD 7H 
+                                 /\
+Completed: 4 4 1 1 
+Stack:
+ KH  --  --  --  ##  ##  ## 
+ QC              ##  ##  5H 
+ JH              ##  QH     
+ TS              8H  JC     
+ 9H                  TD     
+ 8S                  9C     
+ 7D                  8D     
+ 6S                  7S     
+ 5D                  6D     
+ 4S                  5S     
+ 3H                  4H     
+                     3S     
+Game 4 finished in 3.469s
+
+DECK:
+JD 7C 5C QD 2D 2C 4D TS 8D 3C 
+   /\
+Completed: 0 0 4 5 
+Stack:
+ KD  ##  KH  ##  ##  KC  ## 
+ QS  8H  QC  JS  ##  QH  ## 
+ JH  7S      TH  ##  JC  9D 
+ TC              KS  TD  8C 
+ 9H                      7H 
+ 8S                      6S 
+ 7D                      5D 
+ 6C                         
+ 5H                         
+ 4C                         
+Game 5 finished in 1.781s
+
+DECK:
+4S 3H 5S 7D 6S 
+      /\
+Completed: 4 6 2 3 
+Stack:
+ KS  KC  --  --  KH  KD  -- 
+ QH  QD          QS  QC     
+ JC  JS          JD  JH     
+ TD  TH          TC  TS     
+ 9C  9S          9D  9H     
+ 8D  8H          8C  8S     
+ 7S  7C              7H     
+ 6H                  6C     
+ 5C                  5H     
+ 4H                         
+Game 6 finished in 13.203s
+
+DECK:
+2D 6S KC QD 3D 6D 8C JC QH 
+                        /\
+Completed: 3 1 2 4 
+Stack:
+ KD  KH  ##  ##  ##  ##  ## 
+ QC      TH  ##  5H  ##  ## 
+ JH      9S  JD      7S  ## 
+ TS      8D  TC          ## 
+ 9H      7C              ## 
+ 8S      6H              ## 
+ 7H      5C              JS 
+         4H              TD 
+Game 7 finished in 10.891s
+
+DECK:
+3S KH 9D 9C 
+/\
+Completed: 0 3 5 1 
+Stack:
+ KD  KS  KC  4S  ##  ##  -- 
+ QS  QD  QH      ##  ##     
+ JH  JS  JC      ##  ##     
+ TC  TH          JD  ##     
+ 9H  9S          TS  ##     
+ 8C  8D              8H     
+ 7H  7C              7S     
+ 6S  6D              6H     
+ 5D  5C              5S     
+ 4C                  4D     
+                     3C     
+Game 9 finished in 8.047s
+
+DECK:
+AH JH 7D 6C 3C KS QD QS 8S 9C TD 9D 
+                              /\
+Completed: 0 3 0 2 
+Stack:
+ KD  ##  --  KC  ##  ##  ## 
+ QC  8C      QH  ##  ##  ## 
+ JD  7H      JC  ##  ##  ## 
+     6S      TH  8H  ##  ## 
+     5D      9S      ##  ## 
+     4C      8D      4D  4H 
+             7C      3S     
+             6D      2H     
+Game 10 finished in 5.234s
+
+DECK:
+QD 4S TS 6S 8H JS 2S TH 8S KD 7H 
+            /\
+Completed: 0 2 3 0 
+Stack:
+ KS  KH  ##  3S  ##  ##  ## 
+ QH  QC  ##      ##  ##  ## 
+ JC  JH  7D      7C  ##  ## 
+ TD  TC  6C      6D  JD  ## 
+ 9S      5H              ## 
+ 8D      4C              ## 
+ 7S      3D              3C 
+ 6H      2C                 
+Game 11 finished in 0.032s
+
+DECK:
+QD 3H 7S 9D 5C KD JD JC KH 5H 4D TC 4H 
+                     /\
+Completed: 4 0 0 3 
+Stack:
+ KS  ##  ##  ##  ##  ##  ## 
+     JS  9C  2D  ##  ##  ## 
+     TD  8D      ##  ##  ## 
+     9S  7C      7H  KC  ## 
+     8H                  ## 
+                         JH 
+                         TS 
+                         9H 
+                         8C 
+                         7D 
+                         6S 
+                         5D 
+Game 12 finished in 0.234s
+
+DECK:
+6S JC 2C 5D KH 3C 5S TS 
+               /\
+Completed: 0 3 4 1 
+Stack:
+ --  KD  TD  KS  ##  ##  ## 
+     QC  9S  QD  ##  ##  ## 
+     JD  8D  JS  4S  4C  ## 
+     TC  7S  TH          9D 
+     9H  6D  9C          8S 
+     8C      8H          7D 
+     7H      7C             
+     6C      6H             
+             5C             
+             4D             
+             3S             
+Game 13 finished in 5.891s
+
+DECK:
+9C 3C 6S JD KH AS 5S TC QC 
+                     /\
+Completed: 0 2 7 0 
+Stack:
+ KC  KS  --  KD  ##  ##  ## 
+ QH          QS  ##  ##  ## 
+ JS          JH  ##  ##  ## 
+ TD          TS  5D  JC  ## 
+ 9S          9D          ## 
+ 8H          8C          ## 
+ 7C                      3D 
+ 6D                      2C 
+ 5C                         
+ 4D                         
+ 3S                         
+Game 14 finished in 4.531s
+
+DECK:
+AC 2D TD 8D 8C 5C 4H 9H 2S 4S JC 2H 6C 8S 9C 5D 9D KS 4D QD 3H 3D 
+                                                         /\
+Completed: 0 0 0 0 
+Stack:
+ KH  2C  ##  ##  ##  ##  ## 
+ QS      ##  ##  ##  ##  ## 
+ JH      7D  TH  7H  ##  ## 
+         6S          ##  ## 
+         5H          ##  ## 
+                     6D  ## 
+                     5S  QC 
+                         JD 
+Game 15 finished in 0.015s
+
+DECK:
+6D 4C 6H 3D TD QS 8C 2S 7H TC AD KC 9S 5H 7S TH 4D 3H 9D 9H 
+                                       /\
+Completed: 0 0 2 0 
+Stack:
+ KD  ##  KS  ##  ##  ##  ## 
+     3S  QD  ##  ##  ##  ## 
+     2D      ##  ##  ##  ## 
+             8S  8D  ##  ## 
+             7D  7C  KH  ## 
+             6S          ## 
+                         9C 
+                         8H 
+Game 16 finished in 0.922s
+
+DECK:
+AD 7H 7D TC 8S 6C 6S 5C 9H 4H 
+                     /\
+Completed: 0 0 1 3 
+Stack:
+ KS  KC  KH  ##  --  ##  ## 
+ QD      QS  ##      ##  ## 
+ JC      JD  ##      ##  ## 
+ TH      TS  5D      ##  ## 
+ 9S      9D  4C      ##  ## 
+ 8D          3H      5H  JS 
+ 7C                      TD 
+ 6H                      9C 
+ 5S                      8H 
+ 4D                      7S 
+Game 17 finished in 0.938s
+
+DECK:
+TC 5S 
+/\
+Completed: 0 0 0 1 
+Stack:
+ KH  KC  KD  ##  ##  ##  ## 
+ QC  QH  QS  ##  ##  ##  ## 
+ JH  JS  JD  3S  8C  KS  ## 
+ TS  TH      2H      QD  ## 
+ 9D  9S              JC  ## 
+ 8S  8H              TD  5D 
+ 7H  7S              9C  4C 
+ 6S  6H              8D     
+ 5H  5C                     
+ 4S  4H                     
+ 3D  3C                     
+ 2C  2D                     
+Game 18 finished in 14.062s
+
+DECK:
+6C 9C AC 3D TC JH QD 8C TH 7C 4D 
+            /\
+Completed: 0 2 0 3 
+Stack:
+ KD  KC  KS  ##  ##  ##  ## 
+ QS  QH      ##  ##  QC  ## 
+ JD  JC      4H  ##      ## 
+ TS  TD      3C  ##      5H 
+ 9D  9S          6H         
+ 8S  8D                     
+ 7H  7S                     
+ 6S  6D                     
+ 5D                         
+ 4C                         
+ 3H                         
+ 2C                         
+Game 19 finished in 5.188s
+
+DECK:
+AS TC 9D 7C 
+/\
+Completed: 5 3 6 0 
+Stack:
+ KH  KS  KC  --  KD  ##  -- 
+ QS  QD  QH      QC  ##     
+ JD  JS  JC      JH  ##     
+ TS  TH  TD          ##     
+ 9H  9S              8C     
+ 8S  8D              7D     
+ 7H  7S                     
+ 6S  6D                     
+ 5D  5S                     
+ 4S  4D                     
+     3S                     
+Game 20 finished in 12.672s
+
+DECK:
+4S 3S 6D 8S QC 6H TH TS KH KD 2C 5S 7D 8D 6S JH 6C 8C 7C 3D 7S AH 
+                                                               /\
+Completed: 0 2 0 2 
+Stack:
+ 5D  KC  ##  ##  ##  ##  ## 
+     QH  JD  5C  ##  ##  ## 
+     JC  TC      ##  ##  ## 
+         9H      ##  3C  ## 
+                 JS      ## 
+                         ## 
+                         9C 
+Game 21 finished in 0.922s
+
+DECK:
+2D 5S TD 9D TS KS TC 5D 
+                     /\
+Completed: 3 1 2 1 
+Stack:
+ KC  7D  KD  KH  ##  ##  ## 
+ QD      QS      ##  ##  ## 
+ JC              ##  ##  ## 
+ TH              ##  ##  ## 
+ 9S              9C  9H  ## 
+ 8H                  8C  ## 
+ 7C                  7H  4H 
+ 6D                  6C     
+ 5C                  5H     
+ 4D                  4S     
+ 3S                         
+Game 22 finished in 2.546s
+
+DECK:
+7C 7S 7H 8H KC KD 2D 2C 7D QD 6C AS 6H 5D 2S 6D AC 3C 8C 2H JD 6S AD 4C 
+      /\
+Completed: 0 0 0 0 
+Stack:
+ TH  ##  ##  ##  ##  ##  ## 
+     TD  ##  ##  ##  ##  ## 
+         JH  ##  ##  ##  ## 
+             KS  8D  ##  ## 
+             QH      ##  ## 
+                     9D  9H 
+                     8S     
+Game 23 finished in 2.094s
+
+DECK:
+TD 2S 9H TH 5H 3H 4S TS 9D KS 3S 4H 7D 8C 9S QH 
+                              /\
+Completed: 2 2 0 0 
+Stack:
+ KD  ##  8H  ##  ##  ##  ## 
+ QC  QD      9C  ##  ##  ## 
+ JH  JC      8D  ##  ##  ## 
+             7S  ##  QS  ## 
+             6H  7H      6D 
+             5C  6C         
+             4D  5D         
+             3C             
+             2H             
+Game 24 finished in 0.703s
+
+DECK:
+5H TS 5D 7C 4S 8D JH QS 3S 4C 8H 
+                     /\
+Completed: 0 4 2 0 
+Stack:
+ KC  KD  ##  ##  ##  ##  ## 
+ QH  QC  3H  ##  ##  ##  ## 
+ JC  JD  2S  ##  7D  ##  ## 
+ TD  TC      6H      ##  ## 
+     9H      5C      ##  ## 
+     8C              2C  JS 
+     7H                  TH 
+Game 26 finished in 8.000s
+
+DECK:
+JS KH QS 9S 3D 6D TH 4D 
+            /\
+Completed: 4 2 1 3 
+Stack:
+ KC  --  KD  ##  --  ##  ## 
+ QH      QC  ##      ##  JD 
+ JC      JH  8H      9D     
+ TD      TC  7C      8C     
+ 9C      9H          7H     
+ 8D      8S          6S     
+ 7S      7D          5H     
+ 6H      6C                 
+ 5S      5D                 
+ 4H      4S                 
+         3H                 
+Game 27 finished in 9.047s
+
+DECK:
+7H 3S 8D 7S KS 3C 6C 5H 8S JD 9D 
+         /\
+Completed: 0 2 3 2 
+Stack:
+ KH  QH  KD  ##  ##  ##  ## 
+ QS  JC      2C  ##  ##  ## 
+ JH              5C  ##  ## 
+ TS                  ##  ## 
+ 9H                  ##  ## 
+ 8C                  9C  QD 
+ 7D                  8H     
+ 6S                  7C     
+ 5D                  6H     
+ 4S                  5S     
+Game 28 finished in 11.250s
+
+DECK:
+2D QD 4D 7H 5D 8C 6S JH 9C 
+                     /\
+Completed: 2 1 3 1 
+Stack:
+ KH  TS  ##  ##  ##  ##  ## 
+ QC  9D  KS  4C  ##  ##  7C 
+ JD              KC  ##  6D 
+ TC              QH  ##     
+ 9H              JC  9S     
+ 8S                  8H     
+ 7D                  7S     
+ 6C                  6H     
+ 5H                  5S     
+ 4S                  4H     
+ 3D                  3S     
+Game 29 finished in 12.765s
+
+DECK:
+2S 4C TH AC 3H 2C JH 7H 6D 
+                     /\
+Completed: 0 0 2 1 
+Stack:
+ KH  KS  KC  QS  ##  ##  ## 
+ QC  QD  QH      ##  ##  ## 
+ JD  JS          ##  ##  ## 
+ TC  TD          ##  ##  ## 
+ 9H  9C          4H  5H  ## 
+ 8C  8D          3S      ## 
+ 7D                      6H 
+ 6C                      5C 
+ 5D                      4D 
+ 4S                         
+ 3D                         
+Game 30 finished in 19.047s
+
+DECK:
+6C 4S 2C KD JC KS KH 8D TC JH 
+                           /\
+Completed: 0 0 3 0 
+Stack:
+ KC  5C  TD  ##  ##  ##  ## 
+ QD      9C  ##  ##  ##  ## 
+ JS          ##  ##  ##  ## 
+ TH          JD  ##  ##  ## 
+ 9S          TS  3D  ##  ## 
+ 8H              2S  8S  8C 
+ 7S                  7H     
+ 6H                         
+ 5S                         
+ 4H                         
+ 3C                         
+ 2D                         
+Game 31 finished in 5.203s
+
+DECK:
+4D QS JH KC 9C QC 6D 6H 7D AS JS 7S TD 6C 8S TH 4S 
+                                       /\
+Completed: 3 1 1 0 
+Stack:
+ KS  --  ##  9S  ##  ##  ## 
+ QD      4C      ##  ##  ## 
+         3H      ##  ##  ## 
+         2S      5S  ##  ## 
+                 4H  ##  ## 
+                 3S  JD  TC 
+                     TS     
+                     9H     
+                     8C     
+                     7H     
+                     6S     
+Game 32 finished in 0.485s
+
+DECK:
+7D 8S 3D TS JD JC 9D 
+   /\
+Completed: 1 1 3 2 
+Stack:
+ KC  KD  TH  ##  --  --  ## 
+ QH  QC  9S  ##          ## 
+ JS  JH      6C          ## 
+ TD  TC      5D          ## 
+ 9C  9H      4S          ## 
+ 8H  8C                  ## 
+ 7C  7H                  7S 
+ 6H  6S                  6D 
+ 5S  5H                  5C 
+ 4H  4C                  4D 
+ 3C                         
+Game 33 finished in 15.812s
+
+DECK:
+TD JD TS 6H AC 7D 4S TC JH QS JC 7H QC 6S 9C 5D 4D 9D 2H AS 5C KH 2D 8H 
+      /\
+Completed: 0 1 1 0 
+Stack:
+ KS  KC  --  ##  ##  ##  ## 
+ QH          ##  ##  ##  ## 
+ JS          ##  ##  ##  ## 
+             7C  2S  6C  ## 
+             6D      5H  8D 
+             5S      4C  7S 
+Game 34 finished in 0.000s
+
+DECK:
+3S 5H 5D 7D 3D 4S 8D KH 2C 3H 
+            /\
+Completed: 1 0 0 1 
+Stack:
+ KD  KC  KS  2D  ##  ##  ## 
+ QC  QH          4D  ##  ## 
+ JH  JC              ##  ## 
+ TC  TH              ##  ## 
+ 9D  9C              QS  ## 
+     8H              JD  ## 
+     7S              TS  7C 
+     6D              9H  6H 
+     5C              8S     
+     4H              7H     
+     3C              6S     
+     2H                     
+Game 35 finished in 22.609s
+
+DECK:
+2D 6D 7H 2C 7D 3S 2H 9S QD TH JC 8D 5S 
+                     /\
+Completed: 1 1 1 2 
+Stack:
+ KD  KC  KH  4D  ##  ##  6C 
+ QS  QH  QC      ##  ##  5D 
+ JH  JS  JD      6S  ##  4C 
+ TC  TD  TS          ##  3H 
+ 9H  9C  9D          3D     
+     8H                     
+     7S                     
+     6H                     
+     5C                     
+     4H                     
+     3C                     
+Game 36 finished in 4.735s
+
+DECK:
+AS KC 6C TH 9D 5D 9C 4S 5S TS QS 4H TD QD 6S 4D 3H 2S KS 3S QH 6D 
+                                       /\
+Completed: 0 0 1 0 
+Stack:
+ 5H  ##  ##  ##  ##  ##  ## 
+ 4C  8H  ##  ##  ##  ##  ## 
+ 3D      TC  8D  ##  ##  ## 
+                 ##  ##  ## 
+                 8C  ##  ## 
+                     JS  KD 
+                         QC 
+Game 37 finished in 0.000s
+
+DECK:
+8H QS 8C AD 6D 7H JS 7C 6S 5C JD 
+                  /\
+Completed: 2 0 1 2 
+Stack:
+ KC  KH  --  ##  KD  ##  ## 
+ QH  QC      4D      ##  ## 
+ JC  JH              ##  ## 
+ TD  TS              ##  ## 
+ 9C  9D              TH  4S 
+ 8D  8S                     
+ 7S  7D                     
+ 6H  6C                     
+ 5S  5D                     
+ 4H  4C                     
+ 3C  3H                     
+ 2D                         
+Game 38 finished in 4.812s
+
+DECK:
+9S 3S 4H 5D KC 9D 5C 9C JH 7D 6S 5S 
+   /\
+Completed: 3 3 1 1 
+Stack:
+ KS  8S  KH  ##  ##  ##  ## 
+ QH          8H  JC  ##  ## 
+ JS                  ##  ## 
+                     ##  ## 
+                     ##  ## 
+                     KD  8D 
+                     QC  7S 
+                     JD     
+                     TS     
+                     9H     
+                     8C     
+                     7H     
+                     6C     
+                     5H     
+                     4S     
+                     3H     
+Game 39 finished in 5.891s
+
+DECK:
+TS 8H 7D 9S JD QC 5C 8S 8D 2S 8C 
+   /\
+Completed: 1 3 3 1 
+Stack:
+ KS  ##  KC  ##  ##  ##  ## 
+ QD  JH      ##  ##  ##  ## 
+             ##  ##  ##  ## 
+             6C  ##  ##  ## 
+             5H  6S  ##  ## 
+             4S  5D  7C  7S 
+                     6D     
+                     5S     
+                     4D     
+                     3S     
+Game 40 finished in 9.500s
+
+DECK:
+AD QH 5H TC 8C QC 2H KH KD 4H 2S 6C JH 3C 4C TH 
+                                             /\
+Completed: 0 0 1 1 
+Stack:
+ KC  ##  KS  QS  ##  ##  ## 
+ QD  TS          ##  ##  ## 
+ JC  9D          6H  ##  8H 
+ TD  8S          5C  3D     
+ 9S  7D                     
+ 8D  6S                     
+ 7C  5D                     
+ 6D  4S                     
+ 5S  3H                     
+ 4D  2C                     
+ 3S                         
+Game 41 finished in 11.750s
+
+DECK:
+TD 8C 7H KD 5C 4C 6H 3S JS 5D 9D 9H 2S 2C 7D 6C 4S JC 9C 
+                                       /\
+Completed: 0 2 1 1 
+Stack:
+ KC  KS  ##  ##  ##  ##  ## 
+ QH      ##  ##  ##  ##  ## 
+         QC  ##  ##  ##  ## 
+         JD  7S  ##  QS  ## 
+         TC  6D  9S      ## 
+             5S          3C 
+Game 42 finished in 0.047s
+
+DECK:
+KH 3D 5D 8C 6C JC 2H KS 7H 5S AD 7S KD QH QD 5C 7D 2S 4C 3H 9S 2D 3S 
+                                                                  /\
+Completed: 0 0 1 0 
+Stack:
+ 2C  6H  ##  6S  ##  JS  ## 
+         ##  5H  ##  TH  ## 
+         4H  4S  QC  9C  ## 
+                 JD  8H  ## 
+                 TS  7C  ## 
+                 9H  6D  ## 
+                         QS 
+                         JH 
+Game 43 finished in 0.000s
+
+DECK:
+3D TC 6C 7H 8H 2C 9D 6H 5C JD 4C 
+                           /\
+Completed: 0 2 4 2 
+Stack:
+ KD  KS  ##  ##  ##  ##  ## 
+     QH  8S  7C  ##  ##  KH 
+     JS          KC  ##     
+     TD          QD  ##     
+     9C          JC  9H     
+     8D          TH  8C     
+     7S              7D     
+     6D              6S     
+     5S              5H     
+     4D              4S     
+Game 44 finished in 12.031s
+
+DECK:
+2H JS KD TH 9H AC 8H AD 4H 7D 3C 
+                     /\
+Completed: 0 0 1 0 
+Stack:
+ KS  KH  4S  2S  ##  ##  ## 
+ QD  QS          ##  QH  ## 
+ JC  JD          ##      ## 
+ TD  TS          ##      ## 
+ 9S  9D          7S      ## 
+ 8D  8C          6D      TC 
+ 7C  7H                     
+ 6H  6S                     
+ 5S  5H                     
+ 4D  4C                     
+ 3S  3H                     
+ 2D  2C                     
+Game 45 finished in 8.063s
+
+DECK:
+QH 5H JS TD 
+   /\
+Completed: 6 4 4 6 
+Stack:
+ KS  KD  ##  KC  KH  ##  ## 
+ QD  QC  7C      QS  ##  ## 
+ JC  JD  6D      JH  9H  7D 
+ TH              TC         
+ 9S              9D         
+ 8D              8C         
+ 7S              7H         
+ 6H                         
+Game 46 finished in 18.062s
+
+DECK:
+6H 3C KC JC 7D 5D 4S 4D 
+               /\
+Completed: 0 2 4 0 
+Stack:
+ KS  3S  KH  ##  ##  ##  ## 
+ QH      QC  ##  ##  ##  8D 
+ JS      JD  ##  ##  ##     
+ TH      TC  6S  ##  ##     
+ 9C      9H      TD  KD     
+ 8H      8C          QS     
+ 7C      7H                 
+ 6D      6C                 
+         5H                 
+         4C                 
+         3D                 
+         2S                 
+Game 47 finished in 6.031s
+
+DECK:
+9C 3H 9S 3D KS 7S KC 
+               /\
+Completed: 5 2 2 5 
+Stack:
+ KH  ##  ##  KD  ##  ##  ## 
+ QC  7C  9H  QS  6H  ##  ## 
+ JH  6D  8S          QH  ## 
+ TC      7D              QD 
+ 9D      6C              JC 
+ 8C      5H              TD 
+ 7H                         
+ 6S                         
+ 5D                         
+Game 48 finished in 15.500s
+
+DECK:
+2D TC 5S 4S 6D 
+   /\
+Completed: 3 1 3 0 
+Stack:
+ KD  KC  --  --  9C  ##  ## 
+ QS  QH              ##  ## 
+ JD  JS              ##  ## 
+ TS  TD              ##  ## 
+ 9D  9S              ##  ## 
+ 8S  8H              QD  ## 
+ 7H  7C                  9H 
+ 6S  6H                  8C 
+ 5D  5C                  7D 
+ 4C  4D                  6C 
+ 3D  3S                     
+ 2S                         
+Game 49 finished in 14.641s
+
+DECK:
+3D JD 6H 4C 3H QC 7H AC 9S 7C 6C TD AH 5C 8D QS TC 5D 
+                                    /\
+Completed: 0 1 0 4 
+Stack:
+ KC  TS  KD  ##  QD  ##  ## 
+ QH  9H      4D      ##  ## 
+ JC  8C              2C  ## 
+ TH  7D                  9D 
+ 9C  6S                     
+ 8H  5H                     
+ 7S                         
+ 6D                         
+ 5S                         
+ 4H                         
+ 3C                         
+ 2H                         
+Game 50 finished in 8.672s
+
+DECK:
+QC 8D 4H TH 5S JD JS 7D 
+                     /\
+Completed: 3 3 2 0 
+Stack:
+ KS  KC  KD  7S  KH  ##  ## 
+ QD  QH  QS  6H      ##  6S 
+     JC  JH          ##  5D 
+     TD  TS          ##     
+     9C  9D          9H     
+     8H  8C                 
+     7C  7H                 
+     6D  6C                 
+     5C  5H                 
+     4D  4S                 
+     3S  3H                 
+         2S                 
+Game 51 finished in 4.984s
+
+DECK:
+4S 3C 6S JC 9S 5C 
+   /\
+Completed: 2 8 4 3 
+Stack:
+ KC  KD  9H  KH  KS  --  ## 
+ QH  QC  8C  QS          ## 
+ JS  JD                  ## 
+ TH  TS                  ## 
+ 9C  9D                  TD 
+ 8H  8S                     
+ 7S  7H                     
+ 6H  6C                     
+ 5S  5H                     
+     4C                     
+Game 52 finished in 4.328s
+
+DECK:
+QD KC 2C 5H 2H KS 6D 6S 4S 7C 7D 
+            /\
+Completed: 1 0 1 0 
+Stack:
+ KH  5C  KD  ##  JC  ##  ## 
+ QS  4D  QC  ##      ##  ## 
+ JD      JH  ##      ##  QH 
+ TC      TS  7H      ##  JS 
+         9H  6C      3D  TD 
+             5D          9S 
+             4C          8D 
+             3H          7S 
+             2S          6H 
+                         5S 
+                         4H 
+                         3C 
+                         2D 
+Game 53 finished in 10.844s
+
+DECK:
+3S 9C TD 6C JS 7C QH KS JD 3D 8H 8D TC 
+            /\
+Completed: 2 0 2 1 
+Stack:
+ KC  ##  ##  ##  ##  ##  ## 
+ QD  7S  TS  ##  ##  ##  ## 
+ JC  6D  9D  5C  ##  ##  ## 
+ TH  5S      4D  ##  ##  ## 
+     4H          5H  9H  ## 
+                 4C      ## 
+                         KD 
+Game 54 finished in 10.938s
+
+DECK:
+KH 4D 3H 6H 9C JC TC QC JH 3D TH 
+                     /\
+Completed: 1 0 2 5 
+Stack:
+ KC  5H  KS  KD  --  ##  ## 
+ QD      QH  QS      ##  ## 
+ JS          JD      ##  ## 
+ TD          TS      8S  ## 
+ 9S          9D      7D  ## 
+ 8D          8C          ## 
+ 7C          7H          3C 
+ 6D          6C          2D 
+             5D             
+Game 55 finished in 15.781s
+
+DECK:
+7S 9D TC KD 6H 8H TS QD 9H 5C 
+/\
+Completed: 0 0 0 3 
+Stack:
+ KS  KH  ##  ##  ##  ##  ## 
+ QH  QC  8C  ##  ##  JS  ## 
+ JC      7H  ##  KC      ## 
+ TD      6S  5D          ## 
+ 9S      5H  4C          ## 
+ 8D      4S  3D          8S 
+ 7C      3H              7D 
+ 6D                         
+ 5S                         
+ 4H                         
+ 3C                         
+ 2H                         
+Game 56 finished in 0.281s
+
+DECK:
+AD JC 8D QD KS JD 5H TH 9C 9H 
+   /\
+Completed: 4 0 1 2 
+Stack:
+ KD  KH  ##  KC  8C  5S  ## 
+     QC  3H  QH  7D  4H  ## 
+     JH      JS  6C      ## 
+     TS      TD          ## 
+     9D      9S          ## 
+     8S      8H          3D 
+     7H      7S             
+     6S      6D             
+     5D      5C             
+             4D             
+             3S             
+             2D             
+Game 57 finished in 14.094s
+
+DECK:
+8D AH JD 9H 2H 9C 8C QH TD 
+                  /\
+Completed: 6 4 0 3 
+Stack:
+ --  --  KD  --  KS  ##  ## 
+         QC      QD  ##  ## 
+         JH      JC  ##  ## 
+         TS      TH  ##  ## 
+         9D      9S  7H  ## 
+         8S      8H      5S 
+         7D      7S      4H 
+         6S                 
+         5D                 
+         4S                 
+         3H                 
+Game 58 finished in 11.922s
+
+DECK:
+7C 3H JH 5H JC 6H TH TC 
+   /\
+Completed: 6 8 2 7 
+Stack:
+ KS  KD  KH  9D  KC  ##  -- 
+ QH      QS  8S      ##     
+ JS      JD  7H      ##     
+ TD      TS          9S     
+ 9C      9H          8H     
+         8C                 
+Game 59 finished in 13.609s
+
+DECK:
+5D 8D 4C 7D 7S TC 5C 3C QD 4S 2C 6D 
+                     /\
+Completed: 0 3 3 3 
+Stack:
+ KH  KC  --  ##  ##  ##  ## 
+ QS  QH      ##  6H  ##  ## 
+ JH  JC      ##  5S  ##  ## 
+ TS  TD      8C      ##  ## 
+     9S      7H      ##  ## 
+             6S      9C  ## 
+                         JS 
+Game 60 finished in 0.078s
+
+DECK:
+KS 4S 4D AS 3S QD 2D 2C 8D 8S 9D 4H QS 6C JH TD 
+                                       /\
+Completed: 1 1 3 0 
+Stack:
+ --  --  --  ##  ##  ##  ## 
+             6S  ##  ##  ## 
+             5D  ##  ##  ## 
+             4C  ##  ##  ## 
+             3D  9S  QH  ## 
+                 8H  JC  ## 
+                 7S  TH  TS 
+                 6D  9C  9H 
+                 5S      8C 
+Game 61 finished in 8.047s
+
+DECK:
+KH AD 9H 6C 9D KS TD 2D 2H TS QS 8H JH TC 9C 
+                                          /\
+Completed: 3 0 0 1 
+Stack:
+ QH  ##  ##  ##  ##  ##  ## 
+ JS  8S  QD  ##  ##  ##  ## 
+ TH  7D      4C  ##  ##  ## 
+ 9S          3H  4S  ##  ## 
+ 8D              3D  QC  ## 
+ 7C                      ## 
+ 6D                      4D 
+Game 63 finished in 8.563s
+
+DECK:
+QD JH 7H 9C 3H 4S JC 6D TS 
+   /\
+Completed: 2 0 1 1 
+Stack:
+ KD  KS  ##  KH  ##  ##  ## 
+ QC  QH  5S  QS  ##  8D  ## 
+     JS  4H  JD  ##      ## 
+     TD  3S  TC  ##      ## 
+     9S      9D  6H      6S 
+     8H      8S  5C         
+             7D  4D         
+             6C  3C         
+             5H  2D         
+             4C             
+             3D             
+Game 64 finished in 0.641s
+
+DECK:
+AS 2H 5D 2S QS KS 8C TH 6H 4H AC 6D JC 5C 7S 7H 7C 5S 8D 3S 9C 
+                                                         /\
+Completed: 0 0 0 0 
+Stack:
+ 2D  KD  ##  ##  ##  ##  ## 
+         ##  ##  ##  ##  ## 
+         TC  ##  ##  ##  ## 
+         9D  5H  ##  ##  ## 
+         8S  4C  KH  ##  ## 
+         7D  3H      QH  4S 
+Game 65 finished in 0.000s
+
+DECK:
+9D 5S JC 7D QH 8C 2S 8D QS TC 5C 8H JD 9C 5D TD TS TH 4C JH 
+                                                      /\
+Completed: 0 2 0 1 
+Stack:
+ KC  ##  ##  ##  ##  ##  ## 
+     4D  ##  ##  ##  ##  ## 
+         2C  4H  KS  ##  ## 
+                     ##  ## 
+                     ##  ## 
+                     7H  ## 
+                     6C  7C 
+                     5H  6H 
+                     4S     
+Game 66 finished in 0.015s
+
+DECK:
+8D TD 8S 9H 7S 2C 5H 7C TS 8C 6C 9S 5D KD 2D 8H JD 7D 6H 
+                                                /\
+Completed: 0 1 3 1 
+Stack:
+ 6S  ##  ##  ##  ##  ##  ## 
+     9C  5S  ##  ##  ##  ## 
+             4S  ##  5C  ## 
+                 ##  4D  ## 
+                 KS  3C  ## 
+                 QH      ## 
+                 JS      JH 
+                         TC 
+Game 67 finished in 9.531s
+
+DECK:
+2D 9D QD AS JS 2C 7S 6S 7D 4D 8C QH 
+                              /\
+Completed: 1 1 3 0 
+Stack:
+ KD  ##  3S  ##  KH  ##  ## 
+ QS  9C      ##  QC  ##  ## 
+ JH  8D      TS      ##  ## 
+ TC  7C              ##  5D 
+ 9H  6H              ##     
+ 8S  5C              9S     
+ 7H  4H                     
+ 6C  3C                     
+ 5H                         
+ 4C                         
+ 3D                         
+Game 69 finished in 0.109s
+
+DECK:
+AS JD 4D 3H KC 2D JC TC TS 5C 7S 6S TD JH 9H 2C 5H 9S 3C 
+                                                   /\
+Completed: 1 1 2 0 
+Stack:
+ 5S  TH  KH  ##  KS  ##  ## 
+ 4H  9C  QC  ##      ##  ## 
+ 3S  8D      8H      ##  ## 
+     7C              ##  8C 
+                     9D     
+                     8S     
+                     7H     
+                     6C     
+                     5D     
+                     4S     
+                     3D     
+                     2S     
+Game 71 finished in 0.000s
+
+DECK:
+2C 6S 7D KC 2H KD 6D 5C 8C TC JC 
+                              /\
+Completed: 1 1 1 3 
+Stack:
+ KH  KS  ##  ##  ##  ##  ## 
+ QC  QH  5S  ##  9S  ##  ## 
+ JD  JS  4H  3D      ##  ## 
+ TS  TD  3C          ##  5H 
+ 9D  9C              ##  4C 
+ 8S  8H              4D  3H 
+ 7H  7C                     
+Game 72 finished in 12.172s
+
+DECK:
+7C 7D 6S 5D TH 
+/\
+Completed: 5 4 2 4 
+Stack:
+ KH  KS  --  KD  KC  --  ## 
+ QS  QH      QC  QD      ## 
+ JD  JS      JH          ## 
+ TS  TD      TC          ## 
+ 9D  9S      9H          9C 
+ 8C  8D      8S             
+ 7H  7S                     
+ 6C  6D                     
+ 5H  5S                     
+     4H                     
+Game 73 finished in 16.000s
+
+DECK:
+7D 9C TC 4C 8C 4S QD KH 5H 3C 8D 7C 9H 5D 3D 9D 
+                              /\
+Completed: 0 0 1 2 
+Stack:
+ KC  --  ##  ##  ##  ##  ## 
+ QH      ##  ##  ##  ##  ## 
+ JC      QC  JD  ##  ##  ## 
+ TD      JH      5C  ##  ## 
+ 9S              4D  ##  JS 
+ 8H              3S  3H     
+ 7S              2D  2C     
+Game 74 finished in 3.031s
+
+DECK:
+5H 7D JC TH 8S 
+/\
+Completed: 3 4 3 1 
+Stack:
+ KC  KH  7S  ##  ##  KS  ## 
+ QD  QS  6D  ##  ##      ## 
+ JS  JH  5C  6C  9S      QC 
+ TD  TS  4H              JD 
+ 9C  9D  3S              TC 
+ 8H  8C                     
+ 7C  7H                     
+ 6H  6S                     
+ 5S  5D                     
+     4S                     
+Game 75 finished in 12.188s
+
+DECK:
+KH 7D 8C JS QC TH 4D 
+/\
+Completed: 2 2 6 4 
+Stack:
+ --  --  --  ##  ##  ##  ## 
+             ##  6S  ##  ## 
+             JH  5D  ##  ## 
+             TC      9C  ## 
+             9D      8H  ## 
+             8S      7C  ## 
+             7H          QD 
+             6C          JC 
+                         TD 
+                         9S 
+                         8D 
+                         7S 
+                         6D 
+                         5C 
+Game 77 finished in 0.359s
+
+DECK:
+QC 3H 5C 3S 6H 2S 5D 8S AS JD 9S 4C 4H 
+                           /\
+Completed: 3 4 2 0 
+Stack:
+ KH  KS  --  --  ##  ##  ## 
+ QS  QD          ##  ##  ## 
+ JH  JS          ##  ##  ## 
+ TS              ##  ##  ## 
+                 8C  8H  ## 
+                 7D  7C  ## 
+                 6S  6D  8D 
+                 5H         
+                 4S         
+Game 78 finished in 17.782s
+
+DECK:
+KC 9D QC KH 8S 2D 7H TH 2H 3H TS QS 5D 6H JS 
+            /\
+Completed: 2 1 1 0 
+Stack:
+ --  --  KS  ##  --  ##  ## 
+         QH  ##      ##  ## 
+         JC  ##      ##  ## 
+         TD  TC      ##  ## 
+         9C          ##  ## 
+         8H          8C  4S 
+         7S          7D     
+         6D          6S     
+         5S          5H     
+         4H          4C     
+         3S          3D     
+                     2S     
+Game 80 finished in 6.328s
+
+DECK:
+5H 3S KS 4C 6C 2H KC 7H 9H 5C JS 6S 8H 8D 7D 9S JD TC 7S AC TD JH 8C 6H 
+      /\
+Completed: 0 1 0 1 
+Stack:
+ 3H  9C  ##  ##  ##  ##  ## 
+ 2C      ##  ##  ##  ##  ## 
+         QH  KD  QS  ##  ## 
+             QC      ##  ## 
+                     ##  ## 
+                     6D  3D 
+                     5S     
+Game 82 finished in 0.000s
+
+DECK:
+KC 8D JS 5C JH 4H TC 8C 
+                     /\
+Completed: 0 1 0 3 
+Stack:
+ KD  --  ##  ##  ##  ##  ## 
+ QC      9C  ##  ##  ##  ## 
+ JD          7S  ##  ##  ## 
+ TS          6H  QH  ##  ## 
+ 9H          5S  JC  6D  ## 
+ 8S          4D  TD      6S 
+ 7D          3C  9S      5H 
+ 6C                         
+ 5D                         
+ 4S                         
+ 3D                         
+ 2C                         
+Game 83 finished in 0.672s
+
+DECK:
+9C QS 7D 9D 8D JS 6H 4D 8C 5S TS KC 6C 4C KD JC 4S 5H 4H 8S 
+                                       /\
+Completed: 3 0 0 0 
+Stack:
+ JD  KH  ##  ##  ##  ##  ## 
+ TC      ##  ##  ##  ##  ## 
+         KS  ##  ##  ##  ## 
+             3D  ##  ##  ## 
+             2S  7S  ##  7C 
+                 6D  TH     
+                     9S     
+Game 84 finished in 0.046s
+
+DECK:
+4C 4S 
+/\
+Completed: 3 3 5 1 
+Stack:
+ KS  KD  KC  --  ##  KH  ## 
+ QH  QS  QD      ##  QC  ## 
+ JS  JD  JC      5S  JH  6C 
+ TH  TC  TD          TS     
+ 9C  9D  9S          9H     
+ 8H  8S  8D          8C     
+ 7C  7H  7S                 
+ 6D  6S                     
+ 5C                         
+ 4D                         
+ 3S                         
+Game 85 finished in 6.844s
+
+DECK:
+9C QH 4C 4S 3D 8C 7D 
+            /\
+Completed: 2 0 3 2 
+Stack:
+ KH  KS  KC  ##  ##  KD  ## 
+ QS  QD      ##  ##      ## 
+ JD  JC      7S  ##      ## 
+ TS  TH      6H  ##      JS 
+ 9D  9S      5C  JH      TD 
+ 8S  8H      4H             
+ 7H  7C      3S             
+ 6S  6D      2D             
+     5S                     
+     4D                     
+Game 86 finished in 2.844s
+
+DECK:
+3D 5D KS 3H QH 9S 2C TC 
+            /\
+Completed: 0 2 1 4 
+Stack:
+ KC  KH  KD  ##  ##  ##  ## 
+ QD  QC  QS  8C  ##  ##  ## 
+ JS  JH      7D  ##  5S  ## 
+ TD  TS      6S  TH  4D  7S 
+ 9C  9H                     
+ 8H  8S                     
+ 7C  7H                     
+ 6H  6C                     
+ 5C                         
+ 4H                         
+ 3C                         
+Game 87 finished in 14.156s
+
+DECK:
+3S 5S 7S AC JD 8H 4H 9C 8C 9D 
+         /\
+Completed: 0 2 2 0 
+Stack:
+ KD  KS  KC  ##  ##  ##  KH 
+ QC  QD      ##  ##  TD     
+ JH  JS      7H  6D         
+ TC  TH      6S             
+ 9H  9S      5D             
+ 8S  8D      4C             
+ 7D  7C      3H             
+ 6C  6H      2S             
+ 5H  5C                     
+ 4S  4D                     
+ 3D  3C                     
+ 2C                         
+Game 88 finished in 1.781s
+
+DECK:
+JS 4C QD 2C 6S 8S 
+            /\
+Completed: 1 5 4 5 
+Stack:
+ --  KC  KD  --  ##  --  ## 
+     QH  QC      9C      ## 
+     JC  JH      8D      ## 
+     TD  TS      7C      ## 
+     9S  9D      6D      ## 
+     8H  8C      5C      QS 
+     7S  7D              JD 
+     6H  6C              TC 
+                         9H 
+Game 89 finished in 12.750s
+
+DECK:
+KS 2H TD 7C KH KC 9C 4H 3H 5S 7H QD AH 8D AD JS 9S QH 8S 4S 
+                                       /\
+Completed: 0 0 0 3 
+Stack:
+ KD  7S  4D  ##  5H  ##  ## 
+ QC  6D  3C  6H  4C  ##  ## 
+ JH              3D  ##  ## 
+ TS              2C  ##  ## 
+ 9H                  QS  ## 
+ 8C                  JD  9D 
+ 7D                         
+Game 91 finished in 5.563s
+
+DECK:
+4S JD 5D 9S 4H TS 7D 8H JS 8S 9H 
+                     /\
+Completed: 3 2 1 3 
+Stack:
+ KC  KD  KH  --  ##  ##  KS 
+ QD  QS          ##  ##  QH 
+ JC  JH          ##  ##     
+ TH  TC          6S  5S     
+ 9C  9D          5H         
+ 8D  8C          4C         
+ 7S  7H          3H         
+ 6D  6C                     
+ 5C                         
+ 4D                         
+Game 92 finished in 0.266s
+
+DECK:
+5D 7D 4S 9S 8H 4D 9D 6D 5S TC 
+                     /\
+Completed: 7 3 6 3 
+Stack:
+ KH  8S  KC  --  ##  --  ## 
+ QS      QH      ##      QC 
+ JH      JC      QD         
+ TS      TD      JS         
+ 9H      9C      TH         
+ 8C      8D                 
+ 7H      7S                 
+ 6S                         
+Game 94 finished in 19.000s
+
+DECK:
+KC TH 4S JC TC 8D QD JD 
+   /\
+Completed: 0 2 2 2 
+Stack:
+ KH  KS  ##  ##  8C  ##  ## 
+ QS  QH  ##  ##  7D  ##  ## 
+ JH  JS  7C  2C      ##  ## 
+ TS  TD              KD  ## 
+ 9D  9C                  4H 
+ 8S  8H                     
+ 7H  7S                     
+ 6C  6H                     
+ 5H  5S                     
+ 4C  4D                     
+     3C                     
+Game 95 finished in 13.344s
+
+DECK:
+JH 4C KH 7H 8H TS TH 7S 
+                  /\
+Completed: 3 2 1 1 
+Stack:
+ KS  KD  KC  --  ##  ##  ## 
+ QH  QS  QD      6D  ##  ## 
+ JS  JD              ##  ## 
+ TD  TC              6S  ## 
+ 9C  9D              5H  ## 
+ 8D  8S                  4D 
+ 7C  7D                     
+ 6H  6C                     
+ 5S  5D                     
+ 4H  4S                     
+ 3S  3H                     
+Game 96 finished in 2.563s
+
+DECK:
+KC TC 2C 4H 4D 2D 8D 7H 4C AS 3S AH TH 9D QD 5D 9C TS 3C 6S 4S 3H AC JH 
+      /\
+Completed: 0 1 0 0 
+Stack:
+ KD  QH  TD  ##  ##  ##  ## 
+         9S  ##  ##  ##  ## 
+         8H  ##  ##  ##  ## 
+         7C  KH  ##  ##  ## 
+         6H      7D  9H  7S 
+         5C                 
+Game 97 finished in 0.218s
+
+DECK:
+7S 3S KH 6H 6C 4D 7H 8H 
+   /\
+Completed: 5 2 4 0 
+Stack:
+ KC  KS  KD  --  ##  ##  ## 
+     QD  QS      ##  ##  ## 
+     JS  JH      ##  ##  9S 
+     TH  TC      JC  JD     
+     9C              TS     
+     8D              9H     
+     7C              8S     
+     6D              7D     
+                     6S     
+                     5H     
+                     4S     
+                     3D     
+                     2S     
+Game 98 finished in 20.485s
+
+DECK:
+5S 4H TS 9H 
+      /\
+Completed: 3 3 2 1 
+Stack:
+ KC  KH  KS  JD  KD  --  ## 
+ QD  QC  QH              ## 
+ JC  JH  JS              ## 
+ TH  TC  TD              ## 
+ 9C  9D  9S              ## 
+ 8H  8S  8D              7D 
+ 7S  7H  7C              6C 
+ 6H  6S  6D              5D 
+ 5C  5H                     
+ 4D  4S                     
+ 3S                         
+Game 100 finished in 0.047s
+

@@ -1,0 +1,43 @@
+
+
+---1.0---
+1 Check under to see if a bottom card can go onto a stack with another under
+	1.1 If yes, do it. If two or more choices, choose the choice with least unfaced card.
+
+2 Check completed to see if putting a card down legally can make a bottom card at under go onto a stack
+	2.1 If yes, do it. Priority doesn't matter
+
+3 Check under to see if a card can be put up
+
+4(a) Go through above by BFS, rank by most unfaced cards opened
+	4.1 If yes, do it. Tie-breaking by right most card at above.
+4(b) Check possibilities from above to under, for each possibility, test further if after that we have a card from above to under until a new unfaced card is opened (1 state)
+4(c) for each under top card, see which card in above can match. for each under bottom card, see which card above can match. check each pair of card to see if all the middles are available from the above. 
+
+4(a) By BFS(complete search), cards to completed deck at any time, until a unfaced card is opened
+	State: Deck,Completed,top and bottom of stack
+4(b) By bottom card search, for each bottom, find all ways link to the top, from shortest distance to longest distance, cards to complete deck only in switching mod
+	4(b).1 for all, save a vector of array of which cards are needed
+	4(b).2 rank the cards by mod 3, results are 0,1,2.
+	4(b).3 using mod, move cards from deck to stack.
+	4(b).4 rank by least cards remove from deck.
+
+
+
+//Move more than 1 card from complete to stack to open new unfaced card
+
+//Complete to stack for deck to come down (when all cards are visible?)
+
+//When no possible deck to stack benefiticial move, move any 1 card to complete stack.
+
+From the last of deck until the first of deck, move all A or 2 to complete
+
+For the first 3 cards, or little more, the 3rd card must not contain the same suit but a higher number with the 1st and 2nd card. Also, it is better to have number just the same or smaller than 1st and 2nd card (no matter of suit)
+
+After deck to stack/complete, before the deck is finished cards are of higher priority (even when no intermediate benefit), except when the same card is available earlier
+
+Don't remove a card at back if the same card is available earlier, unless the blocked card is important.
+
+Minor adjustment
+1. King to empty stack, which K, red or black
+2. Never ever completely clear one of the slot piles unless you have a King immediately available to take its place.

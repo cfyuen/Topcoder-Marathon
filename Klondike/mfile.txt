@@ -1,0 +1,455 @@
+DECK:
+KS QD 5D 5S TS 7H 9C 3C 4H AS JS TC QS 8C 7S 4S JC 6H 
+                              /\
+Completed: 2 1 0 0 
+Stack:
+ KC  KD  ##  ##  ##  ##  ## 
+     QC  TD  ##  ##  ##  ## 
+         9S  ##  3D  ##  ## 
+             6D      ##  ## 
+                     8S  ## 
+                     7D  4D 
+                     6S  3S 
+                     5H  2H 
+                     4C     
+                     3H     
+Game 10001 finished in 0.063s
+
+DECK:
+5D JH 4C JC 8D KD 3C 7C TS 8H 8S 6S 
+                                 /\
+Completed: 0 1 4 3 
+Stack:
+ 7S  KH  ##  ##  ##  ##  ## 
+ 6D  QS  TC  ##  KC  ##  ## 
+ 5C      9H  ##  QD  ##  ## 
+         8C  TD      ##  ## 
+         7H  9S      ##  ## 
+         6C          TH  5S 
+                     9C     
+Game 10002 finished in 0.015s
+
+DECK:
+5C AS JS 5H 2D TH QC QD 8C 8H TS JH 9D QS TC 6S 8S 7S KC 
+                                       /\
+Completed: 0 1 0 0 
+Stack:
+ KS  ##  5S  ##  ##  ##  ## 
+     2H  4H  ##  ##  ##  ## 
+             7D  ##  ##  ## 
+             6C  ##  ##  ## 
+             5D  4D  TD  ## 
+             4S          ## 
+             3D          4C 
+             2S          3H 
+                         2C 
+Game 10003 finished in 0.000s
+
+DECK:
+QD QH 9H 8C JH TS AH 6S KD 5H KC 7D 
+                        /\
+Completed: 4 3 0 4 
+Stack:
+ 7H  ##  KH  ##  KS  ##  ## 
+ 6C  4H  QS  ##      ##  ## 
+ 5D      JD  JS      ##  ## 
+         TC  TD      ##  ## 
+         9D          7S  ## 
+                     6H  ## 
+                         JC 
+                         TH 
+Game 10004 finished in 0.016s
+
+DECK:
+2H 9S KH 4D KD 5D AH 7S 5C KS JC TS 9D 9H 8S QH 2C KC 2D TD 7H JS TC 
+                                                         /\
+Completed: 0 1 0 0 
+Stack:
+ 4C  8C  ##  ##  ##  ##  ## 
+ 3D  7D  ##  ##  ##  ##  ## 
+         5S  ##  ##  ##  ## 
+             QS  ##  ##  ## 
+                 QD  8H  ## 
+                         ## 
+                         TH 
+Game 10005 finished in 0.000s
+
+DECK:
+9S 9D TS 5C 8C 7H 7C JD 8D 
+   /\
+Completed: 1 5 2 4 
+Stack:
+ KD  KS  KH  KC  ##  ##  ## 
+ QS  QD      QH  ##  ##  TD 
+ JH  JS          8H  ##     
+ TC  TH          7S  ##     
+ 9H              6D  6S     
+ 8S              5S         
+ 7D              4H         
+ 6C                         
+ 5H                         
+ 4C                         
+Game 10006 finished in 0.016s
+
+DECK:
+4C 6C 6H 4S 4D 4H 6D KD TC 9H 5C KC 9D 8H 
+            /\
+Completed: 1 0 0 3 
+Stack:
+ KS  8C  ##  ##  ##  ##  ## 
+ QH  7H  7D  ##  ##  ##  ## 
+ JS  6S      QS  3C  ##  ## 
+ TH  5H          2H  ##  ## 
+ 9C                  KH  ## 
+ 8D                  QC  ## 
+                         QD 
+                         JC 
+                         TD 
+Game 10007 finished in 0.015s
+
+DECK:
+
+/\
+Completed: 7 10 5 8 
+Stack:
+ KC  KD  KH  KS  --  --  ## 
+ QH  QS  QC  QD          ## 
+ JC  JD  JH  JS          ## 
+ TH  TC  TS              8H 
+     9H                     
+     8C                     
+     7H                     
+Game 10008 finished in 0.031s
+
+DECK:
+TC 6D QH 8H JH 3D 7S 6C 5D JC 9H 4S QC 7D QS 
+   /\
+Completed: 2 1 0 2 
+Stack:
+ KS  TH  --  ##  ##  ##  ## 
+ QD          ##  3C  ##  ## 
+ JS          ##  2H  ##  ## 
+ TD          JD      ##  ## 
+ 9C          TS      5S  5C 
+ 8D          9D             
+             8S             
+             7H             
+             6S             
+             5H             
+             4C             
+             3H             
+Game 10009 finished in 0.016s
+
+DECK:
+TS 2D 7C 8C JC TH 
+            /\
+Completed: 3 1 5 6 
+Stack:
+ KS  --  KH  --  ##  ##  ## 
+ QH      QS      QC  ##  ## 
+ JS                  7D  ## 
+ TD                  6C  ## 
+ 9C                  5D  ## 
+ 8H                  4C  ## 
+ 7S                  3D  TC 
+ 6D                      9H 
+ 5C                      8S 
+ 4D                      7H 
+Game 10010 finished in 0.016s
+
+DECK:
+AD TH KS 4C 3D 4D 6D QC 9S JS 
+                     /\
+Completed: 2 0 1 1 
+Stack:
+ KD  KC  JH  8D  ##  ##  ## 
+ QS  QD  TS  7S  ##  ##  ## 
+ JD  JC      6H  ##  ##  ## 
+ TC          5C  8C  ##  ## 
+ 9D          4H      ##  ## 
+ 8S          3S      9C  3H 
+ 7D          2D      8H     
+ 6S                  7C     
+Game 10011 finished in 0.015s
+
+DECK:
+JC 5H 7H 
+   /\
+Completed: 1 2 0 2 
+Stack:
+ KC  KD  KH  ##  ##  ##  ## 
+ QD  QS  QC  4C  ##  ##  ## 
+ JS  JH          ##  ##  ## 
+ TD  TS          TC  ##  ## 
+ 9S  9D          9H  TH  ## 
+ 8D  8C              9C  ## 
+ 7C  7D                  5C 
+ 6D  6S                  4H 
+ 5S  5D                     
+ 4D  4S                     
+ 3C                         
+Game 10012 finished in 0.016s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 10013 finished in 0.047s
+Game 10013 is WON!
+
+DECK:
+2H 6C 8S AS 5S 8C 7S 7D KH 9C KD TD AH TH 6S 4D 6D 3D AC JD KC 9D 5H 4C 
+      /\
+Completed: 0 0 0 0 
+Stack:
+ 6H  QH  ##  ##  ##  ##  ## 
+         QS  ##  ##  ##  ## 
+         JH  ##  ##  ##  ## 
+         TC  TS  ##  ##  ## 
+                 QC  ##  ## 
+                     3H  ## 
+                         2D 
+Game 10014 finished in 0.000s
+
+DECK:
+JC 7D 9C 9D 3D TS 4C JD QS TH 
+                           /\
+Completed: 1 2 4 2 
+Stack:
+ KH  ##  KS  KC  ##  ##  ## 
+ QC  6C  QD  QH  ##  ##  ## 
+ JH  5D          6D  8H  ## 
+ TC  4S          5S  7S  ## 
+ 9H              4D  6H  ## 
+                 3C  5C  TD 
+                         9S 
+                         8D 
+Game 10015 finished in 0.047s
+
+DECK:
+AH 7H 7D TD 8C 7S 6H 5D 4D 8S 3H 4H QD 
+   /\
+Completed: 4 2 0 0 
+Stack:
+ KD  ##  3S  ##  ##  ##  ## 
+ QS  QH      9C  ##  ##  ## 
+ JD  JC          ##  ##  ## 
+ TC  TH          KH  6S  ## 
+     9S          QC  5H  ## 
+                 JH  4S  ## 
+                     3D  6D 
+                     2S     
+Game 10016 finished in 0.015s
+
+DECK:
+4S QC 6S 5D 8S QH 3H 8D 
+                     /\
+Completed: 2 1 0 0 
+Stack:
+ KD  KS  KH  ##  4D  ##  ## 
+ QS  QD      ##      ##  ## 
+ JD  JC      ##      JS  ## 
+ TC  TH      7C      TD  ## 
+ 9H  9C      6H          JH 
+ 8C  8H                  TS 
+ 7H  7S                     
+ 6C  6D                     
+ 5H  5S                     
+ 4C  4H                     
+ 3D  3S                     
+ 2S  2H                     
+Game 10017 finished in 0.032s
+
+DECK:
+JH KH 5D 9D 5S 9C 7C 7D 8H 4D 
+            /\
+Completed: 2 0 2 0 
+Stack:
+ KD  KS  ##  ##  ##  ##  ## 
+ QC  QH  4H  KC  ##  ##  ## 
+ JD  JC  3S      ##  ##  ## 
+ TC      2D      4C  ##  ## 
+ 9H              3D  ##  ## 
+                 2S  9S  ## 
+                     8D  7H 
+                     7S  6C 
+                         5H 
+                         4S 
+Game 10018 finished in 0.640s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 10019 finished in 0.031s
+Game 10019 is WON!
+
+DECK:
+3D JH TD 5H 7D 7H QD JS 
+   /\
+Completed: 5 2 3 2 
+Stack:
+ KD  9C  KH  ##  KS  ##  ## 
+ QC  8D      ##  QH  ##  ## 
+ JD  7C      6C  JC  ##  ## 
+ TC  6D      5D  TH  6H  ## 
+ 9D  5S      4S  9S      ## 
+                 8H      9H 
+Game 10020 finished in 0.016s
+
+DECK:
+9H JC 5C 3H TD 8H 7C 7D 6C 7H 8C 9C 
+   /\
+Completed: 2 0 1 3 
+Stack:
+ KC  KS  KD  ##  ##  ##  ## 
+ QH      QS  ##  ##  ##  ## 
+ JS      JH  2D  KH  ##  4H 
+ TH      TC      QC  ##     
+ 9S              JD  5D     
+ 8D              TS  4S     
+ 7S                  3D     
+ 6H                         
+ 5S                         
+ 4D                         
+Game 10021 finished in 0.016s
+
+DECK:
+AS 6S 7D AC 7C KS 3S 5H TD 8D JC 
+                     /\
+Completed: 0 5 0 0 
+Stack:
+ KD  KC  ##  ##  KH  ##  ## 
+ QC  QH  4S  2C      ##  ## 
+ JD  JS  3H          ##  ## 
+ TS  TH  2S          ##  ## 
+ 9H  9S              9D  ## 
+ 8C  8H                  JH 
+ 7H  7S                     
+     6D                     
+     5C                     
+     4H                     
+     3C                     
+Game 10022 finished in 0.015s
+
+DECK:
+AD 3D 8D 3S 2D JS 9S 
+                  /\
+Completed: 6 0 4 0 
+Stack:
+ KH  KD  7S  ##  ##  KS  ## 
+ QS  QC  6H  ##  ##      ## 
+ JH      5S  KC  8C      ## 
+ TS      4D  QH  7H      TC 
+ 9D          JC             
+ 8S          TH             
+ 7D          9C             
+ 6S          8H             
+ 5D          7C             
+ 4S          6D             
+Game 10023 finished in 0.719s
+
+DECK:
+9S 6C 5S 8D 6H 4S 7H JD 7S 9H 
+                        /\
+Completed: 4 6 2 0 
+Stack:
+ KH  ##  KD  2S  ##  ##  ## 
+ QC  4H          KC  ##  ## 
+ JH  3S          QH  9C  ## 
+ TC              JC  8H  ## 
+ 9D                  7C  ## 
+ 8C                      ## 
+ 7D                      QD 
+ 6S                      JS 
+Game 10024 finished in 0.016s
+
+DECK:
+2H QC 5D KS 6C QD 3D KH 5H 3H 
+                     /\
+Completed: 2 1 1 0 
+Stack:
+ KD  KC  ##  9D  ##  ##  ## 
+ QS  QH  ##      ##  ##  ## 
+ JH  JS  5S      ##  ##  ## 
+ TS  TH  4D      9S  2S  ## 
+ 9H  9C          8H      ## 
+ 8C  8D                  JD 
+ 7D  7C                     
+     6D                     
+     5C                     
+     4H                     
+     3S                     
+Game 10025 finished in 0.062s
+
+DECK:
+TH QH 7S KD 7C TS TD 9S 9C JD 
+                           /\
+Completed: 4 6 0 2 
+Stack:
+ KH  KC  KS  ##  ##  ##  ## 
+ QS          ##  ##  8C  ## 
+ JH          ##  ##      ## 
+ TC          5S  ##      ## 
+             4H  8S      6S 
+             3S  7H         
+             2H  6C         
+                 5H         
+                 4S         
+                 3H         
+Game 10026 finished in 0.016s
+
+DECK:
+5H 7D KD 8H 3H JH KS 4D TS 2S 3C 6S TC QC TH 6C 4S 5C KC 9S 5D KH 3S 
+                                                                  /\
+Completed: 0 0 0 1 
+Stack:
+ QD  5S  ##  ##  ##  ##  ## 
+         ##  ##  ##  ##  ## 
+         9C  2H  ##  ##  ## 
+                 ##  ##  ## 
+                 9H  ##  ## 
+                 8C  7S  ## 
+                         4C 
+                         3D 
+Game 10027 finished in 0.000s
+
+DECK:
+9H QH JC 9D KC 5D TS KH 
+      /\
+Completed: 0 2 2 4 
+Stack:
+ 3D  8S  ##  KS  KD  ##  ## 
+ 2C  7H  8H  QD  QC  ##  ## 
+     6S  7C  JS  JH  ##  ## 
+     5H  6D  TH  TC  ##  TD 
+         5S  9C      8C     
+         4H  8D      7D     
+             7S             
+             6H             
+             5C             
+             4D             
+Game 10028 finished in 0.031s
+
+DECK:
+6H KC 7D 5C AD 8S 6C 3C 5D 4C JC 9S KD QS QH KH 4D TC 
+                                                   /\
+Completed: 1 0 1 2 
+Stack:
+ KS  --  --  ##  ##  ##  -- 
+ QD          3D  8H  ##     
+ JS              7C  ##     
+ TD                  QC     
+ 9C                  JH     
+ 8D                  TS     
+ 7S                  9H     
+ 6D                  8C     
+ 5S                  7H     
+ 4H                  6S     
+ 3S                  5H     
+ 2D                  4S     
+                     3H     
+Game 10029 finished in 0.016s
+

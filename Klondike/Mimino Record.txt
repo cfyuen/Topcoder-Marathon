@@ -1,0 +1,6723 @@
+DECK:
+KH 7D 8D 6S 
+      /\
+Completed: 6 3 3 1 
+Stack:
+ KC  KS  KD  ##  ##  ##  ## 
+ QD  QH  QS  ##  ##  ##  ## 
+ JS  JC  JH  6H  ##  TS  ## 
+ TH  TD  TC      ##  9D  5H 
+ 9S      9H      6D      4S 
+ 8H              5S         
+                 4D         
+                 3S         
+Game 1 finished in 0.469s
+
+DECK:
+4D 5D QS AS 2H 7C 5C KD JC 8S 6S TH QH 3H TC 9D 2S 
+                                             /\
+Completed: 4 3 1 0 
+Stack:
+ KH  ##  6H  KC  --  ##  ## 
+ QC  9S              ##  ## 
+ JD                  7D  ## 
+ TS                  6C  ## 
+ 9H                      ## 
+ 8C                      9C 
+ 7H                      8D 
+                         7S 
+                         6D 
+                         5S 
+                         4H 
+                         3S 
+Game 2 finished in 0.703s
+
+DECK:
+8S TC 2C 4C 2D 5C 4S 4D 7S 3H QC 8D JH 9S 
+                     /\
+Completed: 0 0 1 3 
+Stack:
+ 4H  ##  KS  ##  ##  ##  ## 
+     7D  QH  ##  QS  ##  ## 
+     6S  JS  KC  JD  ##  ## 
+         TD  QD  TS  ##  ## 
+         9C  JC  9H  7H  ## 
+         8H          6C  9D 
+         7C          5D     
+Game 3 finished in 0.266s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 4 finished in 1.859s
+Game 4 is WON!
+
+DECK:
+KC 5C QD 7S 8D 
+         /\
+Completed: 0 0 2 4 
+Stack:
+ KD  ##  KH  ##  ##  4H  6H 
+ QS  8H  QC  JS  ##  3C  5S 
+ JH  7C  JD  TH  ##  2D  4D 
+ TC  6D  TS      ##         
+ 9H      9D      QH         
+ 8S      8C      JC         
+ 7D      7H      TD         
+ 6C      6S                 
+ 5H      5D                 
+         4C                 
+         3H                 
+         2C                 
+Game 5 finished in 0.672s
+
+DECK:
+9D JH TC 
+      /\
+Completed: 2 8 4 9 
+Stack:
+ KC  KS  ##  7C  KD  --  8H 
+ QD  QH  ##  6H  QS         
+ JS  JC  QC  5C             
+ TH  TD  JD                 
+     9C  TS                 
+         9H                 
+         8C                 
+         7H                 
+         6C                 
+         5H                 
+         4C                 
+Game 6 finished in 1.797s
+
+DECK:
+6S QC 8C KD 
+   /\
+Completed: 3 3 2 4 
+Stack:
+ KC  ##  QS  ##  ##  ##  ## 
+ QH  JH  JD  KS  5H  ##  ## 
+ JC  TS  TC  QD      7S  ## 
+ TH  9H      JS      6D  ## 
+     8S      TD          ## 
+     7H      9S          5D 
+             8D             
+             7C             
+             6H             
+             5C             
+             4H             
+Game 7 finished in 0.672s
+
+DECK:
+4H 9D JD TH 5H TC 9S KD JH TS 
+                           /\
+Completed: 4 3 0 1 
+Stack:
+ KS  8H  ##  ##  ##  ##  ## 
+ QD  7S  8D  ##  ##  ##  ## 
+ JS  6H  7C  ##  ##  KC  ## 
+     5C  6D  5D  KH  QH  9H 
+     4D      4S      JC  8C 
+     3S                  7H 
+     2H                     
+Game 8 finished in 1.062s
+
+DECK:
+3S KC 5C 9C 3C 9H 8C KD 
+      /\
+Completed: 1 4 5 2 
+Stack:
+ KH  KS  ##  4S  ##  ##  ## 
+ QS  QD  8D      ##  7D  QH 
+ JH  JC  7C      ##      JS 
+                 JD      TH 
+                 TC      9S 
+                 9D      8H 
+                 8S      7S 
+                 7H      6H 
+                 6S      5S 
+                 5D         
+                 4C         
+Game 9 finished in 1.078s
+
+DECK:
+KC 6D 8S 9C 8D TH QH 
+      /\
+Completed: 0 4 2 4 
+Stack:
+ KH  KS  7H  KD  --  ##  ## 
+ QC  QD  6C  QS      ##  ## 
+ JH  JC      JD      ##  ## 
+     TD      TC      ##  ## 
+     9S      9D      7S  ## 
+     8H      8C      6H  4H 
+     7C      7D          3C 
+             6S             
+             5D             
+             4C             
+Game 10 finished in 0.594s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 11 finished in 0.875s
+Game 11 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 12 finished in 1.375s
+Game 12 is WON!
+
+DECK:
+6S 3C JS 6D 5S TC 
+            /\
+Completed: 0 4 2 1 
+Stack:
+ KH  KD  TD  KS  ##  ##  ## 
+     QC  9S  QD  KC  ##  ## 
+     JD  8D  JC      4C  ## 
+     TS  7C  TH          9D 
+     9H      9C          8S 
+     8C      8H          7D 
+     7H      7S             
+     6C      6H             
+     5D      5C             
+     4S      4H             
+     3H      3S             
+     2C                     
+Game 13 finished in 1.109s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 14 finished in 11.828s
+Game 14 is WON!
+
+DECK:
+AC 2D TD 8D 8C 9H 5S 2H 8S 5D 9D 4D 3D 
+                     /\
+Completed: 0 1 0 2 
+Stack:
+ KS  KH  ##  ##  ##  ##  ## 
+ QD  QC  ##  9S  ##  ##  ## 
+ JC  JD  7D  8H  7H  ##  7C 
+ TH      6S  7S  6C  KD     
+ 9C          6D  5H  QS     
+             5C  4S  JH     
+             4H  3H         
+                 2C         
+Game 15 finished in 0.141s
+
+DECK:
+6D 4C TD QS 8C 2S 7H TC 9S 5H KS TH 3H 9D 9H 
+                              /\
+Completed: 0 4 2 0 
+Stack:
+ KD  ##  KC  ##  ##  ##  ## 
+     3S  QD  ##  ##  ##  ## 
+             ##  ##  ##  ## 
+             8S  8D  ##  ## 
+             7D  7C  KH  ## 
+             6S  6H      ## 
+                         9C 
+                         8H 
+                         7S 
+Game 16 finished in 0.328s
+
+DECK:
+AD 7H TS 7D 8S 6C 6S 5C 9D 9C 8H 4D 
+                                 /\
+Completed: 0 0 1 3 
+Stack:
+ KS  KC  KH  ##  7S  ##  ## 
+ QD      QS  ##      ##  ## 
+ JC      JD  ##      ##  ## 
+ TD      TC  5D      ##  ## 
+ 9S      9H  4C      ##  ## 
+ 8D          3H      5H  JS 
+ 7C                      TH 
+ 6H                         
+ 5S                         
+ 4H                         
+Game 17 finished in 0.297s
+
+DECK:
+KH 5C 
+   /\
+Completed: 0 0 0 1 
+Stack:
+ KC  KD  --  ##  ##  ##  ## 
+ QH  QC      ##  ##  ##  ## 
+ JC  JH      3S  ##  ##  ## 
+ TH  TC      2H  QD  QS  ## 
+ 9S              JS  JD  ## 
+ 8D              TD  TS  5D 
+                 9C  9D  4C 
+                 8H  8S     
+                 7S  7H     
+                 6H  6S     
+                 5S  5H     
+                 4H  4S     
+                 3C  3D     
+                 2D  2C     
+Game 18 finished in 0.359s
+
+DECK:
+6C TC JH TH 7C 
+   /\
+Completed: 1 7 1 3 
+Stack:
+ KD  KC  ##  ##  ##  ##  ## 
+     QD  9S  ##  ##  ##  9H 
+             4H  KH  KS  8S 
+             3C  QS  QH     
+                 JD  JC     
+                 TS  TD     
+                 9D  9C     
+                 8C  8D     
+                 7H  7S     
+                 6S  6H     
+                 5H         
+                 4C         
+                 3H         
+Game 19 finished in 0.344s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 20 finished in 2.688s
+Game 20 is WON!
+
+DECK:
+TS KD 6S JH 
+      /\
+Completed: 3 2 1 0 
+Stack:
+ KC  KH  --  ##  ##  ##  ## 
+ QH  QC      ##  9D  ##  ## 
+ JS  JD      ##  8S  9S  ## 
+     TC      JC  7D  8H  ## 
+     9H      TH  6C  7S  ## 
+     8C      9C  5D  6H  5H 
+             8D  4S         
+             7C  3D         
+             6D  2S         
+             5S             
+             4H             
+             3S             
+Game 21 finished in 0.281s
+
+DECK:
+2D 5S 7H TD AD 5H 2C 3C 5C 6D 4S 9D TS QS 7C AC 3S 8C KS TC 5D 8H 2H TH 
+      /\
+Completed: 0 0 0 1 
+Stack:
+ --  ##  ##  ##  ##  ##  ## 
+     9S  ##  ##  ##  ##  ## 
+         4D  ##  ##  ##  ## 
+             KC  ##  ##  ## 
+                 9C  ##  ## 
+                     KD  ## 
+                         4H 
+Game 22 finished in 0.000s
+
+DECK:
+7C 7S 8H KC KD QD 6C 6H 6D 2H JD 
+                     /\
+Completed: 4 2 0 2 
+Stack:
+ TH  ##  ##  ##  ##  ##  ## 
+     TD  ##  ##  ##  ##  ## 
+         JH  ##  ##  ##  ## 
+             KS  8D  ##  ## 
+             QH      ##  ## 
+                     9D  9H 
+                     8S  8C 
+                     7H  7D 
+                     6S     
+                     5D     
+Game 23 finished in 0.141s
+
+DECK:
+TD 9D 8D 9S 
+      /\
+Completed: 8 2 7 4 
+Stack:
+ KC  KS  --  KD  6S  ##  8S 
+ QD  QH      QC  5D  ##  7D 
+ JC          JH      ##     
+ TH          TS      QS     
+ 9C          9H      JD     
+ 8H                  TC     
+ 7S                         
+ 6D                         
+ 5S                         
+ 4D                         
+Game 24 finished in 0.937s
+
+DECK:
+KC 9S QH 
+      /\
+Completed: 3 5 10 8 
+Stack:
+ KD  KH  KS  ##  --  8D  -- 
+ QC  QS  QD  ##      7C     
+ JD  JH  JS  JC      6D     
+ TS  TC      TD      5C     
+     9D      9C             
+     8C                     
+     7D                     
+Game 25 finished in 1.891s
+
+DECK:
+5H TS 4S 8D 9H KC 
+         /\
+Completed: 2 4 3 0 
+Stack:
+ KD  2S  QD  ##  7S  ##  ## 
+ QC      JC  KS      ##  ## 
+ JD      TH  QH      KH  ## 
+             JS      QS  8S 
+             TD      JH  7H 
+             9C      TC     
+             8H      9D     
+             7C      8C     
+             6H      7D     
+             5C      6S     
+             4H      5D     
+             3S      4C     
+Game 26 finished in 0.953s
+
+DECK:
+JS KH 9S 8C 3H TH 9H QC 
+                     /\
+Completed: 7 8 1 4 
+Stack:
+ KC  --  KD  ##  --  TS  ## 
+ QH      QS  QD      9D  JD 
+         JH  JC      8S  TC 
+             TD      7H     
+             9C      6S     
+             8H      5H     
+             7S             
+             6H             
+             5S             
+             4H             
+Game 27 finished in 2.390s
+
+DECK:
+7H 3C 6C 5H 8S JD 
+               /\
+Completed: 0 2 2 5 
+Stack:
+ KD  QH  KS  9S  KH  ##  ## 
+     JC  QD  8D  QS  ##  ## 
+             7S  JH  ##  ## 
+                 TS  ##  ## 
+                 9H  ##  TC 
+                 8C  9C  9D 
+                 7D  8H     
+                 6S  7C     
+                 5D  6H     
+                 4C  5C     
+                 3H  4H     
+                 2C         
+Game 28 finished in 0.704s
+
+DECK:
+2D QD 4S 3S 5S 
+      /\
+Completed: 1 1 6 2 
+Stack:
+ KH  KS  KC  JS  KD  --  ## 
+     QH      TD  QC      ## 
+     JC      9S  JH      ## 
+     TH      8D  TC      JD 
+     9C          9D      TS 
+     8H          8C      9H 
+     7S          7H      8S 
+     6D          6C      7D 
+     5C          5D      6S 
+     4D          4C         
+     3C          3D         
+Game 29 finished in 1.234s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 30 finished in 1.781s
+Game 30 is WON!
+
+DECK:
+6C 4S 2C KD JC KH 8D TC KC JH 
+                           /\
+Completed: 0 0 3 0 
+Stack:
+ KS  5C  TD  ##  ##  ##  ## 
+ QD      9C  ##  ##  ##  ## 
+ JS          ##  ##  ##  ## 
+ TH          JD  ##  ##  ## 
+ 9S          TS  3D  ##  ## 
+ 8H              2S  8S  8C 
+ 7S                  7H     
+ 6H                         
+ 5S                         
+ 4H                         
+ 3C                         
+ 2D                         
+Game 31 finished in 0.375s
+
+DECK:
+4D QS JH KC 9C QC 6D 6H JS KS 7S TD 6C QD TH 7H 8C 
+                                                /\
+Completed: 3 1 1 4 
+Stack:
+ --  --  ##  9S  ##  ##  ## 
+         4C      ##  ##  ## 
+         3H      ##  ##  ## 
+                 5S  ##  ## 
+                 4H  ##  ## 
+                     JD  TC 
+                     TS     
+                     9H     
+                     8S     
+                     7D     
+                     6S     
+Game 32 finished in 0.125s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 33 finished in 3.750s
+Game 33 is WON!
+
+DECK:
+TD JD TS 6H AC 7D 4S TC JH QS JC 7H QC 6S 9C 5D 4D 9D 2H AS 5C KH 2D 8H 
+      /\
+Completed: 0 1 1 0 
+Stack:
+ KC  KS  7S  ##  ##  ##  ## 
+     QH      ##  ##  ##  ## 
+     JS      3C  ##  ##  ## 
+                 2S  6C  ## 
+                     5H  8D 
+                     4C  7C 
+                         6D 
+                         5S 
+Game 34 finished in 0.047s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 35 finished in 1.594s
+Game 35 is WON!
+
+DECK:
+2D 6D 7H 2C 7D TC 3S 2H 9S TS 9C KH QD TH JC 8D KD JS QH 5S 9D 3C 
+                                                         /\
+Completed: 1 1 1 1 
+Stack:
+ 5D  9H  8H  ##  ##  ##  ## 
+ 4C          ##  ##  ##  ## 
+             ##  ##  ##  ## 
+             5C  ##  ##  ## 
+             4H  QS  ##  ## 
+                     QC  2S 
+Game 36 finished in 0.047s
+
+DECK:
+AS KC 6C TH 9D 5D 9C 4S 5S TS QS QC 4H TD QD 4C 6S 4D 3H 2S KS 3S QH 6D 
+      /\
+Completed: 0 0 0 0 
+Stack:
+ 5H  ##  ##  ##  ##  ##  ## 
+     8H  ##  ##  ##  ##  ## 
+         TC  ##  ##  ##  ## 
+             3D  ##  ##  ## 
+                 8C  ##  ## 
+                     JS  ## 
+                         AH 
+Game 37 finished in 0.000s
+
+DECK:
+8H QS 8C AD 6D 7H JS 7C 5C JD 6C 
+                  /\
+Completed: 2 0 1 2 
+Stack:
+ KC  KD  KH  ##  --  ##  ## 
+ QH  QC      4D      ##  ## 
+ JC  JH      3C      ##  ## 
+ TD  TS      2D      ##  ## 
+     9D              TH  4S 
+     8S              9C     
+     7D              8D     
+     6S              7S     
+     5D              6H     
+     4C              5S     
+     3H              4H     
+Game 38 finished in 0.422s
+
+DECK:
+9S 5D KC TS 9D JS 9C JH 6S 
+               /\
+Completed: 3 3 1 1 
+Stack:
+ KD  8S  ##  ##  6H  ##  ## 
+ QC      ##  8H  5S  ##  ## 
+         KS          QS  ## 
+         QH          JD  ## 
+         JC          TC  ## 
+                     9H  8D 
+                     8C  7S 
+                     7D  6D 
+                     6C  5C 
+                     5H  4H 
+                     4S  3S 
+                     3H     
+Game 39 finished in 0.390s
+
+DECK:
+9S JD QC 
+      /\
+Completed: 2 10 4 8 
+Stack:
+ KS  --  KC  KH  JC  QH  ## 
+         QD  QS  TH      ## 
+         JS  JH  9C      TC 
+             TS  8H         
+             9H  7C         
+             8C  6H         
+             7H  5C         
+             6C             
+             5H             
+             4C             
+Game 40 finished in 0.813s
+
+DECK:
+AD QH 5H TC 8C QC 2H KH 6S 4C TH 
+                     /\
+Completed: 0 0 1 3 
+Stack:
+ KD  9H  KC  KS  ##  ##  ## 
+ QS      QD      ##  ##  ## 
+ JH      JC      6H  ##  8H 
+ TS      TD      5C  3D     
+ 9D      9S      4H         
+ 8S      8D      3C         
+ 7D      7C                 
+ 6C      6D                 
+ 5D      5S                 
+ 4S      4D                 
+ 3H                         
+ 2C                         
+Game 41 finished in 0.984s
+
+DECK:
+TD 8C 7H KD 5C 4C 6H 3S 5D 9D 2C 7D 6C 4S JC 9C 
+                                          /\
+Completed: 0 2 1 2 
+Stack:
+ KC  KS  ##  ##  ##  ##  ## 
+ QH      ##  ##  ##  ##  ## 
+ JS      QC  ##  ##  ##  ## 
+         JD  7S  ##  QS  ## 
+         TC  6D  9S      ## 
+         9H  5S          3C 
+Game 42 finished in 0.078s
+
+DECK:
+KH 3D 5D 8C 6C JC 2H KS 7H 5S QH QD 7D 
+                                    /\
+Completed: 0 2 0 3 
+Stack:
+ --  ##  KD  ##  ##  ##  ## 
+     TH  QS  ##  ##  ##  ## 
+             ##  QC  ##  ## 
+             7C  JD  ##  ## 
+                 TS  5H  TD 
+                 9D  4C  9S 
+                     3H  8H 
+                     2C  7S 
+                         6D 
+                         5C 
+                         4H 
+                         3C 
+Game 43 finished in 0.281s
+
+DECK:
+3D TC 6C 7H 8H 2C 4D 9D JD 4C 
+                     /\
+Completed: 0 2 4 2 
+Stack:
+ KD  KS  ##  ##  ##  ##  ## 
+     QD  8S  7C  ##  ##  KH 
+     JS      6H  KC  ##     
+     TH      5C  QH  ##     
+     9C          JC  9H     
+     8D          TD  8C     
+     7S              7D     
+     6D              6S     
+     5S              5H     
+                     4S     
+Game 44 finished in 0.532s
+
+DECK:
+2H JS TH 
+      /\
+Completed: 3 2 1 4 
+Stack:
+ KH  --  KD  KS  KC  8S  ## 
+ QS      QC  QD  QH  7D  9C 
+ JD      JH  JC      6C  8D 
+ TS      TC  TD      5D  7C 
+ 9H      9D  9S          6H 
+ 8C          8H          5S 
+ 7H          7S          4D 
+ 6S          6D             
+ 5H          5C             
+ 4C          4H             
+ 3H                         
+Game 45 finished in 2.265s
+
+DECK:
+QH 5H 4C 3C KD 4S 3S 3D JS 8D TD 5C 
+                                 /\
+Completed: 2 2 4 2 
+Stack:
+ KS  ##  ##  KC  KH  ##  ## 
+     QS  ##  QD  QC  ##  ## 
+     JH  7S  JC  JD  9H  7D 
+         6H  TH  TC      6S 
+         5S  9S  9D         
+         4D      8C         
+                 7H         
+                 6C         
+Game 46 finished in 0.735s
+
+DECK:
+6H 3C 7C JS 
+         /\
+Completed: 2 4 5 6 
+Stack:
+ KC  KD  ##  KS  ##  --  KH 
+ QH  QC  TH      ##      QS 
+ JC      9C      TS      JD 
+ TD      8D      9D      TC 
+ 9S      7S      8S      9H 
+         6D      7D      8C 
+         5C      6C      7H 
+                 5D         
+                 4C         
+Game 47 finished in 1.531s
+
+DECK:
+9C 3D KS 7S 8S JC KD 2D KC 5H 
+/\
+Completed: 2 0 3 2 
+Stack:
+ 5C  ##  ##  ##  ##  ##  ## 
+     7C  9H  ##  ##  ##  ## 
+     6D      ##  ##  ##  ## 
+     5S      KH  4S  ##  ## 
+             QC      TD  QS 
+             JH      9S     
+             TC             
+             9D             
+             8C             
+             7H             
+             6C             
+             5D             
+             4C             
+Game 48 finished in 0.234s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 49 finished in 2.797s
+Game 49 is WON!
+
+DECK:
+3D JD 9S 7C 8D TH TC 5D 9H 
+               /\
+Completed: 1 0 4 5 
+Stack:
+ KC  TS  KD  KS  KH  ##  ## 
+ QH  9D  QS  QD  QC  ##  8S 
+     8C      JC      ##  7D 
+     7H      TD      ##  6C 
+             9C      ##  5H 
+             8H      6D  4C 
+             7S             
+             6H             
+             5C             
+             4D             
+             3C             
+Game 50 finished in 1.172s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 51 finished in 1.891s
+Game 51 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 52 finished in 1.265s
+Game 52 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 53 finished in 2.188s
+Game 53 is WON!
+
+DECK:
+3S 6C JS 7C QH KS JD 8H TC TH 
+                     /\
+Completed: 2 1 2 2 
+Stack:
+ KC  6S  ##  ##  5D  ##  ## 
+ QD  5H  TS  ##      ##  ## 
+ JC  4C  9D  ##      ##  ## 
+ TD  3D      4H      ##  ## 
+ 9C                  9H  ## 
+ 8D                      ## 
+ 7S                      KD 
+ 6D                      QS 
+ 5S                         
+ 4D                         
+Game 54 finished in 0.219s
+
+DECK:
+
+/\
+Completed: 1 0 7 3 
+Stack:
+ --  KS  KC  KD  KH  ##  ## 
+     QH  QD  QS  QC  ##  ## 
+     JS  JC  JH  JD  ##  ## 
+     TD  TH  TS  TC  8S  ## 
+     9S  9C  9D      7D  7S 
+     8D      8C      6C  6D 
+     7C              5D  5S 
+                     4S  4D 
+                     3D  3C 
+                         2D 
+Game 55 finished in 1.906s
+
+DECK:
+7S 4C QC 9D TC KH KD 6H 8H TS QD 9H 5C 
+                                    /\
+Completed: 0 1 3 0 
+Stack:
+ KS  ##  ##  TH  ##  ##  ## 
+     5H  8C  9S  ##  ##  ## 
+         7H  8D  KC  3S  ## 
+             7C  QH      ## 
+             6D  JC      ## 
+             5S  TD      8S 
+             4H          7D 
+             3C          6S 
+                         5D 
+                         4S 
+                         3D 
+                         2S 
+Game 56 finished in 0.328s
+
+DECK:
+AD JC 8H 8D QD 5H 2D 9S JH TD TH 9C 6S 9H KC 
+                                       /\
+Completed: 3 0 0 3 
+Stack:
+ 4D  KS  ##  ##  ##  ##  ## 
+     QH  3H  ##  ##  ##  ## 
+             ##  7S  ##  ## 
+             KH  6D  KD  ## 
+             QC  5C      ## 
+             JD  4H      3D 
+             TS             
+             9D             
+             8S             
+             7H             
+Game 57 finished in 0.844s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 58 finished in 1.125s
+Game 58 is WON!
+
+DECK:
+7C JH JC TD TC 
+   /\
+Completed: 6 8 3 5 
+Stack:
+ KH  --  KS  9D  KC  ##  KD 
+             8S  QH  ##  QS 
+                 JS  ##  JD 
+                 TH  9S  TS 
+                 9C  8H  9H 
+                     7S  8C 
+                     6H  7H 
+                         6S 
+                         5H 
+Game 59 finished in 1.906s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 60 finished in 2.344s
+Game 60 is WON!
+
+DECK:
+
+/\
+Completed: 4 10 6 9 
+Stack:
+ KC  KD  --  KS  JS  --  ## 
+ QD  QS      QH          ## 
+             JC          ## 
+             TH          ## 
+             9C          ## 
+             8H          QC 
+                         JH 
+                         TS 
+                         9H 
+                         8C 
+                         7H 
+                         6C 
+Game 61 finished in 1.859s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 62 finished in 1.531s
+Game 62 is WON!
+
+DECK:
+KH 9H KS TD QS 8H JH TC 9C 
+         /\
+Completed: 4 4 0 1 
+Stack:
+ QH  3S  ##  ##  ##  ##  ## 
+ JS  2H  QD  8C  ##  ##  ## 
+ TH              ##  ##  ## 
+ 9S              4S  ##  ## 
+ 8D              3H  QC  7S 
+ 7C                  JD     
+ 6D                  TS     
+                     9D     
+                     8S     
+                     7D     
+                     6C     
+Game 63 finished in 0.375s
+
+DECK:
+QD KD 4D 5H 7H 9C QH 3H 4S 4C JC JS KS 6C KH 
+                                 /\
+Completed: 2 0 1 1 
+Stack:
+ QS  9S  ##  ##  ##  ##  ## 
+ JH  8H  ##  ##  ##  ##  ## 
+     7C  7D  3D  ##  ##  7S 
+     6H  6S      9H  ##  6D 
+                     QC  5C 
+                     JD  4H 
+                     TS  3C 
+                     9D  2D 
+Game 64 finished in 0.203s
+
+DECK:
+AS 2H 5D 2S QS KS 8C TH 6H 4H AC 6D JC 5C 7S 7H 7C 5S 8D 3S 9C 
+                                                         /\
+Completed: 0 0 0 0 
+Stack:
+ 2D  KD  ##  ##  ##  ##  ## 
+         ##  ##  ##  ##  ## 
+         TC  ##  ##  ##  ## 
+         9D  5H  ##  ##  ## 
+             4C  KH  ##  ## 
+             3H      QH  ## 
+                         8S 
+                         7D 
+Game 65 finished in 0.000s
+
+DECK:
+9D 5S JC 7D QH 8C 2S 8D QS TC 5C 8H JD 9C 5D TD TS TH 4C JH 
+                                                      /\
+Completed: 0 2 0 1 
+Stack:
+ KC  ##  ##  ##  ##  ##  ## 
+     4D  ##  ##  ##  ##  ## 
+         2C  4H  ##  ##  ## 
+                 ##  ##  ## 
+                 4S  ##  ## 
+                     7H  ## 
+                     6C  7C 
+                     5H     
+Game 66 finished in 0.032s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 67 finished in 2.078s
+Game 67 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 68 finished in 3.453s
+Game 68 is WON!
+
+DECK:
+2D 9D QD AS JS JH 4C 2C 7S 6S 6C 7D AD 5C 4D 2H 8C 8S 3H KD QH QC 3C 7C 
+      /\
+Completed: 0 0 0 0 
+Stack:
+ 4H  ##  ##  ##  ##  ##  ## 
+     9C  ##  ##  ##  ##  ## 
+         3D  ##  ##  ##  ## 
+             6H  ##  ##  ## 
+                 AC  ##  ## 
+                     9S  ## 
+                         TC 
+Game 69 finished in 0.000s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 70 finished in 2.172s
+Game 70 is WON!
+
+DECK:
+3H JC TC 6S TD JH 9H 5H 9S 8S 2H 
+                        /\
+Completed: 4 0 0 2 
+Stack:
+ KH  KC  ##  6D  ##  QH  ## 
+ QC  QD  8D  5S  ##  JS  ## 
+ JD      7S  4D  ##  TH  ## 
+ TS      6H  3S  7H  9C  ## 
+ 9D      5C  2D      8H  ## 
+         4H              ## 
+                         5D 
+                         4S 
+Game 71 finished in 0.859s
+
+DECK:
+KC KD TC JC 
+      /\
+Completed: 3 1 4 3 
+Stack:
+ KH  KS  TH  ##  6C  ##  ## 
+ QC  QH  9S  9H      ##  ## 
+     JS      8C      ##  6H 
+     TD      7D      ##  5S 
+     9C      6S      QS  4D 
+     8H      5H      JD     
+     7C      4C      TS     
+     6D      3D      9D     
+     5C              8S     
+                     7H     
+Game 72 finished in 1.094s
+
+DECK:
+QC 7C 4H 6C 5D TH 
+   /\
+Completed: 4 2 2 5 
+Stack:
+ KH  KD  ##  KC  KS  QD  ## 
+ QS      JH  QH          ## 
+ JD      TC  JS          ## 
+ TS      9H  TD          ## 
+ 9D      8C  9S          9C 
+ 8S      7D  8D             
+ 7H          7S             
+ 6S          6D             
+ 5H          5C             
+             4D             
+Game 73 finished in 1.391s
+
+DECK:
+7D 4C 5H 8D 9S KC QH 7C 9H 5D 3D 
+   /\
+Completed: 0 0 1 4 
+Stack:
+ KD  KH  KS  ##  ##  ##  ## 
+     QC  QD  ##  ##  ##  ## 
+     JH  JC  JD  ##  ##  ## 
+     TC  TD      5C  ##  ## 
+     9D  9C      4D  ##  JS 
+     8C  8H      3C  3H     
+         7S      2D  2C     
+Game 74 finished in 0.390s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 75 finished in 2.219s
+Game 75 is WON!
+
+DECK:
+JD 8C KD KC 5S QS 
+      /\
+Completed: 4 1 4 2 
+Stack:
+ QH  ##  ##  7D  ##  ##  7C 
+ JC  TS  QD  6C  ##  ##     
+ TD      JS  5D  ##  ##     
+ 9S      TH  4S  ##  ##     
+         9C  3D  TC  ##     
+         8D      9D  5C     
+         7S      8S  4D     
+                 7H         
+                 6S         
+Game 76 finished in 0.656s
+
+DECK:
+KH 7D 7C 6D 8H QC 8S 
+               /\
+Completed: 3 5 5 6 
+Stack:
+ JC  KS  --  ##  --  --  ## 
+ TH  QD      ##          ## 
+ 9C  JS      JH          ## 
+ 8D  TD      TC          ## 
+ 7S  9S      9D          ## 
+ 6H          8C          JD 
+ 5C          7H             
+             6C             
+Game 77 finished in 1.578s
+
+DECK:
+QC 8S JD JS 6D 9S 
+               /\
+Completed: 5 5 6 4 
+Stack:
+ KH  KS  --  --  ##  ##  ## 
+ QS  QD          ##  ##  ## 
+ JH              ##  ##  ## 
+ TS              ##  ##  ## 
+                 8C  8H  ## 
+                 7D  7C  ## 
+                 6S      8D 
+Game 78 finished in 0.375s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 79 finished in 2.453s
+Game 79 is WON!
+
+DECK:
+KC 9D QC KH 8S 7D TH 2H TS QS 6H JS 5H 
+                                    /\
+Completed: 2 3 1 0 
+Stack:
+ KS  --  --  ##  --  ##  ## 
+ QH          ##      ##  ## 
+ JC          ##      ##  ## 
+ TD          TC      ##  ## 
+ 9C                  ##  ## 
+ 8H                  8C  4S 
+ 7S                  7H     
+ 6D                  6S     
+ 5S                  5D     
+ 4H                  4C     
+ 3S                  3H     
+                     2S     
+Game 80 finished in 0.407s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 81 finished in 2.593s
+Game 81 is WON!
+
+DECK:
+5H 3S KS 4C 6C 2H KC 7H 9H 5C JS 6S 8H 8D 7D 9S JD TC 7S AC TD JH 8C 6H 
+      /\
+Completed: 0 1 0 1 
+Stack:
+ 3H  9C  ##  ##  ##  ##  ## 
+ 2C      ##  ##  ##  ##  ## 
+         QH  KD  QS  ##  ## 
+             QC      ##  ## 
+                     ##  ## 
+                     6D  3D 
+                     5S     
+Game 82 finished in 0.016s
+
+DECK:
+KC 5C JH 4H TS 8C 6H JC 
+         /\
+Completed: 0 2 0 3 
+Stack:
+ --  KD  --  ##  ##  ##  ## 
+     QC      ##  ##  ##  ## 
+     JD      ##  ##  ##  ## 
+     TC      6C  QH  ##  ## 
+     9H      5D  JS  6D  TH 
+     8S      4S  TD  5S  9S 
+     7D      3D  9C  4D     
+     6S      2C  8D  3C     
+     5H                     
+Game 83 finished in 0.328s
+
+DECK:
+9C 9D JS 8C KC 4C KD TC JC 
+            /\
+Completed: 2 0 0 0 
+Stack:
+ KS  KH  QC  ##  TD  ##  ## 
+     QS      ##      ##  ## 
+     JD      7H      ##  ## 
+     TS      6C      ##  ## 
+     9H              ##  7C 
+     8S              TH  6H 
+     7D              9S  5C 
+     6S              8D  4H 
+     5H              7S     
+     4S              6D     
+     3D              5S     
+     2S              4D     
+                     3C     
+                     2D     
+Game 84 finished in 0.360s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 85 finished in 1.781s
+Game 85 is WON!
+
+DECK:
+9C QH 4C 4S 3D KS 9D 7D 8S 
+   /\
+Completed: 2 0 2 2 
+Stack:
+ KH  KC  ##  ##  ##  ##  ## 
+ QS  QD  ##  ##  ##  ##  ## 
+ JH  JC  JD  7S  ##  ##  ## 
+     TH          9H  5S  JS 
+     9S          8C  4D     
+     8H          7H         
+     7C          6S         
+     6H                     
+     5C                     
+     4H                     
+     3S                     
+     2D                     
+Game 86 finished in 0.328s
+
+DECK:
+3D 3H 4D 
+      /\
+Completed: 4 2 1 5 
+Stack:
+ KH  KD  KC  ##  ##  KS  -- 
+ QC  QS  QD  8C  ##  QH     
+ JD  JH  JS  7H  ##         
+ TS  TC  TD  6C  TH         
+ 9H      9C  5D  9S         
+ 8S      8H      8D         
+ 7D      7C      7S         
+ 6S      6H                 
+ 5H      5C                 
+         4H                 
+Game 87 finished in 1.937s
+
+DECK:
+3S KD 3D JD 4C 4S 8H 9C KS TC 8C 9D 
+                                 /\
+Completed: 1 0 2 2 
+Stack:
+ KC  ##  ##  QH  ##  ##  ## 
+ QD  7D  ##  JS  ##  ##  ## 
+     6S  9H      6D  ##  ## 
+         8S      5S  QC  ## 
+         7H      4H  JH  ## 
+         6C      3C      9S 
+                 2D      8D 
+                         7S 
+                         6H 
+                         5C 
+Game 88 finished in 0.329s
+
+DECK:
+JS 4C QD 2D 8D 8S 
+               /\
+Completed: 2 0 5 0 
+Stack:
+ 8C  KC  KD  ##  --  ##  ## 
+ 7D  QH  QC  6C      ##  ## 
+ 6S  JC  JD  5D      ##  ## 
+     TD  TC  4S      ##  ## 
+     9C      3D      7C  ## 
+     8H      2S      6H  QS 
+     7S              5C  JH 
+     6D              4D  TS 
+     5S              3S     
+Game 89 finished in 0.656s
+
+DECK:
+4D 7C TS 3C 5S 5C 4H 9D 6D TH 6H 
+                        /\
+Completed: 2 1 3 4 
+Stack:
+ TC  KC  KS  7H  ##  ##  ## 
+ 9H  QD  QH  6C  9S  KH  ## 
+ 8C  JS  JC  5D  8H  QC  ## 
+ 7D  TD      4C          KD 
+ 6S  9C      3D          QS 
+ 5H  8D                     
+Game 90 finished in 0.437s
+
+DECK:
+KS 2H TD 7C KH KC 9C 4H 5S 7H QD 8D KD 6D JS 9S QH 4S 
+                                                /\
+Completed: 0 1 1 1 
+Stack:
+ 4C  ##  4D  ##  ##  ##  ## 
+ 3H  3D  3S  ##  3C  ##  ## 
+ 2C          ##      ##  ## 
+             QC      ##  ## 
+             JH      QS  ## 
+             TS      JD  9D 
+             9H          8S 
+             8C             
+             7D             
+Game 91 finished in 0.157s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 92 finished in 2.484s
+Game 92 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 93 finished in 1.125s
+Game 93 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 94 finished in 1.797s
+Game 94 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 95 finished in 1.187s
+Game 95 is WON!
+
+DECK:
+JH 4C 9D KH 7H TS TD JD 8D 7S 
+                        /\
+Completed: 1 0 1 0 
+Stack:
+ KS  ##  ##  ##  ##  ##  ## 
+ QD  4H  8S  ##  ##  ##  ## 
+     3S  7D  ##  KC  ##  ## 
+         6C  KD  QH  6S  ## 
+         5D      JS  5H  3D 
+                 TH  4S     
+                 9C  3H     
+                 8H         
+                 7C         
+                 6H         
+                 5S         
+                 4D         
+                 3C         
+                 2D         
+Game 96 finished in 0.219s
+
+DECK:
+KC TC 4H 7H 4C TH 9D 9C TS 3H JH 
+                        /\
+Completed: 3 2 1 1 
+Stack:
+ 8H  ##  TD  ##  ##  ##  ## 
+ 7C  KD  9S  ##  ##  ##  ## 
+ 6H      8D  ##  ##  ##  ## 
+ 5C      7S  KH  ##  ##  KS 
+ 4D              7D  9H  QD 
+ 3S              6S         
+                 5D         
+                 4S         
+Game 97 finished in 0.219s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 98 finished in 2.281s
+Game 98 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 99 finished in 1.875s
+Game 99 is WON!
+
+DECK:
+5S JC TS 8D 9S TD 9H 
+                  /\
+Completed: 3 6 2 4 
+Stack:
+ KC  KH  KS  ##  KD  --  ## 
+ QH      QD  7C  QC      ## 
+         JS      JH      ## 
+         TH      TC      8C 
+         9C      9D      7H 
+         8H      8S      6S 
+         7S      7D         
+         6H      6C         
+         5C      5H         
+         4H                 
+Game 100 finished in 0.906s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 101 finished in 0.719s
+Game 101 is WON!
+
+DECK:
+2H 9H 8C KC 7C 6H 
+      /\
+Completed: 1 1 1 2 
+Stack:
+ KH  5C  KD  KS  ##  ##  ## 
+ QS  4D  QC  QH  7H  ##  QD 
+ JH      JD  JS  6C  ##     
+ TS      TC  TD  5H  TH     
+         9D  9S  4S  9C     
+         8S  8D  3H         
+         7D  7S             
+         6S  6D             
+         5D  5S             
+         4C  4H             
+         3D  3C             
+Game 102 finished in 1.266s
+
+DECK:
+8D 5H 7C 7H 6C 6S 2H 6D JC 7D 8C 5D TC KC QD 9H 3H 
+                           /\
+Completed: 0 2 1 2 
+Stack:
+ TD  KH  KS  ##  5C  ##  -- 
+ 9C  QC  QH  ##  4D  ##     
+         JS  ##      ##     
+         TH  3D      ##     
+         9S  2C      QS     
+         8H          JD     
+         7S          TS     
+         6H          9D     
+         5S                 
+         4H                 
+         3C                 
+Game 103 finished in 0.531s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 104 finished in 1.844s
+Game 104 is WON!
+
+DECK:
+AC KS 9C 3D TH 4C TC KD 8C QS 9D 8S JH 5D 
+                                 /\
+Completed: 0 0 1 0 
+Stack:
+ KC  KH  8H  ##  ##  ##  ## 
+ QD  QC  7S  ##  ##  ##  ## 
+     JD  6D  ##  ##  ##  ## 
+         5S  4S  ##  ##  ## 
+             3H  9S  7D  3C 
+             2S  8D         
+                 7C         
+                 6H         
+                 5C         
+                 4H         
+                 3S         
+                 2D         
+Game 105 finished in 0.109s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 106 finished in 1.781s
+Game 106 is WON!
+
+DECK:
+KC 4D JC 
+      /\
+Completed: 5 3 12 10 
+Stack:
+ KS  KD  KH  --  --  --  8C 
+ QD  QS  QC              7D 
+ JS  JD                  6C 
+ TD  TC                  5D 
+ 9C  9D                     
+ 8D                         
+ 7C                         
+ 6D                         
+Game 107 finished in 3.438s
+
+DECK:
+AS JS 7H QC 8C 
+   /\
+Completed: 5 6 2 0 
+Stack:
+ JH  KS  KC  ##  ##  --  -- 
+ TS      QH  ##  ##         
+         JC  ##  TD         
+         TH  QS  9S         
+         9C  JD  8H         
+         8D  TC  7S         
+         7C  9D  6H         
+             8S  5S         
+             7D  4H         
+             6C  3S         
+             5H             
+             4S             
+             3H             
+             2S             
+Game 108 finished in 1.250s
+
+DECK:
+8D 8H 7H JC 8C TD AS 9H 3C KC KH JH QC KD 
+                              /\
+Completed: 0 2 2 0 
+Stack:
+ KS  ##  ##  ##  ##  ##  ## 
+ QH  TH  ##  ##  ##  ##  ## 
+     9S  7S  QS  ##  ##  ## 
+         6D  JD  6C  TC  ## 
+         5S  TS  5D      7D 
+                 4S      6S 
+                 3D      5H 
+                 2C         
+Game 109 finished in 0.110s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 110 finished in 2.000s
+Game 110 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 111 finished in 1.859s
+Game 111 is WON!
+
+DECK:
+5C TS JC 8S KH 9C QD 
+               /\
+Completed: 2 2 3 1 
+Stack:
+ KD  QS  ##  ##  ##  ##  ## 
+ QC  JD  6H  ##  7H  ##  ## 
+ JH  TC  5S  KC      ##  ## 
+         4D  QH      ##  ## 
+         3S  JS      ##  ## 
+             TD      8C  6D 
+             9S      7D     
+             8D      6C     
+                     5D     
+                     4C     
+Game 112 finished in 0.735s
+
+DECK:
+JC 7S 6S 8S 4D 9C 8H 7H QH QS 4H 6C 7D TH KS 6H 5S 
+                                                /\
+Completed: 1 2 2 1 
+Stack:
+ KD  ##  ##  ##  ##  ##  ## 
+ QC  5D  ##  ##  ##  ##  ## 
+ JD      3S  3C  ##  ##  ## 
+ TC              KH  ##  ## 
+ 9D                  QD  ## 
+                     JS  TS 
+Game 113 finished in 0.234s
+
+DECK:
+AH 4H 9C 3D 4C JS 5D 8S TH 2H 7H 8H 6C 3H 
+                                 /\
+Completed: 3 2 0 5 
+Stack:
+ KH  KC  KD  ##  KS  QC  ## 
+         QS  TC  QD      ## 
+         JH  9H  JC      7S 
+         TS      TD      6D 
+         9D      9S         
+         8C      8D         
+         7D      7C         
+         6S      6H         
+         5H      5C         
+Game 114 finished in 1.797s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 115 finished in 1.406s
+Game 115 is WON!
+
+DECK:
+AC 5C 8D AD 2D QS KD 6S KS 5D TD 2S 
+                  /\
+Completed: 0 0 0 0 
+Stack:
+ KC  KH  ##  ##  ##  ##  ## 
+ QD  QC  QH  7S  8S  ##  ## 
+ JS  JD  JC  6D  7D  ##  ## 
+     TS  TH  5S  6C  4H  4S 
+     9D  9S  4D  5H  3S     
+     8C  8H  3C  4C         
+         7C  2H  3D         
+                 2C         
+Game 116 finished in 0.266s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 117 finished in 1.390s
+Game 117 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 118 finished in 1.782s
+Game 118 is WON!
+
+DECK:
+4C 7H 6C 5H AH 5D 7S JS 3C 3H 5S QC 6S 6H 
+                              /\
+Completed: 1 1 0 2 
+Stack:
+ KH  KS  JH  ##  ##  ##  ## 
+ QS  QH  TC  ##  ##  ##  ## 
+ JD          ##  QD  ##  ## 
+             8C  JC  3D  ## 
+                 TH      ## 
+                 9C      9S 
+                 8D         
+                 7C         
+                 6D         
+                 5C         
+                 4D         
+                 3S         
+                 2H         
+Game 119 finished in 0.453s
+
+DECK:
+8S 8D 7C 9C TS 4C AC QH KC 9H 5D QC QS 6D QD 2H JS JC 7D 7S TD 
+                                                         /\
+Completed: 0 0 0 0 
+Stack:
+ TC  ##  ##  ##  ##  ##  ## 
+     6H  ##  ##  ##  ##  ## 
+     5S  4S  ##  ##  ##  ## 
+     4H      6S  4D  ##  ## 
+     3S          3C  ##  ## 
+     2D              2S  TH 
+Game 120 finished in 0.000s
+
+DECK:
+8C AD TD 9H QH QC 7S TH 5S KD 9C 3H 5D 9S 6S 4H QD 
+                                                /\
+Completed: 4 0 0 2 
+Stack:
+ KH  --  ##  ##  --  ##  ## 
+ QS      ##  ##      ##  ## 
+ JD      8H  TC      4S  ## 
+ TS      7C              ## 
+         6H              ## 
+         5C              ## 
+         4D              8S 
+         3S              7D 
+         2H              6C 
+                         5H 
+Game 121 finished in 0.375s
+
+DECK:
+9S 7D QD 7S 5S 8S KD JS 9D 5H 6H 
+                              /\
+Completed: 3 1 0 2 
+Stack:
+ 6D  QH  ##  ##  ##  ##  ## 
+ 5C  JC  ##  ##  ##  ##  ## 
+ 4D  TH  KH  3H  6S  ##  ## 
+         QC          ##  ## 
+         JH          QS  8D 
+         TS                 
+         9H                 
+         8C                 
+         7H                 
+         6C                 
+         5D                 
+         4C                 
+         3D                 
+Game 122 finished in 0.422s
+
+DECK:
+TS JH 3D 2C 8H 7S KS 4C KH 8D 9H 8C 
+                                 /\
+Completed: 0 0 1 0 
+Stack:
+ KC  ##  ##  ##  ##  ##  ## 
+ QD  JD  6S  ##  ##  ##  ## 
+ JC  TC  5H  KD  TH  ##  6H 
+ TD  9D              ##  5S 
+     8S              ##  4D 
+     7D              6D     
+     6C              5C     
+     5D              4H     
+     4S              3S     
+     3H              2D     
+     2S                     
+Game 123 finished in 0.171s
+
+DECK:
+3H 4D 5H 5S AH 6H 3S 4C TC JC QH JD 6C KD 5D 7C 8S 9C 2C 7S JH 4H 7H 6S 
+      /\
+Completed: 0 0 0 0 
+Stack:
+ 6D  ##  ##  ##  ##  ##  ## 
+     9S  ##  ##  ##  ##  ## 
+         2D  ##  ##  ##  ## 
+             9H  ##  ##  ## 
+                 2H  ##  ## 
+                     9D  ## 
+                         2S 
+Game 124 finished in 0.000s
+
+DECK:
+9H KD 9S 8C 
+         /\
+Completed: 0 2 8 7 
+Stack:
+ KC  KS  KH  --  3C  ##  4D 
+ QD  QH  QS          ##     
+ JC  JS  JD          QC     
+ TD      TC          JH     
+ 9C      9D          TS     
+ 8D      8S                 
+ 7C      7D                 
+ 6D      6C                 
+ 5C      5D                 
+         4C                 
+         3D                 
+         2C                 
+Game 125 finished in 1.141s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 126 finished in 3.141s
+Game 126 is WON!
+
+DECK:
+KH 3H 3D 4S TD 9C 5H 4D QC 2C 9S 4C 4H 9D 6H 7C 
+                                          /\
+Completed: 0 0 1 3 
+Stack:
+ KS  --  ##  ##  ##  ##  ## 
+ QH      ##  ##  ##  ##  ## 
+ JS      9H  ##  ##  ##  ## 
+         8C  JD  QS  ##  ## 
+         7D      JH  6D  ## 
+         6S          5C  ## 
+                         8S 
+                         7H 
+Game 127 finished in 0.109s
+
+DECK:
+4C 3S QC 8C TD KC JD 5S 5C 5H KS 
+                  /\
+Completed: 0 3 2 2 
+Stack:
+ QD  ##  KD  ##  ##  ##  ## 
+ JS  8H  QS  ##  ##  ##  ## 
+     7C  JH  ##  ##  QH  ## 
+         TC  4H  8D  JC  7H 
+         9D  3C  7S  TH  6C 
+         8S              5D 
+         7D              4S 
+Game 128 finished in 0.438s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 129 finished in 1.531s
+Game 129 is WON!
+
+DECK:
+AS KD 8S 4C 6H JH KH 9S 8H 3C 7D 9H TS 
+                     /\
+Completed: 0 2 2 0 
+Stack:
+ KC  6C  ##  ##  ##  ##  ## 
+     5H  7S  3S  QS  ##  ## 
+                 JD  ##  2S 
+                 TC  ##     
+                 9D  KS     
+                 8C  QH     
+                 7H  JC     
+                 6S  TH     
+                 5D  9C     
+                 4S  8D     
+                 3D  7C     
+                 2C  6D     
+                     5S     
+Game 130 finished in 0.406s
+
+DECK:
+KC 5H TC 7S TH KH TS 7H 6C TD 2C 2S JD KS 9H 2H JH JC QD 5S AC 6S 
+                                                /\
+Completed: 0 1 0 0 
+Stack:
+ 5C  ##  ##  ##  ##  ##  ## 
+     3C  ##  ##  ##  ##  ## 
+         7C  ##  ##  ##  ## 
+             9D  ##  ##  ## 
+             8S  8C  ##  ## 
+                     4S  ## 
+                         9C 
+Game 131 finished in 0.016s
+
+DECK:
+JD 5S TS KH 9D TC QD KD JH 
+                  /\
+Completed: 6 4 8 0 
+Stack:
+ --  KC  JC  --  ##  ##  ## 
+     QH  TD      ##  ##  ## 
+     JS  9S      ##  8C  ## 
+     TH          6D  7D  9H 
+     9C              6S  8S 
+     8D              5D     
+                     4S     
+Game 132 finished in 2.484s
+
+DECK:
+9H 8S 7D KS AD 3C QS AC KC 6C 5D 6S TH 4C 2D 7C QH 4S 
+                              /\
+Completed: 0 0 0 2 
+Stack:
+ KH  6H  JD  ##  ##  ##  ## 
+     5C      ##  ##  ##  ## 
+             7S  ##  ##  ## 
+             6D  ##  ##  ## 
+             5S  QD  3D  JH 
+             4D  JC  2C  TC 
+             3S  TD      9D 
+             2H             
+Game 133 finished in 0.094s
+
+DECK:
+
+/\
+Completed: 7 7 10 5 
+Stack:
+ KS  KC  KD  KH  --  --  ## 
+ QD  QH  QC  QS          ## 
+ JC      JD  JH          ## 
+ TD      TC  TS          9C 
+ 9S          9D          8D 
+             8S          7S 
+Game 134 finished in 1.547s
+
+DECK:
+3H 8S TS 8H 7D 9S 4H KD QS 4D 
+                           /\
+Completed: 8 2 2 0 
+Stack:
+ KC  --  KH  ##  ##  KS  ## 
+ QH      QC  ##  ##  QD  ## 
+ JC          2S  ##  JS  ## 
+ TH              ##      ## 
+ 9C              7H      ## 
+ 8D              6S      TC 
+ 7S              5D         
+ 6D              4S         
+Game 135 finished in 0.297s
+
+DECK:
+KH 3C QD 2D JC 4D 9D 3D 6C TC KS 
+         /\
+Completed: 2 0 1 2 
+Stack:
+ KD  7C  ##  KC  TH  ##  ## 
+ QC  6H  8S  QH      ##  ## 
+ JD      7D  JS      ##  ## 
+ TS      6S  TD      ##  ## 
+ 9H      5D          5H  ## 
+ 8C      4C              ## 
+         3H              8D 
+                         7S 
+                         6D 
+                         5S 
+                         4H 
+Game 136 finished in 0.468s
+
+DECK:
+
+/\
+Completed: 0 9 2 6 
+Stack:
+ KD  KH  5C  KC  ##  8S  KS 
+ QC  QS  4H  QD  ##  7H  QH 
+ JD      3C  JS  ##  6C  JC 
+ TC          TH  TS  5H  TD 
+             9C  9H  4C  9S 
+             8H  8C  3H     
+             7C      2C     
+             6H             
+Game 137 finished in 2.578s
+
+DECK:
+6D 8H 7S QS 2H TC 
+               /\
+Completed: 0 5 0 4 
+Stack:
+ KC  --  ##  KH  ##  ##  ## 
+ QH      ##  QC  ##  ##  ## 
+ JS      TS      ##  6S  ## 
+         9H      JC  5H  ## 
+                 TD  4C  ## 
+                 9C  3H  9D 
+                 8D  2C  8C 
+                 7C      7H 
+                 6H      6C 
+                 5S         
+                 4H         
+                 3C         
+Game 138 finished in 0.907s
+
+DECK:
+JD JC QS 
+   /\
+Completed: 6 8 8 6 
+Stack:
+ --  KS  --  KC  --  ##  ## 
+             QH      ##  ## 
+             JS      ##  ## 
+             TH      ##  ## 
+             9S      9C  ## 
+                         QC 
+                         JH 
+                         TS 
+                         9D 
+                         8C 
+Game 139 finished in 1.515s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 140 finished in 3.188s
+Game 140 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 141 finished in 2.062s
+Game 141 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 142 finished in 4.047s
+Game 142 is WON!
+
+DECK:
+9D 5C QC 9C TD KC 4C QS 8D 4S 2H KH 8H JS 3C 2D JH JD KD 6H TS 
+                                                         /\
+Completed: 0 1 1 0 
+Stack:
+ QD  ##  ##  ##  ##  ##  ## 
+ JC  3D  ##  ##  ##  ##  ## 
+     2C  TC  ##  ##  ##  ## 
+             6S  8C  ##  ## 
+                 7H  2S  ## 
+                 6C      QH 
+Game 143 finished in 0.047s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 144 finished in 0.984s
+Game 144 is WON!
+
+DECK:
+TD QH 7S 8C TH QC AD TS 9S TC KH 
+                        /\
+Completed: 4 0 4 1 
+Stack:
+ QS  9D  6S  ##  ##  ##  ## 
+     8S      ##  ##  ##  ## 
+     7H      6D  ##  ##  ## 
+     6C      5C  9C  ##  ## 
+     5D      4D  8D  ##  JS 
+             3S  7C  KS     
+             2D  6H         
+Game 145 finished in 0.188s
+
+DECK:
+6D 9H TS 8H TH QS 7S KD JC JS JH KH 
+                  /\
+Completed: 1 3 1 0 
+Stack:
+ KC  3C  ##  ##  ##  ##  2S 
+         QC  ##  ##  ##     
+         JD  ##  ##  ##     
+         TC  9C  5S  8C     
+         9D  8D  4D  7H     
+         8S  7C  3S  6S     
+         7D  6H      5H     
+         6C  5C      4S     
+         5D                 
+         4C                 
+Game 146 finished in 0.547s
+
+DECK:
+9S 8H TC 7S 
+   /\
+Completed: 2 0 5 2 
+Stack:
+ KD  KS  KC  KH  ##  ##  5D 
+ QC  QD  QH  QS  ##  ##  4S 
+     JC  JS  JD  6D  9D  3D 
+     TH  TD  TS  5S  8S     
+     9C      9H      7H     
+     8D      8C      6C     
+     7C      7D             
+     6H      6S             
+     5C                     
+     4D                     
+     3C                     
+     2D                     
+Game 147 finished in 1.750s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 148 finished in 1.359s
+Game 148 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 149 finished in 1.844s
+Game 149 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 150 finished in 1.531s
+Game 150 is WON!
+
+DECK:
+6D KD QD KC 9C 8C 6H KS 5C TC 4D 4S 
+                                 /\
+Completed: 0 0 1 0 
+Stack:
+ TD  ##  ##  ##  ##  ##  ## 
+ 9S  7H  QH  ##  QC  ##  ## 
+ 8D  6S      KH  JH  ##  ## 
+ 7C  5H      QS      ##  ## 
+     4C      JD      ##  5S 
+     3D      TS      3H  4H 
+     2C      9H          3C 
+             8S             
+             7D             
+             6C             
+Game 151 finished in 0.172s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 152 finished in 0.750s
+Game 152 is WON!
+
+DECK:
+
+/\
+Completed: 0 2 4 6 
+Stack:
+ KH  KC  --  KD  ##  ##  KS 
+ QS  QD      QC  ##  ##  QH 
+ JH  JC      JD  8C  9C  JS 
+ TC          TS  7D  8D  TD 
+             9D      7C  9S 
+             8S      6D  8H 
+             7H      5C  7S 
+             6C      4D  6H 
+             5D      3C     
+             4C             
+             3D             
+             2C             
+Game 153 finished in 1.344s
+
+DECK:
+3S 3H QS 7H KC QD KD 4H 6C 5D 
+            /\
+Completed: 3 3 2 2 
+Stack:
+ KH  ##  ##  ##  ##  ##  ## 
+ QC  TS  ##  TD  ##  ##  ## 
+     9H  7C  9S  ##  ##  ## 
+     8C  6D  8H  TC  KS  ## 
+             7S  9D  QH  9C 
+             6H  8S         
+Game 154 finished in 0.578s
+
+DECK:
+8S 6S 9C 4C 4D 6C QC JS 2D 7D 5C 3C 
+                                 /\
+Completed: 0 0 2 5 
+Stack:
+ --  ##  KH  ##  ##  ##  ## 
+     KS  QS  2C  ##  ##  ## 
+     QH  JD      ##  ##  ## 
+     JC  TC      ##  ##  ## 
+     TD  9D      5D  ##  ## 
+     9S              JH  ## 
+                     TS  7C 
+                     9H     
+Game 155 finished in 0.078s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 156 finished in 1.047s
+Game 156 is WON!
+
+DECK:
+4H 5D JS 8S 
+      /\
+Completed: 1 2 3 5 
+Stack:
+ KS  --  --  ##  ##  TH  ## 
+ QD          ##  ##  9S  ## 
+ JC          7S  ##  8H  ## 
+ TD          6D  QC  7C  ## 
+ 9C              JH  6H  ## 
+                 TS  5C  ## 
+                     4D  QS 
+                     3C  JD 
+                         TC 
+                         9D 
+                         8C 
+                         7D 
+                         6C 
+                         5H 
+Game 157 finished in 1.000s
+
+DECK:
+5H 6H KD JH 3C 8D 4S TS 9D KS 3H 9H 9S JS KH QD 3D JD 6S 
+                                       /\
+Completed: 1 1 0 0 
+Stack:
+ 5C  ##  ##  ##  ##  ##  ## 
+     8H  ##  ##  ##  ##  ## 
+     7C  2S  5S  ##  ##  ## 
+                 ##  ##  ## 
+                 3S  ##  ## 
+                     7H  KC 
+                     6C  QH 
+                     5D  JC 
+Game 158 finished in 0.016s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 159 finished in 1.296s
+Game 159 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 160 finished in 2.360s
+Game 160 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 161 finished in 0.812s
+Game 161 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 162 finished in 1.813s
+Game 162 is WON!
+
+DECK:
+4H AC 9C 5S TH QD 
+            /\
+Completed: 0 3 2 3 
+Stack:
+ KD  KH  6C  7D  KC  8S  ## 
+ QS  QC  5D      QH      ## 
+ JH  JD  4S      JS      ## 
+ TS  TC  3H      TD      8D 
+ 9D  9H  2C      9S      7C 
+ 8C              8H      6D 
+ 7H              7S         
+ 6S              6H         
+ 5H              5C         
+                 4D         
+                 3C         
+Game 163 finished in 2.094s
+
+DECK:
+KC 9H TD QS 8S 9C 3C JD JC 4D QH 
+                     /\
+Completed: 0 1 1 3 
+Stack:
+ KS  --  ##  7H  KD  3H  ## 
+ QD      TS  6S  QC      ## 
+ JS          5H  JH      ## 
+ TH              TC      ## 
+ 9S              9D      8D 
+ 8H              8C      7S 
+ 7C              7D      6D 
+ 6H              6C      5S 
+ 5C              5D      4H 
+                 4C         
+                 3D         
+                 2C         
+Game 164 finished in 0.750s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 165 finished in 3.218s
+Game 165 is WON!
+
+DECK:
+8S 3C 4C 9H TC KC 5C JD TS 5D 
+   /\
+Completed: 0 0 3 3 
+Stack:
+ KS  ##  ##  ##  ##  ##  ## 
+     KH  ##  ##  ##  ##  ## 
+         JC  ##  JS  ##  ## 
+         TD  KD      ##  ## 
+         9S          8C  ## 
+         8D          7D  2D 
+         7S          6S     
+         6D          5H     
+         5S          4S     
+                     3D     
+                     2C     
+Game 166 finished in 0.078s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 167 finished in 2.985s
+Game 167 is WON!
+
+DECK:
+7H 4C 5S 3C 6H TH 
+            /\
+Completed: 0 0 1 2 
+Stack:
+ KD  QH  ##  ##  ##  ##  ## 
+ QC      6S  ##  ##  ##  ## 
+             ##  ##  ##  ## 
+             KS  TC  9S  ## 
+             QD  9H  8D  KH 
+             JC  8C      QS 
+             TD  7D      JH 
+             9C  6C      TS 
+             8H  5D         
+             7C  4S         
+             6D  3D         
+             5C  2C         
+             4H             
+Game 168 finished in 0.515s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 169 finished in 3.063s
+Game 169 is WON!
+
+DECK:
+JC QS 8S KH 8H 9C 9D JD 
+   /\
+Completed: 5 7 3 1 
+Stack:
+ KC  --  --  --  KD  KS  ## 
+ QD              QC  QH  ## 
+                 JH  JS  ## 
+                 TC  TD  ## 
+                 9H  9S  7S 
+                 8C  8D  6H 
+                 7H  7C  5S 
+                 6S      4H 
+                 5H      3S 
+                 4S         
+Game 170 finished in 1.250s
+
+DECK:
+2D TS 5S JD 5H KH JH 9D QC QH KC 
+            /\
+Completed: 3 1 1 3 
+Stack:
+ 9H  KS  ##  ##  KD  JS  ## 
+ 8C  QD  8S  ##  QS  TH  4H 
+     JC  7D  ##      9S     
+     TD  6C  4S      8H     
+     9C  5D  3D      7S     
+     8D  4C          6D     
+     7C  3H          5C     
+                     4D     
+Game 171 finished in 0.734s
+
+DECK:
+QS 8C 8H 5C 8S 9H 9C TS 7C KH JH 
+                        /\
+Completed: 4 4 5 2 
+Stack:
+ KS  --  --  7D  ##  ##  7H 
+ QD          6C  ##  ##  6S 
+ JS              9D  ##  5D 
+ TD                  ##  4S 
+                     ##     
+                     QH     
+                     JC     
+                     TH     
+                     9S     
+                     8D     
+                     7S     
+                     6D     
+                     5S     
+Game 172 finished in 1.516s
+
+DECK:
+QH JC JH TH 6D QC 
+               /\
+Completed: 3 2 0 4 
+Stack:
+ KS  KH  5S  --  ##  ##  ## 
+ QD  QS  4D      9D  ##  ## 
+ JS  JD          8S  ##  ## 
+ TD  TS          7D  9C  ## 
+ 9S  9H          6C  8D  ## 
+ 8H  8C          5H      ## 
+     7H                  6H 
+     6S                  5C 
+     5D                  4H 
+Game 173 finished in 0.484s
+
+DECK:
+QH 3H KS 7C 6C 8C JS 9C 8S 8D JH 9D JD 2H TC QD TS 6S 
+                                             /\
+Completed: 0 2 0 3 
+Stack:
+ 4D  ##  ##  ##  ##  ##  ## 
+     5D  ##  ##  ##  ##  ## 
+         KD  ##  TH  ##  ## 
+             KH  9S  ##  ## 
+                 8H  6H  ## 
+                     5C  ## 
+                     4H  6D 
+Game 174 finished in 0.078s
+
+DECK:
+KH 9C 3H JD KC JS 9S AD 6C 8S 5H QH 7S KD 8H QD 7D QS AH 2D 7H 8C 4H 
+                                                         /\
+Completed: 1 0 0 0 
+Stack:
+ TH  6H  ##  ##  ##  ##  ## 
+         ##  ##  ##  ##  ## 
+         5D  ##  ##  ##  ## 
+             9H  ##  ##  ## 
+                 9D  ##  ## 
+                     TD  ## 
+                         JH 
+                         TC 
+Game 175 finished in 0.000s
+
+DECK:
+JH 9S JC JS 7C 4D 2D 3S KS 8S 6D 7S AS AH QD 5D QH 9D 4H KD 
+                                                /\
+Completed: 2 1 0 0 
+Stack:
+ 5H  ##  ##  ##  ##  ##  ## 
+ 4C  6H  ##  ##  ##  ##  ## 
+         TD  ##  ##  ##  ## 
+         9C  TH  9H  QC  ## 
+                 8C      ## 
+                         ## 
+                         3C 
+                         2H 
+Game 176 finished in 0.016s
+
+DECK:
+3C TD 8H 7C 5S 3S 6D TS KS 9H 4S 7S 8C 
+   /\
+Completed: 0 2 3 0 
+Stack:
+ QC  ##  KD  ##  ##  ##  ## 
+ JH  6H  QS  KC  ##  ##  ## 
+ TC  5C      QD  ##  ##  ## 
+ 9D          JC  ##  2S  ## 
+ 8S          TH  4C      ## 
+ 7D              3D      QH 
+ 6S              2C         
+Game 177 finished in 0.297s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 178 finished in 5.094s
+Game 178 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 179 finished in 1.547s
+Game 179 is WON!
+
+DECK:
+QS TC KH 5C 8D JC 
+            /\
+Completed: 3 5 0 2 
+Stack:
+ KC  5S  KD  ##  ##  ##  ## 
+ QH  4H  QC  ##  ##  ##  ## 
+ JS  3S      TH  ##  9H  ## 
+ TD  2H      9S  ##      ## 
+             8H  TS      7D 
+                 9D      6S 
+                 8S         
+                 7H         
+                 6C         
+                 5H         
+                 4C         
+                 3H         
+Game 180 finished in 0.687s
+
+DECK:
+JD 6D 8S 5H 9D TS 
+               /\
+Completed: 7 5 2 4 
+Stack:
+ KH  KS  KD  KC  QS  TD  ## 
+ QC  QH      QD      9S  ## 
+ JH          JC      8H  7D 
+ TC          TH      7S     
+ 9H          9C      6H     
+ 8C          8D      5S     
+ 7H                  4H     
+ 6S                         
+Game 181 finished in 1.703s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 182 finished in 3.438s
+Game 182 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 183 finished in 1.109s
+Game 183 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 184 finished in 2.516s
+Game 184 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 185 finished in 2.687s
+Game 185 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 186 finished in 3.329s
+Game 186 is WON!
+
+DECK:
+2C 6H 8C 5C QS KH TS 6C 6D 4S JH 9D 3D 9S 9C 3C QC 9H 
+                              /\
+Completed: 1 2 1 3 
+Stack:
+ 8S  ##  ##  ##  ##  ##  ## 
+     JC  JS  ##  ##  ##  ## 
+             ##  ##  ##  ## 
+             4D  ##  ##  ## 
+                 8D  ##  ## 
+                     6S  ## 
+                         KC 
+Game 187 finished in 0.031s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 188 finished in 6.797s
+Game 188 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 189 finished in 2.343s
+Game 189 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 190 finished in 2.000s
+Game 190 is WON!
+
+DECK:
+4D 9S QD 9H 
+      /\
+Completed: 2 0 3 2 
+Stack:
+ KD  KC  ##  ##  ##  ##  ## 
+ QC  QH  4C  ##  ##  ##  ## 
+ JH  JC  3D  7H  JS  ##  ## 
+ TS          6C  TH  ##  7S 
+ 9D          5H  9C  ##  6H 
+             4S  8D  7D  5C 
+                 7C         
+                 6D         
+                 5S         
+                 4H         
+                 3C         
+                 2D         
+Game 191 finished in 0.719s
+
+DECK:
+7C 3S 9D TH 4S 5C 6S KD TD 7D KS 5S JD JS 8H 9H QC 7H QH 8S 9C 
+                                       /\
+Completed: 0 2 5 0 
+Stack:
+ --  KC  6C  ##  ##  ##  ## 
+         5D  ##  ##  ##  ## 
+             ##  ##  ##  ## 
+             2S  KH  ##  ## 
+                 QS  ##  ## 
+                     2C  4D 
+Game 192 finished in 0.047s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 193 finished in 3.281s
+Game 193 is WON!
+
+DECK:
+3S AS QC AD 7S 4C JH TS 6D TH 9D 4S 3C 6C KD 8C 5H 9H 8S TC 
+            /\
+Completed: 0 0 2 0 
+Stack:
+ QS  KS  ##  ##  ##  ##  ## 
+     QD  3H  ##  ##  ##  ## 
+         2C  ##  ##  ##  ## 
+             5S  QH  ##  ## 
+                     ##  ## 
+                     2D  ## 
+                         9C 
+                         8H 
+                         7C 
+                         6H 
+Game 194 finished in 0.016s
+
+DECK:
+TC QC 2D 4D 9D TH 3S 8C 5C 5S KD 8S 
+                           /\
+Completed: 2 0 1 0 
+Stack:
+ 7D  8D  ##  ##  ##  ##  ## 
+     7C  QD  ##  ##  ##  ## 
+         JC  ##  ##  ##  ## 
+         TD  KS  4H  ##  ## 
+         9C  QH      7H  ## 
+         8H          6C  KH 
+         7S          5D  QS 
+                     4C  JH 
+                     3D     
+                     2S     
+Game 195 finished in 0.171s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 196 finished in 3.454s
+Game 196 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 197 finished in 0.984s
+Game 197 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 198 finished in 2.031s
+Game 198 is WON!
+
+DECK:
+AS QH 8D 6S 5S TS QS 9S 8H 5H 3D 9C 
+                        /\
+Completed: 0 1 3 0 
+Stack:
+ KS  KD  ##  ##  ##  ##  ## 
+     QC  7S  ##  ##  ##  ## 
+     JD  6H  ##  7C  ##  ## 
+     TC  5C  2S      ##  ## 
+     9D  4D          ##  ## 
+     8C  3C          JC  ## 
+     7D                  2C 
+     6C                     
+     5D                     
+Game 199 finished in 0.547s
+
+DECK:
+JC 2H 9C 2C 6H 5C 5S 7H 6C KH 3C 6D QS 9S 7C 6S 4D QH 7S QC 8D 9D 5D 
+                                       /\
+Completed: 1 0 0 1 
+Stack:
+ --  ##  ##  ##  ##  ##  ## 
+     8S  ##  ##  ##  ##  ## 
+         JD  5H  ##  ##  ## 
+         TC  4S  ##  4H  ## 
+             3D  9H      ## 
+                 8C      JS 
+Game 200 finished in 0.016s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 201 finished in 2.312s
+Game 201 is WON!
+
+DECK:
+TH 6D 7D 6H TS KC QD JD QS KD 2D 6S 2S 2C 3D 9D 5H 9C 7H JC 
+                                                /\
+Completed: 0 1 2 0 
+Stack:
+ 4C  4D  ##  ##  ##  ##  ## 
+ 3H      ##  ##  ##  ##  ## 
+         7C  ##  ##  ##  ## 
+             4H  ##  ##  ## 
+                 KS  ##  ## 
+                     TC  ## 
+                     9H  TD 
+Game 202 finished in 0.047s
+
+DECK:
+QD 5D JC QC 3D 
+   /\
+Completed: 2 0 3 3 
+Stack:
+ KH  KS  --  ##  ##  ##  ## 
+ QS  QH      ##  ##  ##  ## 
+ JD  JS      9H  ##  ##  ## 
+     TD      8C  JH  ##  ## 
+     9C      7D  TS  ##  7S 
+             6S  9D  7C     
+             5H  8S  6D     
+                 7H  5S     
+                     4H     
+                     3C     
+                     2D     
+Game 203 finished in 0.797s
+
+DECK:
+JH 8S 9H AH 8C 3H 3C 8D 6C TC KH 4C 7D KC QH KS 
+                              /\
+Completed: 2 0 0 1 
+Stack:
+ 4H  9D  ##  ##  ##  ##  ## 
+         ##  ##  ##  ##  ## 
+         3D  TH  ##  ##  ## 
+                 ##  ##  ## 
+                 7C  ##  ## 
+                 6D  7S  ## 
+                 5C      JC 
+                 4D      TD 
+                 3S      9C 
+                 2H         
+Game 204 finished in 0.156s
+
+DECK:
+QS JD 9D 
+      /\
+Completed: 0 4 2 0 
+Stack:
+ KC  QH  KH  --  ##  ##  ## 
+ QD  JS          8S  ##  ## 
+ JC  TD          7H  ##  ## 
+ TH              6S  7C  ## 
+ 9S              5H  6D  ## 
+ 8H              4S  5S  ## 
+ 7S                      JH 
+ 6H                      TS 
+ 5C                      9H 
+ 4H                      8C 
+ 3S                      7D 
+                         6C 
+                         5D 
+                         4C 
+                         3H 
+                         2S 
+Game 205 finished in 1.453s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 206 finished in 1.032s
+Game 206 is WON!
+
+DECK:
+KC 7D 8C JC TH 3C 9H 2C 5C JS 6H 6C 8S 4C TD 8H 4S 
+                                       /\
+Completed: 1 0 4 1 
+Stack:
+ QH  ##  ##  ##  ##  ##  ## 
+     JH  ##  ##  ##  ##  ## 
+     TS  KH  ##  ##  ##  ## 
+         QS  2D  ##  KD  ## 
+         JD      QD      ## 
+                         9C 
+                         8D 
+Game 207 finished in 0.078s
+
+DECK:
+9C 4D 3C AD QH 2H 6H 3S KS 5S TC JH 2D 
+                           /\
+Completed: 1 0 0 1 
+Stack:
+ KC  KH  ##  ##  ##  ##  ## 
+ QD      5C  ##  ##  ##  ## 
+ JS          ##  ##  KD  ## 
+ TH          7D  JC  QS  3H 
+             6C  TD  JD     
+             5D  9S  TS     
+                 8D  9D     
+                     8S     
+                     7H     
+                     6S     
+                     5H     
+                     4C     
+                     3D     
+Game 208 finished in 0.172s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 209 finished in 0.406s
+Game 209 is WON!
+
+DECK:
+JC JD 8C 4H 4S 7H AS 9C 6H 8S TH 2D AH 3S 6D 2H 8H 4D AD 9H 2S 5C 5H 
+                     /\
+Completed: 2 0 0 0 
+Stack:
+ KD  KH  ##  ##  ##  ##  ## 
+     QS  ##  ##  ##  ##  ## 
+         5S  QC  ##  ##  ## 
+                 ##  ##  ## 
+                 KS  8D  ## 
+                         ## 
+                         5D 
+                         4C 
+Game 210 finished in 0.031s
+
+DECK:
+8H KH QS JD 
+         /\
+Completed: 5 3 7 9 
+Stack:
+ KC  --  --  KS  KD  ##  -- 
+ QD          QH  QC  ##     
+ JC          JS  JH  TS     
+ TH              TC  9D     
+ 9C              9H         
+ 8D              8C         
+ 7C              7D         
+ 6D              6C         
+                 5D         
+Game 211 finished in 2.609s
+
+DECK:
+AH 7H KS KH QS 5D 7D 3H KD 3C 6D 2H QC 4D QD 7C 2C 6H 5S 6S KC JH 7S QH 
+      /\
+Completed: 0 0 0 1 
+Stack:
+ 8H  ##  ##  ##  ##  ##  ## 
+     9D  ##  8D  ##  ##  ## 
+         2D      ##  ##  ## 
+                 5C  ##  ## 
+                     ##  ## 
+                     TH  ## 
+                         JD 
+                         TS 
+                         9H 
+Game 212 finished in 0.000s
+
+DECK:
+8D TS QD JH 8H 6D 2D 7S JS 2H 6H 
+                        /\
+Completed: 2 0 0 1 
+Stack:
+ 3D  ##  ##  ##  ##  ##  ## 
+     KH  4D  ##  ##  ##  ## 
+     QC      ##  ##  ##  ## 
+     JD      QH  8C  ##  ## 
+     TC      JC  7H  ##  ## 
+     9D      TH  6S  4H  ## 
+     8S      9C  5H  3S  3H 
+Game 213 finished in 0.219s
+
+DECK:
+9S 7H 9D 8H 7C QD 6D 8C 
+                     /\
+Completed: 1 5 5 6 
+Stack:
+ KS  3C  KD  --  ##  KH  -- 
+ QH      QC      ##  QS     
+ JS      JH      ##  JD     
+ TH              ##  TS     
+                 JC  9H     
+                 TD  8S     
+                 9C  7D     
+                 8D  6C     
+                 7S         
+                 6H         
+                 5C         
+Game 214 finished in 1.000s
+
+DECK:
+4H TD 
+   /\
+Completed: 1 3 2 6 
+Stack:
+ KS  KD  KH  ##  KC  --  ## 
+ QD  QC  QS  9S  QH      ## 
+     JD  JH  8H  JC      ## 
+     TS  TC  7C  TH      ## 
+     9D  9H  6D  9C      ## 
+     8C  8S  5C          6H 
+     7H  7D  4D             
+     6C      3C             
+     5H                     
+     4C                     
+Game 215 finished in 2.563s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 216 finished in 3.765s
+Game 216 is WON!
+
+DECK:
+TC JH TH 3H 7S 8H 9S 
+                  /\
+Completed: 5 3 2 2 
+Stack:
+ KS  KC  6D  ##  KH  ##  ## 
+ QH  QD      ##  QC  ##  9D 
+             TD  JD  ##  8S 
+             9C  TS  KD  7H 
+             8D  9H  QS  6C 
+             7C  8C      5D 
+             6H  7D         
+                 6S         
+                 5H         
+                 4S         
+Game 217 finished in 0.203s
+
+DECK:
+QS 3S 5D 6H 7C 9C 6C KC 4C KD 9D 4D 
+            /\
+Completed: 2 0 1 2 
+Stack:
+ KS  4S  ##  ##  ##  ##  ## 
+ QH  3D  JD  8S  ##  ##  ## 
+ JS          7H  9H  ##  ## 
+                 8C  ##  ## 
+                     QD  ## 
+                     JC  ## 
+                     TD  QC 
+                     9S  JH 
+                     8D     
+                     7S     
+                     6D     
+                     5C     
+                     4H     
+Game 218 finished in 0.125s
+
+DECK:
+QC KH 5H 6S JH KD 8D 7S 
+            /\
+Completed: 3 3 3 0 
+Stack:
+ KC  ##  TH  KS  2S  ##  ## 
+     TC  9C  QD      ##  ## 
+     9D  8H  JS      6D  ## 
+     8C  7C  TD      5S  ## 
+     7H  6H  9S      4D  JD 
+                     3S  TS 
+                         9H 
+                         8S 
+                         7D 
+                         6C 
+                         5D 
+                         4S 
+Game 219 finished in 0.875s
+
+DECK:
+5S QS 7H 8H JC 8C 7D QD 
+      /\
+Completed: 4 0 2 0 
+Stack:
+ --  KC  5H  ##  ##  ##  ## 
+     QH      ##  ##  ##  ## 
+     JS      4D  JH  ##  ## 
+     TH          TS  ##  ## 
+     9C              ##  ## 
+     8D              6S  ## 
+     7S              5D  QC 
+     6D              4S  JD 
+     5C              3D  TC 
+     4H                     
+     3S                     
+     2D                     
+Game 220 finished in 0.407s
+
+DECK:
+4C KD 2H QC 9H 6S 8H 3D QS 2C 3C 9C 5C 7C KH QH TD JS 4D 6D 
+                                       /\
+Completed: 1 1 0 2 
+Stack:
+ TH  ##  ##  KC  ##  ##  ## 
+ 9S  8C  ##      ##  ##  ## 
+ 8D  7D  JH      ##  5H  ## 
+ 7S  6C          ##      ## 
+ 6H  5D          JD      ## 
+                         8S 
+Game 221 finished in 0.031s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 222 finished in 1.219s
+Game 222 is WON!
+
+DECK:
+JD JC 6S 9C JH 4C 3H AS TH QS 2S 3C QD 5D 5C JS TC 5H 2H 5S 
+                                                         /\
+Completed: 0 0 0 0 
+Stack:
+ KD  ##  ##  ##  ##  ##  ## 
+     9H  ##  ##  ##  ##  ## 
+     8S  3D  ##  ##  ##  ## 
+         2C  8H  TS  ##  ## 
+             7S  9D  ##  QH 
+                     TD     
+                     9S     
+                     8D     
+                     7C     
+Game 223 finished in 0.031s
+
+DECK:
+3D 5S TS 8C 7D KC 9C 
+                  /\
+Completed: 3 2 3 4 
+Stack:
+ KD  QH  ##  KS  ##  ##  ## 
+     JC  ##  QD  ##  7S  ## 
+         KH  JS  ##  6D  ## 
+         QC  TH  ##      ## 
+         JD  9S  5D      ## 
+         TC  8D          4D 
+         9D  7C             
+         8S  6H             
+Game 224 finished in 0.484s
+
+DECK:
+QH TC 4C 9D 7D 
+/\
+Completed: 2 2 0 3 
+Stack:
+ KD  --  KH  KS  ##  JH  ## 
+ QS      QC  QD  ##      ## 
+         JD  JC  6H      ## 
+         TS  TH  5S      ## 
+         9H  9S  4H      ## 
+         8S  8H          JS 
+         7H  7C          TD 
+         6C  6D          9C 
+         5D  5C          8D 
+         4S  4D             
+         3H  3C             
+             2H             
+Game 225 finished in 0.969s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 226 finished in 1.984s
+Game 226 is WON!
+
+DECK:
+7S 5H 3S 6H 4H 7D 2D 5D TH 3D 4C 8S 7H 5S KD 
+                              /\
+Completed: 2 0 2 1 
+Stack:
+ QS  ##  ##  ##  ##  ##  ## 
+     4S  ##  ##  ##  ##  ## 
+     3H  9S  ##  ##  ##  ## 
+             7C  ##  ##  ## 
+             6D  TS  ##  ## 
+             5C      KS  ## 
+                     QD  QC 
+Game 227 finished in 0.032s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 228 finished in 1.078s
+Game 228 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 229 finished in 3.484s
+Game 229 is WON!
+
+DECK:
+4D 5H 9D AD 8S QD 3D 8C KH 7S KD 9H 8H 6S 9S 
+                              /\
+Completed: 2 0 4 2 
+Stack:
+ KS  7H  ##  ##  ##  ##  ## 
+ QH  6C  QS  ##  ##  ##  ## 
+ JS  5D  JH  ##  ##  2D  ## 
+     4S      5C  QC      9C 
+                         8D 
+                         7C 
+                         6H 
+                         5S 
+Game 230 finished in 0.156s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 231 finished in 1.032s
+Game 231 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 232 finished in 2.656s
+Game 232 is WON!
+
+DECK:
+8H 4S 7H QD KH KD TC 9D JH 2S JD KS QC 
+            /\
+Completed: 2 1 2 0 
+Stack:
+ 5D  ##  KC  ##  TH  ##  ## 
+     5C  QH  ##  9C  ##  ## 
+         JS  ##      ##  ## 
+         TD  7C      ##  ## 
+         9S          ##  ## 
+                     9H  ## 
+                     8C  5S 
+                     7D  4H 
+                     6S  3S 
+                     5H     
+                     4C     
+Game 233 finished in 0.187s
+
+DECK:
+
+/\
+Completed: 2 4 10 5 
+Stack:
+ KS  KD  ##  KC  ##  KH  ## 
+ QH      7D  QD  ##      ## 
+ JC      6C  JS  ##      ## 
+ TD              JH      ## 
+ 9S              TC      ## 
+ 8D              9D      ## 
+ 7C                      JD 
+ 6D                      TS 
+ 5C                         
+Game 234 finished in 0.594s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 235 finished in 0.844s
+Game 235 is WON!
+
+DECK:
+7D AH TD QS AC KC TC TS 9S JD AD 8S 9D KS 3H 2H 9C 6C 
+                                       /\
+Completed: 0 0 0 1 
+Stack:
+ KH  ##  ##  3D  ##  ##  ## 
+ QC  QH  ##      ##  ##  ## 
+ JH      QD      ##  ##  ## 
+                 8H  6D  ## 
+                 7C      ## 
+                 6H      ## 
+                 5C      9H 
+                 4D      8C 
+                 3S      7H 
+                         6S 
+                         5D 
+Game 236 finished in 0.078s
+
+DECK:
+6H 8S 7D QS 7S 
+            /\
+Completed: 6 4 4 2 
+Stack:
+ KC  KS  QD  KD  --  ##  ## 
+ QH      JS  QC      ##  ## 
+ JC      TH  JH      ##  JD 
+ TD      9S  TC      ##  TS 
+ 9C          9D      4S  9H 
+ 8D          8C             
+ 7C          7H             
+ 6D                         
+ 5S                         
+Game 237 finished in 1.000s
+
+DECK:
+4D TH 4C QS QH TC 8S 5H 8D 5D 4H 6H 3C JH 7C 
+                        /\
+Completed: 0 2 2 2 
+Stack:
+ KH  TD  ##  ##  ##  ##  ## 
+ QC      KD  ##  ##  ##  ## 
+ JD          4S  8H  ##  ## 
+ TS          3H  7S  KS  ## 
+ 9H          2C  6D  QD  ## 
+                 5C      ## 
+                         7D 
+Game 238 finished in 0.172s
+
+DECK:
+TS TC 4S 8S 3D 6D 5S JD QH 
+                  /\
+Completed: 3 0 0 2 
+Stack:
+ KC  KH  ##  KD  ##  ##  ## 
+ QD  QS  ##  QC  ##  ##  ## 
+ JS  JH  9H      8H  ##  ## 
+ TD              7S  ##  ## 
+ 9S              6H  7H  ## 
+ 8D              5C  6C  9D 
+                 4D  5H     
+                 3S  4C     
+                 2H  3H     
+Game 239 finished in 0.406s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 240 finished in 1.891s
+Game 240 is WON!
+
+DECK:
+KH 9D KC 4D 7S QC 9H 6C 3S 7H QH TH 8C 8S 
+   /\
+Completed: 0 1 2 1 
+Stack:
+ 5H  9C  ##  ##  ##  ##  ## 
+ 4C      ##  ##  ##  ##  ## 
+         9S  3C  ##  ##  ## 
+         8D      KS  ##  ## 
+         7C      QD  ##  7D 
+         6D          JD  6S 
+         5S              5D 
+                         4S 
+                         3H 
+                         2C 
+Game 241 finished in 0.281s
+
+DECK:
+3D KH 6D 
+      /\
+Completed: 5 1 3 0 
+Stack:
+ KS  KC  JD  KD  ##  ##  ## 
+ QD  QH  TS  QC  5D  ##  ## 
+ JS  JC  9H  JH      ##  ## 
+ TD      8C  TC      ##  9C 
+ 9S      7H  9D      ##  8H 
+ 8D          8S      3S     
+ 7C          7D             
+ 6H          6S             
+ 5S          5H             
+             4S             
+Game 242 finished in 0.422s
+
+DECK:
+9C KS 6S QH 4D 
+            /\
+Completed: 0 0 2 3 
+Stack:
+ KH  KC  5H  ##  ##  ##  ## 
+ QC  QD  4S  ##  JC  ##  ## 
+     JS  3D  QS  TD  ##  8H 
+     TH  2C  JH  9S  ##  7S 
+             TC  8D  TS  6H 
+             9D  7C  9H     
+             8S  6D         
+             7H  5C         
+             6C  4H         
+             5D  3C         
+                 2D         
+Game 243 finished in 0.922s
+
+DECK:
+4H 5D JH QC TC 9H 
+      /\
+Completed: 6 4 3 5 
+Stack:
+ KC  KD  KS  --  KH  8S  -- 
+ QD  QS  QH          7H     
+ JS  JD  JC                 
+ TH  TS  TD                 
+ 9S  9D  9C                 
+ 8H  8C  8D                 
+ 7S  7D  7C                 
+ 6D  6S  6H                 
+     5H                     
+Game 244 finished in 5.156s
+
+DECK:
+4S KC JS 7C 5S QH JD 
+      /\
+Completed: 3 5 1 2 
+Stack:
+ KS  KH  ##  --  ##  ##  KD 
+ QD      6S      ##  TC  QC 
+ JC              ##  9D  JH 
+ TD              TH  8C  TS 
+ 9S              9C  7H  9H 
+ 8D              8H  6C  8S 
+                 7S  5H     
+                 6D  4C     
+                 5C  3H     
+                 4H         
+Game 245 finished in 2.016s
+
+DECK:
+QD KC 8S 
+      /\
+Completed: 7 6 7 4 
+Stack:
+ KH  ##  --  --  KS  ##  KD 
+ QS  TD          QH  ##  QC 
+ JD  9S              ##  JH 
+ TC  8H              ##  TS 
+     7S              TH  9D 
+                     9C  8C 
+                         7D 
+                         6S 
+Game 246 finished in 0.953s
+
+DECK:
+4H 3H 8S 4S AS JS 9H KD KH JC JH QC 3C TC QS 5S 9C 
+                                                /\
+Completed: 1 3 1 0 
+Stack:
+ 6S  5H  ##  ##  ##  ##  ## 
+ 5D      6D  ##  ##  ##  ## 
+         5C  TD  ##  ##  ## 
+         4D  9S  ##  2S  ## 
+         3S  8D  6H      ## 
+                         ## 
+                         9D 
+                         8C 
+Game 247 finished in 0.156s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 248 finished in 0.578s
+Game 248 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 249 finished in 0.469s
+Game 249 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 250 finished in 1.328s
+Game 250 is WON!
+
+DECK:
+KH 2H 8D 9C QH 4S 7H QS 8H 6C 
+                           /\
+Completed: 1 5 1 1 
+Stack:
+ JC  KD  8C  ##  ##  JD  ## 
+ TH  QC  7D  ##  ##      ## 
+     JH  6S  QD  3S      ## 
+     TC  5H  JS          ## 
+     9D  4C  TD          ## 
+     8S  3H              ## 
+                         7C 
+                         6H 
+                         5C 
+                         4H 
+                         3C 
+Game 251 finished in 0.281s
+
+DECK:
+7H 7C JS 2D 6H QH AD 6S 8C 5S 9H 4D 3S KD 6C 
+                     /\
+Completed: 2 0 1 2 
+Stack:
+ KC  ##  ##  ##  ##  ##  ## 
+ QD  5D  5H  ##  ##  8H  ## 
+ JC  4C  4S  JH  9D  7S  ## 
+ TH  3H          8S  6D  KH 
+ 9S                  5C  QC 
+ 8D                  4H  JD 
+Game 252 finished in 0.297s
+
+DECK:
+8D 8C JS TS 6H 9H KC QD QS 9C 5C JC TH 9D 
+                                    /\
+Completed: 1 4 1 6 
+Stack:
+ KD  8S  6C  --  ##  ##  ## 
+ QC  7H  5D      ##  ##  ## 
+ JD      4C      ##  ##  ## 
+                 TD  7S  ## 
+                 9S      ## 
+                 8H      JH 
+                 7C         
+                 6D         
+Game 253 finished in 0.656s
+
+DECK:
+KC QC TH 8H 9C 
+            /\
+Completed: 5 7 6 4 
+Stack:
+ KS  ##  KD  9H  --  --  ## 
+ QD  TC  QS  8S          ## 
+     9D  JD              ## 
+     8C  TS              ## 
+     7H                  ## 
+     6S                  QH 
+                         JS 
+                         TD 
+                         9S 
+                         8D 
+                         7S 
+Game 254 finished in 1.032s
+
+DECK:
+TD 4S 9S 2D 4D KS 4C JH KH AH 3H 4H 2S 3D 
+                                    /\
+Completed: 0 1 0 0 
+Stack:
+ KD  9C  ##  8C  ##  ##  ## 
+ QC  8D  ##  7D  ##  ##  ## 
+ JD  7C  8H  6S  3C  ##  ## 
+ TC  6H  7S  5H  2H  ##  ## 
+ 9D                  ##  ## 
+ 8S                  2C  ## 
+ 7H                      QD 
+                         JS 
+Game 255 finished in 0.281s
+
+DECK:
+6C QS 9D QH 4H 3S 8H 7S TD 7H 9S 8C JD 
+                                    /\
+Completed: 5 2 1 0 
+Stack:
+ KC  KS  KD  ##  5D  ##  ## 
+             ##      ##  ## 
+             TH      ##  ## 
+             9C      ##  ## 
+             8D      6S  KH 
+             7C      5H  QC 
+             6D      4S  JH 
+             5S      3D  TC 
+                     2S  9H 
+                         8S 
+Game 256 finished in 0.453s
+
+DECK:
+9D 3D 9S 2C JH 8D KH QS 4D 
+                        /\
+Completed: 1 2 0 6 
+Stack:
+ KD  KC  5D  KS  ##  4C  ## 
+ QC  QH          ##  3H  ## 
+ JD              ##      ## 
+ TS              6H      ## 
+ 9H              5C      ## 
+ 8S              4H      ## 
+ 7D              3C      TH 
+ 6C              2H      9C 
+ 5H                      8H 
+                         7S 
+                         6D 
+Game 257 finished in 0.547s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 258 finished in 0.906s
+Game 258 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 259 finished in 1.094s
+Game 259 is WON!
+
+DECK:
+AS 5H 9D QD TC 
+      /\
+Completed: 6 4 0 0 
+Stack:
+ KS  KD  KC  JS  ##  KH  ## 
+     QC  QH      8D  QS  ## 
+         JC      7C  JD  ## 
+         TH      6H  TS  8S 
+         9S          9H  7H 
+         8H          8C     
+         7S          7D     
+         6D          6S     
+         5S          5D     
+         4H          4S     
+         3S          3H     
+         2H          2S     
+Game 260 finished in 1.031s
+
+DECK:
+3C 5S 7C 8C 6S 
+            /\
+Completed: 2 4 5 4 
+Stack:
+ KD  KS  ##  KH  KC  ##  -- 
+ QS  QD  9H  QC  QH  ##     
+ JH  JS  8S  JD  JC  ##     
+     TD      TC  TH  ##     
+             9D  9C  ##     
+                 8D  6C     
+                 7S  5D     
+                 6H  4C     
+                 5C         
+Game 261 finished in 0.594s
+
+DECK:
+9C KC 4S 3H 8D 8S 6H KD 9D 7C 
+            /\
+Completed: 4 0 1 1 
+Stack:
+ KH  ##  ##  ##  ##  ##  ## 
+     JH  ##  ##  ##  ##  ## 
+     TS  8H  6C  ##  5S  ## 
+     9H  7S      ##  4D  ## 
+     8C  6D      QH  3S  QD 
+     7D  5C      JC      JS 
+     6S  4H              TD 
+Game 262 finished in 0.125s
+
+DECK:
+9D 8H 7S 4C QC 3H 7H KH 8C 
+/\
+Completed: 2 1 0 3 
+Stack:
+ KC  KS  ##  ##  ##  ##  ## 
+ QH  QD  ##  ##  ##  6D  ## 
+ JS  JC  3D  ##  ##      ## 
+ TH  TD      4H  KD      JH 
+     9C      3C  QS         
+     8D      2H  JD         
+     7C          TS         
+     6H          9H         
+                 8S         
+                 7D         
+Game 263 finished in 0.547s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 264 finished in 1.234s
+Game 264 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 265 finished in 0.938s
+Game 265 is WON!
+
+DECK:
+TH 9H QD 8H KH 6S KS JS 9C 5S 6D KC 
+                        /\
+Completed: 4 2 2 0 
+Stack:
+ 8S  ##  ##  QS  ##  ##  ## 
+ 7D  8C  ##  JD  ##  ##  ## 
+ 6C      JC  TS  QC  ##  ## 
+ 5H                  9S  4D 
+ 4S                  8D     
+ 3H                  7S     
+ 2S                  6H     
+                     5C     
+                     4H     
+                     3S     
+Game 266 finished in 0.359s
+
+DECK:
+7S 9D 3H 8H JD 3D QC 6S TD 9C KH TH KD 2D 6C 4C 2S QD JS 6D 9S TS 
+                                                         /\
+Completed: 2 0 1 0 
+Stack:
+ --  ##  ##  ##  ##  ##  ## 
+     6H  ##  ##  ##  ##  ## 
+         5S  ##  ##  ##  ## 
+             5H  ##  ##  ## 
+                 8C  ##  ## 
+                     TC  ## 
+                         5D 
+Game 267 finished in 0.000s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 268 finished in 1.094s
+Game 268 is WON!
+
+DECK:
+6D 9C QS TC JH TD JD QC 
+                     /\
+Completed: 0 0 2 4 
+Stack:
+ KS  ##  KC  JC  ##  ##  ## 
+ QH  6S      TH  ##  ##  ## 
+     5D      9S  ##  ##  ## 
+             8H  TS  ##  ## 
+             7C  9H  5C  9D 
+             6H  8C  4D  8S 
+             5S  7D         
+             4H  6C         
+                 5H         
+                 4C         
+                 3D         
+                 2C         
+Game 269 finished in 0.719s
+
+DECK:
+3H 5D 8S 5H 9H TS 4S QC JC 6C 4D 6S 6H 
+                           /\
+Completed: 1 0 2 3 
+Stack:
+ KD  KC  ##  ##  ##  ##  ## 
+ QS      JS  ##  ##  ##  ## 
+ JD          ##  ##  ##  ## 
+ TC          3D  ##  ##  ## 
+ 9D              4H  ##  9S 
+ 8C              3C  9C  8D 
+                 2D  8H     
+Game 270 finished in 0.765s
+
+DECK:
+8D 6C QH 5H KH KC 4C 6H 
+                  /\
+Completed: 2 0 2 3 
+Stack:
+ KS  2D  KD  5S  ##  ##  ## 
+ QD      QC  4D  7D  JC  ## 
+ JS      JD          TH  ## 
+ TD      TC          9S  ## 
+         9H          8H  ## 
+                     7S  JH 
+                     6D  TS 
+                     5C  9D 
+                     4H  8S 
+                         7H 
+                         6S 
+                         5D 
+                         4S 
+                         3D 
+Game 271 finished in 0.500s
+
+DECK:
+9D JD 6H 
+      /\
+Completed: 0 1 3 5 
+Stack:
+ KS  KC  KD  ##  ##  ##  ## 
+     QD  QS  ##  ##  5D  ## 
+     JS  JH  JC  7D      ## 
+     TH  TS  TD          ## 
+     9C  9H  9S          KH 
+     8H  8C  8D          QC 
+     7S  7H                 
+     6D  6S                 
+     5C  5H                 
+     4H  4C                 
+     3C  3D                 
+Game 272 finished in 1.266s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 273 finished in 1.094s
+Game 273 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 274 finished in 1.406s
+Game 274 is WON!
+
+DECK:
+AC 4D 8S 6D 7H 4H 5C 3C 9S 9H JH 6S 9D 8H 
+                           /\
+Completed: 0 0 1 2 
+Stack:
+ KS  ##  ##  ##  ##  ##  ## 
+ QD  7D  ##  ##  ##  ##  ## 
+ JC  6C  2D  ##  ##  ##  ## 
+             JS  4C  ##  ## 
+             TH  3H  3D  ## 
+             9C          ## 
+             8D          QS 
+             7C          JD 
+Game 275 finished in 0.094s
+
+DECK:
+3H 4D JH 4H 4C 5S 8C 2D TC QS 4S 2S 2C QD 9D JD 8S 5H AS 3D 8H 6D 7D 
+                                                /\
+Completed: 0 0 0 0 
+Stack:
+ --  ##  ##  ##  ##  ##  ## 
+     KC  ##  ##  ##  ##  ## 
+     QH  3S  ##  ##  ##  ## 
+             KH  5D  ##  ## 
+                     ##  ## 
+                     TD  ## 
+                     9S  5C 
+                     8D     
+Game 276 finished in 0.000s
+
+DECK:
+JH 9S KC TD 2D JS 9D 3D 4H KS 9C 5S 3S 7H QH 2H 
+            /\
+Completed: 2 0 0 0 
+Stack:
+ KD  7S  ##  ##  KH  ##  ## 
+     6H  ##  ##  QC  ##  ## 
+     5C  8H  QD  JD  ##  ## 
+     4D  7C  JC  TS  ##  6S 
+                 9H  TC     
+                 8S         
+                 7D         
+                 6C         
+                 5D         
+                 4C         
+                 3H         
+                 2S         
+Game 277 finished in 0.421s
+
+DECK:
+5H 3S QD JD 7D 
+            /\
+Completed: 2 0 2 2 
+Stack:
+ 9D  KC  ##  ##  KD  ##  ## 
+     QH  TD  ##  QS  ##  ## 
+     JS  9S  ##  JH  ##  ## 
+     TH  8H  2D  TS  4C  QC 
+     9C  7C      9H         
+     8D  6H      8C         
+     7S  5S      7H         
+     6D          6C         
+     5C          5D         
+     4H          4S         
+                 3D         
+Game 278 finished in 0.485s
+
+DECK:
+3D TH KC 8C KS 6D 7D JS 9D QH 7C TC 
+                     /\
+Completed: 5 1 3 0 
+Stack:
+ KH  6S  ##  ##  ##  ##  ## 
+     5D  JC  KD  9C  ##  ## 
+         TD  QC  8H  ##  ## 
+         9S  JD  7S  5H  ## 
+             TS  6H  4S  ## 
+             9H  5S      3S 
+             8S             
+Game 279 finished in 0.281s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 280 finished in 0.766s
+Game 280 is WON!
+
+DECK:
+2S 7S TS AS QH JS JC QC TC 6H 9H 4H 
+                     /\
+Completed: 3 3 2 0 
+Stack:
+ 8C  KC  KS  ##  --  ##  ## 
+ 7H          ##      ##  ## 
+ 6S          ##      ##  ## 
+ 5H          TD      ##  ## 
+ 4S          9C      ##  QS 
+             8H      8S     
+             7C      7D     
+             6D      6C     
+             5S      5D     
+             4D             
+             3S             
+Game 281 finished in 0.515s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 282 finished in 1.016s
+Game 282 is WON!
+
+DECK:
+KS QH JH 8C 9S 7H 8H KD 5C QC 
+                  /\
+Completed: 1 0 5 5 
+Stack:
+ KC  --  ##  ##  ##  ##  KH 
+ QD      ##  TH  ##  ##  QS 
+ JS      4D      7S  ##  JD 
+ TD      3C          ##  TS 
+         2D          ##  9D 
+                     7C  8S 
+                         7D 
+                         6C 
+                         5D 
+                         4C 
+                         3D 
+Game 283 finished in 0.125s
+
+DECK:
+QD AS QC JD 4C 9S 9C 5D 2C 9H 4H 3H QH JC 8S KH 3C 9D 4D TD 4S 
+                                                /\
+Completed: 0 1 0 0 
+Stack:
+ 8C  JH  ##  ##  ##  ##  ## 
+ 7D      ##  ##  ##  ##  ## 
+ 6S      8H  ##  ##  ##  ## 
+             8D  ##  ##  ## 
+                 6D  ##  ## 
+                     6H  ## 
+                         3S 
+                         2D 
+Game 284 finished in 0.016s
+
+DECK:
+JS 5C 3C 5S 8C 8D 9S JC 
+      /\
+Completed: 0 5 2 3 
+Stack:
+ KH  KC  KS  KD  ##  ##  ## 
+ QS              ##  ##  ## 
+ JD              ##  ##  ## 
+ TC              JH  ##  ## 
+ 9H              TS  7H  ## 
+ 8S                      ## 
+ 7D                      TD 
+ 6C                      9C 
+ 5H                      8H 
+ 4C                         
+ 3H                         
+ 2C                         
+Game 285 finished in 0.531s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 286 finished in 0.469s
+Game 286 is WON!
+
+DECK:
+5D KC 9H TD JC 
+            /\
+Completed: 1 1 2 1 
+Stack:
+ KH  KD  ##  ##  ##  ##  ## 
+ QC      ##  ##  ##  ##  ## 
+ JH      8C  8H  ##  ##  6H 
+ TC      7D  7S  4S  QH  5S 
+ 9D      6C  6D      JS  4H 
+ 8S      5H  5C      TH     
+ 7H      4C  4D      9C     
+ 6S      3D  3C      8D     
+Game 287 finished in 0.718s
+
+DECK:
+7H 4H 6C QH 5C KC 
+      /\
+Completed: 0 1 3 3 
+Stack:
+ KH  KS  ##  KD  9H  ##  ## 
+ QC  QD  8D  QS      ##  ## 
+ JH  JS  7S  JD      ##  ## 
+     TD  6D  TS      ##  ## 
+             9D      3C  JC 
+             8S          TH 
+             7D          9S 
+             6S          8H 
+             5H          7C 
+             4C          6H 
+             3D             
+             2C             
+Game 288 finished in 0.860s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 289 finished in 3.468s
+Game 289 is WON!
+
+DECK:
+3D 9C 8D 5C 4D 
+            /\
+Completed: 4 2 7 8 
+Stack:
+ KH  KS  --  KC  7D  KD  TD 
+ QS  QH      QD  6C  QC     
+ JH  JC      JS  5D  JD     
+ TS          TH      TC     
+ 9H          9S      9D     
+             8H      8C     
+             7C             
+             6D             
+Game 290 finished in 6.344s
+
+DECK:
+7D QC QS 6C TH 3D 9S 7H 8S 4D 
+      /\
+Completed: 3 1 1 3 
+Stack:
+ QH  KS  ##  6S  ##  ##  ## 
+ JC  QD  ##      ##  ##  ## 
+ TD      JH      ##  ##  ## 
+ 9C      TS      ##  ##  ## 
+ 8D      9D      4H  JD  ## 
+ 7S      8C              ## 
+ 6H                      4C 
+                         3H 
+Game 291 finished in 0.531s
+
+DECK:
+KC QD 9H 2H TS 8S JC 
+               /\
+Completed: 2 0 0 2 
+Stack:
+ KH  KD  9C  ##  ##  ##  ## 
+ QC  QS  8D  ##  ##  ##  ## 
+ JH  JD  7S  ##  4D  8H  ## 
+ TC      6D  6C      7C  ## 
+ 9D      5S  5H      6H  JS 
+ 8C      4H  4C          TD 
+ 7D      3C                 
+ 6S      2D                 
+ 5D                         
+ 4S                         
+Game 292 finished in 0.579s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 293 finished in 1.187s
+Game 293 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 294 finished in 1.328s
+Game 294 is WON!
+
+DECK:
+7S TH 9C QC JS QH 
+   /\
+Completed: 6 8 8 6 
+Stack:
+ KC  --  --  KD  --  JH  ## 
+ QD          QS      TS  ## 
+ JC          JD          ## 
+ TD          TC          ## 
+ 9S          9H          8S 
+             8C             
+Game 295 finished in 0.906s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 296 finished in 1.219s
+Game 296 is WON!
+
+DECK:
+AD TH QC 7C KS JD 7D 9H 8H 6S JS 3H 6D 
+                  /\
+Completed: 1 0 0 2 
+Stack:
+ --  4H  --  ##  ##  ##  ## 
+     3C      ##  ##  ##  ## 
+     2H      ##  ##  ##  ## 
+             6C  ##  ##  ## 
+             5D  JH  JC  ## 
+             4C  TS  TD  ## 
+             3D  9D  9S  4D 
+                     8D  3S 
+                     7S  2D 
+                     6H     
+Game 297 finished in 0.391s
+
+DECK:
+KS JH 5S 4H 9H TS JS 
+               /\
+Completed: 4 2 3 1 
+Stack:
+ KC  --  KH  ##  ##  ##  ## 
+ QH          JD  ##  ##  ## 
+ JC          TC  ##  ##  5H 
+ TD          9D  TH  ##     
+ 9C          8S  9S  8C     
+ 8H              8D  7H     
+ 7C              7S  6S     
+                 6H  5D     
+                 5C         
+                 4D         
+                 3S         
+Game 298 finished in 0.672s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 299 finished in 2.937s
+Game 299 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 300 finished in 0.688s
+Game 300 is WON!
+
+DECK:
+AD 6D QC TS TD 9H 8H 4D 7C 5D 
+                     /\
+Completed: 5 0 1 1 
+Stack:
+ KD  KS  JD  ##  9C  3D  ## 
+ QS  QD  TC  ##  8D      ## 
+ JH      9D  ##  7S      ## 
+         8C  7H  6H      KC 
+         7D  6C  5S      QH 
+             5H  4H      JC 
+             4S  3S      TH 
+             3H  2D      9S 
+Game 301 finished in 0.422s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 302 finished in 2.656s
+Game 302 is WON!
+
+DECK:
+QD JC 
+/\
+Completed: 4 2 9 7 
+Stack:
+ KS  KD  KH  --  ##  QC  ## 
+ QH      QS      TC  JH  ## 
+ JS                  TS  ## 
+ TD                  9D  TH 
+ 9S                  8S  9C 
+                     7D  8D 
+                     6C  7C 
+                     5D  6D 
+                         5C 
+                         4D 
+Game 303 finished in 1.312s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 304 finished in 1.438s
+Game 304 is WON!
+
+DECK:
+
+/\
+Completed: 6 4 5 6 
+Stack:
+ KS  KC  KH  TC  --  KD  ## 
+ QD  QH  QS  9D      QC  ## 
+ JS  JC  JH  8S      JD  ## 
+ TD  TH  TS  7H          ## 
+     9C  9H              ## 
+     8H  8C              8D 
+     7S                     
+     6D                     
+Game 305 finished in 1.219s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 306 finished in 2.265s
+Game 306 is WON!
+
+DECK:
+8C 7H QS QD JC 2C 
+            /\
+Completed: 0 0 6 0 
+Stack:
+ KD  6S  ##  ##  ##  4C  ## 
+ QC      ##  ##  ##      ## 
+ JH      2S  ##  ##      ## 
+             9H  ##      ## 
+             8S  QH      ## 
+             7D  JS      TH 
+             6C  TD      9S 
+             5D  9C      8D 
+             4S  8H      7C 
+                 7S      6D 
+                         5C 
+                         4D 
+                         3S 
+Game 307 finished in 0.250s
+
+DECK:
+QC 9S JH 
+      /\
+Completed: 8 10 2 4 
+Stack:
+ KS  KH  KC  --  7S  ##  -- 
+ QD  QS  QH      6H  ##     
+ JC  JD  JS      5S  TC     
+     TS  TH      4H  9H     
+         9C          8S     
+         8H          7H     
+                     6S     
+                     5H     
+Game 308 finished in 1.625s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 309 finished in 2.125s
+Game 309 is WON!
+
+DECK:
+AH 7C KD JC 6H QC 7D JD 6S 
+                        /\
+Completed: 1 1 0 0 
+Stack:
+ KS  KC  ##  KH  ##  ##  ## 
+ QH      8D  QS  ##  ##  ## 
+ JS      7S  JH  ##  ##  5C 
+ TD      6D  TC  TH  ##  4H 
+         5S  9D      5H  3C 
+         4D  8S      4C     
+         3S  7H      3H     
+         2H  6C      2S     
+             5D             
+             4S             
+             3D             
+Game 310 finished in 0.438s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 311 finished in 2.859s
+Game 311 is WON!
+
+DECK:
+QC 5S 7D 4H 
+         /\
+Completed: 4 0 0 0 
+Stack:
+ KS  KD  ##  KH  ##  KC  ## 
+ QH  QS  6S      ##  QD  ## 
+ JC  JD  5D      9H  JS  ## 
+ TH  TS  4S          TD  ## 
+ 9C  9D  3D          9S  ## 
+ 8D  8S  2S          8H  JH 
+ 7S  7H              7C     
+     6C              6D     
+     5H              5C     
+                     4D     
+                     3S     
+                     2D     
+Game 312 finished in 0.469s
+
+DECK:
+8H QD JC 7D 8C 9D 2S 7S QC JS TC KD 6S 
+                              /\
+Completed: 6 6 3 0 
+Stack:
+ KH  TH  6H  ##  ##  ##  ## 
+ QS  9C  5S  ##  ##  4S  ## 
+     8D  4H  9S  TS      ## 
+         3S      9H      ## 
+                 8S      KS 
+Game 313 finished in 0.437s
+
+DECK:
+QC 
+/\
+Completed: 3 1 2 4 
+Stack:
+ KH  KC  KS  --  ##  4C  JD 
+ QS  QH  QD      ##  3D  TS 
+ JH      JS      ##      9D 
+ TC      TD      ##      8C 
+ 9H      9C      TH      7H 
+ 8S      8H      9S      6S 
+ 7D      7S      8D      5H 
+ 6C      6D      7C         
+ 5D      5C      6H         
+         4D      5S         
+                 4H         
+Game 314 finished in 1.422s
+
+DECK:
+4H QS JD 6D 5S TC 
+               /\
+Completed: 7 5 3 4 
+Stack:
+ KH  KD  KS  --  --  KC  9H 
+     QC  QH          QD  8C 
+     JH  JC          JS  7H 
+     TS  TH          TD  6S 
+     9D  9C          9S  5H 
+     8S  8H          8D     
+     7D              7S     
+                     6H     
+Game 315 finished in 148.360s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 316 finished in 2.218s
+Game 316 is WON!
+
+DECK:
+8C 2C 5D 7H 5S 6C 
+         /\
+Completed: 1 3 4 4 
+Stack:
+ KC  KD  KH  KS  7C  6D  -- 
+ QH  QC  QS  QD      5C     
+ JC  JH  JD  JS      4D     
+ TD  TC  TS  TH      3C     
+ 9S  9H  9D  9C             
+ 8H  8S      8D             
+     7D      7S             
+     6S      6H             
+     5H                     
+     4C                     
+Game 317 finished in 2.485s
+
+DECK:
+AS KS QD JD 7D TD TC JS 9C 8S 9H 
+                  /\
+Completed: 7 6 2 0 
+Stack:
+ KD  KC  --  KH  5H  --  8D 
+ QC  QH      QS  4S      7S 
+     JC      JH  3H      6H 
+     TH      TS  2S      5S 
+     9S      9D          4H 
+     8H      8C          3S 
+             7H             
+             6S             
+Game 318 finished in 22.750s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 319 finished in 2.250s
+Game 319 is WON!
+
+DECK:
+TH KC 3S 9C 6D 6H AS JC 5C KD 4D 8H 
+                     /\
+Completed: 0 2 1 0 
+Stack:
+ 5D  KH  ##  ##  ##  ##  ## 
+ 4C  QS  JD  ##  ##  ##  ## 
+ 3D  JH      ##  ##  ##  ## 
+ 2C          9H  ##  ##  ## 
+             8C  9S  ##  7D 
+             7H  8D  3C     
+             6C             
+             5H             
+             4S             
+             3H             
+             2S             
+Game 320 finished in 0.218s
+
+DECK:
+AS 2H TS 9H JD 3S KH 6D 2C 9D KD JH 6H 8H 5D 5C AD 4S KC 3C 8C 5H 7S QC 
+      /\
+Completed: 0 0 0 0 
+Stack:
+ JS  2D  ##  ##  ##  ##  ## 
+ TH      ##  ##  ##  ##  ## 
+         TC  ##  ##  ##  ## 
+             JC  ##  ##  ## 
+                 5S  ##  ## 
+                     7C  ## 
+                         7D 
+Game 321 finished in 0.000s
+
+DECK:
+5C 5D 3S KS 8C 4H QD JH 2C KH 9S 7H QH 
+                  /\
+Completed: 0 4 1 0 
+Stack:
+ KD  6S  ##  8D  ##  ##  ## 
+ QC      JS      ##  ##  ## 
+ JD              ##  ##  ## 
+ TC              7D  ##  ## 
+ 9H              6C  6H  ## 
+                 5H      JC 
+                 4C      TH 
+                 3H      9C 
+                 2S      8H 
+                         7C 
+                         6D 
+Game 322 finished in 0.282s
+
+DECK:
+QC TH 9S KH JC JH 
+               /\
+Completed: 8 5 9 3 
+Stack:
+ KC  KD  --  ##  KS  --  QS 
+ QH          TS  QD      JD 
+ JS                      TC 
+ TD                      9D 
+ 9C                      8S 
+ 8D                      7D 
+ 7S                      6S 
+ 6D                         
+ 5S                         
+Game 323 finished in 2.109s
+
+DECK:
+4D 8S TH JS 6H 5D QH 
+                  /\
+Completed: 1 2 4 7 
+Stack:
+ KH  KS  ##  --  ##  ##  ## 
+ QC  QD  TD      ##  TC  ## 
+         9S      QS  9D  ## 
+         8H      JH      ## 
+                 TS      9C 
+                 9H      8D 
+                 8C      7C 
+                 7D      6D 
+                 6C      5C 
+                 5H         
+                 4C         
+Game 324 finished in 1.078s
+
+DECK:
+9S 9D 7H 8D 3C KH 4S TH 9C 6S 5H KC 5C QH KS 
+                                          /\
+Completed: 1 0 3 3 
+Stack:
+ TS  TC  ##  ##  ##  ##  ## 
+ 9H      6H  ##  ##  ##  ## 
+ 8S          ##  ##  ##  ## 
+ 7D          KD  8H  4D  ## 
+ 6C          QS          ## 
+ 5D                      QD 
+ 4C                         
+ 3D                         
+Game 325 finished in 0.328s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 326 finished in 2.266s
+Game 326 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 327 finished in 1.250s
+Game 327 is WON!
+
+DECK:
+JD JS TH 4D 9C 7S 
+               /\
+Completed: 6 3 7 3 
+Stack:
+ KC  KS  5D  QC  KD  ##  KH 
+ QH  QD              ##  QS 
+ JC                  ##  JH 
+ TD                  TC  TS 
+ 9S                  9H  9D 
+ 8H                  8C  8S 
+ 7C                  7D     
+ 6D                  6S     
+Game 328 finished in 1.531s
+
+DECK:
+3S 9C 8H QS 
+         /\
+Completed: 0 2 4 0 
+Stack:
+ KS  2C  KD  ##  ##  ##  ## 
+ QH      QC  JH  ##  ##  7D 
+ JC      JD  TS  6D  ##  6S 
+         TC      5S  ##  5D 
+         9H      4D  QD  4S 
+         8C      3C  JS  3D 
+         7H          TH  2S 
+         6C          9S     
+         5H          8D     
+         4C          7C     
+                     6H     
+                     5C     
+Game 329 finished in 0.828s
+
+DECK:
+4D 5D 6H JH 
+   /\
+Completed: 4 3 1 3 
+Stack:
+ KS  KH  KC  TC  ##  ##  ## 
+ QH      QD  9D  ##  ##  ## 
+ JC      JS  8C  6D  ##  ## 
+         TH  7H  5C  KD  ## 
+         9C  6C  4H  QS  ## 
+         8H  5H      JD  8D 
+             4S      TS     
+             3H      9H     
+Game 330 finished in 0.688s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 331 finished in 1.890s
+Game 331 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 332 finished in 0.532s
+Game 332 is WON!
+
+DECK:
+6D TH 
+   /\
+Completed: 3 1 4 5 
+Stack:
+ KC  KS  KH  --  ##  KD  ## 
+ QH  QD  QC      9S  QS  ## 
+ JS      JD      8H  JH  ## 
+ TD      TS      7C  TC  ## 
+ 9C      9D          9H  ## 
+ 8D                  8C  ## 
+ 7S                  7H  4C 
+ 6H                  6C  3D 
+ 5C                         
+ 4D                         
+Game 333 finished in 0.484s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 334 finished in 1.094s
+Game 334 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 335 finished in 0.875s
+Game 335 is WON!
+
+DECK:
+
+/\
+Completed: 7 5 1 3 
+Stack:
+ --  KS  --  --  KD  ##  ## 
+     QD          QS  ##  ## 
+     JC          JH  QH  QC 
+     TH          TC  JS  JD 
+     9C          9D  TD  TS 
+     8H          8S  9S  9H 
+                 7H  8D  8C 
+                     7S  7D 
+                     6D  6S 
+                     5S  5H 
+                     4H  4S 
+                         3H 
+Game 336 finished in 1.875s
+
+DECK:
+5C KD 6S JC QC TD 5S TS 8C QH 8D 
+                     /\
+Completed: 4 6 6 4 
+Stack:
+ --  KS  --  --  ##  --  ## 
+     QD          ##      ## 
+     JS          7C      ## 
+     TH                  ## 
+     9C                  QS 
+     8H                  JH 
+     7S                  TC 
+                         9H 
+                         8S 
+                         7H 
+                         6C 
+Game 337 finished in 1.047s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 338 finished in 3.406s
+Game 338 is WON!
+
+DECK:
+QS JD 
+   /\
+Completed: 4 6 2 4 
+Stack:
+ --  KD  KS  --  --  ##  KC 
+     QC  QD          ##  QH 
+     JH  JC          ##  JS 
+     TS  TD          TC  TH 
+     9D  9S          9H  9C 
+     8S  8D          8C  8H 
+     7D  7S          7H  7C 
+     6S              6C  6H 
+                     5H  5S 
+                         4H 
+Game 339 finished in 1.328s
+
+DECK:
+9D 7C 4H 5C KC QH 2H 5S 7S 3H 3D 4S 3C QD 6C TS 2D 9C KD QS 
+                                                         /\
+Completed: 0 0 0 2 
+Stack:
+ TC  QC  ##  ##  ##  ##  ## 
+ 9H      ##  ##  ##  ##  ## 
+ 8C      JC  ##  ##  ##  ## 
+ 7D          9S  ##  ##  ## 
+                 2C  ##  ## 
+                     6S  ## 
+                         JS 
+Game 340 finished in 0.016s
+
+DECK:
+2D 9D 7D 6H 7S 5S 
+            /\
+Completed: 3 1 0 2 
+Stack:
+ KC  KD  KS  KH  --  ##  ## 
+ QH  QS      QC      ##  ## 
+ JS  JH      JD      6S  ## 
+ TD          TS      5H  ## 
+ 9C          9H      4S  JC 
+ 8D          8S      3D  TH 
+ 7C          7H          9S 
+ 6D          6C             
+ 5C          5D             
+ 4D          4C             
+ 3S          3H             
+ 2H                         
+Game 341 finished in 0.750s
+
+DECK:
+JH 3H 5D 7H 
+   /\
+Completed: 2 1 1 0 
+Stack:
+ KH  7C  ##  ##  ##  ##  ## 
+ QS  6D  QD  ##  ##  ##  ## 
+     5C  JS  ##  ##  TS  ## 
+     4H  TD  QH  KD      ## 
+             JC  QC      5H 
+             TH  JD      4S 
+             9S  TC      3D 
+             8D  9D      2S 
+             7S  8C         
+             6H  7D         
+             5S             
+             4D             
+             3S             
+Game 342 finished in 0.578s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 343 finished in 0.875s
+Game 343 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 344 finished in 1.937s
+Game 344 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 345 finished in 1.922s
+Game 345 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 346 finished in 2.610s
+Game 346 is WON!
+
+DECK:
+TC 8S 7S 8H 8C 
+            /\
+Completed: 4 2 4 5 
+Stack:
+ KH  KS  --  ##  ##  ##  ## 
+ QC  QH      ##  ##  ##  ## 
+     JS      ##  QD  ##  ## 
+             7H  JC  TS  ## 
+                 TD      ## 
+                 9C      7D 
+                 8D      6C 
+                 7C      5D 
+                 6D         
+                 5C         
+                 4D         
+Game 347 finished in 0.953s
+
+DECK:
+6S 9C TC 3C 4S 7D 3S QD KC 
+                     /\
+Completed: 1 4 2 0 
+Stack:
+ 4C  KD  ##  9D  ##  ##  ## 
+ 3H  QS  ##  8S  ##  ##  ## 
+ 2S  JH  8H  7H  ##  ##  ## 
+     TS  7C  6C  JS  ##  ## 
+     9H              ##  9S 
+                     JC  8D 
+                         7S 
+                         6D 
+                         5S 
+                         4H 
+Game 348 finished in 0.312s
+
+DECK:
+AS 8S 6H QD 5S 7C 6C KC 6D TC 5C JH 7S 5H 8C QC TD 
+                              /\
+Completed: 1 2 0 0 
+Stack:
+ KD  KS  ##  ##  KH  ##  ## 
+     QH  ##  ##  QS  ##  ## 
+         7H  ##  JD  ##  ## 
+         6S  TH  TS  ##  ## 
+         5D  9C      4C  ## 
+         4S              ## 
+                         4H 
+                         3S 
+                         2H 
+Game 349 finished in 0.031s
+
+DECK:
+7H QD JH JS 
+/\
+Completed: 5 6 3 7 
+Stack:
+ KH  --  TH  KD  KS  KC  ## 
+         9S  QS      QH  ## 
+             JD      JC  ## 
+             TC      TD  ## 
+             9H      9C  TS 
+             8S      8D  9D 
+             7D      7C     
+             6C      6H     
+             5H             
+Game 350 finished in 0.954s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 351 finished in 1.531s
+Game 351 is WON!
+
+DECK:
+8S 5C 8C JD 7D 3C TH 3D JS 4D 
+               /\
+Completed: 0 1 2 4 
+Stack:
+ KS  7C  KC  ##  ##  ##  ## 
+ QD  6D      ##  ##  ##  ## 
+ JC          6C  ##  ##  ## 
+ TD              ##  ##  ## 
+                 8D  ##  ## 
+                 7S  JH  ## 
+                 6H  TS  6S 
+                         5D 
+                         4C 
+                         3H 
+                         2C 
+Game 352 finished in 0.250s
+
+DECK:
+9H 3C 7H QS TD 9C 2H 
+            /\
+Completed: 2 4 0 4 
+Stack:
+ KC  KH  ##  ##  --  ##  ## 
+ QD  QC  ##  8S      ##  ## 
+ JC  JH  JD  7D      ##  ## 
+ TH  TS  TC  6S      7C  ## 
+ 9S          5D      6H  QH 
+ 8H          4C             
+ 7S          3H             
+ 6D                         
+ 5S                         
+ 4H                         
+Game 353 finished in 0.515s
+
+DECK:
+KD 7C 7S JS 
+         /\
+Completed: 4 6 1 4 
+Stack:
+ KH  KS  8C  ##  ##  ##  ## 
+ QC  QH  7H  ##  ##  ##  ## 
+ JH  JC  6C  ##  6H  ##  ## 
+     TH      4H      6S  ## 
+     9C              5H  ## 
+                         QS 
+                         JD 
+                         TC 
+                         9D 
+                         8S 
+Game 354 finished in 0.735s
+
+DECK:
+8S TC JS TS 5H TH QH 3S 9D 3H 5D 2S 4H 9C KS 4C 
+                                       /\
+Completed: 1 2 0 0 
+Stack:
+ 7H  ##  ##  ##  ##  ##  ## 
+     KH  KD  4S  ##  ##  ## 
+     QC  QS      ##  ##  ## 
+                 6D  ##  ## 
+                     ##  ## 
+                     9H  ## 
+                         9S 
+                         8D 
+                         7C 
+                         6H 
+                         5S 
+                         4D 
+                         3C 
+                         2H 
+Game 355 finished in 0.109s
+
+DECK:
+6D 7D 5C 6C TH KS 
+/\
+Completed: 2 1 3 4 
+Stack:
+ KD  KC  ##  ##  ##  ##  ## 
+ QS  QH  5D  ##  9S  ##  ## 
+     JC  4C  ##  8H  ##  ## 
+     TD  3D  TC      TS  ## 
+     9C      9D          ## 
+             8S          ## 
+             7H          6H 
+             6S          5S 
+             5H          4D 
+Game 356 finished in 0.860s
+
+DECK:
+3D 4S 2S 4H 3H QH 
+/\
+Completed: 6 0 1 0 
+Stack:
+ KH  KS  KD  2D  ##  TS  ## 
+ QC  QD  QS      ##  9D  ## 
+ JH  JS  JD      JC  8S  ## 
+     TH  TC      TD  7H  ## 
+     9S  9H      9C      7C 
+         8C      8H      6D 
+         7D      7S         
+         6S      6H         
+         5D      5S         
+                 4D         
+                 3S         
+Game 357 finished in 1.125s
+
+DECK:
+5H 7H KS QH 5D TD 8S 7S 8D 
+                     /\
+Completed: 0 0 0 4 
+Stack:
+ KH  QD  ##  ##  ##  ##  ## 
+     JC  ##  ##  ##  ##  ## 
+     TH  JD  6D  ##  ##  ## 
+     9S  TC      4H  ##  4C 
+     8H  9H          ##  3H 
+     7C  8C          KD  2C 
+     6H  7D                 
+     5S  6S                 
+     4D                     
+     3C                     
+     2H                     
+Game 358 finished in 0.156s
+
+DECK:
+AS 9S QH 2C 7D 7S TC 4H JH 3C 4D JC 
+                                 /\
+Completed: 1 0 0 0 
+Stack:
+ 9H  KD  --  ##  ##  ##  ## 
+     QS      ##  ##  ##  ## 
+     JD      6C  ##  ##  ## 
+     TS      5H  QD  ##  ## 
+     9D      4S  JS  ##  ## 
+             3D  TH  7H  ## 
+             2S  9C  6S  3S 
+                 8H  5D     
+                 7C  4C     
+                     3H     
+Game 359 finished in 0.047s
+
+DECK:
+KD 2D JS 3D 5S 4H 6H 2C 7C 7H JC 7S KC 8S 4D TC 9D 
+                        /\
+Completed: 1 1 2 4 
+Stack:
+ KH  8C  ##  --  ##  ##  ## 
+ QC  7D  ##      ##  ##  ## 
+ JD  6C  3C      ##  ##  ## 
+     5H          ##  6D  ## 
+     4C          5D      ## 
+                         ## 
+                         9S 
+Game 360 finished in 0.109s
+
+DECK:
+5H 7D JD QD 4H KC 4S KS QH TH 9S 7C 
+                                 /\
+Completed: 2 0 3 0 
+Stack:
+ KH  ##  ##  ##  ##  ##  ## 
+ QS  JS  ##  ##  ##  ##  ## 
+ JH  TD  4C  6S  ##  ##  ## 
+ TS  9C  3D      ##  ##  ## 
+ 9D  8H          JC  4D  ## 
+     7S                  ## 
+                         6C 
+Game 361 finished in 0.156s
+
+DECK:
+8D 6H KH 6D TH 7H 4H 9C 5H 6S 5S 
+                  /\
+Completed: 1 4 0 1 
+Stack:
+ KS  ##  QS  ##  ##  ##  ## 
+ QD  6C  JD  ##  KC  ##  ## 
+ JS  5D  TC  KD  QH  ##  4S 
+ TD  4C  9D  QC      ##  3H 
+ 9S          JH      3S     
+ 8H          TS      2H     
+ 7C          9H             
+Game 362 finished in 0.766s
+
+DECK:
+QH JD 9H JS 5H QS TS 
+         /\
+Completed: 6 5 3 7 
+Stack:
+ KC  KH  --  --  --  9C  ## 
+ QD  QC              8H  ## 
+ JC  JH                  ## 
+ TD  TC                  ## 
+ 9S  9D                  ## 
+ 8D  8S                  8C 
+ 7C  7D                  7H 
+ 6H                         
+Game 363 finished in 0.859s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 364 finished in 0.735s
+Game 364 is WON!
+
+DECK:
+KS 6S JS 7C TS 2D QD 2C KH 5H 5C 8H 4S QC KC 
+                              /\
+Completed: 1 0 0 2 
+Stack:
+ 4H  ##  ##  ##  ##  ##  ## 
+ 3C  4D  JH  ##  TD  ##  ## 
+ 2H          ##      3H  ## 
+             QH          ## 
+             JC          ## 
+             TH          ## 
+             9C          KD 
+             8D          QS 
+                         JD 
+                         TC 
+                         9H 
+                         8S 
+                         7D 
+                         6C 
+Game 365 finished in 0.281s
+
+DECK:
+7C QC QD 9H 7H 8S 6S 
+      /\
+Completed: 4 0 2 2 
+Stack:
+ KH  KD  --  ##  ##  6D  ## 
+     QS      ##  5D  5S  ## 
+     JH      ##  4S  4D  ## 
+     TS      TD  3D      ## 
+     9D      9C          QH 
+     8C      8H          JC 
+     7D      7S          TH 
+     6C      6H          9S 
+     5H      5C             
+             4H             
+             3S             
+             2D             
+Game 366 finished in 0.859s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 367 finished in 0.578s
+Game 367 is WON!
+
+DECK:
+4D KS 8H AD 8D 7C JH 7H 5C KD 2D 9D 5H AC TH 4H 3H KH 9S AH 9H 6D TS 
+                                                                  /\
+Completed: 0 0 0 3 
+Stack:
+ 5D  QC  ##  ##  ##  ##  ## 
+ 4S      7S  ##  ##  ##  ## 
+             2C  ##  ##  ## 
+                 ##  ##  ## 
+                 QD  3C  ## 
+                     2H  ## 
+                         7D 
+Game 368 finished in 0.000s
+
+DECK:
+JC 2S QD 8S 9H TD 7D 
+                  /\
+Completed: 7 4 4 1 
+Stack:
+ KS  KD  3S  KH  --  9C  ## 
+ QH  QC      QS      8H  ## 
+ JS                      ## 
+ TH                      ## 
+ 9S                      ## 
+ 8D                      ## 
+ 7S                      TC 
+ 6H                      9D 
+ 5S                      8C 
+                         7H 
+                         6S 
+                         5H 
+                         4S 
+Game 369 finished in 1.063s
+
+DECK:
+7H 8H 8S 5S 7S 6H 
+         /\
+Completed: 4 5 2 2 
+Stack:
+ KC  KS  KH  KD  QS  ##  ## 
+ QH  QD  QC      JH  ##  ## 
+ JS  JC  JD      TS  ##  6S 
+     TD  TC          ##  5H 
+         9D          ##  4S 
+         8C          7C     
+         7D          6D     
+         6C          5C     
+                     4H     
+Game 370 finished in 0.906s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 371 finished in 1.375s
+Game 371 is WON!
+
+DECK:
+5C QC JH 7D 9H TS 8C 
+            /\
+Completed: 4 6 6 7 
+Stack:
+ KS  KD  KC  KH  --  --  -- 
+ QH      QD  QS             
+ JC      JS  JD             
+ TD      TH  TC             
+ 9S      9C  9D             
+ 8H      8D  8S             
+         7C  7H             
+             6C             
+Game 372 finished in 3.797s
+
+DECK:
+KH 7S 6D 8D 
+         /\
+Completed: 3 3 1 5 
+Stack:
+ KS  KD  ##  KC  ##  ##  TD 
+     QS  ##  QD  ##  QC     
+     JH  JC  JS  8S  JD     
+     TC  TH      7H  TS     
+         9C      6S  9H     
+         8H      5H  8C     
+         7C      4C  7D     
+         6H      3H  6C     
+         5C          5D     
+         4H                 
+Game 373 finished in 1.266s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 374 finished in 1.484s
+Game 374 is WON!
+
+DECK:
+5H 3H JC 4S 5C 4D KD 
+      /\
+Completed: 1 1 0 3 
+Stack:
+ KH  KS  KC  ##  ##  ##  ## 
+ QS      QH  ##  ##  ##  ## 
+ JD      JS  TD  ##  ##  6C 
+ TS      TH  9S  7C  ##     
+ 9D      9C      6H  9H     
+         8D      5S  8S     
+         7S      4H  7D     
+                 3C  6S     
+                 2H  5D     
+                     4C     
+                     3D     
+Game 375 finished in 0.500s
+
+DECK:
+
+/\
+Completed: 1 3 9 10 
+Stack:
+ KH  KD  QH  --  QS  KS  ## 
+ QC      JC      JH  QD  ## 
+ JD              TC      ## 
+                 9D      ## 
+                 8C      ## 
+                 7D      9C 
+                 6C      8D 
+                 5D      7C 
+                 4C      6D 
+                         5C 
+                         4D 
+                         3C 
+Game 376 finished in 1.172s
+
+DECK:
+QC 2D JH AS TD JD 2H KH 5S TS 
+                     /\
+Completed: 4 1 1 0 
+Stack:
+ KC  TC  ##  ##  ##  ##  ## 
+ QD  9H  ##  KS  9D  5D  ## 
+ JS      7D  QH  8C  4S  ## 
+             JC  7H  3H  ## 
+             TH  6S  2S  KD 
+             9C  5H         
+             8H             
+             7C             
+             6H             
+             5C             
+             4D             
+             3S             
+Game 377 finished in 0.500s
+
+DECK:
+4C 2D TH 6C TS TD 7C JD 8D JC 4H TC 3D 4D 7S JS 
+                        /\
+Completed: 0 1 3 1 
+Stack:
+ KD  7H  ##  ##  ##  ##  ## 
+ QS      3C  ##  ##  ##  ## 
+             KH  ##  ##  ## 
+             QC  ##  ##  ## 
+                 6D  ##  ## 
+                     8C  ## 
+                     7D  6H 
+                     6S     
+                     5H     
+                     4S     
+Game 378 finished in 0.109s
+
+DECK:
+5D QD 
+   /\
+Completed: 6 2 4 0 
+Stack:
+ KH  KD  ##  KC  ##  --  -- 
+ QS  QC  JC  QH  ##         
+ JH  JD  TH  JS  9D         
+     TS  9S  TD  8S         
+     9H  8D  9C  7H         
+     8C  7C  8H             
+     7D  6D  7S             
+     6S      6H             
+     5H      5S             
+     4S      4D             
+     3D      3S             
+     2S                     
+Game 379 finished in 1.422s
+
+DECK:
+2D 6C QS KH QH JH 9H 5D 7D 3S 
+               /\
+Completed: 5 1 3 0 
+Stack:
+ 7H  KC  KD  --  ##  ##  ## 
+ 6S      QC      ##  TC  ## 
+ 5H      JD      ##  9D  ## 
+ 4S      TS      JC      ## 
+ 3D              TD      ## 
+ 2S              9C      9S 
+                 8D      8H 
+                 7C      7S 
+                 6D      6H 
+                         5S 
+Game 380 finished in 0.531s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 381 finished in 1.813s
+Game 381 is WON!
+
+DECK:
+3H 9H 8S KC 3D 8C 8D TD QD 
+                     /\
+Completed: 4 1 2 4 
+Stack:
+ KD  ##  7S  7H  ##  ##  ## 
+ QC  TH  6H  6S  QH  ##  ## 
+ JD  9S  5C  5D      ##  ## 
+ TS  8H  4H          QS  ## 
+     7C              JH  7D 
+     6D              TC     
+     5S                     
+     4D                     
+Game 382 finished in 0.937s
+
+DECK:
+7H 9C 4H KC QS QD 9D 
+            /\
+Completed: 2 0 2 0 
+Stack:
+ KD  ##  4S  ##  ##  ##  ## 
+ QC  8H  3H  JC  ##  ##  ## 
+ JD      2S      ##  ##  ## 
+                 6S  ##  ## 
+                 5D  JH  ## 
+                 4C  TS  ## 
+                     9H  JS 
+                     8C  TH 
+                     7D  9S 
+                     6C  8D 
+                         7S 
+                         6H 
+                         5C 
+                         4D 
+                         3S 
+Game 383 finished in 0.329s
+
+DECK:
+5S 3D JS 6D 
+         /\
+Completed: 4 1 5 4 
+Stack:
+ KH  KC  --  KD  KS  8S  ## 
+ QS          QC  QD  7H  ## 
+ JH          JD  JC  6S  ## 
+ TC          TS  TH      TD 
+ 9D          9H  9S      9C 
+             8C  8D      8H 
+             7D  7C         
+             6C  6H         
+             5D  5C         
+                 4D         
+Game 384 finished in 1.937s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 385 finished in 1.656s
+Game 385 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 386 finished in 1.063s
+Game 386 is WON!
+
+DECK:
+6C 5H QS QH JD 9D KC TC JC 
+                     /\
+Completed: 3 4 0 6 
+Stack:
+ 2H  KH  --  ##  8S  KS  ## 
+     QC      4C  7D  QD  ## 
+     JH      3H      JS  TH 
+     TS              TD  9C 
+     9H              9S  8H 
+     8C              8D  7S 
+     7H              7C  6D 
+                     6H     
+                     5C     
+                     4H     
+Game 387 finished in 0.657s
+
+DECK:
+JC 5D KC 3S 6H 8C AD TS 7D 4D QH 8S 6C 3H 2D TC 3D KH QD 3C 7H 9C 
+                                                               /\
+Completed: 0 0 1 0 
+Stack:
+ TD  ##  ##  ##  ##  ##  ## 
+     KS  ##  ##  ##  ##  ## 
+         5H  ##  ##  ##  ## 
+         4S  JH  ##  ##  ## 
+                 5S  ##  ## 
+                     QS  7S 
+                     JD     
+Game 388 finished in 0.000s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 389 finished in 1.328s
+Game 389 is WON!
+
+DECK:
+3D QS 6D QD 4S 4D JH 5C 
+      /\
+Completed: 0 1 0 3 
+Stack:
+ KD  KH  TH  3C  9H  ##  ## 
+     QC  9S  2H  8S  ##  ## 
+     JD  8D      7D  ##  ## 
+     TS          6S  JS  ## 
+     9D                  ## 
+     8C                  QH 
+     7H                  JC 
+     6C                  TD 
+     5D                  9C 
+     4C                  8H 
+     3H                  7C 
+     2C                  6H 
+                         5S 
+                         4H 
+Game 390 finished in 0.594s
+
+DECK:
+QS 
+/\
+Completed: 3 7 0 5 
+Stack:
+ --  KC  KD  --  KS  ##  ## 
+     QD  QC      QH  ##  ## 
+         JH      JC  ##  TD 
+         TC      TH  ##  9S 
+         9H      9C  TS  8D 
+         8S      8H  9D  7S 
+                 7C  8C     
+                 6H  7H     
+                 5C  6S     
+                 4H  5H     
+                     4C     
+                     3H     
+Game 391 finished in 1.953s
+
+DECK:
+7S 7H QD KS JC 9S TH 6H KD QH KC 8H 7C JS QC 
+      /\
+Completed: 0 1 0 4 
+Stack:
+ 6D  9H  ##  ##  ##  8D  ## 
+ 5S  8S  ##  ##  ##      ## 
+ 4D      JH  JD  ##      ## 
+                 ##      ## 
+                 5C      ## 
+                 4H      8C 
+                 3C      7D 
+                 2H      6C 
+                         5D 
+                         4C 
+                         3D 
+                         2C 
+Game 392 finished in 0.187s
+
+DECK:
+KD AD 4D 8S 7C TD 6D 2S 8D 4C 7H 4S QD 3D TC KS 2C 6S AS 9H JC 9C JD 
+                                                                  /\
+Completed: 1 0 0 0 
+Stack:
+ 2H  ##  ##  ##  ##  ##  ## 
+     KH  ##  ##  ##  ##  ## 
+         6C  ##  ##  ##  ## 
+             8H  ##  ##  ## 
+                 TS  ##  ## 
+                     3H  ## 
+                         6H 
+Game 393 finished in 0.000s
+
+DECK:
+6D JC TC QS 9C 6S TD JH 
+            /\
+Completed: 5 5 3 4 
+Stack:
+ KC  --  KD  ##  KH  ##  KS 
+ QH      QC  8S      ##  QD 
+         JD  7D      ##  JS 
+         TS  6C      8H  TH 
+         9D  5H      7S  9S 
+         8C          6H  8D 
+                         7C 
+Game 394 finished in 0.500s
+
+DECK:
+5H JH 4C TS 5C 9H 3C KC 9S JC QH 
+                              /\
+Completed: 2 1 4 3 
+Stack:
+ KS  KH  8D  QS  KD  ##  -- 
+ QD      7S  JD  QC  ##     
+ JS      6H  TC      ##     
+ TH      5S  9D      8C     
+ 9C      4D  8S      7D     
+ 8H          7H      6S     
+ 7C          6C             
+             5D             
+             4S             
+             3D             
+Game 395 finished in 1.188s
+
+DECK:
+QD 4S 6D 7D KD 8D 5D 8C 7C 5S 4D 
+   /\
+Completed: 3 0 0 2 
+Stack:
+ TD  6C  KH  ##  ##  ##  ## 
+ 9S      QC  ##  ##  ##  KS 
+ 8H      JD  QS  ##  ##  QH 
+ 7S          JH  ##  ##     
+ 6H              TH  9D     
+ 5C                  8S     
+ 4H                  7H     
+ 3S                  6S     
+ 2H                  5H     
+                     4C     
+                     3H     
+Game 396 finished in 0.390s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 397 finished in 1.047s
+Game 397 is WON!
+
+DECK:
+8D 9S KS 9H 6S 7S 5D 6C 
+                  /\
+Completed: 2 3 4 2 
+Stack:
+ KC  ##  KH  KD  ##  ##  ## 
+ QH  6D  QC  QS  ##  ##  ## 
+ JS  5S          4C  ##  ## 
+ TH                  ##  ## 
+ 9C                  ##  ## 
+ 8H                  9D  QD 
+ 7C                  8S  JC 
+ 6H                         
+ 5C                         
+Game 398 finished in 1.125s
+
+DECK:
+8C 3S 3H 7S 7H 6H 3D 2H 9H 6S 5H 
+                           /\
+Completed: 5 1 0 0 
+Stack:
+ KC  --  4H  KD  KS  KH  ## 
+ QD          QS  QH  QC  ## 
+ JC          JH  JS  JD  ## 
+ TD              TH  TC  ## 
+ 9S              9C  9D  ## 
+ 8D              8H  8S  2S 
+ 7C                  7D     
+ 6D                  6C     
+ 5S                  5D     
+ 4D                         
+Game 399 finished in 1.172s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 400 finished in 1.344s
+Game 400 is WON!
+
+DECK:
+6D 8D 7H 4H KS QH 6H KD 
+            /\
+Completed: 0 0 0 3 
+Stack:
+ 6C  ##  KH  ##  ##  ##  ## 
+ 5H  5S  QC  ##  ##  ##  ## 
+     4D  JH  ##  QS  ##  ## 
+     3C  TS  5C  JD  QD  9S 
+     2H  9H      TC  JS     
+                 9D  TH     
+                 8C  9C     
+                 7D  8H     
+                 6S         
+                 5D         
+                 4S         
+                 3H         
+                 2C         
+Game 401 finished in 0.562s
+
+DECK:
+QD 9S TD 9D QC 3C 7D 7H 6C 
+                        /\
+Completed: 1 1 5 3 
+Stack:
+ KD  6H  ##  ##  ##  ##  ## 
+ QS  5S  KS  7C  ##  ##  ## 
+ JH      QH  6D  JD  ##  ## 
+ TC      JC  5C  TS  ##  ## 
+ 9H      TH          3D  ## 
+         9C              6S 
+                         5D 
+Game 402 finished in 0.266s
+
+DECK:
+6C 9H KD 5H 7D JD 3S JH 8S AC 6H 3C JS 4D JC 7H 5D QC 3D 2H 7C 4C 
+                                                         /\
+Completed: 0 0 0 2 
+Stack:
+ KC  ##  ##  ##  ##  ##  ## 
+     2D  ##  TS  ##  ##  ## 
+         8C      ##  ##  ## 
+                 ##  ##  ## 
+                 3H  ##  ## 
+                     TH  TD 
+                     9C     
+                     8D     
+                     7S     
+Game 403 finished in 0.078s
+
+DECK:
+7H TH 9H AD KC JC 6C 3C 6H JS 5S 7S 6S 2D 2H 8C QD 3D 9D QH 7D 2C TC 7C 
+      /\
+Completed: 0 0 0 0 
+Stack:
+ 9C  ##  ##  ##  ##  ##  ## 
+     QC  5D  ##  ##  ##  ## 
+     JD      ##  ##  ##  ## 
+             9S  ##  ##  ## 
+                 KH  ##  ## 
+                     3H  KS 
+                     2S     
+Game 404 finished in 0.000s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 405 finished in 1.781s
+Game 405 is WON!
+
+DECK:
+TH 7C 4D KH 6H 
+            /\
+Completed: 0 2 3 6 
+Stack:
+ KS  KC  QH  KD  --  ##  JD 
+ QD      JS  QC      ##  TC 
+ JC          JH      ##  9D 
+ TD          TS      ##  8S 
+ 9C          9H      9S  7D 
+ 8D          8C             
+ 7S          7H             
+ 6D          6C             
+ 5C          5H             
+ 4H          4C             
+ 3C          3D             
+             2C             
+Game 406 finished in 0.578s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 407 finished in 2.188s
+Game 407 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 408 finished in 3.016s
+Game 408 is WON!
+
+DECK:
+6D 5C JC 8S 7H TH AD 2H 5H 3D 4S 9C 8C QC TS 3S 6C 2C KC 6H JH 3C 9D 3H 
+      /\
+Completed: 0 0 0 1 
+Stack:
+ TC  ##  ##  ##  ##  ##  ## 
+     4H  ##  ##  ##  ##  ## 
+         4D  ##  ##  ##  ## 
+             9H  KD  ##  ## 
+                     ##  ## 
+                     7C  ## 
+                         7D 
+Game 409 finished in 0.000s
+
+DECK:
+4D TD KC 8D 9H JS 5H 9D 5D 7D AH TS KH 6H 3C QH 7S 8C 4S TH 8S QD 7H KD 
+      /\
+Completed: 0 1 0 0 
+Stack:
+ 2C  JC  ##  ##  ##  ##  ## 
+         2D  ##  ##  ##  ## 
+             ##  ##  ##  ## 
+             9S  ##  ##  ## 
+                 6D  ##  ## 
+                 5S  2S  ## 
+                         QC 
+Game 410 finished in 0.000s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 411 finished in 1.687s
+Game 411 is WON!
+
+DECK:
+7C KH TD 6C 9C 
+            /\
+Completed: 0 2 8 5 
+Stack:
+ KC  --  KD  KS  ##  3C  4D 
+ QD      QS  QH  ##         
+         JD  JC  QC         
+         TC  TH  JH         
+         9D  9S  TS         
+         8C  8D  9H         
+             7S  8S         
+             6D  7D         
+             5C  6S         
+                 5D         
+                 4C         
+                 3D         
+                 2C         
+Game 412 finished in 0.797s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 413 finished in 1.062s
+Game 413 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 414 finished in 1.954s
+Game 414 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 415 finished in 0.812s
+Game 415 is WON!
+
+DECK:
+QS 5C 3S 6H TD QD JC TS JD 
+   /\
+Completed: 1 1 3 1 
+Stack:
+ KC  9D  9S  KH  ##  ##  ## 
+ QH      8D  QC  ##  ##  ## 
+ JS      7C  JH  KD  ##  6C 
+ TH      6D  TC      ##  5D 
+ 9C      5S  9H      ##     
+ 8H      4H  8S      6S     
+ 7S      3C          5H     
+                     4S     
+                     3D     
+Game 416 finished in 0.328s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 417 finished in 0.828s
+Game 417 is WON!
+
+DECK:
+8C TH 7H 5H QS TC 9C JH 6C JC 
+            /\
+Completed: 3 0 2 4 
+Stack:
+ KH  3D  KS  ##  ##  --  ## 
+ QC          ##  ##      ## 
+ JD          ##  ##      ## 
+ TS          7C  7S      ## 
+ 9D          6H  6D      ## 
+ 8S          5C  5S      ## 
+ 7D          4D  4H      JS 
+ 6S                      TD 
+                         9S 
+Game 418 finished in 0.813s
+
+DECK:
+AS TS QS KD 
+   /\
+Completed: 0 4 0 0 
+Stack:
+ KH  2S  4H  ##  ##  KC  ## 
+ QC      3C  ##  ##  QD  ## 
+ JD      2H  ##  7C  JS  ## 
+ TC          8S  6H  TH  ## 
+ 9H          7H      9S  ## 
+ 8C          6C      8D  KS 
+ 7D                  7S  QH 
+ 6S                  6D  JC 
+ 5D                      TD 
+ 4C                      9C 
+ 3H                         
+ 2C                         
+Game 419 finished in 0.359s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 420 finished in 1.047s
+Game 420 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 421 finished in 1.953s
+Game 421 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 422 finished in 1.515s
+Game 422 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 423 finished in 2.516s
+Game 423 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 424 finished in 1.547s
+Game 424 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 425 finished in 1.703s
+Game 425 is WON!
+
+DECK:
+AD 7C JC 5S 8H 9C TH 3S 6D 
+            /\
+Completed: 3 0 3 0 
+Stack:
+ KH  KD  --  5D  ##  ##  ## 
+ QS  QC      4C  6H  ##  ## 
+ JH  JD      3D  5C  ##  ## 
+ TS  TC      2S  4H  2D  ## 
+ 9H  9D                  QH 
+ 8C  8S                  JS 
+ 7H                      TD 
+ 6C                      9S 
+ 5H                      8D 
+ 4S                         
+Game 426 finished in 0.938s
+
+DECK:
+3S 5D 6C 
+   /\
+Completed: 3 2 4 2 
+Stack:
+ KC  KS  KH  --  --  KD  ## 
+ QD  QH  QC          QS  ## 
+ JC  JS              JH  ## 
+ TD  TH              TC  ## 
+ 9C  9S              9D  ## 
+ 8D  8H              8C  9H 
+ 7S  7C              7D  8S 
+ 6D  6H              6S     
+ 5S  5C              5H     
+ 4D                  4S     
+Game 427 finished in 0.781s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 428 finished in 2.656s
+Game 428 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 429 finished in 0.453s
+Game 429 is WON!
+
+DECK:
+6S 7H KS 6D 9H 4S 2H JS QD KH 4H 3C 
+                  /\
+Completed: 1 0 0 1 
+Stack:
+ TD  ##  KD  QC  ##  ##  ## 
+ 9S  7D  QS  JD  ##  ##  ## 
+ 8H      JH      ##  ##  3H 
+ 7S      TS      5H  ##     
+         9D      4C  ##     
+                 3D  QH     
+                     JC     
+                     TH     
+                     9C     
+                     8D     
+                     7C     
+                     6H     
+                     5C     
+                     4D     
+                     3S     
+                     2D     
+Game 430 finished in 0.360s
+
+DECK:
+8D 3D 5S 9H TC KD 6H 9C QD KS 4D 5D 9S TH KC 4H 
+                  /\
+Completed: 1 1 0 1 
+Stack:
+ 8H  ##  ##  ##  ##  ##  ## 
+     KH  QH  ##  ##  ##  ## 
+     QC      ##  ##  ##  ## 
+     JH      3S  7H  JD  ## 
+     TS                  ## 
+     9D                  3C 
+     8S                     
+     7D                     
+     6S                     
+     5H                     
+     4S                     
+     3H                     
+Game 431 finished in 0.046s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 432 finished in 1.219s
+Game 432 is WON!
+
+DECK:
+KS 8H 7S 
+      /\
+Completed: 5 7 0 0 
+Stack:
+ KD  --  --  KC  ##  ##  QS 
+ QC          QH  ##  ##  JH 
+             JS  ##  ##  TS 
+             TD  QD  ##  9D 
+             9S  JC  9H  8C 
+             8D  TH  8S     
+             7C      7H     
+             6H      6S     
+             5S      5H     
+             4H      4S     
+             3S      3H     
+             2H      2S     
+Game 433 finished in 0.578s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 434 finished in 1.344s
+Game 434 is WON!
+
+DECK:
+4S JD TS KH QC 
+            /\
+Completed: 9 5 10 3 
+Stack:
+ --  --  KC  KD  --  --  KS 
+         QH  QS          QD 
+         JS  JH          JC 
+         TD  TC             
+         9S  9D             
+         8D  8S             
+         7S  7D             
+         6D  6S             
+         5S                 
+Game 435 finished in 2.500s
+
+DECK:
+AD 5H KD TC 8D 4C 7S 3S KC 9D JS QS 4S 9C 7D 9S 8H 
+                              /\
+Completed: 1 0 0 0 
+Stack:
+ 7H  ##  ##  ##  ##  ##  ## 
+ 6C  6D  ##  ##  ##  ##  ## 
+     5C  3D  ##  ##  ##  ## 
+     4H      2H  ##  ##  ## 
+                 QC  ##  ## 
+                 JD  9H  ## 
+                         KS 
+                         QD 
+                         JC 
+Game 436 finished in 0.000s
+
+DECK:
+JD JC TC 
+      /\
+Completed: 3 1 5 3 
+Stack:
+ KD  KS  ##  --  KH  KC  ## 
+         9H      QS  QD  ## 
+         8S      JH  JS  ## 
+         7H      TS  TD  TH 
+         6C      9D  9C  9S 
+         5D      8C  8H  8D 
+         4S      7D  7C  7S 
+         3D      6S  6H  6D 
+                     5C  5S 
+                     4D     
+Game 437 finished in 1.234s
+
+DECK:
+JC 8C TH 7C QS KH 3H KC 9C 5D 7H KD 
+                     /\
+Completed: 3 3 2 1 
+Stack:
+ KS  ##  QC  ##  ##  ##  6C 
+ QD  TS  JD  QH  6H  ##     
+     9H  TC  JS  5S  8D     
+         9D  TD             
+         8S  9S             
+         7D  8H             
+         6S  7S             
+         5H  6D             
+             5C             
+             4H             
+             3S             
+Game 438 finished in 0.266s
+
+DECK:
+4D QS TC 7C JS JD TD 
+                  /\
+Completed: 5 3 0 2 
+Stack:
+ KS  9S  KH  --  ##  ##  ## 
+ QD  8D  QC      9H  QH  ## 
+         JH      8C  JC  ## 
+         TS      7D  TH  5D 
+         9D          9C     
+         8S          8H     
+         7H          7S     
+         6C          6D     
+         5H          5S     
+         4S          4H     
+         3H          3S     
+                     2H     
+Game 439 finished in 0.984s
+
+DECK:
+2C JC QH 5C 8C 9H 6C JH TD 9D 
+            /\
+Completed: 1 2 2 0 
+Stack:
+ KD  ##  KC  ##  ##  ##  ## 
+     7S  QD  ##  ##  ##  ## 
+         JS  ##  ##  ##  5D 
+         TH  KH  ##  ##     
+             QC  8S  8D     
+             JD  7H  7C     
+                 6S  6H     
+                 5H  5S     
+                 4S  4H     
+                 3D  3S     
+                 2S         
+Game 440 finished in 0.157s
+
+DECK:
+5H JH TD 3H JS 9C 
+            /\
+Completed: 3 5 1 3 
+Stack:
+ --  5S  --  ##  KC  ##  ## 
+             ##  QH  ##  ## 
+             QS  JC  ##  ## 
+                 TH  9H  ## 
+                 9S  8S  ## 
+                 8D  7D  ## 
+                 7C  6S  QC 
+                 6H      JD 
+                 5C      TC 
+                 4H      9D 
+                         8C 
+                         7H 
+                         6C 
+Game 441 finished in 0.875s
+
+DECK:
+6D 4D 4S TS KC QH 7S 5D 5C 
+   /\
+Completed: 3 2 0 2 
+Stack:
+ 9D  KD  KH  ##  ##  ##  ## 
+ 8S  QC      9S  ##  ##  ## 
+ 7D  JH          JC  ##  ## 
+     TC          TH  ##  ## 
+     9H          9C  3S  ## 
+     8C          8H  2H  JS 
+     7H          7C         
+     6C                     
+     5H                     
+     4C                     
+     3H                     
+Game 442 finished in 0.734s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 443 finished in 1.625s
+Game 443 is WON!
+
+DECK:
+QS 6C 9S 7H QH KS 7S 2H 
+                  /\
+Completed: 3 1 0 3 
+Stack:
+ KH  KC  KD  ##  ##  ##  ## 
+     QD  QC  ##  JD  ##  ## 
+     JC  JH  5D      ##  ## 
+     TH  TS  4C      ##  ## 
+     9C  9H  3H      6D  ## 
+         8S              ## 
+         7D              7C 
+         6S              6H 
+         5H                 
+         4S                 
+         3D                 
+Game 444 finished in 0.563s
+
+DECK:
+2S 8C 6C KC 5S 7D AS 4D QH 7H TD TS KS QD QS JH 9C QC 
+                                             /\
+Completed: 4 3 2 0 
+Stack:
+ --  8H  ##  --  ##  5D  ## 
+         JD      ##  4S  ## 
+         TC      ##      ## 
+         9D      ##      6S 
+                 JC      5H 
+                 TH         
+                 9S         
+                 8D         
+                 7C         
+                 6H         
+                 5C         
+                 4H         
+                 3S         
+Game 445 finished in 0.281s
+
+DECK:
+7D 8S 
+   /\
+Completed: 6 4 4 2 
+Stack:
+ KD  KH  KC  JC  --  KS  ## 
+ QC  QS      TH          ## 
+ JD  JH      9S          ## 
+ TS  TC      8D          ## 
+ 9H          7C          ## 
+ 8C          6D          JS 
+ 7H                      TD 
+ 6S                      9C 
+ 5D                      8H 
+ 4S                      7S 
+                         6H 
+                         5S 
+Game 446 finished in 1.656s
+
+DECK:
+7C TH 8D KC JS 
+            /\
+Completed: 2 6 2 3 
+Stack:
+ KS  KD  --  KH  ##  --  ## 
+     QC      QS  5C      ## 
+     JD      JH  4H      ## 
+     TC      TS          ## 
+     9H      9D          ## 
+     8S      8C          JC 
+     7D      7H          TD 
+     6S      6C          9C 
+             5H          8H 
+             4C          7S 
+                         6H 
+                         5S 
+Game 447 finished in 1.125s
+
+DECK:
+KH 3S TH 8H 4C 9C QC JS 7S TS JD 
+                              /\
+Completed: 3 4 4 2 
+Stack:
+ --  4S  ##  KD  KS  KC  ## 
+         6H  QS  QD      ## 
+         5C  JH  JC      9D 
+             TC  TD      8S 
+             9H  9S      7H 
+             8C  8D      6C 
+             7D  7C         
+             6S  6D         
+                 5S         
+Game 448 finished in 0.719s
+
+DECK:
+4H 8D 9C 6H JS 5S 
+      /\
+Completed: 4 3 2 1 
+Stack:
+ --  KD  KC  ##  KS  KH  ## 
+     QS  QD  ##  QH  QC  ## 
+     JH      6C  JC  JD  ## 
+     TC          TD  TS  ## 
+     9D          9S  9H  ## 
+     8S          8H  8C  6S 
+                 7C      5H 
+                 6D      4S 
+                 5C         
+                 4D         
+                 3S         
+Game 449 finished in 0.484s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 450 finished in 2.406s
+Game 450 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 451 finished in 4.266s
+Game 451 is WON!
+
+DECK:
+JS 4S KC AH 9C 3H TD JH 8H QD 
+                           /\
+Completed: 2 4 0 0 
+Stack:
+ 9D  ##  KS  ##  ##  ##  ## 
+ 8S  KH  QH  ##  ##  ##  ## 
+ 7D  QC  JC  2S  7C  ##  7H 
+ 6C  JD  TH          5C  6S 
+     TC  9S                 
+     9H  8D                 
+         7S                 
+         6D                 
+         5S                 
+         4H                 
+         3S                 
+         2H                 
+Game 452 finished in 0.391s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 453 finished in 1.000s
+Game 453 is WON!
+
+DECK:
+8S 4S 9S 8H 7H 7D JC 8C TC QD TD 6D 
+                        /\
+Completed: 1 2 6 3 
+Stack:
+ KC  KD  KH  6C  ##  ##  ## 
+     QS  QC  5D  ##  ##  ## 
+     JH      4C  5S  KS  ## 
+     TS          4D  QH  ## 
+                 3C  JS  5C 
+                     TH     
+                     9C     
+                     8D     
+Game 454 finished in 1.172s
+
+DECK:
+TD 7H 6S 8S 6H 7S 4H 3H 9C 5C 3C KS 9D 4D 6D 7D 
+                                             /\
+Completed: 1 2 2 2 
+Stack:
+ TH  ##  ##  ##  JH  ##  ## 
+ 9S  QD  ##  ##  TS  ##  ## 
+         JD  ##      ##  ## 
+         TC  KD      ##  ## 
+         9H          ##  ## 
+                     KH  ## 
+                         5H 
+                         4C 
+Game 455 finished in 0.078s
+
+DECK:
+9H 5C QS 8C KD TH 3H JH QD 
+                     /\
+Completed: 3 1 2 4 
+Stack:
+ KS  ##  --  4H  ##  ##  KH 
+ QH  TD          ##  ##  QC 
+     9S          ##  6S  JD 
+     8H          9C  5H  TS 
+     7S          8D      9D 
+     6H          7C      8S 
+     5S          6D      7D 
+     4D                  6C 
+                         5D 
+                         4C 
+                         3D 
+Game 456 finished in 0.890s
+
+DECK:
+7D 8C 
+   /\
+Completed: 2 0 5 2 
+Stack:
+ KS  KD  --  KH  KC  ##  ## 
+ QD  QC      QS  QH  ##  ## 
+ JC  JD      JH  JS  6S  ## 
+     TS      TC  TD  5D  9C 
+             9D  9S  4S  8D 
+             8S  8H  3D  7S 
+             7H  7C      6H 
+             6C  6D      5S 
+                 5C         
+                 4D         
+                 3C         
+                 2D         
+Game 457 finished in 1.188s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 458 finished in 2.265s
+Game 458 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 459 finished in 1.594s
+Game 459 is WON!
+
+DECK:
+2S 4S KD QC TH 8C 3D 2D 7C 4D 
+            /\
+Completed: 3 0 0 1 
+Stack:
+ KC  6S  KH  KS  ##  ##  ## 
+ QH  5H  QS  QD  ##  JD  ## 
+         JH  JS  ##      ## 
+         TC  TD  ##      ## 
+         9D      8D      ## 
+         8S      7S      6D 
+         7D      6H         
+         6C      5S         
+         5D      4H         
+         4C      3S         
+         3H      2H         
+Game 460 finished in 0.485s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 461 finished in 1.687s
+Game 461 is WON!
+
+DECK:
+7S QS 
+   /\
+Completed: 5 3 8 6 
+Stack:
+ KD  KS  --  KC  QD  ##  -- 
+ QC          QH  JC  ##     
+ JD          JS  TD  JH     
+ TC          TH  9S  TS     
+ 9H          9C      9D     
+ 8C          8D      8S     
+             7C      7D     
+             6D      6C     
+                     5D     
+Game 462 finished in 1.938s
+
+DECK:
+QC 
+/\
+Completed: 6 5 4 2 
+Stack:
+ KC  KD  KS  --  QD  9H  ## 
+     QS  QH      JS  8C  ## 
+     JH  JC      TD  7D  ## 
+         TH      9C  6S  ## 
+         9S      8D  5H  ## 
+         8H          4S  JD 
+         7S              TC 
+         6H              9D 
+         5S              8S 
+                         7H 
+Game 463 finished in 0.296s
+
+DECK:
+7S 7D 8H TH 9S 
+            /\
+Completed: 0 0 5 1 
+Stack:
+ KD  KC  3C  ##  ##  ##  ## 
+ QC  QD      ##  KS  ##  ## 
+ JH          JD  QH  ##  ## 
+ TC          TS      ##  ## 
+ 9D          9H      6C  ## 
+             8C      5D  ## 
+             7H      4S  9C 
+             6S      3D  8D 
+                         7C 
+                         6H 
+                         5S 
+                         4D 
+                         3S 
+                         2D 
+Game 464 finished in 0.391s
+
+DECK:
+8C JH 6H TC 9D 8D 9C 7H 
+            /\
+Completed: 1 5 3 7 
+Stack:
+ KH  KD  --  KS  KC  ##  -- 
+ QS  QC          QH  ##     
+ JD              JC  JS     
+ TS              TH  TD     
+ 9H              9S         
+ 8S              8H         
+ 7D              7C         
+ 6C              6D         
+ 5H              5C         
+ 4C              4H         
+                 3C         
+Game 465 finished in 2.234s
+
+DECK:
+JC QS 9C 9D 
+   /\
+Completed: 4 3 4 1 
+Stack:
+ KH  KS  ##  8H  ##  KC  ## 
+ QC      ##  7S  ##      ## 
+ JH      JS  6H  ##      ## 
+         TH  5S  JD      ## 
+         9S  4D  TC      ## 
+         8D  3S  9H      8C 
+         7C      8S      7D 
+         6D              6S 
+                         5D 
+                         4S 
+Game 466 finished in 0.594s
+
+DECK:
+AD QC 5H TS KH 6C JS JD QS KS 
+                     /\
+Completed: 0 0 2 1 
+Stack:
+ 9D  ##  6D  ##  ##  ##  ## 
+ 8S  9H  5S  TD  4C  ##  ## 
+ 7H  8C  4H  9S      2C  ## 
+ 6S      3C              ## 
+ 5D                      ## 
+ 4S                      ## 
+                         KC 
+                         QD 
+                         JC 
+                         TH 
+                         9C 
+                         8D 
+                         7S 
+                         6H 
+                         5C 
+                         4D 
+                         3S 
+                         2D 
+Game 467 finished in 0.469s
+
+DECK:
+TD 7D 4S JD KS 6H 8H 
+               /\
+Completed: 0 2 1 0 
+Stack:
+ KD  ##  ##  ##  9H  ##  ## 
+     KH  ##  ##  8S  ##  ## 
+     QS  5S  ##      KC  ## 
+     JH  4H  9D      QH  ## 
+         3C  8C      JC  QD 
+             7H      TH  JS 
+             6S      9C     
+             5H      8D     
+             4C      7C     
+             3H      6D     
+             2S      5C     
+                     4D     
+                     3S     
+Game 468 finished in 0.531s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 469 finished in 2.406s
+Game 469 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 470 finished in 1.235s
+Game 470 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 471 finished in 1.359s
+Game 471 is WON!
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 472 finished in 3.063s
+Game 472 is WON!
+
+DECK:
+TH KC 9S 5S 6S 
+            /\
+Completed: 2 4 6 4 
+Stack:
+ KS  QH  KD  --  ##  KH  ## 
+ QD  JS  QS      8H  QC  ## 
+ JC      JH      7C  JD  9C 
+         TC          TS  8D 
+         9D          9H  7S 
+         8S          8C  6D 
+                     7D  5C 
+                     6C     
+                     5D     
+                     4C     
+Game 473 finished in 1.140s
+
+DECK:
+6H 7C 8H TC TD 2H 4C KD 8S KS 
+                  /\
+Completed: 1 5 0 1 
+Stack:
+ KH  KC  ##  ##  ##  ##  ## 
+ QS  QD  ##  ##  ##  ##  ## 
+     JC  8C  JS  ##  QC  ## 
+     TH  7D      ##  JH  ## 
+         6C      8D  TS  5S 
+         5H      7S         
+         4S      6D         
+         3H      5C         
+Game 474 finished in 0.219s
+
+DECK:
+KD TH JH KS 9C 6S 3D QD 8D 
+            /\
+Completed: 3 1 0 0 
+Stack:
+ KH  4D  6C  ##  ##  ##  ## 
+         5D  ##  ##  ##  ## 
+         4C  8S  ##  ##  ## 
+         3H      ##  ##  7C 
+         2S      JD  ##  6H 
+                 TC  QH     
+                 9D  JS     
+                 8C  TD     
+                     9S     
+                     8H     
+                     7S     
+                     6D     
+                     5S     
+                     4H     
+                     3S     
+                     2H     
+Game 475 finished in 0.109s
+
+DECK:
+5H 3H TD 9H 
+         /\
+Completed: 2 3 0 6 
+Stack:
+ KD  KS  KC  QH  ##  ##  ## 
+ QC  QD          ##  ##  ## 
+ JH  JS          QS  8S  ## 
+     TH          JD      ## 
+     9S          TS      8H 
+     8D          9D      7C 
+     7S          8C      6H 
+     6D          7H         
+     5C          6C         
+     4D          5D         
+     3C                     
+     2H                     
+Game 476 finished in 1.125s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 477 finished in 2.047s
+Game 477 is WON!
+
+DECK:
+9D 7H 8C 9S JH TH TS 
+                  /\
+Completed: 0 3 3 5 
+Stack:
+ KD  KC  KS  8D  --  ##  KH 
+     QD  QH  7S      ##  QC 
+         JS  6H      ##  JD 
+         TD  5C      ##  TC 
+         9C  4D      ##  9H 
+         8H  3C      6C  8S 
+         7C          5D  7D 
+         6D          4C  6S 
+                         5H 
+Game 478 finished in 1.063s
+
+DECK:
+4C JC KC 2S KD 6H TC 9S 6D 7C 5D 9C 7S 8D TS JH 5S 6S QS 
+                                       /\
+Completed: 0 2 2 0 
+Stack:
+ 9D  ##  ##  ##  ##  ##  ## 
+     7H  ##  ##  ##  ##  ## 
+     6C  9H  ##  ##  ##  ## 
+     5H      8H  KS  ##  ## 
+                 QD  3S  ## 
+                         ## 
+                         3C 
+Game 479 finished in 0.031s
+
+DECK:
+7S 6H KC KD 3S KS TH 4C 4S 2D QD 8S 6S 9D JH 9C JS 
+   /\
+Completed: 0 0 1 1 
+Stack:
+ JC  ##  8D  5C  ##  ##  ## 
+ TD  3D          ##  ##  ## 
+ 9S  2C          ##  ##  ## 
+ 8H              KH  ##  ## 
+ 7C              QC  3C  7H 
+ 6D              JD         
+ 5S              TC         
+                 9H         
+                 8C         
+                 7D         
+                 6C         
+Game 480 finished in 0.125s
+
+DECK:
+2S 6C QS KH JS 9C 5H 
+         /\
+Completed: 1 3 4 1 
+Stack:
+ KD  KC  KS  ##  ##  ##  3S 
+ QC  QH      8H  9D  ##     
+ JH  JC      7C  8S  ##     
+ TC  TH      6D  7D  4C     
+ 9H  9S      5C  6S         
+ 8C  8D      4D  5D         
+ 7H  7S      3C  4S         
+     6H                     
+     5S                     
+Game 481 finished in 1.844s
+
+DECK:
+
+/\
+Completed: 13 13 13 13 
+Stack:
+Game 482 finished in 2.344s
+Game 482 is WON!

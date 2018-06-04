@@ -25,3 +25,4 @@ KnightsMoveCipher: https://community.topcoder.com/longcontest/?module=ViewProble
 
 GraphicalAuthentication: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13568&pm=10147
 
+Klondike: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13565&pm=10014
