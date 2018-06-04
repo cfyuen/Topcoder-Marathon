@@ -1,0 +1,3 @@
+java -Xmx1024M -jar "D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar" -exec "D:\Documents\Computer\TopCoder\CellularAutomaton\v0" -seed 1
+
+D:\Documents\Computer\TopCoder\CellularAutomaton\runvis.bat >> output.txt

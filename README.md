@@ -15,6 +15,8 @@ ImageScanner: http://community.topcoder.com/longcontest/?module=ViewProblemState
 
 RockyMine: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14455&pm=9854
 
+CellularAutomation: http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14273&pm=10989
+
 BookSelection: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14227&pm=10885
 
 ChessPuzzle: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14195&pm=10728

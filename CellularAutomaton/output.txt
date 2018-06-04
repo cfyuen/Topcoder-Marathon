@@ -1,0 +1,240 @@
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 1 -novis 
+R = 12, C = 12
+rules = --=+-----
+N = 9
+K = 2
+9 changed cells.
+Score = 0.6597222222222222
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 2 -novis 
+R = 23, C = 50
+rules = ----X=X--
+N = 23
+K = 11
+0 changed cells.
+Score = 0.0
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 3 -novis 
+R = 99, C = 29
+rules = --X+X=X--
+N = 28
+K = 6
+28 changed cells.
+Score = 0.6123301985370951
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 4 -novis 
+R = 52, C = 83
+rules = ----+-X--
+N = 124
+K = 14
+0 changed cells.
+Score = 0.0
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 5 -novis 
+R = 83, C = 59
+rules = --X=+X---
+N = 92
+K = 5
+90 changed cells.
+Score = 0.5805595262405554
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 6 -novis 
+R = 34, C = 36
+rules = --X++++--
+N = 40
+K = 13
+34 changed cells.
+Score = 0.821078431372549
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 7 -novis 
+R = 98, C = 54
+rules = --+--X+--
+N = 292
+K = 17
+280 changed cells.
+Score = 0.36696900982615266
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 8 -novis 
+R = 49, C = 30
+rules = --XX=----
+N = 90
+K = 6
+90 changed cells.
+Score = 0.5
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 9 -novis 
+R = 55, C = 74
+rules = --=-+-X--
+N = 197
+K = 5
+189 changed cells.
+Score = 0.20663390663390663
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 10 -novis 
+R = 84, C = 41
+rules = --=XX==--
+N = 179
+K = 8
+173 changed cells.
+Score = 0.514808362369338
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 11 -novis 
+R = 24, C = 46
+rules = ---+X++--
+N = 53
+K = 10
+51 changed cells.
+Score = 0.7346014492753623
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 12 -novis 
+R = 51, C = 86
+rules = --+---+--
+N = 189
+K = 20
+189 changed cells.
+Score = 0.3342453260373917
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 13 -novis 
+R = 85, C = 43
+rules = ---X===--
+N = 166
+K = 18
+162 changed cells.
+Score = 0.007660738714090287
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 14 -novis 
+R = 16, C = 22
+rules = --=+=-+--
+N = 13
+K = 4
+13 changed cells.
+Score = 0.6619318181818182
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 15 -novis 
+R = 17, C = 76
+rules = --X-=-X--
+N = 54
+K = 4
+54 changed cells.
+Score = 0.37925696594427244
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 16 -novis 
+R = 39, C = 65
+rules = ---X+++--
+N = 9
+K = 15
+9 changed cells.
+Score = 0.6927021696252466
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 17 -novis 
+R = 83, C = 15
+rules = --X=X-+--
+N = 47
+K = 7
+47 changed cells.
+Score = 0.5004016064257029
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 18 -novis 
+R = 95, C = 50
+rules = ---X+XX--
+N = 278
+K = 11
+260 changed cells.
+Score = 0.5458947368421052
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 19 -novis 
+R = 75, C = 10
+rules = ----X++--
+N = 37
+K = 16
+35 changed cells.
+Score = 0.24933333333333332
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 20 -novis 
+R = 36, C = 93
+rules = --++-XX--
+N = 88
+K = 2
+88 changed cells.
+Score = 0.513142174432497
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 21 -novis 
+R = 41, C = 92
+rules = --X+=++--
+N = 5
+K = 16
+5 changed cells.
+Score = 0.6951219512195121
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 22 -novis 
+R = 54, C = 54
+rules = --=-=+X--
+N = 16
+K = 4
+16 changed cells.
+Score = 0.23491083676268862
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 23 -novis 
+R = 34, C = 35
+rules = --XX=XX--
+N = 49
+K = 2
+49 changed cells.
+Score = 0.6403361344537815
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 24 -novis 
+R = 30, C = 46
+rules = --=X-X---
+N = 74
+K = 13
+72 changed cells.
+Score = 0.04927536231884058
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 25 -novis 
+R = 80, C = 69
+rules = --+X-+=--
+N = 224
+K = 12
+216 changed cells.
+Score = 0.5365942028985508
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 26 -novis 
+R = 28, C = 66
+rules = --==+X+--
+N = 14
+K = 14
+14 changed cells.
+Score = 0.6179653679653679
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 27 -novis 
+R = 68, C = 93
+rules = --+XX-=--
+N = 100
+K = 4
+100 changed cells.
+Score = 0.5314674256799494
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 28 -novis 
+R = 24, C = 50
+rules = --=+-----
+N = 49
+K = 10
+49 changed cells.
+Score = 0.37083333333333335
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 29 -novis 
+R = 24, C = 17
+rules = --X===X--
+N = 11
+K = 7
+11 changed cells.
+Score = 0.5955882352941176
+
+D:\Documents\Computer\TopCoder\CellularAutomaton>java -jar D:\Documents\Computer\TopCoder\CellularAutomaton\Visualizer.jar -exec D:\Documents\Computer\TopCoder\CellularAutomaton\v2.2.exe -seed 30 -novis 
+R = 32, C = 52
+rules = -----XX--
+N = 72
+K = 15
+0 changed cells.
+Score = 0.0
