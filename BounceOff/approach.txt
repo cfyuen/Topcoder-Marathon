@@ -1,0 +1,52 @@
+1. basic
+
+determine target order
+
+by target order, find ways to take the first target, if take other targets, v[target]=1
+use the highest scoring 100 ways to proceed to next num of target
+
+step by step until first target hit
+state: v[], obs[], pos, vel
+scoring:
+a. same as solution
+b. number of targets hit is biggest, otherwise same as solution
+c. ignore number of targets
+
+find out the highest score of the target order,
+
+try another order, hill climbing?
+
+2. creative
+
+a.create some steps (like rolling balls)
+b.horizontal collide?
+
+
+
+immediate
+42,21
+seperate 
+2,15,16
+
+
+priority_queue<state> top[80]
+for i= 1 to n
+   for j= 1 to 200 {
+   nowstate=top[i].extract()
+   res=aimsim(nowstate,i)
+   if (res=1) newtouch=find_next_touch, top[newtouch].insert(nowstate)
+      else {
+      for k= 1 to 2000
+	random line
+	aimsim
+	if (res=1) newtouch=find_next_touch, top[newtouch].insert(nowstate)
+      }
+   }
+
+
+optimization:
+1. a target is 2 lines (or 4), it is a cross (perhaps an arrow or an a polygon, in down side)
+2. if not high enough to touch the first 'should touch' point, return fail
+
+
+** find method to set line

@@ -1,0 +1,7038 @@
+Seed = 1
+Targets hit: 21 of 54
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 444.979, 250.146 )
+Score = 0.018732
+
+Seed = 2
+Targets hit: 15 of 15
+Time taken: 306.92 seconds
+Total obstacles: 4
+Final Position: ( 20.392, 272.912 )
+Score = 0.281741
+
+Seed = 3
+Targets hit: 32 of 46
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 0.920, 109.327 )
+Score = 0.037231
+
+Seed = 4
+Targets hit: 12 of 12
+Time taken: 271.21 seconds
+Total obstacles: 2
+Final Position: ( 201.960, 12.847 )
+Score = 0.416010
+
+Seed = 5
+Targets hit: 1 of 46
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 33.000, 254.942 )
+Score = 0.001293
+
+Seed = 6
+Targets hit: 33 of 34
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 132.428, 220.291 )
+Score = 0.046751
+
+Seed = 7
+Targets hit: 36 of 54
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 369.915, 64.686 )
+Score = 0.026010
+
+Seed = 8
+Targets hit: 38 of 49
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 347.862, 148.685 )
+Score = 0.046116
+
+Seed = 9
+Targets hit: 37 of 49
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 65.554, 132.488 )
+Score = 0.036371
+
+Seed = 10
+Targets hit: 31 of 37
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 194.565, 208.003 )
+Score = 0.049823
+
+Seed = 11
+Targets hit: 49 of 60
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 4.940, 68.114 )
+Score = 0.043707
+
+Seed = 12
+Targets hit: 29 of 41
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 16.348, 87.312 )
+Score = 0.037855
+
+Seed = 13
+Targets hit: 37 of 56
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 243.328, 235.970 )
+Score = 0.035361
+
+Seed = 14
+Targets hit: 12 of 12
+Time taken: 179.19 seconds
+Total obstacles: 2
+Final Position: ( 29.457, 31.048 )
+Score = 0.659815
+
+Seed = 15
+Targets hit: 39 of 52
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 83.637, 79.073 )
+Score = 0.044599
+
+Seed = 16
+Targets hit: 21 of 31
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 304.527, 210.367 )
+Score = 0.044759
+
+Seed = 17
+Targets hit: 10 of 10
+Time taken: 142.58 seconds
+Total obstacles: 1
+Final Position: ( 299.683, 364.409 )
+Score = 0.880824
+
+Seed = 18
+Targets hit: 17 of 17
+Time taken: 285.62 seconds
+Total obstacles: 2
+Final Position: ( 482.346, 190.632 )
+Score = 0.387038
+
+Seed = 19
+Targets hit: 24 of 60
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 449.742, 311.793 )
+Score = 0.021408
+
+Seed = 20
+Targets hit: 6 of 55
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 368.165, 360.072 )
+Score = 0.006487
+
+Seed = 21
+Targets hit: 49 of 57
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 2.438, 139.916 )
+Score = 0.033540
+
+Seed = 22
+Targets hit: 22 of 22
+Time taken: 305.85 seconds
+Total obstacles: 4
+Final Position: ( 297.408, 196.321 )
+Score = 0.283265
+
+Seed = 23
+Targets hit: 31 of 60
+Time taken: 500.00 seconds
+Total obstacles: 8
+Final Position: ( 187.998, 127.652 )
+Score = 0.018142
+
+Seed = 24
+Targets hit: 10 of 10
+Time taken: 95.11 seconds
+Total obstacles: 4
+Final Position: ( 223.285, 317.004 )
+Score = 0.814636
+
+Seed = 25
+Targets hit: 23 of 23
+Time taken: 297.97 seconds
+Total obstacles: 2
+Final Position: ( 18.233, 62.747 )
+Score = 0.363798
+
+Seed = 26
+Targets hit: 35 of 45
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 344.553, 170.050 )
+Score = 0.051390
+
+Seed = 27
+Targets hit: 29 of 44
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 63.814, 251.344 )
+Score = 0.039193
+
+Seed = 28
+Targets hit: 17 of 17
+Time taken: 187.73 seconds
+Total obstacles: 3
+Final Position: ( 277.676, 264.975 )
+Score = 0.568971
+
+Seed = 29
+Targets hit: 30 of 30
+Time taken: 482.50 seconds
+Total obstacles: 5
+Final Position: ( 318.746, 125.225 )
+Score = 0.105167
+
+Seed = 30
+Targets hit: 43 of 55
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 248.589, 128.664 )
+Score = 0.046492
+
+Seed = 31
+Targets hit: 10 of 10
+Time taken: 147.28 seconds
+Total obstacles: 3
+Final Position: ( 257.135, 384.637 )
+Score = 0.696851
+
+Seed = 32
+Targets hit: 34 of 48
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 54.307, 252.628 )
+Score = 0.042122
+
+Seed = 33
+Targets hit: 24 of 42
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 71.911, 60.391 )
+Score = 0.024772
+
+Seed = 34
+Targets hit: 27 of 27
+Time taken: 374.70 seconds
+Total obstacles: 5
+Final Position: ( 342.859, 147.577 )
+Score = 0.180529
+
+Seed = 35
+Targets hit: 12 of 12
+Time taken: 179.78 seconds
+Total obstacles: 4
+Final Position: ( 23.256, 223.267 )
+Score = 0.532898
+
+Seed = 36
+Targets hit: 19 of 27
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 211.931, 103.882 )
+Score = 0.033896
+
+Seed = 37
+Targets hit: 23 of 45
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 248.410, 257.872 )
+Score = 0.030394
+
+Seed = 38
+Targets hit: 14 of 19
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 363.756, 217.629 )
+Score = 0.048686
+
+Seed = 39
+Targets hit: 30 of 53
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 454.704, 266.038 )
+Score = 0.037400
+
+Seed = 40
+Targets hit: 47 of 53
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 17.887, 36.857 )
+Score = 0.052734
+
+Seed = 41
+Targets hit: 17 of 43
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 44.184, 349.551 )
+Score = 0.019043
+
+Seed = 42
+Targets hit: 38 of 52
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 253.838, 106.292 )
+Score = 0.028511
+
+Seed = 43
+Targets hit: 8 of 15
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 291.811, 118.671 )
+Score = 0.035239
+
+Seed = 44
+Targets hit: 32 of 35
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 28.490, 38.814 )
+Score = 0.048932
+
+Seed = 45
+Targets hit: 17 of 23
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 269.449, 102.202 )
+Score = 0.048837
+
+Seed = 46
+Targets hit: 12 of 12
+Time taken: 287.63 seconds
+Total obstacles: 3
+Final Position: ( 71.175, 319.943 )
+Score = 0.344842
+
+Seed = 47
+Targets hit: 2 of 58
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 9.000, 254.942 )
+Score = 0.001495
+
+Seed = 48
+Targets hit: 28 of 37
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 333.933, 163.123 )
+Score = 0.040501
+
+Seed = 49
+Targets hit: 12 of 17
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 288.508, 30.907 )
+Score = 0.046640
+
+Seed = 50
+Targets hit: 26 of 37
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 45.533, 75.509 )
+Score = 0.046430
+
+Seed = 51
+Targets hit: 15 of 15
+Time taken: 225.90 seconds
+Total obstacles: 3
+Final Position: ( 295.349, 199.984 )
+Score = 0.469895
+
+Seed = 52
+Targets hit: 30 of 55
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 33.247, 123.639 )
+Score = 0.029192
+
+Seed = 53
+Targets hit: 14 of 18
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 118.913, 135.856 )
+Score = 0.046251
+
+Seed = 54
+Targets hit: 34 of 34
+Time taken: 373.73 seconds
+Total obstacles: 2
+Final Position: ( 362.137, 15.132 )
+Score = 0.248853
+
+Seed = 55
+Targets hit: 30 of 30
+Time taken: 346.10 seconds
+Total obstacles: 6
+Final Position: ( 129.246, 163.195 )
+Score = 0.187521
+
+Seed = 56
+Targets hit: 36 of 45
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 473.327, 258.684 )
+Score = 0.038534
+
+Seed = 57
+Targets hit: 13 of 13
+Time taken: 276.21 seconds
+Total obstacles: 3
+Final Position: ( 446.062, 268.068 )
+Score = 0.365146
+
+Seed = 58
+Targets hit: 16 of 53
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 396.022, 62.172 )
+Score = 0.014541
+
+Seed = 59
+Targets hit: 27 of 27
+Time taken: 406.03 seconds
+Total obstacles: 4
+Final Position: ( 222.422, 55.275 )
+Score = 0.171440
+
+Seed = 60
+Targets hit: 20 of 20
+Time taken: 262.33 seconds
+Total obstacles: 5
+Final Position: ( 108.395, 29.688 )
+Score = 0.317076
+
+Seed = 61
+Targets hit: 12 of 12
+Time taken: 136.09 seconds
+Total obstacles: 5
+Final Position: ( 33.752, 120.336 )
+Score = 0.597001
+
+Seed = 62
+Targets hit: 21 of 21
+Time taken: 277.16 seconds
+Total obstacles: 3
+Final Position: ( 465.983, 73.534 )
+Score = 0.363423
+
+Seed = 63
+Targets hit: 25 of 57
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 238.672, 142.672 )
+Score = 0.023473
+
+Seed = 64
+Targets hit: 18 of 42
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 1.568, 90.359 )
+Score = 0.022937
+
+Seed = 65
+Targets hit: 39 of 43
+Time taken: 500.00 seconds
+Total obstacles: 8
+Final Position: ( 406.217, 101.989 )
+Score = 0.031848
+
+Seed = 66
+Targets hit: 29 of 52
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 389.290, 322.259 )
+Score = 0.026863
+
+Seed = 67
+Targets hit: 18 of 33
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 426.563, 141.996 )
+Score = 0.036040
+
+Seed = 68
+Targets hit: 17 of 17
+Time taken: 257.19 seconds
+Total obstacles: 3
+Final Position: ( 477.935, 117.645 )
+Score = 0.401669
+
+Seed = 69
+Targets hit: 28 of 28
+Time taken: 354.01 seconds
+Total obstacles: 4
+Final Position: ( 159.790, 224.480 )
+Score = 0.222508
+
+Seed = 70
+Targets hit: 30 of 30
+Time taken: 390.72 seconds
+Total obstacles: 6
+Final Position: ( 204.177, 122.760 )
+Score = 0.149941
+
+Seed = 71
+Targets hit: 26 of 35
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 481.461, 107.416 )
+Score = 0.049083
+
+Seed = 72
+Targets hit: 26 of 26
+Time taken: 328.76 seconds
+Total obstacles: 3
+Final Position: ( 250.307, 137.254 )
+Score = 0.280586
+
+Seed = 73
+Targets hit: 24 of 35
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 123.497, 102.490 )
+Score = 0.036699
+
+Seed = 74
+Targets hit: 23 of 34
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 36.925, 25.200 )
+Score = 0.044697
+
+
+Seed = 75
+Targets hit: 43 of 43
+Time taken: 497.79 seconds
+Total obstacles: 10
+Final Position: ( 268.357, 51.864 )
+Score = 0.057519
+
+Seed = 76
+Targets hit: 27 of 45
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 473.508, 179.613 )
+Score = 0.026010
+
+Seed = 77
+Targets hit: 48 of 60
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 272.935, 145.047 )
+Score = 0.034681
+
+Seed = 78
+Targets hit: 23 of 51
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 21.229, 263.023 )
+Score = 0.021723
+
+Seed = 79
+Targets hit: 36 of 37
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 483.838, 263.479 )
+Score = 0.030748
+
+Seed = 80
+Targets hit: 14 of 14
+Time taken: 212.25 seconds
+Total obstacles: 4
+Final Position: ( 54.355, 37.628 )
+Score = 0.452839
+
+Seed = 81
+Targets hit: 22 of 22
+Time taken: 378.84 seconds
+Total obstacles: 2
+Final Position: ( 344.703, 101.894 )
+Score = 0.242552
+
+Seed = 82
+Targets hit: 27 of 49
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 294.492, 122.293 )
+Score = 0.032767
+
+Seed = 83
+Targets hit: 25 of 25
+Time taken: 438.16 seconds
+Total obstacles: 6
+Final Position: ( 297.226, 76.474 )
+Score = 0.118206
+
+Seed = 84
+Targets hit: 35 of 38
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 239.015, 107.969 )
+Score = 0.039928
+
+Seed = 85
+Targets hit: 15 of 15
+Time taken: 229.25 seconds
+Total obstacles: 5
+Final Position: ( 51.018, 275.268 )
+Score = 0.374270
+
+Seed = 86
+Targets hit: 17 of 21
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 258.627, 88.812 )
+Score = 0.048139
+
+Seed = 87
+Targets hit: 16 of 21
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 246.883, 184.569 )
+Score = 0.050341
+
+Seed = 88
+Targets hit: 38 of 38
+Time taken: 414.61 seconds
+Total obstacles: 5
+Final Position: ( 411.718, 60.580 )
+Score = 0.147799
+
+Seed = 89
+Targets hit: 10 of 12
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 409.552, 155.133 )
+Score = 0.055061
+
+Seed = 90
+Targets hit: 26 of 38
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 115.413, 69.732 )
+Score = 0.032957
+
+Seed = 91
+Targets hit: 29 of 43
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 65.851, 45.526 )
+Score = 0.040105
+
+Seed = 92
+Targets hit: 30 of 30
+Time taken: 446.83 seconds
+Total obstacles: 4
+Final Position: ( 310.980, 48.399 )
+Score = 0.139733
+
+Seed = 93
+Targets hit: 3 of 55
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 90.000, 254.942 )
+Score = 0.003244
+
+Seed = 94
+Targets hit: 16 of 16
+Time taken: 207.46 seconds
+Total obstacles: 3
+Final Position: ( 59.691, 57.468 )
+Score = 0.515382
+
+Seed = 95
+Targets hit: 33 of 49
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 48.409, 271.797 )
+Score = 0.044498
+
+Seed = 96
+Targets hit: 32 of 32
+Time taken: 370.14 seconds
+Total obstacles: 2
+Final Position: ( 117.228, 216.631 )
+Score = 0.253369
+
+Seed = 97
+Targets hit: 42 of 57
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 28.885, 95.574 )
+Score = 0.043817
+
+Seed = 98
+Targets hit: 23 of 23
+Time taken: 160.55 seconds
+Total obstacles: 6
+Final Position: ( 238.501, 18.646 )
+Score = 0.475313
+
+Seed = 99
+Targets hit: 20 of 20
+Time taken: 430.96 seconds
+Total obstacles: 5
+Final Position: ( 143.338, 175.722 )
+Score = 0.136167
+
+Seed = 100
+Targets hit: 15 of 24
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 410.912, 61.313 )
+Score = 0.037166
+
+Seed = 101
+Targets hit: 30 of 47
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 455.186, 129.442 )
+Score = 0.034161
+
+Seed = 102
+Targets hit: 18 of 30
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 115.335, 214.776 )
+Score = 0.039644
+
+Seed = 103
+Targets hit: 55 of 58
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 230.493, 186.126 )
+Score = 0.056390
+
+Seed = 104
+Targets hit: 13 of 42
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 226.159, 107.450 )
+Score = 0.013418
+
+Seed = 105
+Targets hit: 25 of 59
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 214.385, 277.611 )
+Score = 0.025197
+
+Seed = 106
+Targets hit: 18 of 36
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 93.456, 152.139 )
+Score = 0.024084
+
+Seed = 107
+Targets hit: 34 of 34
+Time taken: 366.97 seconds
+Total obstacles: 5
+Final Position: ( 242.754, 28.080 )
+Score = 0.187668
+
+Seed = 108
+Targets hit: 35 of 35
+Time taken: 406.51 seconds
+Total obstacles: 2
+Final Position: ( 33.368, 41.993 )
+Score = 0.211143
+
+Seed = 109
+Targets hit: 33 of 33
+Time taken: 481.23 seconds
+Total obstacles: 2
+Final Position: ( 155.362, 206.969 )
+Score = 0.145185
+
+Seed = 110
+Targets hit: 31 of 57
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 193.308, 86.979 )
+Score = 0.026196
+
+Seed = 111
+Targets hit: 23 of 23
+Time taken: 362.86 seconds
+Total obstacles: 1
+Final Position: ( 383.498, 194.022 )
+Score = 0.291977
+
+Seed = 112
+Targets hit: 13 of 13
+Time taken: 180.07 seconds
+Total obstacles: 3
+Final Position: ( 353.383, 29.257 )
+Score = 0.591223
+
+Seed = 113
+Targets hit: 19 of 19
+Time taken: 265.20 seconds
+Total obstacles: 2
+Final Position: ( 131.357, 335.239 )
+Score = 0.428738
+
+Seed = 114
+Targets hit: 23 of 34
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 7.788, 39.426 )
+Score = 0.040227
+
+Seed = 115
+Targets hit: 29 of 40
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 203.340, 218.183 )
+Score = 0.034921
+
+Seed = 116
+Targets hit: 30 of 51
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 390.321, 159.926 )
+Score = 0.034980
+
+Seed = 117
+Targets hit: 19 of 19
+Time taken: 219.33 seconds
+Total obstacles: 3
+Final Position: ( 154.966, 43.386 )
+Score = 0.485620
+
+
+Seed = 118
+Targets hit: 20 of 36
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 238.932, 270.219 )
+Score = 0.033037
+
+Seed = 119
+Targets hit: 33 of 44
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 323.985, 230.638 )
+Score = 0.055061
+
+Seed = 120
+Targets hit: 29 of 54
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 25.977, 82.949 )
+Score = 0.031935
+
+Seed = 121
+Targets hit: 11 of 11
+Time taken: 232.32 seconds
+Total obstacles: 3
+Final Position: ( 324.399, 11.670 )
+Score = 0.455016
+
+Seed = 122
+Targets hit: 21 of 30
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 17.977, 209.159 )
+Score = 0.046251
+
+Seed = 123
+Targets hit: 33 of 33
+Time taken: 451.26 seconds
+Total obstacles: 4
+Final Position: ( 261.236, 18.951 )
+Score = 0.136658
+
+Seed = 124
+Targets hit: 12 of 12
+Time taken: 293.37 seconds
+Total obstacles: 3
+Final Position: ( 363.918, 216.143 )
+Score = 0.335050
+
+Seed = 125
+Targets hit: 15 of 37
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 174.524, 196.820 )
+Score = 0.024108
+
+
+Seed = 126
+Targets hit: 30 of 30
+Time taken: 344.22 seconds
+Total obstacles: 2
+Final Position: ( 417.672, 139.594 )
+Score = 0.288526
+
+Seed = 127
+Targets hit: 35 of 47
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 195.446, 117.645 )
+Score = 0.039855
+
+Seed = 128
+Targets hit: 25 of 37
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 310.299, 187.643 )
+Score = 0.044644
+
+Seed = 129
+Targets hit: 23 of 38
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 430.676, 252.057 )
+Score = 0.039992
+
+Seed = 130
+Targets hit: 30 of 49
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 489.653, 155.035 )
+Score = 0.040453
+
+Seed = 131
+Targets hit: 45 of 56
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 374.518, 4.008 )
+Score = 0.053095
+
+Seed = 132
+Targets hit: 12 of 12
+Time taken: 300.23 seconds
+Total obstacles: 2
+Final Position: ( 390.710, 186.698 )
+Score = 0.359706
+
+Seed = 133
+Targets hit: 37 of 54
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 261.370, 280.541 )
+Score = 0.036671
+
+Seed = 134
+Targets hit: 55 of 58
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 74.106, 209.171 )
+Score = 0.036998
+
+Seed = 135
+Targets hit: 10 of 12
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 129.806, 73.820 )
+Score = 0.061179
+
+Seed = 136
+Targets hit: 25 of 53
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 41.258, 79.621 )
+Score = 0.025245
+
+Seed = 137
+Targets hit: 54 of 60
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 299.335, 165.177 )
+Score = 0.066073
+
+Seed = 138
+Targets hit: 26 of 55
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 491.386, 47.777 )
+Score = 0.028111
+
+Seed = 139
+Targets hit: 30 of 50
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 482.035, 24.655 )
+Score = 0.035680
+
+
+Seed = 140
+Targets hit: 16 of 16
+Time taken: 241.67 seconds
+Total obstacles: 4
+Final Position: ( 413.361, 82.337 )
+Score = 0.390763
+
+Seed = 141
+Targets hit: 30 of 50
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 363.799, 140.711 )
+Score = 0.039644
+
+Seed = 142
+Targets hit: 22 of 33
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 469.111, 58.133 )
+Score = 0.039644
+
+Seed = 143
+Targets hit: 46 of 60
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 190.663, 250.152 )
+Score = 0.050656
+
+Seed = 144
+Targets hit: 38 of 38
+Time taken: 486.52 seconds
+Total obstacles: 3
+Final Position: ( 478.026, 70.403 )
+Score = 0.127249
+
+Seed = 145
+Targets hit: 19 of 19
+Time taken: 321.01 seconds
+Total obstacles: 1
+Final Position: ( 280.720, 247.725 )
+Score = 0.360122
+
+Seed = 146
+Targets hit: 28 of 39
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 138.286, 248.927 )
+Score = 0.047437
+
+Seed = 147
+Targets hit: 12 of 12
+Time taken: 118.06 seconds
+Total obstacles: 2
+Final Position: ( 371.293, 23.528 )
+Score = 0.896394
+
+Seed = 148
+Targets hit: 36 of 56
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 301.221, 58.535 )
+Score = 0.042476
+
+Seed = 149
+Targets hit: 13 of 13
+Time taken: 195.90 seconds
+Total obstacles: 4
+Final Position: ( 78.687, 71.914 )
+Score = 0.491520
+
+Seed = 150
+Targets hit: 23 of 23
+Time taken: 364.98 seconds
+Total obstacles: 4
+Final Position: ( 14.938, 23.160 )
+Score = 0.210600
+
+
+Seed = 151
+Targets hit: 33 of 57
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 172.090, 150.049 )
+Score = 0.027886
+
+Seed = 152
+Targets hit: 39 of 58
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 1.208, 65.427 )
+Score = 0.026235
+
+Seed = 153
+Targets hit: 20 of 31
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 222.056, 264.019 )
+Score = 0.042628
+
+Seed = 154
+Targets hit: 25 of 32
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 179.550, 181.956 )
+Score = 0.051620
+
+Seed = 155
+Targets hit: 23 of 37
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 372.395, 43.990 )
+Score = 0.045636
+
+Seed = 156
+Targets hit: 19 of 19
+Time taken: 346.34 seconds
+Total obstacles: 5
+Final Position: ( 432.627, 179.892 )
+Score = 0.208112
+
+Seed = 157
+Targets hit: 29 of 29
+Time taken: 452.91 seconds
+Total obstacles: 5
+Final Position: ( 427.650, 73.357 )
+Score = 0.121981
+
+Seed = 158
+Targets hit: 15 of 41
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 237.047, 244.880 )
+Score = 0.017622
+
+Seed = 159
+Targets hit: 34 of 45
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 82.074, 254.248 )
+Score = 0.055469
+
+Seed = 160
+Targets hit: 13 of 23
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 294.902, 43.944 )
+Score = 0.037346
+
+Seed = 161
+Targets hit: 10 of 10
+Time taken: 218.21 seconds
+Total obstacles: 5
+Final Position: ( 397.510, 43.765 )
+Score = 0.395563
+
+Seed = 162
+Targets hit: 25 of 38
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 61.572, 59.791 )
+Score = 0.031689
+
+Seed = 163
+Targets hit: 40 of 59
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 373.681, 20.634 )
+Score = 0.049773
+
+Seed = 164
+Targets hit: 33 of 33
+Time taken: 283.69 seconds
+Total obstacles: 4
+Final Position: ( 341.804, 119.144 )
+Score = 0.316538
+
+Seed = 165
+Targets hit: 29 of 29
+Time taken: 317.48 seconds
+Total obstacles: 2
+Final Position: ( 80.279, 28.149 )
+Score = 0.329911
+
+Seed = 166
+Targets hit: 41 of 53
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 375.938, 179.429 )
+Score = 0.046002
+
+
+Seed = 167
+Targets hit: 22 of 43
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 46.479, 13.166 )
+Score = 0.024644
+
+Seed = 168
+Targets hit: 12 of 12
+Time taken: 297.21 seconds
+Total obstacles: 2
+Final Position: ( 122.368, 70.990 )
+Score = 0.365177
+
+Seed = 169
+Targets hit: 24 of 43
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 138.356, 231.633 )
+Score = 0.036878
+
+Seed = 170
+Targets hit: 43 of 46
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 488.226, 129.857 )
+Score = 0.055588
+
+Seed = 171
+Targets hit: 43 of 43
+Time taken: 467.50 seconds
+Total obstacles: 8
+Final Position: ( 474.863, 97.564 )
+Score = 0.082653
+
+Seed = 172
+Targets hit: 41 of 44
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 190.877, 169.129 )
+Score = 0.044883
+
+Seed = 173
+Targets hit: 36 of 54
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 444.579, 79.231 )
+Score = 0.032112
+
+Seed = 174
+Targets hit: 28 of 45
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 323.799, 32.267 )
+Score = 0.041112
+
+Seed = 175
+Targets hit: 18 of 18
+Time taken: 260.44 seconds
+Total obstacles: 5
+Final Position: ( 70.260, 19.310 )
+Score = 0.320099
+
+Seed = 176
+Targets hit: 21 of 27
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 331.975, 171.623 )
+Score = 0.046251
+
+Seed = 177
+Targets hit: 18 of 22
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 307.123, 135.222 )
+Score = 0.060067
+
+Seed = 178
+Targets hit: 30 of 54
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 264.521, 121.323 )
+Score = 0.033037
+
+Seed = 179
+Targets hit: 13 of 26
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 336.244, 203.786 )
+Score = 0.036707
+
+Seed = 180
+Targets hit: 28 of 46
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 285.152, 99.250 )
+Score = 0.040218
+
+Seed = 181
+Targets hit: 23 of 42
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 323.478, 199.396 )
+Score = 0.026377
+
+Seed = 182
+Targets hit: 16 of 16
+Time taken: 321.42 seconds
+Total obstacles: 7
+Final Position: ( 103.320, 47.853 )
+Score = 0.190997
+
+Seed = 183
+Targets hit: 26 of 41
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 356.070, 15.058 )
+Score = 0.030545
+
+Seed = 184
+Targets hit: 15 of 46
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 438.469, 74.378 )
+Score = 0.010305
+
+Seed = 185
+Targets hit: 43 of 54
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 196.178, 233.327 )
+Score = 0.047352
+
+Seed = 186
+Targets hit: 28 of 42
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 375.068, 142.524 )
+Score = 0.048943
+
+Seed = 187
+Targets hit: 22 of 22
+Time taken: 385.06 seconds
+Total obstacles: 6
+Final Position: ( 51.953, 233.718 )
+Score = 0.154259
+
+
+Seed = 188
+Targets hit: 34 of 54
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 135.419, 97.682 )
+Score = 0.019898
+
+Seed = 189
+Targets hit: 32 of 49
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 17.363, 152.619 )
+Score = 0.047944
+
+Seed = 190
+Targets hit: 33 of 46
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 262.460, 266.136 )
+Score = 0.031099
+
+Seed = 191
+Targets hit: 27 of 45
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 348.855, 55.921 )
+Score = 0.039644
+
+Seed = 192
+Targets hit: 48 of 60
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 13.309, 162.539 )
+Score = 0.052859
+
+Seed = 193
+Targets hit: 1 of 43
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 410.000, 254.942 )
+Score = 0.001537
+
+Seed = 194
+Targets hit: 40 of 48
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 311.487, 53.489 )
+Score = 0.026336
+
+Seed = 195
+Targets hit: 17 of 17
+Time taken: 251.36 seconds
+Total obstacles: 2
+Final Position: ( 53.346, 167.752 )
+Score = 0.459537
+
+Seed = 196
+Targets hit: 24 of 48
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 256.965, 222.937 )
+Score = 0.029733
+
+Seed = 197
+Targets hit: 43 of 58
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 106.152, 111.863 )
+Score = 0.054428
+
+Seed = 198
+Targets hit: 37 of 37
+Time taken: 454.42 seconds
+Total obstacles: 3
+Final Position: ( 422.140, 90.417 )
+Score = 0.149461
+
+Seed = 199
+Targets hit: 25 of 25
+Time taken: 335.55 seconds
+Total obstacles: 5
+Final Position: ( 479.088, 13.184 )
+Score = 0.219676
+
+Seed = 200
+Targets hit: 34 of 40
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 369.446, 194.059 )
+Score = 0.050546
+
+Seed = 201
+Targets hit: 35 of 49
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 331.936, 189.351 )
+Score = 0.034405
+
+Seed = 202
+Targets hit: 29 of 57
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 490.069, 220.453 )
+Score = 0.027229
+
+Seed = 203
+Targets hit: 48 of 52
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 60.501, 125.218 )
+Score = 0.054892
+
+Seed = 204
+Targets hit: 32 of 39
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 112.945, 129.385 )
+Score = 0.048793
+
+Seed = 205
+Targets hit: 44 of 58
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 382.183, 226.547 )
+Score = 0.050125
+
+Seed = 206
+Targets hit: 14 of 14
+Time taken: 209.50 seconds
+Total obstacles: 3
+Final Position: ( 304.045, 10.944 )
+Score = 0.510147
+
+Seed = 207
+Targets hit: 33 of 59
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 221.449, 153.773 )
+Score = 0.026941
+
+Seed = 208
+Targets hit: 0 of 37
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 473.000, 254.942 )
+Score = 0.000000
+
+Seed = 209
+Targets hit: 41 of 60
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 472.365, 54.516 )
+Score = 0.036572
+
+Seed = 210
+Targets hit: 30 of 54
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 156.040, 41.130 )
+Score = 0.036707
+
+Seed = 211
+Targets hit: 10 of 32
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 411.432, 181.584 )
+Score = 0.022942
+
+Seed = 212
+Targets hit: 24 of 47
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 345.015, 265.529 )
+Score = 0.037488
+
+Seed = 213
+Targets hit: 11 of 11
+Time taken: 154.96 seconds
+Total obstacles: 1
+Final Position: ( 431.103, 153.880 )
+Score = 0.827835
+
+Seed = 214
+Targets hit: 43 of 50
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 159.690, 40.085 )
+Score = 0.033553
+
+Seed = 215
+Targets hit: 17 of 56
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 486.683, 39.329 )
+Score = 0.009594
+
+Seed = 216
+Targets hit: 29 of 55
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 428.081, 150.690 )
+Score = 0.034839
+
+Seed = 217
+Targets hit: 16 of 25
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 151.685, 75.429 )
+Score = 0.042287
+
+Seed = 218
+Targets hit: 28 of 40
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 120.414, 29.790 )
+Score = 0.051390
+
+Seed = 219
+Targets hit: 14 of 14
+Time taken: 277.68 seconds
+Total obstacles: 5
+Final Position: ( 109.004, 29.245 )
+Score = 0.293593
+
+Seed = 220
+Targets hit: 37 of 54
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 84.305, 286.689 )
+Score = 0.050303
+
+Seed = 221
+Targets hit: 17 of 17
+Time taken: 302.55 seconds
+Total obstacles: 3
+Final Position: ( 19.931, 26.319 )
+Score = 0.319990
+
+Seed = 222
+Targets hit: 21 of 21
+Time taken: 302.92 seconds
+Total obstacles: 4
+Final Position: ( 71.849, 221.074 )
+Score = 0.287450
+
+Seed = 223
+Targets hit: 37 of 52
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 354.079, 101.884 )
+Score = 0.038081
+
+Seed = 224
+Targets hit: 21 of 21
+Time taken: 489.15 seconds
+Total obstacles: 6
+Final Position: ( 423.728, 102.372 )
+Score = 0.091547
+
+Seed = 225
+Targets hit: 28 of 49
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 174.894, 100.500 )
+Score = 0.030582
+
+Seed = 226
+Targets hit: 52 of 54
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 383.395, 261.453 )
+Score = 0.051537
+
+Seed = 227
+Targets hit: 25 of 43
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 274.735, 136.128 )
+Score = 0.025204
+
+Seed = 228
+Targets hit: 34 of 52
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 370.541, 266.015 )
+Score = 0.038882
+
+Seed = 229
+Targets hit: 23 of 23
+Time taken: 378.58 seconds
+Total obstacles: 4
+Final Position: ( 168.411, 186.431 )
+Score = 0.196731
+
+Seed = 230
+Targets hit: 46 of 60
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 279.449, 190.963 )
+Score = 0.050656
+
+Seed = 231
+Targets hit: 50 of 60
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 160.193, 106.215 )
+Score = 0.061179
+
+Seed = 232
+Targets hit: 27 of 27
+Time taken: 294.11 seconds
+Total obstacles: 5
+Final Position: ( 399.367, 128.083 )
+Score = 0.270390
+
+Seed = 233
+Targets hit: 20 of 25
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 243.936, 14.242 )
+Score = 0.052859
+
+Seed = 234
+Targets hit: 20 of 20
+Time taken: 369.19 seconds
+Total obstacles: 6
+Final Position: ( 486.495, 32.128 )
+Score = 0.167026
+
+Seed = 235
+Targets hit: 18 of 36
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 97.865, 208.672 )
+Score = 0.033037
+
+Seed = 236
+Targets hit: 41 of 41
+Time taken: 391.60 seconds
+Total obstacles: 6
+Final Position: ( 336.304, 92.259 )
+Score = 0.149281
+
+Seed = 237
+Targets hit: 45 of 49
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 285.002, 202.137 )
+Score = 0.060679
+
+Seed = 238
+Targets hit: 25 of 57
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 418.292, 239.256 )
+Score = 0.021126
+
+Seed = 239
+Targets hit: 40 of 43
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 485.790, 259.814 )
+Score = 0.049785
+
+Seed = 240
+Targets hit: 38 of 59
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 222.499, 143.710 )
+Score = 0.038300
+
+Seed = 241
+Targets hit: 26 of 35
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 282.884, 130.262 )
+Score = 0.054537
+
+Seed = 242
+Targets hit: 21 of 21
+Time taken: 273.23 seconds
+Total obstacles: 4
+Final Position: ( 441.948, 199.930 )
+Score = 0.333582
+
+Seed = 243
+Targets hit: 32 of 36
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 264.522, 195.831 )
+Score = 0.047573
+
+Seed = 244
+Targets hit: 9 of 18
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 447.123, 43.528 )
+Score = 0.033037
+
+Seed = 245
+Targets hit: 32 of 39
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 66.578, 119.172 )
+Score = 0.032013
+
+Seed = 246
+Targets hit: 15 of 30
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 197.150, 17.785 )
+Score = 0.033037
+
+Seed = 247
+Targets hit: 41 of 50
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 400.564, 148.978 )
+Score = 0.054180
+
+Seed = 248
+Targets hit: 34 of 47
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 427.290, 29.625 )
+Score = 0.047798
+
+Seed = 249
+Targets hit: 43 of 57
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 278.773, 267.917 )
+Score = 0.055383
+
+Seed = 250
+Targets hit: 22 of 22
+Time taken: 384.97 seconds
+Total obstacles: 7
+Final Position: ( 58.684, 17.048 )
+Score = 0.138889
+
+Seed = 251
+Targets hit: 10 of 13
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 328.013, 81.508 )
+Score = 0.045743
+
+Seed = 252
+Targets hit: 13 of 23
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 20.029, 4.477 )
+Score = 0.033611
+
+Seed = 253
+Targets hit: 13 of 13
+Time taken: 105.91 seconds
+Total obstacles: 3
+Final Position: ( 249.383, 224.403 )
+Score = 0.857413
+
+Seed = 254
+Targets hit: 10 of 10
+Time taken: 198.69 seconds
+Total obstacles: 2
+Final Position: ( 138.698, 123.072 )
+Score = 0.598381
+
+Seed = 255
+Targets hit: 24 of 40
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 196.464, 190.887 )
+Score = 0.035680
+
+Seed = 256
+Targets hit: 31 of 50
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 412.048, 160.148 )
+Score = 0.036869
+
+Seed = 257
+Targets hit: 43 of 56
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 8.171, 221.209 )
+Score = 0.045661
+
+Seed = 258
+Targets hit: 9 of 16
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 312.414, 175.934 )
+Score = 0.033450
+
+Seed = 259
+Targets hit: 33 of 52
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 168.110, 183.814 )
+Score = 0.037738
+
+Seed = 260
+Targets hit: 16 of 16
+Time taken: 204.69 seconds
+Total obstacles: 2
+Final Position: ( 136.491, 206.933 )
+Score = 0.580654
+
+Seed = 261
+Targets hit: 42 of 59
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 317.205, 101.141 )
+Score = 0.038098
+
+Seed = 262
+Targets hit: 13 of 16
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 145.918, 162.681 )
+Score = 0.059649
+
+Seed = 263
+Targets hit: 29 of 42
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 16.343, 216.824 )
+Score = 0.045622
+
+Seed = 264
+Targets hit: 34 of 37
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 427.401, 115.375 )
+Score = 0.039836
+
+Seed = 265
+Targets hit: 45 of 57
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 203.785, 175.558 )
+Score = 0.042252
+
+Seed = 266
+Targets hit: 30 of 39
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 416.071, 262.962 )
+Score = 0.041169
+
+Seed = 267
+Targets hit: 38 of 56
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 375.719, 85.802 )
+Score = 0.040352
+
+Seed = 268
+Targets hit: 42 of 42
+Time taken: 376.10 seconds
+Total obstacles: 8
+Final Position: ( 360.625, 69.609 )
+Score = 0.130685
+
+Seed = 269
+Targets hit: 13 of 24
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 52.339, 102.122 )
+Score = 0.028990
+
+Seed = 270
+Targets hit: 22 of 22
+Time taken: 222.65 seconds
+Total obstacles: 3
+Final Position: ( 493.382, 22.214 )
+Score = 0.477605
+
+Seed = 271
+Targets hit: 14 of 17
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 78.672, 271.202 )
+Score = 0.054413
+
+Seed = 272
+Targets hit: 44 of 52
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 253.300, 32.351 )
+Score = 0.036681
+
+
+Seed = 273
+Targets hit: 36 of 42
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 78.049, 25.499 )
+Score = 0.033442
+
+
+Seed = 274
+Targets hit: 48 of 54
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 227.045, 178.232 )
+Score = 0.038534
+
+Seed = 275
+Targets hit: 33 of 39
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 26.226, 186.734 )
+Score = 0.055908
+
+Seed = 276
+Targets hit: 26 of 40
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 290.031, 7.002 )
+Score = 0.025360
+
+Seed = 277
+Targets hit: 17 of 17
+Time taken: 221.60 seconds
+Total obstacles: 1
+Final Position: ( 411.296, 130.653 )
+Score = 0.592745
+
+Seed = 278
+Targets hit: 37 of 42
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 176.645, 194.701 )
+Score = 0.042433
+
+Seed = 279
+Targets hit: 20 of 30
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 395.058, 5.132 )
+Score = 0.035680
+
+Seed = 280
+Targets hit: 21 of 26
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 440.143, 229.747 )
+Score = 0.053367
+
+Seed = 281
+Targets hit: 16 of 16
+Time taken: 243.09 seconds
+Total obstacles: 5
+Final Position: ( 33.160, 159.792 )
+Score = 0.349184
+
+Seed = 282
+Targets hit: 22 of 22
+Time taken: 431.34 seconds
+Total obstacles: 5
+Final Position: ( 179.197, 25.745 )
+Score = 0.135907
+
+Seed = 283
+Targets hit: 18 of 18
+Time taken: 485.48 seconds
+Total obstacles: 3
+Final Position: ( 216.496, 142.229 )
+Score = 0.127913
+
+Seed = 284
+Targets hit: 14 of 49
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 341.360, 100.337 )
+Score = 0.015291
+
+Seed = 285
+Targets hit: 15 of 15
+Time taken: 455.91 seconds
+Total obstacles: 5
+Final Position: ( 297.762, 92.942 )
+Score = 0.120160
+
+Seed = 286
+Targets hit: 22 of 22
+Time taken: 364.71 seconds
+Total obstacles: 6
+Final Position: ( 308.394, 224.845 )
+Score = 0.170821
+
+Seed = 287
+Targets hit: 15 of 15
+Time taken: 233.74 seconds
+Total obstacles: 1
+Final Position: ( 452.255, 165.584 )
+Score = 0.557741
+
+Seed = 288
+Targets hit: 19 of 58
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 248.115, 270.003 )
+Score = 0.010353
+
+Seed = 289
+Targets hit: 23 of 30
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 112.953, 138.201 )
+Score = 0.033235
+
+Seed = 290
+Targets hit: 33 of 33
+Time taken: 367.49 seconds
+Total obstacles: 5
+Final Position: ( 302.468, 144.293 )
+Score = 0.187173
+
+
+Seed = 291
+Targets hit: 26 of 59
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 421.069, 321.163 )
+Score = 0.023585
+
+Seed = 292
+Targets hit: 20 of 22
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 209.606, 213.335 )
+Score = 0.060067
+
+Seed = 293
+Targets hit: 51 of 58
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 277.317, 104.255 )
+Score = 0.052289
+
+Seed = 294
+Targets hit: 33 of 33
+Time taken: 290.99 seconds
+Total obstacles: 7
+Final Position: ( 373.549, 126.330 )
+Score = 0.222471
+
+Seed = 295
+Targets hit: 25 of 44
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 201.683, 202.038 )
+Score = 0.024631
+
+Seed = 296
+Targets hit: 10 of 13
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 305.765, 147.655 )
+Score = 0.050826
+
+Seed = 297
+Targets hit: 16 of 24
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 366.947, 37.900 )
+Score = 0.044049
+
+Seed = 298
+Targets hit: 15 of 15
+Time taken: 255.22 seconds
+Total obstacles: 4
+Final Position: ( 280.802, 21.924 )
+Score = 0.365091
+
+Seed = 299
+Targets hit: 47 of 47
+Time taken: 485.16 seconds
+Total obstacles: 3
+Final Position: ( 382.423, 236.009 )
+Score = 0.128115
+
+Seed = 300
+Targets hit: 29 of 44
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 256.944, 190.809 )
+Score = 0.025715
+
+Seed = 301
+Targets hit: 15 of 29
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 223.933, 18.382 )
+Score = 0.027682
+
+Seed = 302
+Targets hit: 29 of 59
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 70.597, 289.137 )
+Score = 0.021308
+
+Seed = 303
+Targets hit: 6 of 39
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 57.580, 402.782 )
+Score = 0.008234
+
+
+Seed = 304
+Targets hit: 28 of 28
+Time taken: 316.91 seconds
+Total obstacles: 5
+Final Position: ( 373.162, 7.398 )
+Score = 0.241192
+
+Seed = 305
+Targets hit: 35 of 50
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 493.910, 0.878 )
+Score = 0.037464
+
+Seed = 306
+Targets hit: 13 of 42
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 67.719, 28.423 )
+Score = 0.012076
+
+Seed = 307
+Targets hit: 11 of 11
+Time taken: 165.42 seconds
+Total obstacles: 5
+Final Position: ( 456.437, 113.514 )
+Score = 0.515391
+
+Seed = 308
+Targets hit: 42 of 48
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 163.776, 217.712 )
+Score = 0.057814
+
+Seed = 309
+Targets hit: 20 of 21
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 80.730, 132.226 )
+Score = 0.069919
+
+Seed = 310
+Targets hit: 23 of 27
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 273.760, 89.000 )
+Score = 0.036928
+
+Seed = 311
+Targets hit: 52 of 54
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 461.964, 23.946 )
+Score = 0.057263
+
+Seed = 312
+Targets hit: 46 of 55
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 494.472, 10.457 )
+Score = 0.040285
+
+Seed = 313
+Targets hit: 21 of 37
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 86.969, 196.176 )
+Score = 0.022144
+
+Seed = 314
+Targets hit: 28 of 54
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 366.934, 23.883 )
+Score = 0.022478
+
+Seed = 315
+Targets hit: 33 of 49
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 184.295, 102.085 )
+Score = 0.040048
+
+Seed = 316
+Targets hit: 16 of 21
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 20.779, 223.388 )
+Score = 0.029726
+
+Seed = 317
+Targets hit: 12 of 12
+Time taken: 245.83 seconds
+Total obstacles: 3
+Final Position: ( 160.065, 143.949 )
+Score = 0.425209
+
+Seed = 318
+Targets hit: 22 of 22
+Time taken: 373.84 seconds
+Total obstacles: 3
+Final Position: ( 60.150, 305.534 )
+Score = 0.223845
+
+Seed = 319
+Targets hit: 27 of 47
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 11.356, 159.364 )
+Score = 0.027671
+
+Seed = 320
+Targets hit: 29 of 45
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 205.880, 236.876 )
+Score = 0.034490
+
+Seed = 321
+Targets hit: 32 of 33
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 31.834, 226.758 )
+Score = 0.046708
+
+Seed = 322
+Targets hit: 22 of 41
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 473.516, 49.287 )
+Score = 0.035454
+
+Seed = 323
+Targets hit: 51 of 51
+Time taken: 436.34 seconds
+Total obstacles: 7
+Final Position: ( 474.140, 29.330 )
+Score = 0.107361
+
+Seed = 324
+Targets hit: 42 of 56
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 73.627, 215.122 )
+Score = 0.040139
+
+Seed = 325
+Targets hit: 2 of 53
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 11.000, 254.942 )
+Score = 0.002020
+
+Seed = 326
+Targets hit: 22 of 32
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 4.769, 225.491 )
+Score = 0.045425
+
+Seed = 327
+Targets hit: 39 of 55
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 180.430, 37.304 )
+Score = 0.030740
+
+Seed = 328
+Targets hit: 13 of 13
+Time taken: 150.12 seconds
+Total obstacles: 4
+Final Position: ( 148.349, 38.868 )
+Score = 0.618313
+
+Seed = 329
+Targets hit: 20 of 20
+Time taken: 274.42 seconds
+Total obstacles: 3
+Final Position: ( 466.591, 286.128 )
+Score = 0.368449
+
+Seed = 330
+Targets hit: 27 of 37
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 431.391, 133.103 )
+Score = 0.043394
+
+Seed = 331
+Targets hit: 30 of 30
+Time taken: 416.96 seconds
+Total obstacles: 4
+Final Position: ( 359.110, 97.594 )
+Score = 0.162298
+
+Seed = 332
+Targets hit: 36 of 39
+Time taken: 500.00 seconds
+Total obstacles: 8
+Final Position: ( 276.997, 113.330 )
+Score = 0.032413
+
+Seed = 333
+Targets hit: 26 of 57
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 481.264, 326.500 )
+Score = 0.027125
+
+Seed = 334
+Targets hit: 30 of 46
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 480.425, 150.431 )
+Score = 0.043091
+
+Seed = 335
+Targets hit: 25 of 46
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 239.498, 83.724 )
+Score = 0.035909
+
+Seed = 336
+Targets hit: 38 of 59
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 80.946, 118.752 )
+Score = 0.042556
+
+Seed = 337
+Targets hit: 28 of 45
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 292.357, 101.483 )
+Score = 0.041112
+
+Seed = 338
+Targets hit: 34 of 47
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 337.652, 215.827 )
+Score = 0.028224
+
+Seed = 339
+Targets hit: 30 of 59
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 392.591, 11.479 )
+Score = 0.033597
+
+
+Seed = 340
+Targets hit: 31 of 51
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 156.904, 158.373 )
+Score = 0.036146
+
+
+Seed = 341
+Targets hit: 18 of 18
+Time taken: 317.30 seconds
+Total obstacles: 6
+Final Position: ( 455.579, 8.571 )
+Score = 0.216646
+
+Seed = 342
+Targets hit: 30 of 47
+Time taken: 500.00 seconds
+Total obstacles: 10
+Final Position: ( 209.331, 225.084 )
+Score = 0.018155
+
+Seed = 343
+Targets hit: 30 of 53
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 307.956, 215.211 )
+Score = 0.027265
+
+Seed = 344
+Targets hit: 23 of 23
+Time taken: 341.58 seconds
+Total obstacles: 6
+Final Position: ( 365.075, 87.909 )
+Score = 0.191818
+
+Seed = 345
+Targets hit: 17 of 21
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 85.128, 97.177 )
+Score = 0.053488
+
+Seed = 346
+Targets hit: 25 of 35
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 372.996, 250.989 )
+Score = 0.047195
+
+Seed = 347
+Targets hit: 18 of 18
+Time taken: 253.84 seconds
+Total obstacles: 4
+Final Position: ( 159.081, 38.270 )
+Score = 0.367638
+
+Seed = 348
+Targets hit: 25 of 50
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 326.979, 120.069 )
+Score = 0.029733
+
+Seed = 349
+Targets hit: 11 of 11
+Time taken: 107.84 seconds
+Total obstacles: 3
+Final Position: ( 338.283, 204.761 )
+Score = 0.849163
+
+Seed = 350
+Targets hit: 50 of 60
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 493.890, 256.129 )
+Score = 0.040139
+
+Seed = 351
+Targets hit: 41 of 45
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 325.329, 276.116 )
+Score = 0.060200
+
+Seed = 352
+Targets hit: 18 of 37
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 379.669, 76.097 )
+Score = 0.028929
+
+Seed = 353
+Targets hit: 20 of 20
+Time taken: 381.58 seconds
+Total obstacles: 3
+Final Position: ( 89.415, 241.067 )
+Score = 0.215325
+
+
+Seed = 354
+Targets hit: 31 of 38
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 18.034, 34.905 )
+Score = 0.048512
+
+Seed = 355
+Targets hit: 18 of 26
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 164.917, 138.886 )
+Score = 0.045743
+
+Seed = 356
+Targets hit: 26 of 26
+Time taken: 349.00 seconds
+Total obstacles: 4
+Final Position: ( 483.644, 25.007 )
+Score = 0.228169
+
+Seed = 357
+Targets hit: 26 of 34
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 448.028, 26.732 )
+Score = 0.045474
+
+Seed = 358
+Targets hit: 15 of 15
+Time taken: 262.40 seconds
+Total obstacles: 4
+Final Position: ( 377.184, 165.700 )
+Score = 0.352189
+
+Seed = 359
+Targets hit: 52 of 52
+Time taken: 433.22 seconds
+Total obstacles: 5
+Final Position: ( 53.529, 215.209 )
+Score = 0.134634
+
+Seed = 360
+Targets hit: 14 of 16
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 196.550, 206.545 )
+Score = 0.064238
+
+Seed = 361
+Targets hit: 12 of 31
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 70.266, 18.764 )
+Score = 0.025577
+
+Seed = 362
+Targets hit: 20 of 26
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 8.577, 203.368 )
+Score = 0.050826
+
+Seed = 363
+Targets hit: 1 of 47
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 54.000, 254.942 )
+Score = 0.001265
+
+Seed = 364
+Targets hit: 24 of 35
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 207.813, 182.835 )
+Score = 0.045307
+
+Seed = 365
+Targets hit: 12 of 30
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 239.404, 216.810 )
+Score = 0.026429
+
+Seed = 366
+Targets hit: 8 of 10
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 276.459, 33.576 )
+Score = 0.058732
+
+Seed = 367
+Targets hit: 11 of 11
+Time taken: 356.77 seconds
+Total obstacles: 3
+Final Position: ( 88.729, 15.947 )
+Score = 0.243840
+
+Seed = 368
+Targets hit: 30 of 45
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 492.816, 77.451 )
+Score = 0.032112
+
+Seed = 369
+Targets hit: 19 of 19
+Time taken: 388.67 seconds
+Total obstacles: 3
+Final Position: ( 486.812, 115.967 )
+Score = 0.207806
+
+Seed = 370
+Targets hit: 29 of 42
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 453.667, 70.576 )
+Score = 0.029933
+
+Seed = 371
+Targets hit: 33 of 33
+Time taken: 471.57 seconds
+Total obstacles: 4
+Final Position: ( 8.461, 103.816 )
+Score = 0.123434
+
+Seed = 372
+Targets hit: 28 of 49
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 411.745, 193.531 )
+Score = 0.030582
+
+Seed = 373
+Targets hit: 12 of 17
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 139.540, 116.341 )
+Score = 0.046640
+
+Seed = 374
+Targets hit: 11 of 11
+Time taken: 342.20 seconds
+Total obstacles: 5
+Final Position: ( 66.641, 94.229 )
+Score = 0.212467
+
+Seed = 375
+Targets hit: 56 of 56
+Time taken: 395.08 seconds
+Total obstacles: 5
+Final Position: ( 466.774, 76.937 )
+Score = 0.162997
+
+Seed = 376
+Targets hit: 39 of 53
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 111.805, 174.350 )
+Score = 0.048620
+
+Seed = 377
+Targets hit: 16 of 16
+Time taken: 320.89 seconds
+Total obstacles: 2
+Final Position: ( 113.254, 81.001 )
+Score = 0.324310
+
+Seed = 378
+Targets hit: 17 of 27
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 156.615, 54.802 )
+Score = 0.041602
+
+Seed = 379
+Targets hit: 39 of 46
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 142.392, 221.695 )
+Score = 0.056019
+
+Seed = 380
+Targets hit: 20 of 20
+Time taken: 346.20 seconds
+Total obstacles: 5
+Final Position: ( 328.382, 144.786 )
+Score = 0.208254
+
+Seed = 381
+Targets hit: 19 of 41
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 485.836, 46.703 )
+Score = 0.030619
+
+Seed = 382
+Targets hit: 12 of 18
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 422.089, 170.830 )
+Score = 0.044049
+
+Seed = 383
+Targets hit: 19 of 19
+Time taken: 279.40 seconds
+Total obstacles: 2
+Final Position: ( 253.743, 93.199 )
+Score = 0.399288
+
+Seed = 384
+Targets hit: 28 of 41
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 376.547, 174.837 )
+Score = 0.036550
+
+Seed = 385
+Targets hit: 28 of 28
+Time taken: 269.76 seconds
+Total obstacles: 5
+Final Position: ( 376.787, 50.274 )
+Score = 0.305492
+
+Seed = 386
+Targets hit: 44 of 55
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 103.256, 81.554 )
+Score = 0.047573
+
+Seed = 387
+Targets hit: 1 of 37
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 486.000, 254.942 )
+Score = 0.001607
+
+Seed = 388
+Targets hit: 31 of 31
+Time taken: 369.07 seconds
+Total obstacles: 3
+Final Position: ( 109.273, 207.456 )
+Score = 0.229251
+
+Seed = 389
+Targets hit: 35 of 60
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 128.890, 31.038 )
+Score = 0.034688
+
+Seed = 390
+Targets hit: 21 of 25
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 493.894, 79.829 )
+Score = 0.049951
+
+Seed = 391
+Targets hit: 8 of 29
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 3.238, 270.823 )
+Score = 0.020252
+
+Seed = 392
+Targets hit: 33 of 33
+Time taken: 434.56 seconds
+Total obstacles: 3
+Final Position: ( 455.408, 70.523 )
+Score = 0.165107
+
+Seed = 393
+Targets hit: 33 of 33
+Time taken: 498.27 seconds
+Total obstacles: 8
+Final Position: ( 431.791, 1.162 )
+Score = 0.070841
+
+Seed = 394
+Targets hit: 28 of 47
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 442.773, 126.695 )
+Score = 0.035426
+
+Seed = 395
+Targets hit: 19 of 51
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 71.679, 304.847 )
+Score = 0.019939
+
+Seed = 396
+Targets hit: 17 of 41
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 447.692, 35.572 )
+Score = 0.024657
+
+Seed = 397
+Targets hit: 31 of 39
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 459.811, 209.518 )
+Score = 0.052520
+
+Seed = 398
+Targets hit: 16 of 40
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 317.469, 162.883 )
+Score = 0.026429
+
+Seed = 399
+Targets hit: 2 of 36
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 53.000, 254.942 )
+Score = 0.004079
+
+Seed = 400
+Targets hit: 33 of 53
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 106.553, 233.059 )
+Score = 0.037026
+
+Seed = 401
+Targets hit: 19 of 35
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 372.056, 199.663 )
+Score = 0.035868
+
+Seed = 402
+Targets hit: 10 of 10
+Time taken: 178.29 seconds
+Total obstacles: 3
+Final Position: ( 81.109, 141.629 )
+Score = 0.596520
+
+Seed = 403
+Targets hit: 25 of 25
+Time taken: 315.38 seconds
+Total obstacles: 8
+Final Position: ( 148.743, 97.304 )
+Score = 0.177181
+
+Seed = 404
+Targets hit: 11 of 23
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 126.817, 13.015 )
+Score = 0.020733
+
+Seed = 405
+Targets hit: 40 of 47
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 329.996, 194.886 )
+Score = 0.026896
+
+Seed = 406
+Targets hit: 24 of 26
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 497.021, 140.363 )
+Score = 0.044462
+
+Seed = 407
+Targets hit: 17 of 23
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 486.465, 214.850 )
+Score = 0.048837
+
+Seed = 408
+Targets hit: 17 of 24
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 437.853, 62.692 )
+Score = 0.034119
+
+Seed = 409
+Targets hit: 32 of 45
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 24.442, 14.587 )
+Score = 0.038058
+
+Seed = 410
+Targets hit: 25 of 25
+Time taken: 498.90 seconds
+Total obstacles: 6
+Final Position: ( 77.940, 7.475 )
+Score = 0.087182
+
+Seed = 411
+Targets hit: 20 of 20
+Time taken: 269.86 seconds
+Total obstacles: 2
+Final Position: ( 387.723, 57.449 )
+Score = 0.418853
+
+Seed = 412
+Targets hit: 22 of 40
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 144.348, 251.701 )
+Score = 0.026492
+
+Seed = 413
+Targets hit: 25 of 30
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 445.655, 196.351 )
+Score = 0.061179
+
+Seed = 414
+Targets hit: 14 of 48
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 339.821, 163.853 )
+Score = 0.015610
+
+Seed = 415
+Targets hit: 21 of 24
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 256.359, 263.649 )
+Score = 0.057814
+
+Seed = 416
+Targets hit: 33 of 54
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 223.001, 53.453 )
+Score = 0.032706
+
+Seed = 417
+Targets hit: 30 of 30
+Time taken: 498.70 seconds
+Total obstacles: 4
+Final Position: ( 466.725, 65.614 )
+Score = 0.107739
+
+Seed = 418
+Targets hit: 16 of 16
+Time taken: 237.86 seconds
+Total obstacles: 3
+Final Position: ( 288.223, 197.315 )
+Score = 0.442541
+
+Seed = 419
+Targets hit: 21 of 25
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 465.938, 9.314 )
+Score = 0.044956
+
+Seed = 420
+Targets hit: 27 of 27
+Time taken: 384.79 seconds
+Total obstacles: 4
+Final Position: ( 380.210, 26.890 )
+Score = 0.190701
+
+Seed = 421
+Targets hit: 15 of 46
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 63.476, 232.145 )
+Score = 0.015707
+
+Seed = 422
+Targets hit: 19 of 27
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 250.215, 226.363 )
+Score = 0.051662
+
+Seed = 423
+Targets hit: 9 of 17
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 84.851, 161.108 )
+Score = 0.031482
+
+Seed = 424
+Targets hit: 26 of 37
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 101.260, 286.420 )
+Score = 0.051589
+
+Seed = 425
+Targets hit: 32 of 54
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 286.322, 183.386 )
+Score = 0.043505
+
+Seed = 426
+Targets hit: 46 of 54
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 8.417, 152.274 )
+Score = 0.033235
+
+Seed = 427
+Targets hit: 0 of 59
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 25.000, 254.942 )
+Score = 0.000000
+
+Seed = 428
+Targets hit: 32 of 49
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 14.979, 207.416 )
+Score = 0.043150
+
+Seed = 429
+Targets hit: 19 of 59
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 50.631, 344.171 )
+Score = 0.013960
+
+Seed = 430
+Targets hit: 13 of 13
+Time taken: 285.63 seconds
+Total obstacles: 1
+Final Position: ( 455.719, 130.668 )
+Score = 0.430002
+
+Seed = 431
+Targets hit: 21 of 60
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 367.439, 320.374 )
+Score = 0.020813
+
+Seed = 432
+Targets hit: 39 of 50
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 349.718, 37.854 )
+Score = 0.033813
+
+Seed = 433
+Targets hit: 42 of 50
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 351.094, 260.786 )
+Score = 0.055501
+
+Seed = 434
+Targets hit: 32 of 38
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 19.215, 211.317 )
+Score = 0.040562
+
+
+
+Seed = 435
+Targets hit: 29 of 29
+Time taken: 356.39 seconds
+Total obstacles: 4
+Final Position: ( 81.193, 98.751 )
+Score = 0.219867
+
+Seed = 436
+Targets hit: 12 of 17
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 25.223, 149.616 )
+Score = 0.046640
+
+Seed = 437
+Targets hit: 26 of 46
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 200.459, 153.945 )
+Score = 0.033611
+
+Seed = 438
+Targets hit: 52 of 53
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 232.233, 254.371 )
+Score = 0.047259
+
+Seed = 439
+Targets hit: 31 of 45
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 378.986, 41.299 )
+Score = 0.045517
+
+Seed = 440
+Targets hit: 43 of 59
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 262.311, 228.619 )
+Score = 0.048155
+
+Seed = 441
+Targets hit: 30 of 45
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 358.585, 179.000 )
+Score = 0.032112
+
+Seed = 442
+Targets hit: 22 of 25
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 264.432, 14.907 )
+Score = 0.058144
+
+Seed = 443
+Targets hit: 14 of 14
+Time taken: 361.53 seconds
+Total obstacles: 6
+Final Position: ( 361.635, 123.934 )
+Score = 0.173569
+
+Seed = 444
+Targets hit: 14 of 27
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 67.037, 117.877 )
+Score = 0.034260
+
+Seed = 445
+Targets hit: 33 of 33
+Time taken: 330.91 seconds
+Total obstacles: 4
+Final Position: ( 215.879, 183.197 )
+Score = 0.249828
+
+Seed = 446
+Targets hit: 37 of 42
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 380.599, 218.858 )
+Score = 0.034371
+
+Seed = 447
+Targets hit: 32 of 32
+Time taken: 403.97 seconds
+Total obstacles: 5
+Final Position: ( 417.542, 256.982 )
+Score = 0.155895
+
+Seed = 448
+Targets hit: 33 of 52
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 41.732, 15.817 )
+Score = 0.033964
+
+Seed = 449
+Targets hit: 23 of 47
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 116.005, 156.685 )
+Score = 0.029100
+
+Seed = 450
+Targets hit: 26 of 29
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 262.353, 236.576 )
+Score = 0.065820
+
+Seed = 451
+Targets hit: 30 of 52
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 128.735, 237.293 )
+Score = 0.038119
+
+Seed = 452
+Targets hit: 25 of 35
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 413.230, 72.829 )
+Score = 0.047195
+
+Seed = 453
+Targets hit: 16 of 19
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 411.082, 236.106 )
+Score = 0.055641
+
+Seed = 454
+Targets hit: 44 of 59
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 38.635, 37.736 )
+Score = 0.029096
+
+Seed = 455
+Targets hit: 39 of 58
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 259.381, 159.670 )
+Score = 0.049365
+
+Seed = 456
+Targets hit: 30 of 38
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 295.985, 154.528 )
+Score = 0.038027
+
+Seed = 457
+Targets hit: 37 of 59
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 494.725, 237.896 )
+Score = 0.046040
+
+Seed = 458
+Targets hit: 8 of 56
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 180.019, 359.266 )
+Score = 0.010488
+
+Seed = 459
+Targets hit: 31 of 39
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 370.702, 135.100 )
+Score = 0.052520
+
+Seed = 460
+Targets hit: 16 of 31
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 86.903, 264.324 )
+Score = 0.024861
+
+Seed = 461
+Targets hit: 15 of 38
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 333.903, 233.554 )
+Score = 0.026082
+
+Seed = 462
+Targets hit: 19 of 41
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 151.564, 191.059 )
+Score = 0.034021
+
+Seed = 463
+Targets hit: 33 of 60
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 414.540, 192.389 )
+Score = 0.036340
+
+Seed = 464
+Targets hit: 28 of 30
+Time taken: 500.00 seconds
+Total obstacles: 8
+Final Position: ( 248.078, 136.933 )
+Score = 0.032773
+
+Seed = 465
+Targets hit: 32 of 44
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 211.573, 144.013 )
+Score = 0.043248
+
+Seed = 466
+Targets hit: 27 of 39
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 424.815, 25.664 )
+Score = 0.041169
+
+Seed = 467
+Targets hit: 13 of 18
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 389.056, 237.747 )
+Score = 0.053022
+
+Seed = 468
+Targets hit: 34 of 34
+Time taken: 407.09 seconds
+Total obstacles: 5
+Final Position: ( 133.896, 185.552 )
+Score = 0.153472
+
+Seed = 469
+Targets hit: 25 of 54
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 497.918, 84.551 )
+Score = 0.030589
+
+
+Seed = 470
+Targets hit: 39 of 39
+Time taken: 437.99 seconds
+Total obstacles: 8
+Final Position: ( 483.361, 61.259 )
+Score = 0.095831
+
+Seed = 471
+Targets hit: 14 of 19
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 462.374, 0.091 )
+Score = 0.039435
+
+Seed = 472
+Targets hit: 11 of 11
+Time taken: 345.76 seconds
+Total obstacles: 2
+Final Position: ( 352.955, 85.850 )
+Score = 0.286294
+
+Seed = 473
+Targets hit: 33 of 54
+Time taken: 500.00 seconds
+Total obstacles: 8
+Final Position: ( 26.362, 252.649 )
+Score = 0.021459
+
+Seed = 474
+Targets hit: 30 of 60
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 418.457, 138.532 )
+Score = 0.015801
+
+Seed = 475
+Targets hit: 33 of 38
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 306.005, 203.021 )
+Score = 0.051641
+
+Seed = 476
+Targets hit: 41 of 41
+Time taken: 486.12 seconds
+Total obstacles: 7
+Final Position: ( 40.322, 48.483 )
+Score = 0.083655
+
+Seed = 477
+Targets hit: 35 of 35
+Time taken: 461.04 seconds
+Total obstacles: 5
+Final Position: ( 306.382, 96.082 )
+Score = 0.117111
+
+Seed = 478
+Targets hit: 30 of 51
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 46.423, 63.635 )
+Score = 0.025500
+
+Seed = 479
+Targets hit: 50 of 58
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 312.616, 254.320 )
+Score = 0.051264
+
+Seed = 480
+Targets hit: 41 of 50
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 253.981, 314.208 )
+Score = 0.039497
+
+Seed = 481
+Targets hit: 46 of 46
+Time taken: 343.52 seconds
+Total obstacles: 8
+Final Position: ( 300.620, 114.651 )
+Score = 0.153874
+
+Seed = 482
+Targets hit: 17 of 24
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 399.470, 171.553 )
+Score = 0.037910
+
+Seed = 483
+Targets hit: 37 of 48
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 25.595, 263.536 )
+Score = 0.033416
+
+Seed = 484
+Targets hit: 42 of 49
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 100.022, 92.254 )
+Score = 0.056634
+
+Seed = 485
+Targets hit: 41 of 48
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 16.678, 187.083 )
+Score = 0.037029
+
+Seed = 486
+Targets hit: 25 of 25
+Time taken: 462.56 seconds
+Total obstacles: 3
+Final Position: ( 62.872, 103.107 )
+Score = 0.143482
+
+Seed = 487
+Targets hit: 35 of 59
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 368.663, 277.989 )
+Score = 0.028574
+
+Seed = 488
+Targets hit: 25 of 33
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 19.242, 0.280 )
+Score = 0.036490
+
+Seed = 489
+Targets hit: 17 of 17
+Time taken: 343.51 seconds
+Total obstacles: 3
+Final Position: ( 178.754, 29.908 )
+Score = 0.260593
+
+Seed = 490
+Targets hit: 15 of 15
+Time taken: 274.13 seconds
+Total obstacles: 6
+Final Position: ( 355.442, 83.295 )
+Score = 0.268988
+
+Seed = 491
+Targets hit: 39 of 44
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 453.775, 13.763 )
+Score = 0.052708
+
+Seed = 492
+Targets hit: 12 of 12
+Time taken: 197.00 seconds
+Total obstacles: 4
+Final Position: ( 255.130, 51.345 )
+Score = 0.488824
+
+Seed = 493
+Targets hit: 14 of 14
+Time taken: 174.41 seconds
+Total obstacles: 4
+Final Position: ( 404.508, 205.675 )
+Score = 0.547431
+
+Seed = 494
+Targets hit: 12 of 59
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 203.734, 396.401 )
+Score = 0.007935
+
+Seed = 495
+Targets hit: 16 of 16
+Time taken: 241.71 seconds
+Total obstacles: 5
+Final Position: ( 350.094, 58.296 )
+Score = 0.351608
+
+Seed = 496
+Targets hit: 17 of 17
+Time taken: 185.95 seconds
+Total obstacles: 6
+Final Position: ( 330.436, 223.049 )
+Score = 0.418497
+
+Seed = 497
+Targets hit: 21 of 24
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 399.693, 107.051 )
+Score = 0.057814
+
+Seed = 498
+Targets hit: 28 of 54
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 193.168, 114.496 )
+Score = 0.020230
+
+Seed = 499
+Targets hit: 18 of 43
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 368.164, 60.352 )
+Score = 0.020163
+
+Seed = 500
+Targets hit: 40 of 53
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 383.384, 36.871 )
+Score = 0.036353
+
+Seed = 501
+Targets hit: 29 of 38
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 116.439, 124.721 )
+Score = 0.036759
+
+Seed = 502
+Targets hit: 19 of 19
+Time taken: 321.15 seconds
+Total obstacles: 4
+Final Position: ( 480.253, 17.646 )
+Score = 0.262356
+
+Seed = 503
+Targets hit: 14 of 14
+Time taken: 170.37 seconds
+Total obstacles: 2
+Final Position: ( 238.470, 118.879 )
+Score = 0.689661
+
+Seed = 504
+Targets hit: 16 of 16
+Time taken: 301.39 seconds
+Total obstacles: 6
+Final Position: ( 69.665, 52.975 )
+Score = 0.234631
+
+Seed = 505
+Targets hit: 48 of 58
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 267.444, 270.130 )
+Score = 0.049213
+
+Seed = 506
+Targets hit: 18 of 33
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 304.349, 86.882 )
+Score = 0.026273
+
+Seed = 507
+Targets hit: 34 of 42
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 52.602, 118.247 )
+Score = 0.035093
+
+Seed = 508
+Targets hit: 23 of 23
+Time taken: 316.10 seconds
+Total obstacles: 7
+Final Position: ( 472.678, 258.258 )
+Score = 0.196157
+
+Seed = 509
+Targets hit: 41 of 41
+Time taken: 418.69 seconds
+Total obstacles: 4
+Final Position: ( 386.083, 128.043 )
+Score = 0.160895
+
+Seed = 510
+Targets hit: 33 of 51
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 402.254, 74.970 )
+Score = 0.034630
+
+Seed = 511
+Targets hit: 25 of 28
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 168.689, 40.208 )
+Score = 0.058994
+
+Seed = 512
+Targets hit: 38 of 50
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 471.338, 119.551 )
+Score = 0.045194
+
+Seed = 513
+Targets hit: 9 of 46
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 159.714, 151.733 )
+Score = 0.012927
+
+Seed = 514
+Targets hit: 23 of 40
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 7.460, 142.282 )
+Score = 0.037992
+
+Seed = 515
+Targets hit: 35 of 36
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 223.452, 261.431 )
+Score = 0.052033
+
+Seed = 516
+Targets hit: 22 of 35
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 283.418, 3.937 )
+Score = 0.037379
+
+
+Seed = 517
+Targets hit: 34 of 50
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 471.470, 259.744 )
+Score = 0.049922
+
+Seed = 518
+Targets hit: 41 of 58
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 181.641, 275.314 )
+Score = 0.042036
+
+Seed = 519
+Targets hit: 25 of 25
+Time taken: 438.91 seconds
+Total obstacles: 2
+Final Position: ( 69.241, 105.187 )
+Score = 0.179491
+
+Seed = 520
+Targets hit: 35 of 39
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 77.535, 125.150 )
+Score = 0.043227
+
+Seed = 521
+Targets hit: 21 of 21
+Time taken: 254.90 seconds
+Total obstacles: 4
+Final Position: ( 251.638, 176.920 )
+Score = 0.365678
+
+Seed = 522
+Targets hit: 16 of 56
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 365.692, 146.593 )
+Score = 0.016990
+
+Seed = 523
+Targets hit: 23 of 44
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 73.167, 131.041 )
+Score = 0.034538
+
+Seed = 524
+Targets hit: 17 of 17
+Time taken: 420.97 seconds
+Total obstacles: 4
+Final Position: ( 431.546, 194.644 )
+Score = 0.159066
+
+Seed = 525
+Targets hit: 29 of 32
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 61.962, 120.347 )
+Score = 0.043652
+
+Seed = 526
+Targets hit: 26 of 26
+Time taken: 327.38 seconds
+Total obstacles: 5
+Final Position: ( 149.300, 217.519 )
+Score = 0.228852
+
+Seed = 527
+Targets hit: 33 of 48
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 118.366, 56.855 )
+Score = 0.036795
+
+Seed = 528
+Targets hit: 31 of 31
+Time taken: 485.55 seconds
+Total obstacles: 9
+Final Position: ( 255.495, 98.033 )
+Score = 0.067954
+
+Seed = 529
+Targets hit: 31 of 50
+Time taken: 500.00 seconds
+Total obstacles: 8
+Final Position: ( 20.426, 190.994 )
+Score = 0.021771
+
+Seed = 530
+Targets hit: 15 of 15
+Time taken: 227.81 seconds
+Total obstacles: 2
+Final Position: ( 389.774, 223.499 )
+Score = 0.517110
+
+Seed = 531
+Targets hit: 14 of 14
+Time taken: 207.32 seconds
+Total obstacles: 4
+Final Position: ( 15.523, 228.598 )
+Score = 0.464167
+
+Seed = 532
+Targets hit: 26 of 35
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 100.830, 201.329 )
+Score = 0.035781
+
+
+Seed = 533
+Targets hit: 11 of 26
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 291.554, 92.343 )
+Score = 0.022643
+
+Seed = 534
+Targets hit: 48 of 56
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 115.886, 159.603 )
+Score = 0.045874
+
+Seed = 535
+Targets hit: 14 of 28
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 123.392, 100.836 )
+Score = 0.029733
+
+Seed = 536
+Targets hit: 23 of 29
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 439.149, 181.122 )
+Score = 0.047163
+
+Seed = 537
+Targets hit: 13 of 13
+Time taken: 140.18 seconds
+Total obstacles: 1
+Final Position: ( 486.493, 165.606 )
+Score = 0.891492
+
+Seed = 538
+Targets hit: 38 of 53
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 454.933, 4.227 )
+Score = 0.042636
+
+Seed = 539
+Targets hit: 13 of 13
+Time taken: 240.41 seconds
+Total obstacles: 3
+Final Position: ( 407.617, 18.136 )
+Score = 0.436916
+
+Seed = 540
+Targets hit: 34 of 34
+Time taken: 436.73 seconds
+Total obstacles: 3
+Final Position: ( 92.881, 79.591 )
+Score = 0.163315
+
+Seed = 541
+Targets hit: 9 of 13
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 43.899, 210.002 )
+Score = 0.041169
+
+Seed = 542
+Targets hit: 32 of 41
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 361.666, 219.196 )
+Score = 0.046412
+
+Seed = 543
+Targets hit: 50 of 55
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 332.703, 158.669 )
+Score = 0.035469
+
+Seed = 544
+Targets hit: 34 of 45
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 466.848, 103.626 )
+Score = 0.040437
+
+Seed = 545
+Targets hit: 25 of 51
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 246.037, 68.773 )
+Score = 0.023611
+
+Seed = 546
+Targets hit: 20 of 34
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 286.978, 264.208 )
+Score = 0.031482
+
+Seed = 547
+Targets hit: 16 of 29
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 303.752, 91.186 )
+Score = 0.036454
+
+Seed = 548
+Targets hit: 1 of 41
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 25.000, 254.942 )
+Score = 0.001791
+
+Seed = 549
+Targets hit: 40 of 60
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 80.084, 251.068 )
+Score = 0.044049
+
+Seed = 550
+Targets hit: 50 of 51
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 72.056, 232.404 )
+Score = 0.058300
+
+Seed = 551
+Targets hit: 12 of 12
+Time taken: 240.26 seconds
+Total obstacles: 3
+Final Position: ( 443.077, 285.458 )
+Score = 0.437247
+
+Seed = 552
+Targets hit: 17 of 23
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 316.957, 5.826 )
+Score = 0.048837
+
+Seed = 553
+Targets hit: 29 of 39
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 378.359, 115.333 )
+Score = 0.044218
+
+Seed = 554
+Targets hit: 37 of 57
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 341.780, 204.251 )
+Score = 0.047655
+
+Seed = 555
+Targets hit: 12 of 12
+Time taken: 140.27 seconds
+Total obstacles: 4
+Final Position: ( 424.344, 10.130 )
+Score = 0.649602
+
+Seed = 556
+Targets hit: 38 of 49
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 19.098, 217.570 )
+Score = 0.041505
+
+Seed = 557
+Targets hit: 4 of 59
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 401.000, 254.942 )
+Score = 0.004480
+
+Seed = 558
+Targets hit: 17 of 33
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 19.203, 312.115 )
+Score = 0.034038
+
+Seed = 559
+Targets hit: 33 of 33
+Time taken: 490.78 seconds
+Total obstacles: 7
+Final Position: ( 117.168, 45.002 )
+Score = 0.081720
+
+Seed = 560
+Targets hit: 11 of 11
+Time taken: 114.91 seconds
+Total obstacles: 4
+Final Position: ( 189.046, 166.346 )
+Score = 0.737664
+
+Seed = 561
+Targets hit: 26 of 26
+Time taken: 298.14 seconds
+Total obstacles: 3
+Final Position: ( 208.202, 69.148 )
+Score = 0.327132
+
+Seed = 562
+Targets hit: 31 of 58
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 278.825, 126.357 )
+Score = 0.031783
+
+Seed = 563
+Targets hit: 13 of 13
+Time taken: 234.06 seconds
+Total obstacles: 2
+Final Position: ( 203.928, 39.577 )
+Score = 0.501181
+
+Seed = 564
+Targets hit: 14 of 14
+Time taken: 245.05 seconds
+Total obstacles: 3
+Final Position: ( 275.349, 103.550 )
+Score = 0.426873
+
+Seed = 565
+Targets hit: 19 of 19
+Time taken: 183.09 seconds
+Total obstacles: 2
+Final Position: ( 461.011, 46.474 )
+Score = 0.647042
+
+Seed = 566
+Targets hit: 12 of 18
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 399.555, 198.559 )
+Score = 0.039644
+
+Seed = 567
+Targets hit: 22 of 44
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 110.225, 233.758 )
+Score = 0.024084
+
+Seed = 568
+Targets hit: 30 of 40
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 250.212, 20.122 )
+Score = 0.044599
+
+Seed = 569
+Targets hit: 33 of 50
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 394.299, 142.736 )
+Score = 0.039247
+
+Seed = 570
+Targets hit: 23 of 50
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 410.802, 10.961 )
+Score = 0.027354
+
+Seed = 571
+Targets hit: 32 of 43
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 347.739, 225.326 )
+Score = 0.049171
+
+Seed = 572
+Targets hit: 25 of 47
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 351.391, 197.589 )
+Score = 0.031631
+
+Seed = 573
+Targets hit: 22 of 29
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 145.234, 84.761 )
+Score = 0.050125
+
+Seed = 574
+Targets hit: 30 of 52
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 477.620, 222.818 )
+Score = 0.034307
+
+Seed = 575
+Targets hit: 31 of 31
+Time taken: 307.60 seconds
+Total obstacles: 5
+Final Position: ( 22.999, 126.843 )
+Score = 0.252712
+
+Seed = 576
+Targets hit: 30 of 42
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 85.038, 105.292 )
+Score = 0.038228
+
+Seed = 577
+Targets hit: 27 of 37
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 21.658, 100.803 )
+Score = 0.039055
+
+Seed = 578
+Targets hit: 12 of 12
+Time taken: 327.81 seconds
+Total obstacles: 2
+Final Position: ( 348.635, 31.698 )
+Score = 0.313261
+
+Seed = 579
+Targets hit: 14 of 14
+Time taken: 468.53 seconds
+Total obstacles: 3
+Final Position: ( 480.791, 88.927 )
+Score = 0.139257
+
+Seed = 580
+Targets hit: 18 of 18
+Time taken: 236.22 seconds
+Total obstacles: 5
+Final Position: ( 291.142, 74.472 )
+Score = 0.361418
+
+Seed = 581
+Targets hit: 17 of 17
+Time taken: 220.68 seconds
+Total obstacles: 3
+Final Position: ( 222.597, 267.143 )
+Score = 0.482349
+
+Seed = 582
+Targets hit: 41 of 44
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 120.843, 139.221 )
+Score = 0.036355
+
+
+Seed = 583
+Targets hit: 26 of 50
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 438.154, 317.117 )
+Score = 0.034358
+
+Seed = 584
+Targets hit: 31 of 44
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 307.791, 235.007 )
+Score = 0.033936
+
+Seed = 585
+Targets hit: 28 of 33
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 333.796, 174.372 )
+Score = 0.040869
+
+Seed = 586
+Targets hit: 29 of 44
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 225.320, 80.187 )
+Score = 0.043548
+
+Seed = 587
+Targets hit: 29 of 46
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 297.838, 13.025 )
+Score = 0.024597
+
+Seed = 588
+Targets hit: 30 of 30
+Time taken: 426.59 seconds
+Total obstacles: 2
+Final Position: ( 88.225, 86.084 )
+Score = 0.190922
+
+Seed = 589
+Targets hit: 15 of 15
+Time taken: 423.26 seconds
+Total obstacles: 1
+Final Position: ( 227.266, 138.293 )
+Score = 0.215713
+
+Seed = 590
+Targets hit: 18 of 18
+Time taken: 270.24 seconds
+Total obstacles: 3
+Final Position: ( 463.334, 238.980 )
+Score = 0.376248
+
+Seed = 591
+Targets hit: 16 of 21
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 116.868, 146.632 )
+Score = 0.029726
+
+Seed = 592
+Targets hit: 19 of 40
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 235.452, 59.729 )
+Score = 0.031385
+
+Seed = 593
+Targets hit: 28 of 41
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 372.199, 185.559 )
+Score = 0.045123
+
+Seed = 594
+Targets hit: 45 of 54
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 198.079, 221.407 )
+Score = 0.032513
+
+Seed = 595
+Targets hit: 31 of 43
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 391.834, 243.864 )
+Score = 0.034725
+
+Seed = 596
+Targets hit: 12 of 32
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 428.313, 65.219 )
+Score = 0.020070
+
+Seed = 597
+Targets hit: 46 of 46
+Time taken: 401.20 seconds
+Total obstacles: 10
+Final Position: ( 457.867, 36.547 )
+Score = 0.093340
+
+Seed = 598
+Targets hit: 41 of 57
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 439.003, 128.872 )
+Score = 0.047526
+
+Seed = 599
+Targets hit: 28 of 28
+Time taken: 256.90 seconds
+Total obstacles: 5
+Final Position: ( 34.635, 145.520 )
+Score = 0.325834
+
+Seed = 600
+Targets hit: 38 of 46
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 138.194, 97.179 )
+Score = 0.049124
+
+Seed = 601
+Targets hit: 34 of 34
+Time taken: 399.82 seconds
+Total obstacles: 3
+Final Position: ( 328.452, 108.046 )
+Score = 0.196513
+
+Seed = 602
+Targets hit: 20 of 28
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 214.141, 177.165 )
+Score = 0.038228
+
+Seed = 603
+Targets hit: 29 of 53
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 33.819, 194.308 )
+Score = 0.029284
+
+Seed = 604
+Targets hit: 14 of 14
+Time taken: 320.82 seconds
+Total obstacles: 3
+Final Position: ( 197.251, 146.435 )
+Score = 0.291981
+
+Seed = 605
+Targets hit: 21 of 42
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 33.946, 195.443 )
+Score = 0.026760
+
+Seed = 606
+Targets hit: 45 of 55
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 225.838, 264.868 )
+Score = 0.031922
+
+Seed = 607
+Targets hit: 18 of 53
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 400.820, 211.427 )
+Score = 0.022440
+
+Seed = 608
+Targets hit: 46 of 53
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 87.168, 112.777 )
+Score = 0.041806
+
+Seed = 609
+Targets hit: 27 of 32
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 448.219, 89.341 )
+Score = 0.050174
+
+Seed = 610
+Targets hit: 34 of 55
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 477.154, 267.611 )
+Score = 0.040845
+
+Seed = 611
+Targets hit: 21 of 24
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 430.660, 207.476 )
+Score = 0.057814
+
+Seed = 612
+Targets hit: 25 of 47
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 292.910, 208.180 )
+Score = 0.035145
+
+Seed = 613
+Targets hit: 19 of 19
+Time taken: 472.83 seconds
+Total obstacles: 5
+Final Position: ( 395.696, 46.211 )
+Score = 0.110389
+
+Seed = 614
+Targets hit: 30 of 39
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 275.500, 261.184 )
+Score = 0.050826
+
+Seed = 615
+Targets hit: 10 of 10
+Time taken: 160.14 seconds
+Total obstacles: 2
+Final Position: ( 46.359, 83.197 )
+Score = 0.725927
+
+Seed = 616
+Targets hit: 26 of 43
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 214.873, 303.037 )
+Score = 0.035956
+
+Seed = 617
+Targets hit: 41 of 44
+Time taken: 500.00 seconds
+Total obstacles: 11
+Final Position: ( 489.515, 38.274 )
+Score = 0.023853
+
+Seed = 618
+Targets hit: 11 of 11
+Time taken: 357.40 seconds
+Total obstacles: 3
+Final Position: ( 171.014, 104.469 )
+Score = 0.243065
+
+Seed = 619
+Targets hit: 11 of 11
+Time taken: 199.71 seconds
+Total obstacles: 4
+Final Position: ( 229.963, 165.249 )
+Score = 0.482220
+
+Seed = 620
+Targets hit: 38 of 38
+Time taken: 438.12 seconds
+Total obstacles: 6
+Final Position: ( 351.209, 209.221 )
+Score = 0.118231
+
+Seed = 621
+Targets hit: 16 of 16
+Time taken: 245.95 seconds
+Total obstacles: 5
+Final Position: ( 78.621, 191.542 )
+Score = 0.344207
+
+Seed = 622
+Targets hit: 12 of 22
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 460.307, 215.669 )
+Score = 0.023646
+
+Seed = 623
+Targets hit: 28 of 40
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 149.920, 83.002 )
+Score = 0.041626
+
+Seed = 624
+Targets hit: 35 of 45
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 232.453, 110.985 )
+Score = 0.057100
+
+
+Seed = 625
+Targets hit: 23 of 27
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 355.694, 253.957 )
+Score = 0.062538
+
+Seed = 626
+Targets hit: 49 of 50
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 310.200, 65.879 )
+Score = 0.047204
+
+Seed = 627
+Targets hit: 14 of 14
+Time taken: 171.31 seconds
+Total obstacles: 3
+Final Position: ( 498.231, 268.321 )
+Score = 0.617778
+
+Seed = 628
+Targets hit: 11 of 11
+Time taken: 167.63 seconds
+Total obstacles: 4
+Final Position: ( 128.474, 103.834 )
+Score = 0.566352
+
+Seed = 629
+Targets hit: 28 of 58
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 286.553, 227.338 )
+Score = 0.025837
+
+Seed = 630
+Targets hit: 11 of 11
+Time taken: 249.79 seconds
+Total obstacles: 2
+Final Position: ( 440.087, 265.750 )
+Score = 0.463177
+
+Seed = 631
+Targets hit: 27 of 27
+Time taken: 293.23 seconds
+Total obstacles: 4
+Final Position: ( 17.584, 54.374 )
+Score = 0.301753
+
+Seed = 632
+Targets hit: 46 of 46
+Time taken: 475.25 seconds
+Total obstacles: 8
+Final Position: ( 172.425, 21.883 )
+Score = 0.079504
+
+Seed = 633
+Targets hit: 44 of 45
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 100.061, 156.119 )
+Score = 0.047097
+
+Seed = 634
+Targets hit: 11 of 11
+Time taken: 125.45 seconds
+Total obstacles: 4
+Final Position: ( 86.000, 63.036 )
+Score = 0.699689
+
+Seed = 635
+Targets hit: 24 of 60
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 50.581, 97.668 )
+Score = 0.026429
+
+Seed = 636
+Targets hit: 17 of 25
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 20.298, 51.016 )
+Score = 0.044930
+
+Seed = 637
+Targets hit: 27 of 43
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 247.678, 89.274 )
+Score = 0.037339
+
+Seed = 638
+Targets hit: 31 of 31
+Time taken: 377.78 seconds
+Total obstacles: 4
+Final Position: ( 43.933, 65.443 )
+Score = 0.197515
+
+Seed = 639
+Targets hit: 16 of 17
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 435.790, 159.843 )
+Score = 0.062187
+
+Seed = 640
+Targets hit: 22 of 31
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 54.508, 19.847 )
+Score = 0.037981
+
+
+Seed = 641
+Targets hit: 37 of 56
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 145.721, 46.614 )
+Score = 0.043656
+
+Seed = 642
+Targets hit: 14 of 23
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 385.167, 233.850 )
+Score = 0.044687
+
+Seed = 643
+Targets hit: 22 of 22
+Time taken: 301.58 seconds
+Total obstacles: 4
+Final Position: ( 117.998, 213.784 )
+Score = 0.289389
+
+Seed = 644
+Targets hit: 23 of 27
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 227.732, 175.799 )
+Score = 0.041031
+
+Seed = 645
+Targets hit: 27 of 40
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 425.034, 37.625 )
+Score = 0.040139
+
+Seed = 646
+Targets hit: 26 of 57
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 300.666, 160.457 )
+Score = 0.024412
+
+Seed = 647
+Targets hit: 30 of 52
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 59.027, 134.309 )
+Score = 0.034307
+
+Seed = 648
+Targets hit: 16 of 24
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 471.375, 81.906 )
+Score = 0.039644
+
+Seed = 649
+Targets hit: 19 of 43
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 42.942, 190.759 )
+Score = 0.029195
+
+Seed = 650
+Targets hit: 48 of 56
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 40.392, 71.664 )
+Score = 0.041286
+
+Seed = 651
+Targets hit: 19 of 19
+Time taken: 228.91 seconds
+Total obstacles: 3
+Final Position: ( 450.893, 28.410 )
+Score = 0.462854
+
+Seed = 652
+Targets hit: 48 of 51
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 427.218, 226.060 )
+Score = 0.050371
+
+Seed = 653
+Targets hit: 40 of 54
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 345.129, 252.977 )
+Score = 0.054381
+
+Seed = 654
+Targets hit: 31 of 50
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 261.060, 105.304 )
+Score = 0.036869
+
+Seed = 655
+Targets hit: 24 of 30
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 49.193, 240.946 )
+Score = 0.052859
+
+Seed = 656
+Targets hit: 35 of 52
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 189.524, 58.912 )
+Score = 0.044472
+
+Seed = 657
+Targets hit: 23 of 56
+Time taken: 500.00 seconds
+Total obstacles: 8
+Final Position: ( 468.215, 347.035 )
+Score = 0.014422
+
+Seed = 658
+Targets hit: 48 of 60
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 162.246, 119.102 )
+Score = 0.052859
+
+Seed = 659
+Targets hit: 37 of 58
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 428.751, 288.183 )
+Score = 0.042150
+
+Seed = 660
+Targets hit: 20 of 39
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 130.820, 119.412 )
+Score = 0.033884
+
+Seed = 661
+Targets hit: 50 of 59
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 301.154, 90.555 )
+Score = 0.026782
+
+Seed = 662
+Targets hit: 8 of 23
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 170.048, 104.215 )
+Score = 0.015078
+
+Seed = 663
+Targets hit: 29 of 56
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 384.435, 276.885 )
+Score = 0.022449
+
+Seed = 664
+Targets hit: 17 of 32
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 424.834, 211.761 )
+Score = 0.035101
+
+Seed = 665
+Targets hit: 13 of 13
+Time taken: 150.83 seconds
+Total obstacles: 3
+Final Position: ( 92.337, 192.361 )
+Score = 0.684576
+
+Seed = 666
+Targets hit: 16 of 23
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 39.155, 107.968 )
+Score = 0.037231
+
+Seed = 667
+Targets hit: 21 of 40
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 103.345, 222.374 )
+Score = 0.028098
+
+Seed = 668
+Targets hit: 40 of 54
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 25.304, 76.521 )
+Score = 0.039644
+
+
+Seed = 669
+Targets hit: 16 of 16
+Time taken: 324.64 seconds
+Total obstacles: 3
+Final Position: ( 428.395, 240.539 )
+Score = 0.286445
+
+Seed = 670
+Targets hit: 26 of 26
+Time taken: 324.04 seconds
+Total obstacles: 2
+Final Position: ( 218.918, 186.000 )
+Score = 0.319233
+
+Seed = 671
+Targets hit: 38 of 38
+Time taken: 323.45 seconds
+Total obstacles: 3
+Final Position: ( 294.208, 50.398 )
+Score = 0.288157
+
+Seed = 672
+Targets hit: 13 of 13
+Time taken: 174.22 seconds
+Total obstacles: 3
+Final Position: ( 166.680, 24.625 )
+Score = 0.608817
+
+Seed = 673
+Targets hit: 20 of 20
+Time taken: 353.36 seconds
+Total obstacles: 6
+Final Position: ( 123.100, 97.253 )
+Score = 0.180825
+
+Seed = 674
+Targets hit: 10 of 10
+Time taken: 237.80 seconds
+Total obstacles: 3
+Final Position: ( 352.688, 85.167 )
+Score = 0.442670
+
+Seed = 675
+Targets hit: 23 of 31
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 123.944, 145.838 )
+Score = 0.044120
+
+Seed = 676
+Targets hit: 34 of 55
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 348.475, 134.870 )
+Score = 0.033085
+
+Seed = 677
+Targets hit: 18 of 36
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 178.150, 69.308 )
+Score = 0.026760
+
+Seed = 678
+Targets hit: 20 of 25
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 375.256, 36.051 )
+Score = 0.047573
+
+Seed = 679
+Targets hit: 8 of 10
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 470.719, 2.373 )
+Score = 0.052859
+
+Seed = 680
+Targets hit: 24 of 24
+Time taken: 232.08 seconds
+Total obstacles: 3
+Final Position: ( 389.949, 265.000 )
+Score = 0.455554
+
+Seed = 681
+Targets hit: 42 of 56
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 454.389, 42.563 )
+Score = 0.032513
+
+Seed = 682
+Targets hit: 28 of 50
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 118.485, 200.863 )
+Score = 0.033301
+
+Seed = 683
+Targets hit: 23 of 40
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 495.797, 39.868 )
+Score = 0.037992
+
+Seed = 684
+Targets hit: 16 of 16
+Time taken: 233.36 seconds
+Total obstacles: 2
+Final Position: ( 404.024, 158.697 )
+Score = 0.502921
+
+Seed = 685
+Targets hit: 33 of 33
+Time taken: 466.97 seconds
+Total obstacles: 4
+Final Position: ( 84.614, 137.915 )
+Score = 0.126314
+
+Seed = 686
+Targets hit: 9 of 19
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 112.750, 220.540 )
+Score = 0.034775
+
+Seed = 687
+Targets hit: 28 of 28
+Time taken: 270.89 seconds
+Total obstacles: 6
+Final Position: ( 361.162, 44.411 )
+Score = 0.273382
+
+Seed = 688
+Targets hit: 43 of 56
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 234.599, 189.857 )
+Score = 0.041095
+
+Seed = 689
+Targets hit: 9 of 59
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 191.362, 397.291 )
+Score = 0.009071
+
+Seed = 690
+Targets hit: 34 of 38
+Time taken: 500.00 seconds
+Total obstacles: 8
+Final Position: ( 216.154, 20.353 )
+Score = 0.031418
+
+Seed = 691
+Targets hit: 24 of 55
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 455.252, 12.639 )
+Score = 0.028832
+
+Seed = 692
+Targets hit: 38 of 38
+Time taken: 390.75 seconds
+Total obstacles: 4
+Final Position: ( 257.951, 58.476 )
+Score = 0.185085
+
+Seed = 693
+Targets hit: 11 of 15
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 273.552, 240.027 )
+Score = 0.039247
+
+Seed = 694
+Targets hit: 15 of 15
+Time taken: 311.14 seconds
+Total obstacles: 4
+Final Position: ( 145.603, 200.974 )
+Score = 0.275848
+
+Seed = 695
+Targets hit: 24 of 43
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 491.273, 75.177 )
+Score = 0.024196
+
+Seed = 696
+Targets hit: 19 of 53
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 473.957, 34.736 )
+Score = 0.019186
+
+Seed = 697
+Targets hit: 17 of 31
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 405.899, 129.834 )
+Score = 0.029349
+
+Seed = 698
+Targets hit: 16 of 27
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 164.006, 147.552 )
+Score = 0.035239
+
+Seed = 699
+Targets hit: 32 of 44
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 417.240, 33.115 )
+Score = 0.053392
+
+Seed = 700
+Targets hit: 44 of 60
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 290.566, 187.050 )
+Score = 0.035323
+
+Seed = 701
+Targets hit: 15 of 24
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 225.413, 127.877 )
+Score = 0.041296
+
+Seed = 702
+Targets hit: 40 of 43
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 264.321, 5.524 )
+Score = 0.061463
+
+Seed = 703
+Targets hit: 46 of 58
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 490.177, 83.709 )
+Score = 0.052403
+
+Seed = 704
+Targets hit: 36 of 40
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 445.296, 33.248 )
+Score = 0.066073
+
+Seed = 705
+Targets hit: 37 of 53
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 78.661, 194.322 )
+Score = 0.046127
+
+Seed = 706
+Targets hit: 37 of 51
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 361.091, 137.132 )
+Score = 0.047935
+
+
+Seed = 707
+Targets hit: 20 of 20
+Time taken: 349.83 seconds
+Total obstacles: 1
+Final Position: ( 280.598, 248.442 )
+Score = 0.311688
+
+Seed = 708
+Targets hit: 34 of 45
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 257.661, 186.184 )
+Score = 0.044930
+
+Seed = 709
+Targets hit: 3 of 28
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 412.000, 254.942 )
+Score = 0.007079
+
+
+Seed = 710
+Targets hit: 35 of 52
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 271.586, 175.061 )
+Score = 0.032420
+
+Seed = 711
+Targets hit: 27 of 27
+Time taken: 422.29 seconds
+Total obstacles: 4
+Final Position: ( 317.585, 198.149 )
+Score = 0.158018
+
+Seed = 712
+Targets hit: 10 of 25
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 117.956, 333.210 )
+Score = 0.029366
+
+Seed = 713
+Targets hit: 33 of 33
+Time taken: 313.30 seconds
+Total obstacles: 4
+Final Position: ( 179.017, 121.410 )
+Score = 0.272884
+
+Seed = 714
+Targets hit: 23 of 48
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 287.715, 145.025 )
+Score = 0.020772
+
+Seed = 715
+Targets hit: 15 of 29
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 480.321, 63.375 )
+Score = 0.027682
+
+Seed = 716
+Targets hit: 32 of 56
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 182.224, 158.644 )
+Score = 0.030582
+
+Seed = 717
+Targets hit: 36 of 49
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 153.091, 139.491 )
+Score = 0.043689
+
+Seed = 718
+Targets hit: 19 of 19
+Time taken: 295.56 seconds
+Total obstacles: 5
+Final Position: ( 55.494, 282.655 )
+Score = 0.268431
+
+Seed = 719
+Targets hit: 23 of 23
+Time taken: 382.21 seconds
+Total obstacles: 4
+Final Position: ( 330.112, 50.584 )
+Score = 0.193183
+
+Seed = 720
+Targets hit: 27 of 50
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 197.036, 150.404 )
+Score = 0.026010
+
+Seed = 721
+Targets hit: 42 of 54
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 125.372, 145.445 )
+Score = 0.024580
+
+Seed = 722
+Targets hit: 15 of 15
+Time taken: 221.99 seconds
+Total obstacles: 2
+Final Position: ( 127.915, 198.111 )
+Score = 0.532437
+
+Seed = 723
+Targets hit: 16 of 27
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 98.785, 143.701 )
+Score = 0.031715
+
+Seed = 724
+Targets hit: 39 of 52
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 292.423, 178.627 )
+Score = 0.044599
+
+Seed = 725
+Targets hit: 19 of 27
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 235.268, 57.430 )
+Score = 0.041846
+
+Seed = 726
+Targets hit: 30 of 47
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 51.991, 55.750 )
+Score = 0.024904
+
+
+Seed = 727
+Targets hit: 26 of 39
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 348.119, 225.186 )
+Score = 0.032112
+
+
+Seed = 728
+Targets hit: 33 of 45
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 37.022, 259.027 )
+Score = 0.048454
+
+Seed = 729
+Targets hit: 22 of 22
+Time taken: 321.30 seconds
+Total obstacles: 3
+Final Position: ( 410.635, 264.767 )
+Score = 0.291280
+
+Seed = 730
+Targets hit: 30 of 30
+Time taken: 410.57 seconds
+Total obstacles: 2
+Final Position: ( 353.641, 264.940 )
+Score = 0.206891
+
+Seed = 731
+Targets hit: 40 of 51
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 68.330, 111.641 )
+Score = 0.037778
+
+Seed = 732
+Targets hit: 30 of 52
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 137.814, 115.377 )
+Score = 0.042355
+
+Seed = 733
+Targets hit: 24 of 24
+Time taken: 289.27 seconds
+Total obstacles: 4
+Final Position: ( 2.494, 21.607 )
+Score = 0.307803
+
+
+Seed = 734
+Targets hit: 38 of 38
+Time taken: 451.29 seconds
+Total obstacles: 5
+Final Position: ( 443.295, 45.922 )
+Score = 0.122978
+
+Seed = 735
+Targets hit: 38 of 38
+Time taken: 298.92 seconds
+Total obstacles: 7
+Final Position: ( 149.645, 160.506 )
+Score = 0.213795
+
+Seed = 736
+Targets hit: 47 of 57
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 107.038, 28.747 )
+Score = 0.049033
+
+Seed = 737
+Targets hit: 27 of 47
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 324.525, 124.713 )
+Score = 0.027671
+
+Seed = 738
+Targets hit: 14 of 14
+Time taken: 264.57 seconds
+Total obstacles: 2
+Final Position: ( 118.000, 78.018 )
+Score = 0.430094
+
+Seed = 739
+Targets hit: 30 of 47
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 400.283, 196.555 )
+Score = 0.037957
+
+Seed = 740
+Targets hit: 20 of 20
+Time taken: 454.94 seconds
+Total obstacles: 4
+Final Position: ( 65.904, 110.930 )
+Score = 0.134166
+
+Seed = 741
+Targets hit: 20 of 20
+Time taken: 211.05 seconds
+Total obstacles: 3
+Final Position: ( 462.899, 76.281 )
+Score = 0.506192
+
+Seed = 742
+Targets hit: 18 of 29
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 180.648, 9.813 )
+Score = 0.029897
+
+Seed = 743
+Targets hit: 51 of 55
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 267.068, 140.636 )
+Score = 0.044664
+
+Seed = 744
+Targets hit: 28 of 37
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 274.572, 244.861 )
+Score = 0.050001
+
+Seed = 745
+Targets hit: 21 of 21
+Time taken: 419.40 seconds
+Total obstacles: 6
+Final Position: ( 401.916, 7.999 )
+Score = 0.129861
+
+Seed = 746
+Targets hit: 30 of 46
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 115.499, 227.717 )
+Score = 0.038782
+
+
+Seed = 747
+Targets hit: 15 of 15
+Time taken: 411.39 seconds
+Total obstacles: 3
+Final Position: ( 270.297, 179.943 )
+Score = 0.185432
+
+Seed = 748
+Targets hit: 35 of 47
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 400.913, 225.153 )
+Score = 0.049203
+
+Seed = 749
+Targets hit: 52 of 52
+Time taken: 461.20 seconds
+Total obstacles: 6
+Final Position: ( 466.850, 237.725 )
+Score = 0.105317
+
+Seed = 750
+Targets hit: 27 of 27
+Time taken: 331.88 seconds
+Total obstacles: 6
+Final Position: ( 152.433, 141.167 )
+Score = 0.201379
+
+
+Seed = 751
+Targets hit: 36 of 59
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 65.113, 36.944 )
+Score = 0.029390
+
+Seed = 752
+Targets hit: 19 of 30
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 392.991, 153.583 )
+Score = 0.033896
+
+Seed = 753
+Targets hit: 12 of 15
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 55.197, 260.512 )
+Score = 0.052859
+
+
+Seed = 754
+Targets hit: 27 of 32
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 368.424, 257.858 )
+Score = 0.061944
+
+Seed = 755
+Targets hit: 32 of 39
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 381.192, 221.166 )
+Score = 0.054214
+
+Seed = 756
+Targets hit: 22 of 55
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 487.135, 37.156 )
+Score = 0.015606
+
+Seed = 757
+Targets hit: 15 of 15
+Time taken: 394.62 seconds
+Total obstacles: 5
+Final Position: ( 169.330, 49.233 )
+Score = 0.163375
+
+Seed = 758
+Targets hit: 40 of 50
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 277.934, 249.900 )
+Score = 0.052859
+
+Seed = 759
+Targets hit: 9 of 25
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 257.228, 273.749 )
+Score = 0.023786
+
+Seed = 760
+Targets hit: 46 of 46
+Time taken: 474.66 seconds
+Total obstacles: 8
+Final Position: ( 273.474, 149.117 )
+Score = 0.079741
+
+Seed = 761
+Targets hit: 32 of 37
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 290.422, 246.715 )
+Score = 0.063494
+
+Seed = 762
+Targets hit: 41 of 43
+Time taken: 500.00 seconds
+Total obstacles: 8
+Final Position: ( 470.247, 30.361 )
+Score = 0.033481
+
+
+Seed = 763
+Targets hit: 33 of 33
+Time taken: 343.31 seconds
+Total obstacles: 5
+Final Position: ( 257.682, 121.450 )
+Score = 0.211295
+
+Seed = 764
+Targets hit: 32 of 32
+Time taken: 289.25 seconds
+Total obstacles: 3
+Final Position: ( 249.144, 22.834 )
+Score = 0.342039
+
+Seed = 765
+Targets hit: 26 of 31
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 228.058, 41.277 )
+Score = 0.061574
+
+Seed = 766
+Targets hit: 39 of 39
+Time taken: 477.86 seconds
+Total obstacles: 4
+Final Position: ( 467.008, 100.370 )
+Score = 0.119601
+
+Seed = 767
+Targets hit: 20 of 20
+Time taken: 399.74 seconds
+Total obstacles: 2
+Final Position: ( 453.276, 131.667 )
+Score = 0.218432
+
+Seed = 768
+Targets hit: 16 of 16
+Time taken: 316.38 seconds
+Total obstacles: 2
+Final Position: ( 138.702, 312.722 )
+Score = 0.331733
+
+Seed = 769
+Targets hit: 12 of 21
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 237.190, 133.069 )
+Score = 0.033981
+
+Seed = 770
+Targets hit: 25 of 25
+Time taken: 347.69 seconds
+Total obstacles: 2
+Final Position: ( 65.606, 46.982 )
+Score = 0.283547
+
+Seed = 771
+Targets hit: 26 of 26
+Time taken: 345.45 seconds
+Total obstacles: 6
+Final Position: ( 134.943, 212.888 )
+Score = 0.188131
+
+Seed = 772
+Targets hit: 27 of 40
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 106.281, 292.765 )
+Score = 0.032513
+
+Seed = 773
+Targets hit: 39 of 39
+Time taken: 369.53 seconds
+Total obstacles: 2
+Final Position: ( 168.767, 216.180 )
+Score = 0.254141
+
+Seed = 774
+Targets hit: 28 of 49
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 297.943, 28.620 )
+Score = 0.027524
+
+Seed = 775
+Targets hit: 19 of 19
+Time taken: 242.24 seconds
+Total obstacles: 5
+Final Position: ( 240.849, 48.001 )
+Score = 0.350678
+
+Seed = 776
+Targets hit: 21 of 22
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 279.571, 122.025 )
+Score = 0.037242
+
+Seed = 777
+Targets hit: 27 of 48
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 13.730, 7.072 )
+Score = 0.037166
+
+Seed = 778
+Targets hit: 43 of 50
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 233.686, 173.729 )
+Score = 0.051141
+
+Seed = 779
+Targets hit: 40 of 51
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 415.961, 161.591 )
+Score = 0.041976
+
+Seed = 780
+Targets hit: 44 of 60
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 194.942, 124.552 )
+Score = 0.043608
+
+Seed = 781
+Targets hit: 34 of 55
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 311.725, 81.445 )
+Score = 0.033085
+
+Seed = 782
+Targets hit: 34 of 36
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 292.487, 247.113 )
+Score = 0.069336
+
+Seed = 783
+Targets hit: 29 of 57
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 40.332, 106.440 )
+Score = 0.027229
+
+Seed = 784
+Targets hit: 27 of 30
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 415.954, 161.854 )
+Score = 0.039016
+
+Seed = 785
+Targets hit: 20 of 20
+Time taken: 373.83 seconds
+Total obstacles: 4
+Final Position: ( 68.101, 47.000 )
+Score = 0.201467
+
+Seed = 786
+Targets hit: 33 of 39
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 222.278, 189.272 )
+Score = 0.050317
+
+Seed = 787
+Targets hit: 21 of 21
+Time taken: 474.18 seconds
+Total obstacles: 4
+Final Position: ( 406.493, 11.976 )
+Score = 0.121829
+
+Seed = 788
+Targets hit: 30 of 37
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 139.863, 57.028 )
+Score = 0.035149
+
+Seed = 789
+Targets hit: 27 of 46
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 480.166, 7.668 )
+Score = 0.038782
+
+Seed = 790
+Targets hit: 33 of 55
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 144.475, 85.744 )
+Score = 0.039644
+
+Seed = 791
+Targets hit: 20 of 30
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 178.956, 232.190 )
+Score = 0.048943
+
+Seed = 792
+Targets hit: 36 of 54
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 154.837, 192.082 )
+Score = 0.044049
+
+Seed = 793
+Targets hit: 15 of 15
+Time taken: 306.22 seconds
+Total obstacles: 3
+Final Position: ( 380.671, 247.530 )
+Score = 0.314156
+
+Seed = 794
+Targets hit: 38 of 38
+Time taken: 405.17 seconds
+Total obstacles: 4
+Final Position: ( 105.570, 146.393 )
+Score = 0.172177
+
+Seed = 795
+Targets hit: 23 of 31
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 111.547, 265.890 )
+Score = 0.044120
+
+Seed = 796
+Targets hit: 30 of 46
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 161.092, 115.116 )
+Score = 0.043091
+
+Seed = 797
+Targets hit: 34 of 46
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 134.115, 115.680 )
+Score = 0.043953
+
+Seed = 798
+Targets hit: 22 of 47
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 55.083, 235.806 )
+Score = 0.030928
+
+Seed = 799
+Targets hit: 30 of 50
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 140.138, 155.706 )
+Score = 0.026010
+
+Seed = 800
+Targets hit: 27 of 27
+Time taken: 314.59 seconds
+Total obstacles: 3
+Final Position: ( 296.016, 35.473 )
+Score = 0.301243
+
+Seed = 801
+Targets hit: 5 of 54
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 77.481, 399.510 )
+Score = 0.004955
+
+Seed = 802
+Targets hit: 16 of 59
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 441.673, 181.032 )
+Score = 0.014514
+
+Seed = 803
+Targets hit: 24 of 33
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 499.675, 126.777 )
+Score = 0.035031
+
+Seed = 804
+Targets hit: 18 of 24
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 268.703, 30.137 )
+Score = 0.044599
+
+Seed = 805
+Targets hit: 13 of 13
+Time taken: 220.03 seconds
+Total obstacles: 2
+Final Position: ( 191.763, 57.068 )
+Score = 0.537690
+
+Seed = 806
+Targets hit: 17 of 17
+Time taken: 400.21 seconds
+Total obstacles: 5
+Final Position: ( 9.579, 102.015 )
+Score = 0.158864
+
+Seed = 807
+Targets hit: 9 of 33
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 71.504, 79.011 )
+Score = 0.014596
+
+Seed = 808
+Targets hit: 23 of 33
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 44.902, 250.111 )
+Score = 0.051168
+
+Seed = 809
+Targets hit: 35 of 48
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 437.388, 35.112 )
+Score = 0.043361
+
+Seed = 810
+Targets hit: 19 of 29
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 225.942, 164.699 )
+Score = 0.043289
+
+Seed = 811
+Targets hit: 41 of 44
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 162.354, 202.758 )
+Score = 0.029448
+
+Seed = 812
+Targets hit: 22 of 48
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 64.840, 130.492 )
+Score = 0.022077
+
+Seed = 813
+Targets hit: 51 of 54
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 249.235, 208.062 )
+Score = 0.040942
+
+Seed = 814
+Targets hit: 12 of 12
+Time taken: 390.84 seconds
+Total obstacles: 3
+Final Position: ( 302.716, 99.452 )
+Score = 0.205558
+
+Seed = 815
+Targets hit: 31 of 31
+Time taken: 463.42 seconds
+Total obstacles: 2
+Final Position: ( 415.583, 103.941 )
+Score = 0.158741
+
+Seed = 816
+Targets hit: 41 of 41
+Time taken: 355.15 seconds
+Total obstacles: 5
+Final Position: ( 307.744, 38.801 )
+Score = 0.199116
+
+Seed = 817
+Targets hit: 10 of 10
+Time taken: 145.33 seconds
+Total obstacles: 7
+Final Position: ( 281.994, 95.754 )
+Score = 0.461705
+
+Seed = 818
+Targets hit: 26 of 45
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 247.016, 188.773 )
+Score = 0.030922
+
+Seed = 819
+Targets hit: 23 of 25
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 307.691, 199.132 )
+Score = 0.054709
+
+Seed = 820
+Targets hit: 13 of 19
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 136.021, 99.780 )
+Score = 0.040687
+
+Seed = 821
+Targets hit: 25 of 25
+Time taken: 229.40 seconds
+Total obstacles: 3
+Final Position: ( 361.875, 119.192 )
+Score = 0.461716
+
+Seed = 822
+Targets hit: 23 of 40
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 288.575, 155.083 )
+Score = 0.034193
+
+Seed = 823
+Targets hit: 1 of 41
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 6.000, 254.942 )
+Score = 0.001305
+
+Seed = 824
+Targets hit: 47 of 57
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 366.541, 68.451 )
+Score = 0.060535
+
+Seed = 825
+Targets hit: 19 of 29
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 256.660, 106.510 )
+Score = 0.043289
+
+Seed = 826
+Targets hit: 10 of 10
+Time taken: 291.02 seconds
+Total obstacles: 3
+Final Position: ( 129.177, 133.682 )
+Score = 0.339018
+
+Seed = 827
+Targets hit: 36 of 48
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 482.741, 95.009 )
+Score = 0.049555
+
+Seed = 828
+Targets hit: 12 of 44
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 0.165, 311.134 )
+Score = 0.020022
+
+Seed = 829
+Targets hit: 13 of 13
+Time taken: 147.20 seconds
+Total obstacles: 3
+Final Position: ( 409.976, 198.426 )
+Score = 0.697131
+
+Seed = 830
+Targets hit: 0 of 36
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 31.000, 254.942 )
+Score = 0.000000
+
+Seed = 831
+Targets hit: 33 of 34
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 350.612, 264.968 )
+Score = 0.051945
+
+Seed = 832
+Targets hit: 11 of 11
+Time taken: 241.15 seconds
+Total obstacles: 4
+Final Position: ( 88.842, 31.800 )
+Score = 0.391770
+
+Seed = 833
+Targets hit: 12 of 12
+Time taken: 138.50 seconds
+Total obstacles: 3
+Final Position: ( 11.435, 147.826 )
+Score = 0.728209
+
+Seed = 834
+Targets hit: 31 of 37
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 173.886, 239.041 )
+Score = 0.055359
+
+Seed = 835
+Targets hit: 12 of 12
+Time taken: 148.35 seconds
+Total obstacles: 2
+Final Position: ( 153.855, 73.607 )
+Score = 0.770125
+
+Seed = 836
+Targets hit: 22 of 30
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 233.051, 177.514 )
+Score = 0.053837
+
+Seed = 837
+Targets hit: 22 of 45
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 140.854, 134.428 )
+Score = 0.023548
+
+Seed = 838
+Targets hit: 27 of 45
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 257.818, 202.566 )
+Score = 0.039644
+
+Seed = 839
+Targets hit: 13 of 15
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 220.492, 145.315 )
+Score = 0.057263
+
+Seed = 840
+Targets hit: 27 of 50
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 313.935, 251.150 )
+Score = 0.035680
+
+Seed = 841
+Targets hit: 1 of 55
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 203.000, 254.942 )
+Score = 0.001335
+
+Seed = 842
+Targets hit: 37 of 53
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 177.735, 47.638 )
+Score = 0.046127
+
+Seed = 843
+Targets hit: 34 of 34
+Time taken: 362.19 seconds
+Total obstacles: 3
+Final Position: ( 111.482, 13.095 )
+Score = 0.237304
+
+Seed = 844
+Targets hit: 46 of 58
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 396.874, 254.651 )
+Score = 0.042446
+
+Seed = 845
+Targets hit: 22 of 22
+Time taken: 282.49 seconds
+Total obstacles: 5
+Final Position: ( 21.567, 41.876 )
+Score = 0.286601
+
+Seed = 846
+Targets hit: 41 of 58
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 383.736, 7.454 )
+Score = 0.046707
+
+Seed = 847
+Targets hit: 23 of 39
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 414.332, 195.469 )
+Score = 0.038966
+
+Seed = 848
+Targets hit: 27 of 39
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 161.018, 224.015 )
+Score = 0.037052
+
+Seed = 849
+Targets hit: 38 of 60
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 429.067, 10.679 )
+Score = 0.041846
+
+Seed = 850
+Targets hit: 21 of 28
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 185.247, 122.606 )
+Score = 0.044599
+
+Seed = 851
+Targets hit: 25 of 29
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 330.649, 249.059 )
+Score = 0.056960
+
+
+Seed = 852
+Targets hit: 26 of 26
+Time taken: 464.34 seconds
+Total obstacles: 4
+Final Position: ( 331.939, 118.919 )
+Score = 0.127988
+
+Seed = 853
+Targets hit: 10 of 20
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 221.086, 190.529 )
+Score = 0.029733
+
+Seed = 854
+Targets hit: 26 of 40
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 101.865, 31.723 )
+Score = 0.047720
+
+Seed = 855
+Targets hit: 16 of 16
+Time taken: 208.30 seconds
+Total obstacles: 5
+Final Position: ( 202.716, 70.399 )
+Score = 0.415701
+
+Seed = 856
+Targets hit: 43 of 60
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 16.647, 119.841 )
+Score = 0.038355
+
+Seed = 857
+Targets hit: 10 of 11
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 99.307, 159.034 )
+Score = 0.066741
+
+Seed = 858
+Targets hit: 25 of 58
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 409.334, 114.863 )
+Score = 0.023069
+
+Seed = 859
+Targets hit: 13 of 19
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 461.115, 99.715 )
+Score = 0.050231
+
+Seed = 860
+Targets hit: 13 of 13
+Time taken: 163.21 seconds
+Total obstacles: 2
+Final Position: ( 488.968, 206.246 )
+Score = 0.714862
+
+Seed = 861
+Targets hit: 24 of 24
+Time taken: 444.66 seconds
+Total obstacles: 4
+Final Position: ( 187.689, 200.706 )
+Score = 0.141255
+
+Seed = 862
+Targets hit: 14 of 14
+Time taken: 244.39 seconds
+Total obstacles: 2
+Final Position: ( 53.828, 225.649 )
+Score = 0.475892
+
+Seed = 863
+Targets hit: 34 of 44
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 195.846, 233.669 )
+Score = 0.051057
+
+Seed = 864
+Targets hit: 16 of 34
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 408.390, 144.445 )
+Score = 0.031093
+
+Seed = 865
+Targets hit: 15 of 21
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 105.719, 73.992 )
+Score = 0.047195
+
+Seed = 866
+Targets hit: 42 of 48
+Time taken: 500.00 seconds
+Total obstacles: 8
+Final Position: ( 462.842, 139.256 )
+Score = 0.030725
+
+Seed = 867
+Targets hit: 21 of 21
+Time taken: 233.21 seconds
+Total obstacles: 3
+Final Position: ( 101.372, 230.243 )
+Score = 0.452982
+
+Seed = 868
+Targets hit: 25 of 36
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 63.913, 130.498 )
+Score = 0.045884
+
+Seed = 869
+Targets hit: 23 of 23
+Time taken: 304.70 seconds
+Total obstacles: 4
+Final Position: ( 255.003, 124.289 )
+Score = 0.284898
+
+Seed = 870
+Targets hit: 15 of 19
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 97.456, 116.528 )
+Score = 0.052163
+
+Seed = 871
+Targets hit: 13 of 23
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 408.603, 105.690 )
+Score = 0.037346
+
+Seed = 872
+Targets hit: 30 of 30
+Time taken: 280.68 seconds
+Total obstacles: 4
+Final Position: ( 428.624, 4.587 )
+Score = 0.321354
+
+Seed = 873
+Targets hit: 25 of 35
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 473.868, 33.788 )
+Score = 0.034405
+
+Seed = 874
+Targets hit: 13 of 13
+Time taken: 193.46 seconds
+Total obstacles: 2
+Final Position: ( 153.084, 41.998 )
+Score = 0.614275
+
+Seed = 875
+Targets hit: 33 of 33
+Time taken: 351.21 seconds
+Total obstacles: 2
+Final Position: ( 335.385, 251.258 )
+Score = 0.278592
+
+Seed = 876
+Targets hit: 30 of 39
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 49.592, 196.430 )
+Score = 0.037052
+
+Seed = 877
+Targets hit: 48 of 49
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 201.752, 146.842 )
+Score = 0.038219
+
+Seed = 878
+Targets hit: 37 of 47
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 119.828, 110.841 )
+Score = 0.052015
+
+Seed = 879
+Targets hit: 24 of 35
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 404.352, 190.448 )
+Score = 0.050341
+
+Seed = 880
+Targets hit: 20 of 49
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 41.056, 120.890 )
+Score = 0.026969
+
+Seed = 881
+Targets hit: 22 of 24
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 356.264, 10.757 )
+Score = 0.067297
+
+Seed = 882
+Targets hit: 23 of 23
+Time taken: 292.04 seconds
+Total obstacles: 2
+Final Position: ( 370.341, 109.643 )
+Score = 0.374772
+
+Seed = 883
+Targets hit: 27 of 39
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 33.113, 231.768 )
+Score = 0.045743
+
+Seed = 884
+Targets hit: 31 of 45
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 147.156, 197.412 )
+Score = 0.045517
+
+Seed = 885
+Targets hit: 34 of 43
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 237.944, 225.701 )
+Score = 0.042318
+
+Seed = 886
+Targets hit: 31 of 44
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 64.929, 227.291 )
+Score = 0.051724
+
+Seed = 887
+Targets hit: 25 of 55
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 91.109, 153.436 )
+Score = 0.033370
+
+Seed = 888
+Targets hit: 36 of 46
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 282.464, 95.481 )
+Score = 0.057455
+
+Seed = 889
+Targets hit: 12 of 18
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 384.843, 92.293 )
+Score = 0.044049
+
+Seed = 890
+Targets hit: 11 of 11
+Time taken: 460.95 seconds
+Total obstacles: 4
+Final Position: ( 52.469, 159.540 )
+Score = 0.130181
+
+Seed = 891
+Targets hit: 10 of 10
+Time taken: 160.67 seconds
+Total obstacles: 5
+Final Position: ( 160.425, 13.643 )
+Score = 0.527808
+
+Seed = 892
+Targets hit: 16 of 16
+Time taken: 216.55 seconds
+Total obstacles: 2
+Final Position: ( 80.013, 185.495 )
+Score = 0.547137
+
+Seed = 893
+Targets hit: 36 of 39
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 274.353, 2.988 )
+Score = 0.049402
+
+Seed = 894
+Targets hit: 25 of 58
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 306.897, 167.038 )
+Score = 0.025632
+
+Seed = 895
+Targets hit: 17 of 17
+Time taken: 230.78 seconds
+Total obstacles: 4
+Final Position: ( 224.546, 50.729 )
+Score = 0.412682
+
+Seed = 896
+Targets hit: 49 of 59
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 224.757, 75.456 )
+Score = 0.054874
+
+Seed = 897
+Targets hit: 34 of 34
+Time taken: 365.64 seconds
+Total obstacles: 5
+Final Position: ( 73.312, 49.007 )
+Score = 0.188919
+
+Seed = 898
+Targets hit: 21 of 41
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 435.584, 68.788 )
+Score = 0.030458
+
+Seed = 899
+Targets hit: 25 of 44
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 64.018, 35.473 )
+Score = 0.030409
+
+Seed = 900
+Targets hit: 38 of 48
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 499.154, 188.494 )
+Score = 0.042369
+
+Seed = 901
+Targets hit: 33 of 59
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 97.460, 213.789 )
+Score = 0.029935
+
+Seed = 902
+Targets hit: 2 of 42
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 458.000, 254.942 )
+Score = 0.003146
+
+Seed = 903
+Targets hit: 36 of 54
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 148.768, 282.023 )
+Score = 0.048943
+
+Seed = 904
+Targets hit: 35 of 57
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 217.705, 277.823 )
+Score = 0.040571
+
+Seed = 905
+Targets hit: 20 of 37
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 269.034, 217.112 )
+Score = 0.039684
+
+Seed = 906
+Targets hit: 11 of 11
+Time taken: 235.80 seconds
+Total obstacles: 4
+Final Position: ( 177.719, 81.349 )
+Score = 0.402414
+
+
+
+Seed = 907
+Targets hit: 21 of 31
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 302.220, 133.636 )
+Score = 0.036255
+
+Seed = 908
+Targets hit: 11 of 11
+Time taken: 243.14 seconds
+Total obstacles: 4
+Final Position: ( 66.082, 62.785 )
+Score = 0.387884
+
+Seed = 909
+Targets hit: 42 of 60
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 332.087, 176.245 )
+Score = 0.037464
+
+Seed = 910
+Targets hit: 10 of 14
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 283.069, 133.752 )
+Score = 0.047195
+
+Seed = 911
+Targets hit: 27 of 41
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 167.265, 248.279 )
+Score = 0.048346
+
+Seed = 912
+Targets hit: 16 of 16
+Time taken: 244.64 seconds
+Total obstacles: 2
+Final Position: ( 466.045, 94.940 )
+Score = 0.475286
+
+Seed = 913
+Targets hit: 24 of 30
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 235.255, 184.507 )
+Score = 0.052859
+
+Seed = 914
+Targets hit: 0 of 34
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 445.000, 254.942 )
+Score = 0.000000
+
+Seed = 915
+Targets hit: 49 of 49
+Time taken: 396.88 seconds
+Total obstacles: 5
+Final Position: ( 178.569, 109.035 )
+Score = 0.161536
+
+Seed = 916
+Targets hit: 51 of 51
+Time taken: 485.53 seconds
+Total obstacles: 4
+Final Position: ( 165.584, 130.129 )
+Score = 0.115092
+
+Seed = 917
+Targets hit: 12 of 14
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 481.599, 183.318 )
+Score = 0.062927
+
+Seed = 918
+Targets hit: 44 of 55
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 302.300, 186.804 )
+Score = 0.034681
+
+Seed = 919
+Targets hit: 8 of 36
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 96.151, 9.436 )
+Score = 0.011893
+
+Seed = 920
+Targets hit: 13 of 13
+Time taken: 348.38 seconds
+Total obstacles: 2
+Final Position: ( 248.449, 22.418 )
+Score = 0.282566
+
+Seed = 921
+Targets hit: 25 of 30
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 424.426, 212.045 )
+Score = 0.061179
+
+Seed = 922
+Targets hit: 11 of 11
+Time taken: 138.89 seconds
+Total obstacles: 1
+Final Position: ( 255.627, 248.295 )
+Score = 0.897257
+
+Seed = 923
+Targets hit: 11 of 23
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 204.639, 134.942 )
+Score = 0.025596
+
+Seed = 924
+Targets hit: 23 of 24
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 387.833, 43.106 )
+Score = 0.037390
+
+Seed = 925
+Targets hit: 36 of 59
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 218.689, 36.903 )
+Score = 0.036284
+
+Seed = 926
+Targets hit: 36 of 51
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 367.438, 162.456 )
+Score = 0.046640
+
+Seed = 927
+Targets hit: 25 of 46
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 155.240, 88.723 )
+Score = 0.035909
+
+Seed = 928
+Targets hit: 55 of 56
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 305.508, 205.164 )
+Score = 0.052564
+
+Seed = 929
+Targets hit: 27 of 31
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 396.061, 256.700 )
+Score = 0.057548
+
+Seed = 930
+Targets hit: 31 of 47
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 84.954, 158.517 )
+Score = 0.043580
+
+Seed = 931
+Targets hit: 22 of 48
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 182.757, 272.221 )
+Score = 0.027255
+
+
+Seed = 932
+Targets hit: 44 of 56
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 460.300, 193.751 )
+Score = 0.037846
+
+Seed = 933
+Targets hit: 26 of 26
+Time taken: 459.16 seconds
+Total obstacles: 5
+Final Position: ( 113.997, 123.808 )
+Score = 0.118221
+
+Seed = 934
+Targets hit: 12 of 42
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 74.557, 285.625 )
+Score = 0.013762
+
+Seed = 935
+Targets hit: 41 of 41
+Time taken: 443.39 seconds
+Total obstacles: 6
+Final Position: ( 403.419, 174.624 )
+Score = 0.115150
+
+Seed = 936
+Targets hit: 34 of 49
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 369.703, 171.768 )
+Score = 0.041262
+
+Seed = 937
+Targets hit: 25 of 53
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 461.862, 218.704 )
+Score = 0.025245
+
+Seed = 938
+Targets hit: 42 of 49
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 414.932, 18.351 )
+Score = 0.037158
+
+
+Seed = 939
+Targets hit: 46 of 55
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 246.358, 223.527 )
+Score = 0.055261
+
+Seed = 940
+Targets hit: 34 of 55
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 196.636, 161.339 )
+Score = 0.040845
+
+Seed = 941
+Targets hit: 30 of 30
+Time taken: 312.90 seconds
+Total obstacles: 5
+Final Position: ( 119.627, 131.267 )
+Score = 0.246089
+
+Seed = 942
+Targets hit: 20 of 38
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 489.365, 87.344 )
+Score = 0.025351
+
+Seed = 943
+Targets hit: 20 of 39
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 238.956, 138.863 )
+Score = 0.024701
+
+Seed = 944
+Targets hit: 19 of 19
+Time taken: 280.89 seconds
+Total obstacles: 2
+Final Position: ( 166.955, 151.939 )
+Score = 0.396308
+
+Seed = 945
+Targets hit: 17 of 22
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 490.398, 107.402 )
+Score = 0.045951
+
+Seed = 946
+Targets hit: 45 of 45
+Time taken: 444.08 seconds
+Total obstacles: 7
+Final Position: ( 355.247, 75.790 )
+Score = 0.103278
+
+Seed = 947
+Targets hit: 23 of 40
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 480.062, 199.232 )
+Score = 0.024927
+
+Seed = 948
+Targets hit: 17 of 17
+Time taken: 155.11 seconds
+Total obstacles: 5
+Final Position: ( 345.627, 160.286 )
+Score = 0.542727
+
+Seed = 949
+Targets hit: 25 of 48
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 348.835, 152.112 )
+Score = 0.030972
+
+Seed = 950
+Targets hit: 1 of 54
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 21.000, 254.942 )
+Score = 0.000803
+
+Seed = 951
+Targets hit: 34 of 43
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 477.791, 106.046 )
+Score = 0.052244
+
+Seed = 952
+Targets hit: 31 of 46
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 162.860, 167.116 )
+Score = 0.044528
+
+Seed = 953
+Targets hit: 10 of 20
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 165.054, 148.455 )
+Score = 0.026760
+
+Seed = 954
+Targets hit: 17 of 30
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 11.885, 144.458 )
+Score = 0.033697
+
+Seed = 955
+Targets hit: 21 of 21
+Time taken: 202.69 seconds
+Total obstacles: 3
+Final Position: ( 127.943, 244.076 )
+Score = 0.527856
+
+Seed = 956
+Targets hit: 32 of 55
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 335.071, 38.204 )
+Score = 0.031139
+
+Seed = 957
+Targets hit: 20 of 20
+Time taken: 269.72 seconds
+Total obstacles: 4
+Final Position: ( 369.112, 195.970 )
+Score = 0.339497
+
+Seed = 958
+Targets hit: 23 of 48
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 459.043, 116.084 )
+Score = 0.020772
+
+Seed = 959
+Targets hit: 24 of 28
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 56.479, 35.999 )
+Score = 0.056634
+
+Seed = 960
+Targets hit: 21 of 30
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 474.140, 278.167 )
+Score = 0.037464
+
+Seed = 961
+Targets hit: 30 of 50
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 268.288, 100.565 )
+Score = 0.035680
+
+Seed = 962
+Targets hit: 30 of 56
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 291.801, 49.640 )
+Score = 0.028671
+
+Seed = 963
+Targets hit: 14 of 31
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 191.661, 301.746 )
+Score = 0.029840
+
+Seed = 964
+Targets hit: 27 of 33
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 282.550, 20.548 )
+Score = 0.060067
+
+Seed = 965
+Targets hit: 50 of 54
+Time taken: 500.00 seconds
+Total obstacles: 6
+Final Position: ( 423.105, 218.915 )
+Score = 0.040139
+
+Seed = 966
+Targets hit: 49 of 51
+Time taken: 500.00 seconds
+Total obstacles: 9
+Final Position: ( 160.482, 209.817 )
+Score = 0.030363
+
+Seed = 967
+Targets hit: 28 of 28
+Time taken: 268.04 seconds
+Total obstacles: 4
+Final Position: ( 347.522, 112.138 )
+Score = 0.342368
+
+Seed = 968
+Targets hit: 20 of 33
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 9.288, 129.931 )
+Score = 0.032436
+
+Seed = 969
+Targets hit: 10 of 12
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 102.889, 190.781 )
+Score = 0.055061
+
+Seed = 970
+Targets hit: 22 of 60
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 282.154, 274.157 )
+Score = 0.017661
+
+Seed = 971
+Targets hit: 20 of 44
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 485.090, 117.527 )
+Score = 0.021894
+
+Seed = 972
+Targets hit: 20 of 20
+Time taken: 275.85 seconds
+Total obstacles: 3
+Final Position: ( 374.494, 110.647 )
+Score = 0.365808
+
+Seed = 973
+Targets hit: 23 of 38
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 389.648, 251.745 )
+Score = 0.035993
+
+Seed = 974
+Targets hit: 16 of 16
+Time taken: 230.24 seconds
+Total obstacles: 3
+Final Position: ( 184.902, 263.867 )
+Score = 0.459784
+
+Seed = 975
+Targets hit: 16 of 16
+Time taken: 329.69 seconds
+Total obstacles: 4
+Final Position: ( 118.593, 55.179 )
+Score = 0.251359
+
+Seed = 976
+Targets hit: 29 of 29
+Time taken: 259.46 seconds
+Total obstacles: 4
+Final Position: ( 241.405, 21.817 )
+Score = 0.357413
+
+Seed = 977
+Targets hit: 11 of 14
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 176.149, 218.479 )
+Score = 0.042051
+
+Seed = 978
+Targets hit: 34 of 52
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 17.431, 175.688 )
+Score = 0.038882
+
+Seed = 979
+Targets hit: 43 of 43
+Time taken: 468.28 seconds
+Total obstacles: 8
+Final Position: ( 465.123, 84.145 )
+Score = 0.082329
+
+Seed = 980
+Targets hit: 18 of 30
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 140.855, 100.744 )
+Score = 0.028900
+
+Seed = 981
+Targets hit: 13 of 19
+Time taken: 500.00 seconds
+Total obstacles: 5
+Final Position: ( 443.710, 128.170 )
+Score = 0.032957
+
+Seed = 982
+Targets hit: 58 of 59
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 219.412, 120.231 )
+Score = 0.064953
+
+Seed = 983
+Targets hit: 8 of 10
+Time taken: 500.00 seconds
+Total obstacles: 1
+Final Position: ( 83.234, 220.149 )
+Score = 0.058732
+
+Seed = 984
+Targets hit: 19 of 28
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 274.697, 142.411 )
+Score = 0.040352
+
+Seed = 985
+Targets hit: 23 of 38
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 464.176, 277.553 )
+Score = 0.032393
+
+Seed = 986
+Targets hit: 31 of 46
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 121.680, 228.472 )
+Score = 0.040075
+
+Seed = 987
+Targets hit: 17 of 17
+Time taken: 337.72 seconds
+Total obstacles: 1
+Final Position: ( 195.004, 155.938 )
+Score = 0.331199
+
+Seed = 988
+Targets hit: 36 of 36
+Time taken: 336.87 seconds
+Total obstacles: 4
+Final Position: ( 419.386, 38.790 )
+Score = 0.242477
+
+
+Seed = 989
+Targets hit: 19 of 19
+Time taken: 154.44 seconds
+Total obstacles: 5
+Final Position: ( 298.773, 107.649 )
+Score = 0.544557
+
+Seed = 990
+Targets hit: 18 of 50
+Time taken: 500.00 seconds
+Total obstacles: 7
+Final Position: ( 40.268, 205.031 )
+Score = 0.014046
+
+Seed = 991
+Targets hit: 31 of 31
+Time taken: 322.36 seconds
+Total obstacles: 3
+Final Position: ( 264.545, 130.047 )
+Score = 0.289741
+
+Seed = 992
+Targets hit: 24 of 24
+Time taken: 240.85 seconds
+Total obstacles: 5
+Final Position: ( 327.478, 230.359 )
+Score = 0.353122
+
+Seed = 993
+Targets hit: 19 of 28
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 252.443, 124.562 )
+Score = 0.036317
+
+Seed = 994
+Targets hit: 10 of 10
+Time taken: 62.63 seconds
+Total obstacles: 2
+Final Position: ( 133.074, 70.787 )
+Score = 1.183543
+
+Seed = 995
+Targets hit: 27 of 43
+Time taken: 500.00 seconds
+Total obstacles: 4
+Final Position: ( 120.338, 82.745 )
+Score = 0.033605
+
+Seed = 996
+Targets hit: 27 of 34
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 397.392, 168.288 )
+Score = 0.052470
+
+Seed = 997
+Targets hit: 31 of 45
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 112.498, 245.461 )
+Score = 0.045517
+
+Seed = 998
+Targets hit: 29 of 29
+Time taken: 496.76 seconds
+Total obstacles: 2
+Final Position: ( 292.224, 229.244 )
+Score = 0.134310
+
+Seed = 999
+Targets hit: 29 of 40
+Time taken: 500.00 seconds
+Total obstacles: 3
+Final Position: ( 51.005, 155.411 )
+Score = 0.043113
+
+Seed = 1000
+Targets hit: 35 of 53
+Time taken: 500.00 seconds
+Total obstacles: 2
+Final Position: ( 314.812, 229.760 )
+Score = 0.043633
+
