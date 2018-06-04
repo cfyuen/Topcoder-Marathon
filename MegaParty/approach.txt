@@ -1,0 +1,38 @@
+
+ternary search? decide how high it is?
+
+grid shape point, with height from 5.0001 to 10.0001
+sort from most friend to least friend (with importance)(1st.importance*(numoffriends-numofenemy),2nd.numfriends)
+place most friend in middle
+	1.friend of friend around
+	2.second most friend around
+		first by point, second by total area
+repeat until no friend can be benefiticially placed around,
+put set to outer circle
+
+set<int,int> = row,position corresspond to 0
+row=h*row, pos=if (pos%2==0) 0+10.0001*pos, else 10.0001-h+10.0001*pos
+
+improvement:
+1. reduce area (arrange)
+2. try to choose best of 10 every time (time needs to improve)
+3. sort by other thing?
+4. if add<thereshold, start new ring?
+5. column and row edges adjustment
+6. erase middle line under 2 dots (with 50+)
+
+lose = 58,134
+99,v8 lose v5
+
+break down = 8,1100,97,88,75,63,60,58
+(106)
+
+low score = 116
+slow = 50
+strange = 44,50,51,53,129, 139
+(49)
+
+
+ratio
+0.57 (0.43)
+0.27 (0.35) (0.39 s96) (0.41 s75) (0.43 s60)

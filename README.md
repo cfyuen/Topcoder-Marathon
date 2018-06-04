@@ -19,5 +19,7 @@ TilesMatching: https://community.topcoder.com/longcontest/?module=ViewProblemSta
 
 BounceOff: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13791&pm=10372
 
+MegaParty: https://community.topcoder.com/longcontest/stats/?module=ViewOverview&rd=13709
+
 GraphicalAuthentication: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13568&pm=10147
 

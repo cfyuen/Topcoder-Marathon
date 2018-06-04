@@ -1,0 +1,3 @@
+java -jar MegaParty.jar -exec "C:\Documents and Settings\yuch6304\Skrivebord\document\computer\MegaParty\v0" -seed 1 -vis -
+
+
