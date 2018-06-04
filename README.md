@@ -9,4 +9,7 @@ PointsOnTheCircle: http://community.topcoder.com/longcontest/?module=ViewProblem
 
 RollingBalls: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=16495&pm=14094
 
+RockyMine: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14455&pm=9854
+
 GraphicalAuthentication: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13568&pm=10147
+

@@ -1,0 +1,3 @@
+java -jar "D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar" -palette "D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt" -exec "D:\Documents\Computer\TopCoder\ChessPuzzle\v0" -seed 1
+
+D:\Documents\Computer\TopCoder\ChessPuzzle\runvis.bat >> output.txt

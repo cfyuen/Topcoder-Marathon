@@ -1,0 +1,600 @@
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 1 
+W = 10
+H = 10
+D = 6
+Score = 72.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 2 
+W = 23
+H = 50
+D = 5
+Score = 1089.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 3 
+W = 99
+H = 29
+D = 2
+Score = 2175.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 4 
+W = 52
+H = 83
+D = 2
+Score = 2601.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 5 
+W = 83
+H = 59
+D = 4
+Score = 5195.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 6 
+W = 34
+H = 36
+D = 6
+Score = 818.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 7 
+W = 98
+H = 54
+D = 4
+Score = 2384.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 8 
+W = 49
+H = 30
+D = 2
+Score = 426.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 9 
+W = 55
+H = 74
+D = 2
+Score = 4366.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 10 
+W = 84
+H = 41
+D = 3
+Score = 2788.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 11 
+W = 24
+H = 46
+D = 6
+Score = 576.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 12 
+W = 51
+H = 86
+D = 5
+Score = 1228.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 13 
+W = 85
+H = 43
+D = 3
+Score = 2105.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 14 
+W = 16
+H = 22
+D = 2
+Score = 157.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 15 
+W = 17
+H = 76
+D = 3
+Score = 890.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 16 
+W = 39
+H = 65
+D = 6
+Score = 2828.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 17 
+W = 83
+H = 15
+D = 4
+Score = 1364.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 18 
+W = 95
+H = 50
+D = 6
+Score = 5593.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 19 
+W = 75
+H = 10
+D = 2
+Score = 191.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 20 
+W = 36
+H = 93
+D = 6
+Score = 1238.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 21 
+W = 41
+H = 92
+D = 3
+Score = 2441.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 22 
+W = 54
+H = 54
+D = 4
+Score = 799.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 23 
+W = 34
+H = 35
+D = 3
+Score = 1072.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 24 
+W = 30
+H = 46
+D = 5
+Score = 528.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 25 
+W = 80
+H = 69
+D = 2
+Score = 2388.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 26 
+W = 28
+H = 66
+D = 2
+Score = 856.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 27 
+W = 68
+H = 93
+D = 7
+Score = 7392.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 28 
+W = 24
+H = 50
+D = 3
+Score = 929.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 29 
+W = 24
+H = 17
+D = 5
+Score = 317.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 30 
+W = 32
+H = 52
+D = 7
+Score = 2130.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 31 
+W = 63
+H = 89
+D = 2
+Score = 829.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 32 
+W = 76
+H = 10
+D = 4
+Score = 474.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 33 
+W = 29
+H = 70
+D = 7
+Score = 1913.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 34 
+W = 96
+H = 22
+D = 7
+Score = 2063.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 35 
+W = 54
+H = 96
+D = 4
+Score = 5661.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 36 
+W = 86
+H = 92
+D = 6
+Score = 9488.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 37 
+W = 45
+H = 56
+D = 2
+Score = 160.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 38 
+W = 14
+H = 38
+D = 5
+Score = 485.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 39 
+W = 17
+H = 48
+D = 4
+Score = 919.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 40 
+W = 10
+H = 62
+D = 3
+Score = 377.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 41 
+W = 36
+H = 83
+D = 6
+Score = 1000.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 42 
+W = 26
+H = 34
+D = 4
+Score = 888.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 43 
+W = 70
+H = 71
+D = 4
+Score = 1755.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 44 
+W = 51
+H = 73
+D = 6
+Score = 1023.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 45 
+W = 83
+H = 39
+D = 3
+Score = 1749.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 46 
+W = 100
+H = 34
+D = 3
+Score = 3800.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 47 
+W = 29
+H = 14
+D = 4
+Score = 396.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 48 
+W = 81
+H = 92
+D = 6
+Score = 5728.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 49 
+W = 86
+H = 51
+D = 7
+Score = 2170.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 50 
+W = 40
+H = 44
+D = 2
+Score = 815.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 51 
+W = 43
+H = 46
+D = 3
+Score = 972.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 52 
+W = 58
+H = 84
+D = 3
+Score = 3912.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 53 
+W = 93
+H = 84
+D = 7
+Score = 2100.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 54 
+W = 41
+H = 79
+D = 5
+Score = 4175.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 55 
+W = 99
+H = 43
+D = 3
+Score = 3611.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 56 
+W = 56
+H = 65
+D = 3
+Score = 3920.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 57 
+W = 29
+H = 85
+D = 2
+Score = 1784.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 58 
+W = 29
+H = 22
+D = 6
+Score = 629.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 59 
+W = 33
+H = 83
+D = 5
+Score = 1115.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 60 
+W = 69
+H = 62
+D = 2
+Score = 1540.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 61 
+W = 70
+H = 39
+D = 5
+Score = 1562.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 62 
+W = 52
+H = 16
+D = 3
+Score = 425.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 63 
+W = 91
+H = 92
+D = 6
+Score = 5674.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 64 
+W = 47
+H = 67
+D = 5
+Score = 3517.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 65 
+W = 50
+H = 52
+D = 4
+Score = 2296.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 66 
+W = 28
+H = 44
+D = 4
+Score = 1246.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 67 
+W = 44
+H = 69
+D = 5
+Score = 1184.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 68 
+W = 91
+H = 14
+D = 4
+Score = 464.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 69 
+W = 74
+H = 28
+D = 7
+Score = 931.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 70 
+W = 100
+H = 21
+D = 5
+Score = 2035.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 71 
+W = 63
+H = 50
+D = 4
+Score = 3028.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 72 
+W = 17
+H = 64
+D = 2
+Score = 272.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 73 
+W = 51
+H = 77
+D = 3
+Score = 3013.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 74 
+W = 95
+H = 26
+D = 6
+Score = 626.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 75 
+W = 72
+H = 70
+D = 6
+Score = 2701.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 76 
+W = 51
+H = 96
+D = 6
+Score = 5316.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 77 
+W = 22
+H = 29
+D = 6
+Score = 146.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 78 
+W = 23
+H = 50
+D = 6
+Score = 1471.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 79 
+W = 11
+H = 85
+D = 6
+Score = 955.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 80 
+W = 39
+H = 39
+D = 4
+Score = 2179.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 81 
+W = 93
+H = 49
+D = 4
+Score = 5044.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 82 
+W = 46
+H = 69
+D = 6
+Score = 870.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 83 
+W = 59
+H = 75
+D = 6
+Score = 1676.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 84 
+W = 76
+H = 37
+D = 2
+Score = 254.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 85 
+W = 77
+H = 61
+D = 4
+Score = 5720.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 86 
+W = 30
+H = 66
+D = 6
+Score = 420.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 87 
+W = 87
+H = 73
+D = 4
+Score = 5207.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 88 
+W = 99
+H = 52
+D = 5
+Score = 5842.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 89 
+W = 28
+H = 47
+D = 2
+Score = 555.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 90 
+W = 17
+H = 48
+D = 5
+Score = 597.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 91 
+W = 97
+H = 77
+D = 5
+Score = 5916.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 92 
+W = 90
+H = 68
+D = 6
+Score = 3209.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 93 
+W = 33
+H = 71
+D = 7
+Score = 617.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 94 
+W = 52
+H = 98
+D = 3
+Score = 2261.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 95 
+W = 78
+H = 61
+D = 7
+Score = 3895.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 96 
+W = 59
+H = 92
+D = 7
+Score = 3830.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 97 
+W = 94
+H = 66
+D = 6
+Score = 6029.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 98 
+W = 76
+H = 15
+D = 2
+Score = 388.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 99 
+W = 37
+H = 57
+D = 2
+Score = 1527.0
+
+D:\Documents\Computer\TopCoder\RockyMine>java -jar RockyMineVis.jar -exec v6.2.exe -novis -seed 100 
+W = 31
+H = 24
+D = 2
+Score = 502.0
