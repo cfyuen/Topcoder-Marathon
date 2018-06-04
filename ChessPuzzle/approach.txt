@@ -1,0 +1,6 @@
+1. least way to reach
+2. most way to leave
+3. SD of depth
+4. middle value
+
+78

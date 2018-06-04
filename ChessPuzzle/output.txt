@@ -1,0 +1,1503 @@
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42301 -novis 
+Score = 0.96875
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42302 -novis 
+Score = 0.9364583333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42303 -novis 
+Score = 0.8703703703703703
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42304 -novis 
+Score = 0.8525046382189239
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42305 -novis 
+Score = 0.9855769230769231
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42306 -novis 
+Score = 0.9444444444444444
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42307 -novis 
+Score = 0.8578643578643579
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42308 -novis 
+Score = 0.984126984126984
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42309 -novis 
+Score = 0.8222222222222222
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42310 -novis 
+Score = 0.8945868945868946
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42311 -novis 
+Score = 0.7952380952380952
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42312 -novis 
+Score = 0.9316239316239316
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42313 -novis 
+Score = 0.8923076923076924
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42314 -novis 
+Score = 0.9196969696969698
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42315 -novis 
+Score = 0.9722222222222222
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42316 -novis 
+Score = 0.9273809523809524
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42317 -novis 
+Score = 0.8250000000000001
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42318 -novis 
+Score = 0.884920634920635
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42319 -novis 
+Score = 0.7634920634920636
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42320 -novis 
+Score = 0.9610636277302943
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42321 -novis 
+Score = 0.9642857142857143
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42322 -novis 
+Score = 0.9801587301587301
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42323 -novis 
+Score = 0.9824999999999999
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42324 -novis 
+Score = 0.9025974025974026
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42325 -novis 
+Score = 0.8001314924391848
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42326 -novis 
+Score = 0.8787878787878788
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42327 -novis 
+Score = 0.9069264069264069
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42328 -novis 
+Score = 0.9265873015873015
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42329 -novis 
+Score = 0.8293135435992578
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42330 -novis 
+Score = 0.9791666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42331 -novis 
+Score = 0.8829365079365079
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42332 -novis 
+Score = 0.85
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42333 -novis 
+Score = 0.9646464646464646
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42334 -novis 
+Score = 0.8828282828282829
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42335 -novis 
+Score = 0.925925925925926
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42336 -novis 
+Score = 0.9407407407407407
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42337 -novis 
+Score = 0.9296296296296297
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42338 -novis 
+Score = 0.8363636363636363
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42339 -novis 
+Score = 0.8333333333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42340 -novis 
+Score = 0.883838383838384
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42341 -novis 
+Score = 0.9206349206349206
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42342 -novis 
+Score = 0.8783333333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42343 -novis 
+Score = 0.7901098901098902
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42344 -novis 
+Score = 0.9025974025974026
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42345 -novis 
+Score = 0.9732142857142857
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42346 -novis 
+Score = 0.8447916666666667
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42347 -novis 
+Score = 0.9814814814814815
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42348 -novis 
+Score = 0.956268221574344
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42349 -novis 
+Score = 0.9744897959183673
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42350 -novis 
+Score = 0.9642857142857143
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42351 -novis 
+Score = 0.9008264462809916
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42352 -novis 
+Score = 0.9833333333333332
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42353 -novis 
+Score = 0.9821428571428571
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42354 -novis 
+Score = 0.9708333333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42355 -novis 
+Score = 0.9851851851851853
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42356 -novis 
+Score = 0.9885204081632653
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42357 -novis 
+Score = 0.8233618233618234
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42358 -novis 
+Score = 0.9826530612244897
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42359 -novis 
+Score = 0.9791666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42360 -novis 
+Score = 0.8787878787878788
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42361 -novis 
+Score = 0.975
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42362 -novis 
+Score = 0.9545454545454546
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42363 -novis 
+Score = 0.9708333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42364 -novis 
+Score = 0.96875
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42365 -novis 
+Score = 0.9039999999999999
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42366 -novis 
+Score = 0.8814814814814814
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42367 -novis 
+Score = 0.9223140495867768
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42368 -novis 
+Score = 0.8822222222222221
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42369 -novis 
+Score = 0.9071428571428571
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42370 -novis 
+Score = 0.9775510204081632
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42371 -novis 
+Score = 0.8798701298701299
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42372 -novis 
+Score = 0.9583333333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42373 -novis 
+Score = 0.8714285714285714
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42374 -novis 
+Score = 0.8151515151515151
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42375 -novis 
+Score = 0.9353741496598639
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42376 -novis 
+Score = 0.8914285714285715
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42377 -novis 
+Score = 0.9467592592592592
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42378 -novis 
+Score = 0.9484848484848485
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42379 -novis 
+Score = 0.8702408702408703
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42380 -novis 
+Score = 0.9795918367346939
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42381 -novis 
+Score = 0.9545454545454545
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42382 -novis 
+Score = 0.9711538461538461
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42383 -novis 
+Score = 0.949667616334283
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42384 -novis 
+Score = 0.9484848484848486
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42385 -novis 
+Score = 0.8010204081632653
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42386 -novis 
+Score = 0.9671717171717172
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42387 -novis 
+Score = 0.9305555555555556
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42388 -novis 
+Score = 0.9166666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42389 -novis 
+Score = 0.9665178571428571
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42390 -novis 
+Score = 0.9555555555555557
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42391 -novis 
+Score = 0.9920634920634921
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42392 -novis 
+Score = 0.9031746031746031
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42393 -novis 
+Score = 0.891156462585034
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42394 -novis 
+Score = 0.8531468531468532
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42395 -novis 
+Score = 0.9828571428571428
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42396 -novis 
+Score = 0.9346153846153846
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42397 -novis 
+Score = 0.9833333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42398 -novis 
+Score = 0.961038961038961
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42399 -novis 
+Score = 0.8857142857142858
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42400 -novis 
+Score = 0.986111111111111
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42401 -novis 
+Score = 0.9
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42402 -novis 
+Score = 0.9895833333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42403 -novis 
+Score = 0.9592592592592591
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42404 -novis 
+Score = 0.9326923076923077
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42405 -novis 
+Score = 0.9826839826839827
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42406 -novis 
+Score = 0.951111111111111
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42407 -novis 
+Score = 0.9365079365079365
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42408 -novis 
+Score = 0.9522222222222222
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42409 -novis 
+Score = 0.9543650793650794
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42410 -novis 
+Score = 0.9523809523809524
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42411 -novis 
+Score = 0.9827315541601257
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42412 -novis 
+Score = 0.96875
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42413 -novis 
+Score = 0.9861111111111112
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42414 -novis 
+Score = 0.9333333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42415 -novis 
+Score = 0.9807692307692307
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42416 -novis 
+Score = 0.9821428571428571
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42417 -novis 
+Score = 0.95625
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42418 -novis 
+Score = 0.8814814814814815
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42419 -novis 
+Score = 0.9666666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42420 -novis 
+Score = 0.8990476190476191
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42421 -novis 
+Score = 0.9692460317460317
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42422 -novis 
+Score = 0.8547008547008547
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42423 -novis 
+Score = 0.9730158730158729
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42424 -novis 
+Score = 0.7515151515151516
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42425 -novis 
+Score = 0.9624999999999999
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42426 -novis 
+Score = 0.8248299319727891
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42427 -novis 
+Score = 0.9841269841269842
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42428 -novis 
+Score = 0.8166666666666667
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42429 -novis 
+Score = 0.9297520661157024
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42430 -novis 
+Score = 0.898
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42431 -novis 
+Score = 0.9766666666666668
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42432 -novis 
+Score = 0.8794642857142857
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42433 -novis 
+Score = 0.9542857142857143
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42434 -novis 
+Score = 0.8358974358974359
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42435 -novis 
+Score = 0.9479166666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42436 -novis 
+Score = 0.9192592592592592
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42437 -novis 
+Score = 0.9366071428571429
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42438 -novis 
+Score = 0.7920918367346939
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42439 -novis 
+Score = 0.9970238095238094
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42440 -novis 
+Score = 0.7956043956043957
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42441 -novis 
+Score = 0.9564732142857143
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42442 -novis 
+Score = 0.8642857142857142
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42443 -novis 
+Score = 0.99375
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42444 -novis 
+Score = 0.9666666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42445 -novis 
+Score = 0.9821428571428571
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42446 -novis 
+Score = 0.9349999999999999
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42447 -novis 
+Score = 0.9732142857142857
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42448 -novis 
+Score = 0.9930555555555556
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42449 -novis 
+Score = 0.8722222222222222
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42450 -novis 
+Score = 0.7832722832722832
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42451 -novis 
+Score = 0.9926739926739926
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42452 -novis 
+Score = 0.8111111111111111
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42453 -novis 
+Score = 0.9047619047619048
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42454 -novis 
+Score = 0.8379120879120878
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42455 -novis 
+Score = 0.7905982905982906
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42456 -novis 
+Score = 0.8901515151515151
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42457 -novis 
+Score = 0.9636363636363636
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42458 -novis 
+Score = 0.9506172839506173
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42459 -novis 
+Score = 0.9914285714285714
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42460 -novis 
+Score = 0.9803240740740741
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42461 -novis 
+Score = 0.965034965034965
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42462 -novis 
+Score = 0.8166666666666667
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42463 -novis 
+Score = 0.9925
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42464 -novis 
+Score = 0.9693877551020408
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42465 -novis 
+Score = 0.8579365079365079
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42466 -novis 
+Score = 0.9
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42467 -novis 
+Score = 0.75
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42468 -novis 
+Score = 0.9791666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42469 -novis 
+Score = 0.888986013986014
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42470 -novis 
+Score = 0.935626102292769
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42471 -novis 
+Score = 0.96
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42472 -novis 
+Score = 0.9648148148148148
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42473 -novis 
+Score = 0.7383333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42474 -novis 
+Score = 0.8920634920634921
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42475 -novis 
+Score = 0.992063492063492
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42476 -novis 
+Score = 0.967032967032967
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42477 -novis 
+Score = 0.974025974025974
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42478 -novis 
+Score = 0.8055555555555556
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42479 -novis 
+Score = 0.8203463203463204
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42480 -novis 
+Score = 0.9696969696969698
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42481 -novis 
+Score = 0.980246913580247
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42482 -novis 
+Score = 0.7735042735042735
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42483 -novis 
+Score = 0.8154761904761905
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42484 -novis 
+Score = 0.8497041420118343
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42485 -novis 
+Score = 0.9791666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42486 -novis 
+Score = 0.9033333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42487 -novis 
+Score = 0.8222222222222223
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42488 -novis 
+Score = 0.969551282051282
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42489 -novis 
+Score = 0.9575
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42490 -novis 
+Score = 0.9444444444444444
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42491 -novis 
+Score = 0.8657142857142858
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42492 -novis 
+Score = 0.984375
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42493 -novis 
+Score = 0.7999999999999999
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42494 -novis 
+Score = 0.844
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42495 -novis 
+Score = 0.9819444444444445
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42496 -novis 
+Score = 0.9545454545454546
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42497 -novis 
+Score = 0.9111111111111111
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42498 -novis 
+Score = 0.8132807363576595
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42499 -novis 
+Score = 0.9897959183673469
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42500 -novis 
+Score = 0.9773809523809524
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42501 -novis 
+Score = 0.9659090909090909
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42502 -novis 
+Score = 0.8931623931623931
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42503 -novis 
+Score = 0.9814814814814815
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42504 -novis 
+Score = 0.9375
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42505 -novis 
+Score = 0.9444444444444445
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42506 -novis 
+Score = 0.9633333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42507 -novis 
+Score = 0.7396825396825398
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42508 -novis 
+Score = 0.9675
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42509 -novis 
+Score = 0.9595238095238094
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42510 -novis 
+Score = 0.9230769230769231
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42511 -novis 
+Score = 0.9921875
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42512 -novis 
+Score = 0.9777777777777779
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42513 -novis 
+Score = 0.9728395061728395
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42514 -novis 
+Score = 0.7625396825396825
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42515 -novis 
+Score = 0.9152777777777779
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42516 -novis 
+Score = 0.9209876543209875
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42517 -novis 
+Score = 0.953125
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42518 -novis 
+Score = 1.0
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42519 -novis 
+Score = 0.9777777777777779
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42520 -novis 
+Score = 0.9533333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42521 -novis 
+Score = 0.9595238095238094
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42522 -novis 
+Score = 0.7494505494505493
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42523 -novis 
+Score = 0.9776785714285715
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42524 -novis 
+Score = 0.9451923076923077
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42525 -novis 
+Score = 0.002551020408163265
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42526 -novis 
+Score = 0.8307692307692308
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42527 -novis 
+Score = 0.8796296296296297
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42528 -novis 
+Score = 0.8755411255411255
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42529 -novis 
+Score = 0.8366666666666667
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42530 -novis 
+Score = 0.9450549450549451
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42531 -novis 
+Score = 0.9624819624819626
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42532 -novis 
+Score = 0.8330241187384044
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42533 -novis 
+Score = 0.8712522045855379
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42534 -novis 
+Score = 0.9238095238095239
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42535 -novis 
+Score = 0.9375
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42536 -novis 
+Score = 0.7884615384615384
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42537 -novis 
+Score = 1.0
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42538 -novis 
+Score = 0.8785714285714287
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42539 -novis 
+Score = 0.9675324675324675
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42540 -novis 
+Score = 0.8701298701298701
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42541 -novis 
+Score = 0.9103535353535354
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42542 -novis 
+Score = 0.8268398268398268
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42543 -novis 
+Score = 1.0
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42544 -novis 
+Score = 0.9711111111111113
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42545 -novis 
+Score = 0.9188034188034188
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42546 -novis 
+Score = 0.9763888888888889
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42547 -novis 
+Score = 0.8604166666666667
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42548 -novis 
+Score = 0.9629629629629629
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42549 -novis 
+Score = 0.8842592592592592
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42550 -novis 
+Score = 0.7451282051282052
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42551 -novis 
+Score = 0.8897435897435898
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42552 -novis 
+Score = 0.7634920634920636
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42553 -novis 
+Score = 0.9938271604938271
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42554 -novis 
+Score = 0.9166666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42555 -novis 
+Score = 0.9285714285714285
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42556 -novis 
+Score = 0.9867424242424242
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42557 -novis 
+Score = 0.9423076923076923
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42558 -novis 
+Score = 0.7991341991341991
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42559 -novis 
+Score = 0.9523809523809524
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42560 -novis 
+Score = 0.8186813186813187
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42561 -novis 
+Score = 0.8875
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42562 -novis 
+Score = 0.9358974358974359
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42563 -novis 
+Score = 0.98
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42564 -novis 
+Score = 0.9873737373737373
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42565 -novis 
+Score = 0.7107142857142856
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42566 -novis 
+Score = 0.9753246753246753
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42567 -novis 
+Score = 0.9583333333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42568 -novis 
+Score = 0.9812500000000001
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42569 -novis 
+Score = 0.9916666666666667
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42570 -novis 
+Score = 0.9248251748251749
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42571 -novis 
+Score = 0.9615384615384616
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42572 -novis 
+Score = 0.9732142857142857
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42573 -novis 
+Score = 0.8849206349206349
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42574 -novis 
+Score = 0.8776223776223776
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42575 -novis 
+Score = 0.9166666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42576 -novis 
+Score = 0.9409523809523809
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42577 -novis 
+Score = 0.9777777777777777
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42578 -novis 
+Score = 0.8236686390532544
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42579 -novis 
+Score = 0.9428571428571428
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42580 -novis 
+Score = 0.7066666666666668
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42581 -novis 
+Score = 0.7646258503401362
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42582 -novis 
+Score = 0.9135802469135803
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42583 -novis 
+Score = 0.7908831908831909
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42584 -novis 
+Score = 0.9312169312169312
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42585 -novis 
+Score = 0.9846153846153846
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42586 -novis 
+Score = 0.981060606060606
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42587 -novis 
+Score = 0.9116161616161617
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42588 -novis 
+Score = 0.8476190476190476
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42589 -novis 
+Score = 0.9821428571428572
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42590 -novis 
+Score = 0.9729166666666668
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42591 -novis 
+Score = 0.9548611111111112
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42592 -novis 
+Score = 0.9777777777777776
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42593 -novis 
+Score = 0.8433862433862435
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42594 -novis 
+Score = 0.9921875
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42595 -novis 
+Score = 0.9489795918367347
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42596 -novis 
+Score = 0.9615384615384615
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42597 -novis 
+Score = 0.9120000000000001
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42598 -novis 
+Score = 1.0
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42599 -novis 
+Score = 0.9419642857142857
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42600 -novis 
+Score = 0.9027777777777778
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42601 -novis 
+Score = 0.9747252747252748
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42602 -novis 
+Score = 0.9747474747474747
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42603 -novis 
+Score = 0.9400000000000001
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42604 -novis 
+Score = 0.9283333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42605 -novis 
+Score = 0.9594155844155844
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42606 -novis 
+Score = 0.9530612244897959
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42607 -novis 
+Score = 0.8131868131868132
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42608 -novis 
+Score = 0.8018181818181819
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42609 -novis 
+Score = 0.9735449735449736
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42610 -novis 
+Score = 0.8875
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42611 -novis 
+Score = 0.888888888888889
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42612 -novis 
+Score = 0.9333333333333332
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42613 -novis 
+Score = 0.9196428571428571
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42614 -novis 
+Score = 0.9382716049382717
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42615 -novis 
+Score = 0.8846153846153846
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42616 -novis 
+Score = 0.9704761904761906
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42617 -novis 
+Score = 0.9506172839506173
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42618 -novis 
+Score = 0.8666666666666667
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42619 -novis 
+Score = 0.9830246913580246
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42620 -novis 
+Score = 0.8333333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42621 -novis 
+Score = 0.9734848484848485
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42622 -novis 
+Score = 0.9545454545454546
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42623 -novis 
+Score = 0.9916666666666667
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42624 -novis 
+Score = 0.9537037037037037
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42625 -novis 
+Score = 0.9666666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42626 -novis 
+Score = 0.9523809523809523
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42627 -novis 
+Score = 0.8717948717948718
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42628 -novis 
+Score = 0.98
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42629 -novis 
+Score = 0.8703703703703703
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42630 -novis 
+Score = 0.9471153846153846
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42631 -novis 
+Score = 0.7428571428571429
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42632 -novis 
+Score = 0.8054945054945055
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42633 -novis 
+Score = 0.9821428571428571
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42634 -novis 
+Score = 0.8888888888888888
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42635 -novis 
+Score = 0.8571428571428572
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42636 -novis 
+Score = 0.9166666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42637 -novis 
+Score = 0.9326923076923077
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42638 -novis 
+Score = 0.945679012345679
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42639 -novis 
+Score = 0.9904761904761905
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42640 -novis 
+Score = 0.8379120879120878
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42641 -novis 
+Score = 0.9952380952380953
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42642 -novis 
+Score = 0.8282828282828283
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42643 -novis 
+Score = 0.9638888888888889
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42644 -novis 
+Score = 0.8361111111111111
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42645 -novis 
+Score = 0.9675925925925927
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42646 -novis 
+Score = 0.9464285714285714
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42647 -novis 
+Score = 0.9191919191919191
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42648 -novis 
+Score = 0.9880952380952381
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42649 -novis 
+Score = 0.9635568513119533
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42650 -novis 
+Score = 0.9458333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42651 -novis 
+Score = 0.8857142857142858
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42652 -novis 
+Score = 0.9696969696969697
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42653 -novis 
+Score = 0.8886363636363637
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42654 -novis 
+Score = 0.9800000000000001
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42655 -novis 
+Score = 0.9791666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42656 -novis 
+Score = 0.9652777777777778
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42657 -novis 
+Score = 0.7787878787878788
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42658 -novis 
+Score = 0.780246913580247
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42659 -novis 
+Score = 0.8766666666666667
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42660 -novis 
+Score = 0.9393939393939394
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42661 -novis 
+Score = 0.9508928571428571
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42662 -novis 
+Score = 0.9748677248677248
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42663 -novis 
+Score = 0.8046296296296297
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42664 -novis 
+Score = 0.7704081632653061
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42665 -novis 
+Score = 0.9316666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42666 -novis 
+Score = 0.9583333333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42667 -novis 
+Score = 0.8327272727272728
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42668 -novis 
+Score = 0.8822115384615384
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42669 -novis 
+Score = 0.7615384615384616
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42670 -novis 
+Score = 0.9545454545454546
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42671 -novis 
+Score = 0.9358024691358026
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42672 -novis 
+Score = 0.8881118881118881
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42673 -novis 
+Score = 0.9911816578483246
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42674 -novis 
+Score = 0.9305555555555555
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42675 -novis 
+Score = 0.9904761904761905
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42676 -novis 
+Score = 0.9833333333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42677 -novis 
+Score = 0.8943722943722944
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42678 -novis 
+Score = 0.95
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42679 -novis 
+Score = 0.7774725274725275
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42680 -novis 
+Score = 0.7427350427350429
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42681 -novis 
+Score = 0.9603174603174602
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42682 -novis 
+Score = 0.9023809523809524
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42683 -novis 
+Score = 0.9034090909090909
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42684 -novis 
+Score = 0.9693877551020408
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42685 -novis 
+Score = 0.98
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42686 -novis 
+Score = 0.8311111111111111
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42687 -novis 
+Score = 0.9708333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42688 -novis 
+Score = 0.7394444444444445
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42689 -novis 
+Score = 0.942857142857143
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42690 -novis 
+Score = 0.9583333333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42691 -novis 
+Score = 0.9905303030303031
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42692 -novis 
+Score = 0.98
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42693 -novis 
+Score = 0.9920634920634921
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42694 -novis 
+Score = 0.9851190476190476
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42695 -novis 
+Score = 0.9145454545454544
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42696 -novis 
+Score = 0.9506172839506173
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42697 -novis 
+Score = 0.8585185185185186
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42698 -novis 
+Score = 0.9629629629629629
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42699 -novis 
+Score = 0.9291666666666667
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42700 -novis 
+Score = 0.9744897959183675
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42701 -novis 
+Score = 0.9198717948717949
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42702 -novis 
+Score = 0.9595959595959597
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42703 -novis 
+Score = 0.9404761904761905
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42704 -novis 
+Score = 0.9645833333333332
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42705 -novis 
+Score = 0.9285714285714286
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42706 -novis 
+Score = 0.9618055555555556
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42707 -novis 
+Score = 0.8377976190476191
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42708 -novis 
+Score = 0.9585185185185185
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42709 -novis 
+Score = 0.9583333333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42710 -novis 
+Score = 0.9766666666666668
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42711 -novis 
+Score = 0.9008264462809916
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42712 -novis 
+Score = 0.7916666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42713 -novis 
+Score = 0.9775
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42714 -novis 
+Score = 0.864010989010989
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42715 -novis 
+Score = 0.8125
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42716 -novis 
+Score = 0.9299145299145299
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42717 -novis 
+Score = 0.9791666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42718 -novis 
+Score = 0.8015873015873015
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42719 -novis 
+Score = 0.9841269841269842
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42720 -novis 
+Score = 0.8576388888888888
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42721 -novis 
+Score = 0.9642857142857143
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42722 -novis 
+Score = 0.95679012345679
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42723 -novis 
+Score = 0.8323809523809524
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42724 -novis 
+Score = 0.8741258741258741
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42725 -novis 
+Score = 0.9523809523809524
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42726 -novis 
+Score = 0.9425
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42727 -novis 
+Score = 0.7743589743589744
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42728 -novis 
+Score = 0.9794238683127572
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42729 -novis 
+Score = 0.8181818181818182
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42730 -novis 
+Score = 0.9500000000000001
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42731 -novis 
+Score = 0.8392857142857143
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42732 -novis 
+Score = 0.961038961038961
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42733 -novis 
+Score = 0.9236111111111112
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42734 -novis 
+Score = 0.9722222222222222
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42735 -novis 
+Score = 0.9907407407407407
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42736 -novis 
+Score = 0.9023809523809524
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42737 -novis 
+Score = 0.9045454545454545
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42738 -novis 
+Score = 0.8444444444444444
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42739 -novis 
+Score = 0.9851190476190476
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42740 -novis 
+Score = 0.8923076923076922
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42741 -novis 
+Score = 0.8966666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42742 -novis 
+Score = 0.8307692307692308
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42743 -novis 
+Score = 0.9691358024691357
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42744 -novis 
+Score = 0.9208333333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42745 -novis 
+Score = 0.8793650793650792
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42746 -novis 
+Score = 0.9785714285714286
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42747 -novis 
+Score = 0.8174603174603174
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42748 -novis 
+Score = 0.9693877551020408
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42749 -novis 
+Score = 0.9718749999999999
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42750 -novis 
+Score = 0.9238095238095239
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42751 -novis 
+Score = 0.9026442307692307
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42752 -novis 
+Score = 0.8712121212121212
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42753 -novis 
+Score = 0.7962962962962963
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42754 -novis 
+Score = 0.9571428571428572
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42755 -novis 
+Score = 0.9081726354453626
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42756 -novis 
+Score = 0.9523809523809524
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42757 -novis 
+Score = 0.983974358974359
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42758 -novis 
+Score = 0.7472527472527473
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42759 -novis 
+Score = 0.8966666666666666
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42760 -novis 
+Score = 0.978021978021978
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42761 -novis 
+Score = 0.9267676767676768
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42762 -novis 
+Score = 0.9877777777777778
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42763 -novis 
+Score = 0.9198717948717949
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42764 -novis 
+Score = 0.95
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42765 -novis 
+Score = 0.7905982905982906
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42766 -novis 
+Score = 0.911965811965812
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42767 -novis 
+Score = 0.9100529100529102
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42768 -novis 
+Score = 0.9768518518518517
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42769 -novis 
+Score = 0.8564102564102564
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42770 -novis 
+Score = 0.8388888888888889
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42771 -novis 
+Score = 0.9097222222222222
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42772 -novis 
+Score = 0.9739583333333334
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42773 -novis 
+Score = 0.7192307692307692
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42774 -novis 
+Score = 0.9652777777777778
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42775 -novis 
+Score = 0.9629629629629629
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42776 -novis 
+Score = 0.94921875
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42777 -novis 
+Score = 0.8377622377622378
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42778 -novis 
+Score = 0.7714285714285714
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42779 -novis 
+Score = 0.9033333333333333
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42780 -novis 
+Score = 0.9703703703703702
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42781 -novis 
+Score = 0.9740259740259739
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42782 -novis 
+Score = 0.8153846153846154
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42783 -novis 
+Score = 0.8611111111111112
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42784 -novis 
+Score = 0.9454545454545454
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42785 -novis 
+Score = 0.9642857142857143
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42786 -novis 
+Score = 0.7714285714285715
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42787 -novis 
+Score = 0.7344444444444443
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42788 -novis 
+Score = 0.9732142857142857
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42789 -novis 
+Score = 0.9846153846153847
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42790 -novis 
+Score = 0.7756410256410257
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42791 -novis 
+Score = 0.7488095238095238
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42792 -novis 
+Score = 0.9615384615384616
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42793 -novis 
+Score = 0.8181818181818182
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42794 -novis 
+Score = 0.868131868131868
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42795 -novis 
+Score = 0.8995670995670995
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42796 -novis 
+Score = 0.9259259259259259
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42797 -novis 
+Score = 1.0
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42798 -novis 
+Score = 0.8108974358974358
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42799 -novis 
+Score = 0.9862500000000001
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42800 -novis 
+Score = 0.9814814814814815
+
+D:\Documents\Computer\TopCoder\ChessPuzzle>java -jar D:\Documents\Computer\TopCoder\ChessPuzzle\Tester.jar -palette D:\Documents\Computer\TopCoder\ChessPuzzle\palette.txt -exec D:\Documents\Computer\TopCoder\ChessPuzzle\v2.3.exe -seed 42522 -novis 
+要終止批次作業嗎 (Y/N)? 

@@ -13,5 +13,7 @@ RockyMine: https://community.topcoder.com/longcontest/?module=ViewProblemStateme
 
 BookSelection: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14227&pm=10885
 
+ChessPuzzle: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14195&pm=10728
+
 GraphicalAuthentication: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13568&pm=10147
 
