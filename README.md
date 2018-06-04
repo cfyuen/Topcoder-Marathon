@@ -11,5 +11,7 @@ RollingBalls: https://community.topcoder.com/longcontest/?module=ViewProblemStat
 
 RockyMine: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14455&pm=9854
 
+BookSelection: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14227&pm=10885
+
 GraphicalAuthentication: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13568&pm=10147
 

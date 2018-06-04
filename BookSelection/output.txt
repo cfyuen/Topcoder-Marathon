@@ -1,0 +1,900 @@
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 1 -novis 
+Score = 3147.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 2 -novis 
+Score = 3473.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 3 -novis 
+Score = 8032.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 4 -novis 
+Score = 1820.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 5 -novis 
+Score = 2237.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 6 -novis 
+Score = 2599.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 7 -novis 
+Score = 2288.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 8 -novis 
+Score = 2800.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 9 -novis 
+Score = 1444.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 10 -novis 
+Score = 4195.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 11 -novis 
+Score = 8687.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 12 -novis 
+Score = 4042.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 13 -novis 
+Score = 7969.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 14 -novis 
+Score = 2228.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 15 -novis 
+Score = 5352.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 16 -novis 
+Score = 4152.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 17 -novis 
+Score = 2892.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 18 -novis 
+Score = 6373.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 19 -novis 
+Score = 8663.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 20 -novis 
+Score = 9771.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 21 -novis 
+Score = 2605.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 22 -novis 
+Score = 5896.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 23 -novis 
+Score = 5381.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 24 -novis 
+Score = 6339.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 25 -novis 
+Score = 1615.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 26 -novis 
+Score = 5481.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 27 -novis 
+Score = 1346.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 28 -novis 
+Score = 2607.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 29 -novis 
+Score = 2515.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 30 -novis 
+Score = 3336.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 31 -novis 
+Score = 6101.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 32 -novis 
+Score = 1460.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 33 -novis 
+Score = 1447.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 34 -novis 
+Score = 8528.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 35 -novis 
+Score = 3053.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 36 -novis 
+Score = 6499.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 37 -novis 
+Score = 3787.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 38 -novis 
+Score = 5600.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 39 -novis 
+Score = 8072.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 40 -novis 
+Score = 3954.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 41 -novis 
+Score = 4833.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 42 -novis 
+Score = 2765.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 43 -novis 
+Score = 2858.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 44 -novis 
+Score = 5525.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 45 -novis 
+Score = 5283.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 46 -novis 
+Score = 2187.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 47 -novis 
+Score = 1642.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 48 -novis 
+Score = 934.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 49 -novis 
+Score = 3682.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 50 -novis 
+Score = 7466.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 51 -novis 
+Score = 9954.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 52 -novis 
+Score = 2272.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 53 -novis 
+Score = 5534.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 54 -novis 
+Score = 2518.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 55 -novis 
+Score = 3281.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 56 -novis 
+Score = 7305.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 57 -novis 
+Score = 6054.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 58 -novis 
+Score = 2932.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 59 -novis 
+Score = 4409.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 60 -novis 
+Score = 9013.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 61 -novis 
+Score = 1916.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 62 -novis 
+Score = 2099.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 63 -novis 
+Score = 1680.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 64 -novis 
+Score = 4074.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 65 -novis 
+Score = 4991.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 66 -novis 
+Score = 5003.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 67 -novis 
+Score = 6927.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 68 -novis 
+Score = 2143.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 69 -novis 
+Score = 3863.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 70 -novis 
+Score = 3628.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 71 -novis 
+Score = 2999.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 72 -novis 
+Score = 2926.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 73 -novis 
+Score = 1481.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 74 -novis 
+Score = 9505.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 75 -novis 
+Score = 1687.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 76 -novis 
+Score = 7764.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 77 -novis 
+Score = 4011.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 78 -novis 
+Score = 1771.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 79 -novis 
+Score = 4065.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 80 -novis 
+Score = 2487.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 81 -novis 
+Score = 8598.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 82 -novis 
+Score = 2771.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 83 -novis 
+Score = 2343.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 84 -novis 
+Score = 5879.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 85 -novis 
+Score = 2462.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 86 -novis 
+Score = 1350.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 87 -novis 
+Score = 4099.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 88 -novis 
+Score = 6567.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 89 -novis 
+Score = 3202.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 90 -novis 
+Score = 2533.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 91 -novis 
+Score = 2045.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 92 -novis 
+Score = 5145.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 93 -novis 
+Score = 6210.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 94 -novis 
+Score = 2609.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 95 -novis 
+Score = 2829.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 96 -novis 
+Score = 2541.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 97 -novis 
+Score = 3755.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 98 -novis 
+Score = 5832.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 99 -novis 
+Score = 2566.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 100 -novis 
+Score = 2173.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 101 -novis 
+Score = 876.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 102 -novis 
+Score = 2038.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 103 -novis 
+Score = 6151.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 104 -novis 
+Score = 3329.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 105 -novis 
+Score = 10342.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 106 -novis 
+Score = 2788.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 107 -novis 
+Score = 9506.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 108 -novis 
+Score = 2472.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 109 -novis 
+Score = 5009.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 110 -novis 
+Score = 5497.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 111 -novis 
+Score = 5658.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 112 -novis 
+Score = 1489.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 113 -novis 
+Score = 3392.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 114 -novis 
+Score = 2409.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 115 -novis 
+Score = 5296.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 116 -novis 
+Score = 2248.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 117 -novis 
+Score = 1652.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 118 -novis 
+Score = 7932.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 119 -novis 
+Score = 4735.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 120 -novis 
+Score = 7048.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 121 -novis 
+Score = 4634.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 122 -novis 
+Score = 4243.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 123 -novis 
+Score = 1381.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 124 -novis 
+Score = 2974.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 125 -novis 
+Score = 7322.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 126 -novis 
+Score = 3875.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 127 -novis 
+Score = 2045.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 128 -novis 
+Score = 6279.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 129 -novis 
+Score = 6867.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 130 -novis 
+Score = 5806.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 131 -novis 
+Score = 4984.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 132 -novis 
+Score = 5756.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 133 -novis 
+Score = 3918.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 134 -novis 
+Score = 2730.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 135 -novis 
+Score = 915.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 136 -novis 
+Score = 3119.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 137 -novis 
+Score = 2175.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 138 -novis 
+Score = 4814.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 139 -novis 
+Score = 8286.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 140 -novis 
+Score = 2433.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 141 -novis 
+Score = 3312.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 142 -novis 
+Score = 5971.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 143 -novis 
+Score = 2090.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 144 -novis 
+Score = 4562.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 145 -novis 
+Score = 1545.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 146 -novis 
+Score = 8187.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 147 -novis 
+Score = 2918.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 148 -novis 
+Score = 6336.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 149 -novis 
+Score = 10170.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 150 -novis 
+Score = 4212.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 151 -novis 
+Score = 5516.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 152 -novis 
+Score = 3110.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 153 -novis 
+Score = 3664.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 154 -novis 
+Score = 6625.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 155 -novis 
+Score = 2723.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 156 -novis 
+Score = 2115.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 157 -novis 
+Score = 2714.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 158 -novis 
+Score = 1429.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 159 -novis 
+Score = 4909.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 160 -novis 
+Score = 3853.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 161 -novis 
+Score = 4717.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 162 -novis 
+Score = 3953.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 163 -novis 
+Score = 6744.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 164 -novis 
+Score = 3638.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 165 -novis 
+Score = 3942.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 166 -novis 
+Score = 5094.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 167 -novis 
+Score = 3687.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 168 -novis 
+Score = 2449.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 169 -novis 
+Score = 4934.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 170 -novis 
+Score = 10209.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 171 -novis 
+Score = 3564.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 172 -novis 
+Score = 5074.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 173 -novis 
+Score = 4830.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 174 -novis 
+Score = 2635.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 175 -novis 
+Score = 6302.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 176 -novis 
+Score = 5054.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 177 -novis 
+Score = 3458.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 178 -novis 
+Score = 3319.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 179 -novis 
+Score = 667.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 180 -novis 
+Score = 4412.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 181 -novis 
+Score = 4444.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 182 -novis 
+Score = 5500.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 183 -novis 
+Score = 4658.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 184 -novis 
+Score = 4570.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 185 -novis 
+Score = 4633.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 186 -novis 
+Score = 5284.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 187 -novis 
+Score = 4651.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 188 -novis 
+Score = 1858.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 189 -novis 
+Score = 3199.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 190 -novis 
+Score = 1434.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 191 -novis 
+Score = 7000.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 192 -novis 
+Score = 7016.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 193 -novis 
+Score = 5638.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 194 -novis 
+Score = 2210.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 195 -novis 
+Score = 2218.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 196 -novis 
+Score = 6792.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 197 -novis 
+Score = 4018.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 198 -novis 
+Score = 3594.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 199 -novis 
+Score = 3481.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 200 -novis 
+Score = 7771.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 201 -novis 
+Score = 7873.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 202 -novis 
+Score = 4317.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 203 -novis 
+Score = 2000.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 204 -novis 
+Score = 4219.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 205 -novis 
+Score = 3159.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 206 -novis 
+Score = 5689.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 207 -novis 
+Score = 7858.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 208 -novis 
+Score = 6036.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 209 -novis 
+Score = 7183.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 210 -novis 
+Score = 3342.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 211 -novis 
+Score = 3758.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 212 -novis 
+Score = 4935.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 213 -novis 
+Score = 5747.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 214 -novis 
+Score = 8965.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 215 -novis 
+Score = 6564.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 216 -novis 
+Score = 7919.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 217 -novis 
+Score = 8665.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 218 -novis 
+Score = 3965.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 219 -novis 
+Score = 3397.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 220 -novis 
+Score = 4618.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 221 -novis 
+Score = 1449.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 222 -novis 
+Score = 2505.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 223 -novis 
+Score = 4590.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 224 -novis 
+Score = 5510.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 225 -novis 
+Score = 6956.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 226 -novis 
+Score = 7293.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 227 -novis 
+Score = 1513.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 228 -novis 
+Score = 1491.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 229 -novis 
+Score = 7278.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 230 -novis 
+Score = 4761.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 231 -novis 
+Score = 4474.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 232 -novis 
+Score = 9632.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 233 -novis 
+Score = 3636.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 234 -novis 
+Score = 4895.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 235 -novis 
+Score = 3784.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 236 -novis 
+Score = 3350.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 237 -novis 
+Score = 2427.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 238 -novis 
+Score = 1308.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 239 -novis 
+Score = 7424.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 240 -novis 
+Score = 9309.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 241 -novis 
+Score = 2071.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 242 -novis 
+Score = 6649.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 243 -novis 
+Score = 5998.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 244 -novis 
+Score = 3955.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 245 -novis 
+Score = 6510.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 246 -novis 
+Score = 3794.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 247 -novis 
+Score = 3360.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 248 -novis 
+Score = 9495.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 249 -novis 
+Score = 3368.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 250 -novis 
+Score = 4105.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 251 -novis 
+Score = 6072.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 252 -novis 
+Score = 5440.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 253 -novis 
+Score = 4356.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 254 -novis 
+Score = 4361.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 255 -novis 
+Score = 6152.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 256 -novis 
+Score = 9791.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 257 -novis 
+Score = 8795.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 258 -novis 
+Score = 5387.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 259 -novis 
+Score = 2142.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 260 -novis 
+Score = 8385.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 261 -novis 
+Score = 2169.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 262 -novis 
+Score = 5566.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 263 -novis 
+Score = 4290.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 264 -novis 
+Score = 9723.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 265 -novis 
+Score = 6696.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 266 -novis 
+Score = 6327.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 267 -novis 
+Score = 4478.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 268 -novis 
+Score = 5490.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 269 -novis 
+Score = 3713.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 270 -novis 
+Score = 7909.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 271 -novis 
+Score = 7092.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 272 -novis 
+Score = 6359.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 273 -novis 
+Score = 5036.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 274 -novis 
+Score = 1403.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 275 -novis 
+Score = 6871.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 276 -novis 
+Score = 3202.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 277 -novis 
+Score = 3106.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 278 -novis 
+Score = 9557.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 279 -novis 
+Score = 10475.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 280 -novis 
+Score = 3649.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 281 -novis 
+Score = 3429.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 282 -novis 
+Score = 3417.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 283 -novis 
+Score = 1279.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 284 -novis 
+Score = 6469.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 285 -novis 
+Score = 4989.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 286 -novis 
+Score = 3579.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 287 -novis 
+Score = 7783.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 288 -novis 
+Score = 2177.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 289 -novis 
+Score = 2880.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 290 -novis 
+Score = 1434.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 291 -novis 
+Score = 7358.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 292 -novis 
+Score = 7938.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 293 -novis 
+Score = 5306.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 294 -novis 
+Score = 5611.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 295 -novis 
+Score = 6248.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 296 -novis 
+Score = 2390.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 297 -novis 
+Score = 10301.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 298 -novis 
+Score = 5526.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 299 -novis 
+Score = 3075.0
+
+D:\Documents\Computer\TopCoder\BookSelection>java -jar D:\Documents\Computer\TopCoder\BookSelection\BookSelectionVis.jar -exec D:\Documents\Computer\TopCoder\BookSelection\v7.2.exe -seed 300 -novis 
+Score = 5304.0
