@@ -1,0 +1,2 @@
+java -Xmx1024M -jar Tester.jar -exec "D:\Documents\Computer\TopCoder\SpaceMedkit\v0" -seed 1
+java -Xmx1024M -jar "D:\Documents\Computer\TopCoder\SpaceMedkit\Tester.jar" "D:\Documents\Computer\TopCoder\SpaceMedkit\v0" 1

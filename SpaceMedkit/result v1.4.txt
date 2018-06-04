@@ -1,0 +1,500 @@
+Seed = 1
+Total evacuations = 319     Limit = 319
+Total mass = 32.9966     Total volume = 79009.2938     Score = 79.8369
+Score = 12.5255
+
+Seed = 2
+Total evacuations = 63     Limit = 124
+Total mass = 56.4630     Total volume = 172540.9679     Score = 152.9121
+Score = 6.5397
+
+Seed = 3
+Total evacuations = 329     Limit = 300
+Evacuation exceeds!!
+Score = 0
+
+Seed = 4
+Total evacuations = 432     Limit = 451
+Total mass = 11.8177     Total volume = 50224.1872     Score = 20.3954
+Score = 49.0307
+
+Seed = 5
+Total evacuations = 235     Limit = 237
+Total mass = 36.7859     Total volume = 94215.8969     Score = 89.3263
+Score = 11.1949
+
+Seed = 6
+Total evacuations = 236     Limit = 249
+Total mass = 35.2632     Total volume = 88756.4343     Score = 91.1696
+Score = 10.9686
+
+Seed = 7
+Total evacuations = 70     Limit = 115
+Total mass = 56.4630     Total volume = 172540.9679     Score = 206.1536
+Score = 4.8508
+
+Seed = 8
+Total evacuations = 53     Limit = 101
+Total mass = 51.5679     Total volume = 141605.3928     Score = 90.4788
+Score = 11.0523
+
+Seed = 9
+Total evacuations = 359     Limit = 424
+Total mass = 28.4650     Total volume = 72844.2762     Score = 100.0771
+Score = 9.9923
+
+Seed = 10
+Total evacuations = 436     Limit = 468
+Total mass = 11.9067     Total volume = 45997.1797     Score = 16.8944
+Score = 59.1912
+
+Seed = 11
+Total evacuations = 75     Limit = 185
+Total mass = 47.3694     Total volume = 134117.1488     Score = 49.5060
+Score = 20.1996
+
+Seed = 12
+Total evacuations = 322     Limit = 333
+Total mass = 32.9462     Total volume = 78266.0938     Score = 66.3492
+Score = 15.0718
+
+Seed = 13
+Total evacuations = 287     Limit = 334
+Total mass = 32.9462     Total volume = 78266.0938     Score = 103.5495
+Score = 9.6572
+
+Seed = 14
+Total evacuations = 62     Limit = 146
+Total mass = 56.4630     Total volume = 172540.9679     Score = 112.5434
+Score = 8.8855
+
+Seed = 15
+Total evacuations = 71     Limit = 146
+Total mass = 56.4630     Total volume = 172540.9679     Score = 206.0118
+Score = 4.8541
+
+Seed = 16
+Total evacuations = 293     Limit = 360
+Total mass = 32.9291     Total volume = 78242.9938     Score = 63.8005
+Score = 15.6739
+
+Seed = 17
+Total evacuations = 413     Limit = 462
+Total mass = 12.1106     Total volume = 45966.7958     Score = 33.7748
+Score = 29.6079
+
+Seed = 18
+Total evacuations = 269     Limit = 281
+Total mass = 34.6304     Total volume = 90031.5239     Score = 39.2802
+Score = 25.4581
+
+Seed = 19
+Total evacuations = 397     Limit = 441
+Total mass = 11.8278     Total volume = 50239.3872     Score = 18.2244
+Score = 54.8714
+
+Seed = 20
+Total evacuations = 394     Limit = 396
+Total mass = 29.7626     Total volume = 75836.0735     Score = 50.3377
+Score = 19.8658
+
+Seed = 21
+Total evacuations = 61     Limit = 187
+Total mass = 56.4630     Total volume = 172540.9679     Score = 151.9915
+Score = 6.5793
+
+Seed = 22
+Total evacuations = 243     Limit = 279
+Total mass = 33.7589     Total volume = 84057.7747     Score = 84.8289
+Score = 11.7884
+
+Seed = 23
+Total evacuations = 295     Limit = 360
+Total mass = 32.9311     Total volume = 78243.2938     Score = 100.0654
+Score = 9.9935
+
+Seed = 24
+Total evacuations = 158     Limit = 281
+Total mass = 46.0057     Total volume = 124491.3315     Score = 79.6435
+Score = 12.5560
+
+Seed = 25
+Total evacuations = 263     Limit = 296
+Total mass = 33.7388     Total volume = 83582.5747     Score = 61.4791
+Score = 16.2657
+
+Seed = 26
+Total evacuations = 386     Limit = 431
+Total mass = 28.3999     Total volume = 73085.3369     Score = 54.1457
+Score = 18.4687
+
+Seed = 27
+Total evacuations = 249     Limit = 249
+Total mass = 35.2632     Total volume = 88756.4343     Score = 97.7720
+Score = 10.2279
+
+Seed = 28
+Total evacuations = 333     Limit = 338
+Total mass = 32.9362     Total volume = 78250.8938     Score = 89.9629
+Score = 11.1157
+
+Seed = 29
+Total evacuations = 50     Limit = 168
+Total mass = 56.4630     Total volume = 172540.9679     Score = 158.5107
+Score = 6.3087
+
+Seed = 30
+Total evacuations = 314     Limit = 359
+Total mass = 32.9311     Total volume = 78243.2938     Score = 79.4800
+Score = 12.5818
+
+Seed = 31
+Total evacuations = 58     Limit = 109
+Total mass = 56.4630     Total volume = 172540.9679     Score = 195.0151
+Score = 5.1278
+
+Seed = 32
+Total evacuations = 222     Limit = 238
+Total mass = 35.2733     Total volume = 88994.0343     Score = 84.0089
+Score = 11.9035
+
+Seed = 33
+Total evacuations = 78     Limit = 171
+Total mass = 56.4630     Total volume = 172540.9679     Score = 180.4797
+Score = 5.5408
+
+Seed = 34
+Total evacuations = 36     Limit = 138
+Total mass = 56.4630     Total volume = 172540.9679     Score = 177.2458
+Score = 5.6419
+
+Seed = 35
+Total evacuations = 94     Limit = 153
+Total mass = 48.4187     Total volume = 130537.4324     Score = 70.1779
+Score = 14.2495
+
+Seed = 36
+Total evacuations = 345     Limit = 385
+Total mass = 30.0861     Total volume = 73295.4144     Score = 101.0922
+Score = 9.8920
+
+Seed = 37
+Total evacuations = 266     Limit = 314
+Total mass = 33.7388     Total volume = 83582.5747     Score = 64.5449
+Score = 15.4931
+
+Seed = 38
+Total evacuations = 162     Limit = 214
+Total mass = 45.7570     Total volume = 123306.2028     Score = 62.0912
+Score = 16.1053
+
+Seed = 39
+Total evacuations = 383     Limit = 390
+Total mass = 28.6964     Total volume = 73101.1974     Score = 98.2936
+Score = 10.1736
+
+Seed = 40
+Total evacuations = 214     Limit = 252
+Total mass = 34.9756     Total volume = 88237.5437     Score = 82.2898
+Score = 12.1522
+
+Seed = 41
+Total evacuations = 364     Limit = 391
+Total mass = 30.0397     Total volume = 79650.2043     Score = 30.1034
+Score = 33.2188
+
+Seed = 42
+Total evacuations = 68     Limit = 223
+Total mass = 56.4299     Total volume = 172529.6539     Score = 113.7376
+Score = 8.7922
+
+Seed = 43
+Total evacuations = 60     Limit = 218
+Total mass = 56.4342     Total volume = 172529.7039     Score = 211.2461
+Score = 4.7338
+
+Seed = 44
+Total evacuations = 252     Limit = 244
+Evacuation exceeds!!
+Score = 0
+
+Seed = 45
+Total evacuations = 183     Limit = 295
+Total mass = 45.6354     Total volume = 122212.4159     Score = 75.6964
+Score = 13.2107
+
+Seed = 46
+Total evacuations = 251     Limit = 246
+Evacuation exceeds!!
+Score = 0
+
+Seed = 47
+Total evacuations = 298     Limit = 328
+Total mass = 32.9563     Total volume = 78503.6938     Score = 58.4637
+Score = 17.1046
+
+Seed = 48
+Total evacuations = 278     Limit = 262
+Evacuation exceeds!!
+Score = 0
+
+Seed = 49
+Total evacuations = 333     Limit = 341
+Total mass = 32.9311     Total volume = 78243.2938     Score = 80.9330
+Score = 12.3559
+
+Seed = 50
+Total evacuations = 63     Limit = 100
+Total mass = 56.4630     Total volume = 172540.9679     Score = 159.3259
+Score = 6.2764
+
+Seed = 51
+Total evacuations = 365     Limit = 428
+Total mass = 28.3625     Total volume = 72554.5048     Score = 66.8330
+Score = 14.9627
+
+Seed = 52
+Total evacuations = 417     Limit = 421
+Total mass = 28.4650     Total volume = 72844.2762     Score = 93.4573
+Score = 10.7001
+
+Seed = 53
+Total evacuations = 339     Limit = 324
+Evacuation exceeds!!
+Score = 0
+
+Seed = 54
+Total evacuations = 54     Limit = 161
+Total mass = 56.4630     Total volume = 172540.9679     Score = 211.2333
+Score = 4.7341
+
+Seed = 55
+Total evacuations = 65     Limit = 134
+Total mass = 56.4630     Total volume = 172540.9679     Score = 134.8764
+Score = 7.4142
+
+Seed = 56
+Total evacuations = 53     Limit = 128
+Total mass = 56.4630     Total volume = 172540.9679     Score = 178.5242
+Score = 5.6015
+
+Seed = 57
+Total evacuations = 398     Limit = 420
+Total mass = 28.4650     Total volume = 72844.2762     Score = 99.8997
+Score = 10.0100
+
+Seed = 58
+Total evacuations = 356     Limit = 409
+Total mass = 28.8819     Total volume = 74663.7999     Score = 65.3706
+Score = 15.2974
+
+Seed = 59
+Total evacuations = 359     Limit = 409
+Total mass = 28.5417     Total volume = 73606.3612     Score = 77.8731
+Score = 12.8414
+
+Seed = 60
+Total evacuations = 384     Limit = 409
+Total mass = 28.4650     Total volume = 72844.2762     Score = 94.3704
+Score = 10.5965
+
+Seed = 61
+Total evacuations = 524     Limit = 490
+Evacuation exceeds!!
+Score = 0
+
+Seed = 62
+Total evacuations = 343     Limit = 332
+Evacuation exceeds!!
+Score = 0
+
+Seed = 63
+Total evacuations = 265     Limit = 314
+Total mass = 33.7388     Total volume = 83582.5747     Score = 71.8122
+Score = 13.9252
+
+Seed = 64
+Total evacuations = 315     Limit = 352
+Total mass = 32.9311     Total volume = 78243.2938     Score = 99.5000
+Score = 10.0503
+
+Seed = 65
+Total evacuations = 438     Limit = 467
+Total mass = 11.0335     Total volume = 45972.9566     Score = 11.4576
+Score = 87.2782
+
+Seed = 66
+Total evacuations = 433     Limit = 473
+Total mass = 10.0745     Total volume = 43603.3790     Score = 38.0259
+Score = 26.2979
+
+Seed = 67
+Total evacuations = 254     Limit = 295
+Total mass = 34.0466     Total volume = 84576.6653     Score = 97.7549
+Score = 10.2297
+
+Seed = 68
+Total evacuations = 264     Limit = 319
+Total mass = 34.2312     Total volume = 83664.1128     Score = 108.2878
+Score = 9.2346
+
+Seed = 69
+Total evacuations = 263     Limit = 267
+Total mass = 34.9756     Total volume = 88237.5437     Score = 119.1568
+Score = 8.3923
+
+Seed = 70
+Total evacuations = 427     Limit = 467
+Total mass = 10.4182     Total volume = 44990.5459     Score = 26.6375
+Score = 37.5410
+
+Seed = 71
+Total evacuations = 235     Limit = 249
+Total mass = 34.9756     Total volume = 88237.5437     Score = 82.8182
+Score = 12.0746
+
+Seed = 72
+Total evacuations = 64     Limit = 201
+Total mass = 56.4630     Total volume = 172540.9679     Score = 217.9579
+Score = 4.5880
+
+Seed = 73
+Total evacuations = 62     Limit = 142
+Total mass = 56.4630     Total volume = 172540.9679     Score = 169.5813
+Score = 5.8969
+
+Seed = 74
+Total evacuations = 398     Limit = 460
+Total mass = 28.4646     Total volume = 73008.0062     Score = 86.6720
+Score = 11.5378
+
+Seed = 75
+Total evacuations = 38     Limit = 147
+Total mass = 56.4630     Total volume = 172540.9679     Score = 220.0541
+Score = 4.5443
+
+Seed = 76
+Total evacuations = 377     Limit = 461
+Total mass = 28.5406     Total volume = 73606.2112     Score = 71.3138
+Score = 14.0225
+
+Seed = 77
+Total evacuations = 341     Limit = 362
+Total mass = 32.0157     Total volume = 76707.5383     Score = 64.8352
+Score = 15.4237
+
+Seed = 78
+Total evacuations = 402     Limit = 473
+Total mass = 10.3937     Total volume = 43036.0606     Score = 19.6403
+Score = 50.9157
+
+Seed = 79
+Total evacuations = 66     Limit = 139
+Total mass = 56.4630     Total volume = 172540.9679     Score = 211.4258
+Score = 4.7298
+
+Seed = 80
+Total evacuations = 253     Limit = 312
+Total mass = 33.7589     Total volume = 84057.7747     Score = 89.9570
+Score = 11.1164
+
+Seed = 81
+Total evacuations = 173     Limit = 244
+Total mass = 45.6867     Total volume = 123040.6746     Score = 73.7795
+Score = 13.5539
+
+Seed = 82
+Total evacuations = 397     Limit = 445
+Total mass = 28.4639     Total volume = 72844.1262     Score = 96.6936
+Score = 10.3419
+
+Seed = 83
+Total evacuations = 61     Limit = 215
+Total mass = 56.4342     Total volume = 172529.7039     Score = 106.4791
+Score = 9.3915
+
+Seed = 84
+Total evacuations = 61     Limit = 189
+Total mass = 47.3694     Total volume = 134117.1488     Score = 56.4889
+Score = 17.7026
+
+Seed = 85
+Total evacuations = 349     Limit = 374
+Total mass = 30.3997     Total volume = 75125.2005     Score = 72.6956
+Score = 13.7560
+
+Seed = 86
+Total evacuations = 61     Limit = 150
+Total mass = 56.4630     Total volume = 172540.9679     Score = 209.2430
+Score = 4.7791
+
+Seed = 87
+Total evacuations = 307     Limit = 359
+Total mass = 32.9311     Total volume = 78243.2938     Score = 78.6750
+Score = 12.7105
+
+Seed = 88
+Total evacuations = 148     Limit = 161
+Total mass = 48.2389     Total volume = 127810.5234     Score = 74.9848
+Score = 13.3360
+
+Seed = 89
+Total evacuations = 70     Limit = 224
+Total mass = 56.4299     Total volume = 172529.6539     Score = 175.3470
+Score = 5.7030
+
+Seed = 90
+Total evacuations = 187     Limit = 200
+Total mass = 45.6867     Total volume = 123040.6746     Score = 73.2629
+Score = 13.6495
+
+Seed = 91
+Total evacuations = 258     Limit = 302
+Total mass = 33.7388     Total volume = 83582.5747     Score = 70.6233
+Score = 14.1596
+
+Seed = 92
+Total evacuations = 67     Limit = 136
+Total mass = 56.4630     Total volume = 172540.9679     Score = 139.3533
+Score = 7.1760
+
+Seed = 93
+Total evacuations = 484     Limit = 471
+Evacuation exceeds!!
+Score = 0
+
+Seed = 94
+Total evacuations = 347     Limit = 448
+Total mass = 28.3999     Total volume = 73085.3369     Score = 51.8387
+Score = 19.2906
+
+Seed = 95
+Total evacuations = 382     Limit = 415
+Total mass = 28.4650     Total volume = 72844.2762     Score = 99.8060
+Score = 10.0194
+
+Seed = 96
+Total evacuations = 433     Limit = 486
+Total mass = 9.4701     Total volume = 40602.7235     Score = 37.1678
+Score = 26.9050
+
+Seed = 97
+Total evacuations = 245     Limit = 311
+Total mass = 33.7589     Total volume = 84057.7747     Score = 88.6718
+Score = 11.2775
+
+Seed = 98
+Total evacuations = 47     Limit = 230
+Total mass = 56.4299     Total volume = 172529.6539     Score = 218.9276
+Score = 4.5677
+
+Seed = 99
+Total evacuations = 375     Limit = 458
+Total mass = 28.4646     Total volume = 73008.0062     Score = 91.2914
+Score = 10.9539
+
+Seed = 100
+Total evacuations = 72     Limit = 104
+Total mass = 56.4630     Total volume = 172540.9679     Score = 139.6455
+Score = 7.1610
+
