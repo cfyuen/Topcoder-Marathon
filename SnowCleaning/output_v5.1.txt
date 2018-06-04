@@ -1,0 +1,1000 @@
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10001 -novis 
+Fine   = 2996028
+Salary = 1931141
+Score  = 4927169
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10002 -novis 
+Fine   = 3588273
+Salary = 3695450
+Score  = 7283723
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10003 -novis 
+Fine   = 2243248
+Salary = 2222328
+Score  = 4465576
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10004 -novis 
+Fine   = 4951219
+Salary = 4525536
+Score  = 9476755
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10005 -novis 
+Fine   = 508128
+Salary = 505324
+Score  = 1013452
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10006 -novis 
+Fine   = 855144
+Salary = 750140
+Score  = 1605284
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10007 -novis 
+Fine   = 5438314
+Salary = 5203088
+Score  = 10641402
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10008 -novis 
+Fine   = 580692
+Salary = 578143
+Score  = 1158835
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10009 -novis 
+Fine   = 1728204
+Salary = 1367718
+Score  = 3095922
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10010 -novis 
+Fine   = 2159223
+Salary = 2119920
+Score  = 4279143
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10011 -novis 
+Fine   = 409752
+Salary = 444672
+Score  = 854424
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10012 -novis 
+Fine   = 1515887
+Salary = 1449987
+Score  = 2965874
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10013 -novis 
+Fine   = 2724534
+Salary = 2745924
+Score  = 5470458
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10014 -novis 
+Fine   = 1621836
+Salary = 1611512
+Score  = 3233348
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10015 -novis 
+Fine   = 1409904
+Salary = 2081578
+Score  = 3491482
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10016 -novis 
+Fine   = 5857884
+Salary = 5854414
+Score  = 11712298
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10017 -novis 
+Fine   = 1303350
+Salary = 1240020
+Score  = 2543370
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10018 -novis 
+Fine   = 9677675
+Salary = 8079788
+Score  = 17757463
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10019 -novis 
+Fine   = 1669564
+Salary = 1763400
+Score  = 3432964
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10020 -novis 
+Fine   = 1252097
+Salary = 1174029
+Score  = 2426126
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10021 -novis 
+Fine   = 1081960
+Salary = 1054368
+Score  = 2136328
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10022 -novis 
+Fine   = 2832500
+Salary = 1346618
+Score  = 4179118
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10023 -novis 
+Fine   = 511056
+Salary = 510340
+Score  = 1021396
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10024 -novis 
+Fine   = 2692288
+Salary = 2635335
+Score  = 5327623
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10025 -novis 
+Fine   = 1252118
+Salary = 1247400
+Score  = 2499518
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10026 -novis 
+Fine   = 2638284
+Salary = 2780536
+Score  = 5418820
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10027 -novis 
+Fine   = 1784628
+Salary = 1783560
+Score  = 3568188
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10028 -novis 
+Fine   = 6413146
+Salary = 5778444
+Score  = 12191590
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10029 -novis 
+Fine   = 3208320
+Salary = 3804732
+Score  = 7013052
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10030 -novis 
+Fine   = 5777002
+Salary = 5574790
+Score  = 11351792
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10031 -novis 
+Fine   = 2749636
+Salary = 3185568
+Score  = 5935204
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10032 -novis 
+Fine   = 2752092
+Salary = 2730267
+Score  = 5482359
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10033 -novis 
+Fine   = 4277508
+Salary = 4174634
+Score  = 8452142
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10034 -novis 
+Fine   = 3033660
+Salary = 3474450
+Score  = 6508110
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10035 -novis 
+Fine   = 5490667
+Salary = 5518688
+Score  = 11009355
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10036 -novis 
+Fine   = 579072
+Salary = 1309014
+Score  = 1888086
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10037 -novis 
+Fine   = 2600530
+Salary = 2469429
+Score  = 5069959
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10038 -novis 
+Fine   = 2717151
+Salary = 2658516
+Score  = 5375667
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10039 -novis 
+Fine   = 626516
+Salary = 631395
+Score  = 1257911
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10040 -novis 
+Fine   = 1444212
+Salary = 2303483
+Score  = 3747695
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10041 -novis 
+Fine   = 1482219
+Salary = 1418640
+Score  = 2900859
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10042 -novis 
+Fine   = 1525832
+Salary = 1180700
+Score  = 2706532
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10043 -novis 
+Fine   = 517956
+Salary = 518107
+Score  = 1036063
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10044 -novis 
+Fine   = 350132
+Salary = 355531
+Score  = 705663
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10045 -novis 
+Fine   = 2481102
+Salary = 2330220
+Score  = 4811322
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10046 -novis 
+Fine   = 4361760
+Salary = 3200220
+Score  = 7561980
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10047 -novis 
+Fine   = 907582
+Salary = 860615
+Score  = 1768197
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10048 -novis 
+Fine   = 1645224
+Salary = 2586808
+Score  = 4232032
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10049 -novis 
+Fine   = 1387840
+Salary = 1167620
+Score  = 2555460
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10050 -novis 
+Fine   = 1220478
+Salary = 1255230
+Score  = 2475708
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10051 -novis 
+Fine   = 1514040
+Salary = 1510268
+Score  = 3024308
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10052 -novis 
+Fine   = 2659860
+Salary = 2630691
+Score  = 5290551
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10053 -novis 
+Fine   = 1061730
+Salary = 1068851
+Score  = 2130581
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10054 -novis 
+Fine   = 1786365
+Salary = 1771680
+Score  = 3558045
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10055 -novis 
+Fine   = 1985630
+Salary = 1944042
+Score  = 3929672
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10056 -novis 
+Fine   = 2347870
+Salary = 2322768
+Score  = 4670638
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10057 -novis 
+Fine   = 763344
+Salary = 705825
+Score  = 1469169
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10058 -novis 
+Fine   = 2477700
+Salary = 2477109
+Score  = 4954809
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10059 -novis 
+Fine   = 2465385
+Salary = 2452968
+Score  = 4918353
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10060 -novis 
+Fine   = 1292159
+Salary = 1946958
+Score  = 3239117
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10061 -novis 
+Fine   = 1757269
+Salary = 1751335
+Score  = 3508604
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10062 -novis 
+Fine   = 1175944
+Salary = 1155810
+Score  = 2331754
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10063 -novis 
+Fine   = 2095438
+Salary = 2118008
+Score  = 4213446
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10064 -novis 
+Fine   = 2166426
+Salary = 2519726
+Score  = 4686152
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10065 -novis 
+Fine   = 2399084
+Salary = 2049150
+Score  = 4448234
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10066 -novis 
+Fine   = 3736800
+Salary = 3699700
+Score  = 7436500
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10067 -novis 
+Fine   = 1389818
+Salary = 1247958
+Score  = 2637776
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10068 -novis 
+Fine   = 3842308
+Salary = 4481948
+Score  = 8324256
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10069 -novis 
+Fine   = 1544345
+Salary = 1547900
+Score  = 3092245
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10070 -novis 
+Fine   = 1362944
+Salary = 1501984
+Score  = 2864928
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10071 -novis 
+Fine   = 557810
+Salary = 856995
+Score  = 1414805
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10072 -novis 
+Fine   = 2457278
+Salary = 1783170
+Score  = 4240448
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10073 -novis 
+Fine   = 3625778
+Salary = 3483110
+Score  = 7108888
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10074 -novis 
+Fine   = 2097448
+Salary = 1332050
+Score  = 3429498
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10075 -novis 
+Fine   = 3231280
+Salary = 3164973
+Score  = 6396253
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10076 -novis 
+Fine   = 2250255
+Salary = 2174340
+Score  = 4424595
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10077 -novis 
+Fine   = 2126844
+Salary = 1844512
+Score  = 3971356
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10078 -novis 
+Fine   = 2932293
+Salary = 3484481
+Score  = 6416774
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10079 -novis 
+Fine   = 1750220
+Salary = 1754703
+Score  = 3504923
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10080 -novis 
+Fine   = 2463692
+Salary = 2415819
+Score  = 4879511
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10081 -novis 
+Fine   = 2742640
+Salary = 2782614
+Score  = 5525254
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10082 -novis 
+Fine   = 1520288
+Salary = 1435185
+Score  = 2955473
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10083 -novis 
+Fine   = 987096
+Salary = 985644
+Score  = 1972740
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10084 -novis 
+Fine   = 3832500
+Salary = 2920559
+Score  = 6753059
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10085 -novis 
+Fine   = 1364814
+Salary = 2207248
+Score  = 3572062
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10086 -novis 
+Fine   = 328152
+Salary = 341936
+Score  = 670088
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10087 -novis 
+Fine   = 2044406
+Salary = 1578032
+Score  = 3622438
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10088 -novis 
+Fine   = 2948276
+Salary = 2955960
+Score  = 5904236
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10089 -novis 
+Fine   = 2803977
+Salary = 2427696
+Score  = 5231673
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10090 -novis 
+Fine   = 5436812
+Salary = 3332544
+Score  = 8769356
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10091 -novis 
+Fine   = 800690
+Salary = 645696
+Score  = 1446386
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10092 -novis 
+Fine   = 987740
+Salary = 990517
+Score  = 1978257
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10093 -novis 
+Fine   = 4135749
+Salary = 4117140
+Score  = 8252889
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10094 -novis 
+Fine   = 1698400
+Salary = 1687552
+Score  = 3385952
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10095 -novis 
+Fine   = 946480
+Salary = 720396
+Score  = 1666876
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10096 -novis 
+Fine   = 5205796
+Salary = 4648888
+Score  = 9854684
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10097 -novis 
+Fine   = 2679114
+Salary = 2573120
+Score  = 5252234
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10098 -novis 
+Fine   = 1487370
+Salary = 1476468
+Score  = 2963838
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10099 -novis 
+Fine   = 4456536
+Salary = 6158080
+Score  = 10614616
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10100 -novis 
+Fine   = 402293
+Salary = 428779
+Score  = 831072
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10101 -novis 
+Fine   = 2895276
+Salary = 2823184
+Score  = 5718460
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10102 -novis 
+Fine   = 688228
+Salary = 685575
+Score  = 1373803
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10103 -novis 
+Fine   = 252334
+Salary = 315770
+Score  = 568104
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10104 -novis 
+Fine   = 718470
+Salary = 1082302
+Score  = 1800772
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10105 -novis 
+Fine   = 1194102
+Salary = 1202509
+Score  = 2396611
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10106 -novis 
+Fine   = 1502375
+Salary = 1673235
+Score  = 3175610
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10107 -novis 
+Fine   = 1399776
+Salary = 1361232
+Score  = 2761008
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10108 -novis 
+Fine   = 1931310
+Salary = 1440010
+Score  = 3371320
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10109 -novis 
+Fine   = 510930
+Salary = 511641
+Score  = 1022571
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10110 -novis 
+Fine   = 4802382
+Salary = 4804528
+Score  = 9606910
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10111 -novis 
+Fine   = 345168
+Salary = 347200
+Score  = 692368
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10112 -novis 
+Fine   = 1522430
+Salary = 1475847
+Score  = 2998277
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10113 -novis 
+Fine   = 828192
+Salary = 807864
+Score  = 1636056
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10114 -novis 
+Fine   = 3569720
+Salary = 3541632
+Score  = 7111352
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10115 -novis 
+Fine   = 2277550
+Salary = 2204418
+Score  = 4481968
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10116 -novis 
+Fine   = 1782331
+Salary = 802274
+Score  = 2584605
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10117 -novis 
+Fine   = 712586
+Salary = 865792
+Score  = 1578378
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10118 -novis 
+Fine   = 939311
+Salary = 845858
+Score  = 1785169
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10119 -novis 
+Fine   = 560108
+Salary = 552450
+Score  = 1112558
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10120 -novis 
+Fine   = 1780845
+Salary = 1768677
+Score  = 3549522
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10121 -novis 
+Fine   = 1547100
+Salary = 1584583
+Score  = 3131683
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10122 -novis 
+Fine   = 4613560
+Salary = 4969402
+Score  = 9582962
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10123 -novis 
+Fine   = 846336
+Salary = 857610
+Score  = 1703946
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10124 -novis 
+Fine   = 3256892
+Salary = 2820742
+Score  = 6077634
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10125 -novis 
+Fine   = 1357020
+Salary = 1248060
+Score  = 2605080
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10126 -novis 
+Fine   = 1304122
+Salary = 1301825
+Score  = 2605947
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10127 -novis 
+Fine   = 1950080
+Salary = 1726516
+Score  = 3676596
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10128 -novis 
+Fine   = 2741650
+Salary = 2700815
+Score  = 5442465
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10129 -novis 
+Fine   = 406096
+Salary = 405160
+Score  = 811256
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10130 -novis 
+Fine   = 3491127
+Salary = 3501900
+Score  = 6993027
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10131 -novis 
+Fine   = 3051670
+Salary = 2945243
+Score  = 5996913
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10132 -novis 
+Fine   = 417960
+Salary = 417475
+Score  = 835435
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10133 -novis 
+Fine   = 1958580
+Salary = 1923999
+Score  = 3882579
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10134 -novis 
+Fine   = 2858400
+Salary = 2157200
+Score  = 5015600
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10135 -novis 
+Fine   = 3100600
+Salary = 2391255
+Score  = 5491855
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10136 -novis 
+Fine   = 1242264
+Salary = 1287650
+Score  = 2529914
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10137 -novis 
+Fine   = 2205808
+Salary = 2193093
+Score  = 4398901
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10138 -novis 
+Fine   = 877264
+Salary = 865674
+Score  = 1742938
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10139 -novis 
+Fine   = 1786928
+Salary = 1552902
+Score  = 3339830
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10140 -novis 
+Fine   = 1706334
+Salary = 1457325
+Score  = 3163659
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10141 -novis 
+Fine   = 1857345
+Salary = 1753210
+Score  = 3610555
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10142 -novis 
+Fine   = 1606350
+Salary = 1798896
+Score  = 3405246
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10143 -novis 
+Fine   = 2054499
+Salary = 1547280
+Score  = 3601779
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10144 -novis 
+Fine   = 4896584
+Salary = 4704840
+Score  = 9601424
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10145 -novis 
+Fine   = 3324958
+Salary = 3204036
+Score  = 6528994
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10146 -novis 
+Fine   = 2021930
+Salary = 1669600
+Score  = 3691530
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10147 -novis 
+Fine   = 3666696
+Salary = 1429776
+Score  = 5096472
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10148 -novis 
+Fine   = 2619267
+Salary = 2488752
+Score  = 5108019
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10149 -novis 
+Fine   = 2040221
+Salary = 2447143
+Score  = 4487364
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10150 -novis 
+Fine   = 4370028
+Salary = 3915680
+Score  = 8285708
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10151 -novis 
+Fine   = 432680
+Salary = 538244
+Score  = 970924
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10152 -novis 
+Fine   = 3017670
+Salary = 3012000
+Score  = 6029670
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10153 -novis 
+Fine   = 2343662
+Salary = 2346218
+Score  = 4689880
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10154 -novis 
+Fine   = 2922347
+Salary = 2589192
+Score  = 5511539
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10155 -novis 
+Fine   = 2460920
+Salary = 2058797
+Score  = 4519717
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10156 -novis 
+Fine   = 2963481
+Salary = 2495523
+Score  = 5459004
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10157 -novis 
+Fine   = 3888380
+Salary = 2635362
+Score  = 6523742
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10158 -novis 
+Fine   = 2015560
+Salary = 2254300
+Score  = 4269860
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10159 -novis 
+Fine   = 1035524
+Salary = 1017225
+Score  = 2052749
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10160 -novis 
+Fine   = 1638796
+Salary = 1634817
+Score  = 3273613
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10161 -novis 
+Fine   = 2512285
+Salary = 1523458
+Score  = 4035743
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10162 -novis 
+Fine   = 2217402
+Salary = 2168388
+Score  = 4385790
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10163 -novis 
+Fine   = 1074172
+Salary = 1082214
+Score  = 2156386
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10164 -novis 
+Fine   = 5470024
+Salary = 5137703
+Score  = 10607727
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10165 -novis 
+Fine   = 2022510
+Salary = 2002320
+Score  = 4024830
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10166 -novis 
+Fine   = 1476352
+Salary = 2212160
+Score  = 3688512
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10167 -novis 
+Fine   = 2112237
+Salary = 1551833
+Score  = 3664070
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10168 -novis 
+Fine   = 1020243
+Salary = 1413854
+Score  = 2434097
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10169 -novis 
+Fine   = 3462192
+Salary = 3282687
+Score  = 6744879
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10170 -novis 
+Fine   = 1577616
+Salary = 1614087
+Score  = 3191703
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10171 -novis 
+Fine   = 5685225
+Salary = 5173560
+Score  = 10858785
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10172 -novis 
+Fine   = 3071232
+Salary = 2935328
+Score  = 6006560
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10173 -novis 
+Fine   = 4250430
+Salary = 3869475
+Score  = 8119905
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10174 -novis 
+Fine   = 1804880
+Salary = 1810117
+Score  = 3614997
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10175 -novis 
+Fine   = 3322728
+Salary = 2135896
+Score  = 5458624
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10176 -novis 
+Fine   = 1848742
+Salary = 5359274
+Score  = 7208016
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10177 -novis 
+Fine   = 3750525
+Salary = 3551536
+Score  = 7302061
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10178 -novis 
+Fine   = 4646312
+Salary = 4635360
+Score  = 9281672
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10179 -novis 
+Fine   = 1657553
+Salary = 1993134
+Score  = 3650687
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10180 -novis 
+Fine   = 3732190
+Salary = 2030454
+Score  = 5762644
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10181 -novis 
+Fine   = 3853424
+Salary = 3734982
+Score  = 7588406
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10182 -novis 
+Fine   = 2674647
+Salary = 6440460
+Score  = 9115107
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10183 -novis 
+Fine   = 1725230
+Salary = 2345483
+Score  = 4070713
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10184 -novis 
+Fine   = 2669177
+Salary = 2652534
+Score  = 5321711
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10185 -novis 
+Fine   = 2845509
+Salary = 3483180
+Score  = 6328689
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10186 -novis 
+Fine   = 7321344
+Salary = 5024506
+Score  = 12345850
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10187 -novis 
+Fine   = 4998928
+Salary = 4396293
+Score  = 9395221
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10188 -novis 
+Fine   = 5291488
+Salary = 4987200
+Score  = 10278688
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10189 -novis 
+Fine   = 1055288
+Salary = 1208930
+Score  = 2264218
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10190 -novis 
+Fine   = 2145789
+Salary = 2132100
+Score  = 4277889
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10191 -novis 
+Fine   = 4437912
+Salary = 4416885
+Score  = 8854797
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10192 -novis 
+Fine   = 4375560
+Salary = 4259955
+Score  = 8635515
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10193 -novis 
+Fine   = 3410762
+Salary = 3530737
+Score  = 6941499
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10194 -novis 
+Fine   = 1224720
+Salary = 1226236
+Score  = 2450956
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10195 -novis 
+Fine   = 1982692
+Salary = 3350985
+Score  = 5333677
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10196 -novis 
+Fine   = 3787536
+Salary = 3717981
+Score  = 7505517
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10197 -novis 
+Fine   = 879075
+Salary = 879606
+Score  = 1758681
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10198 -novis 
+Fine   = 2806616
+Salary = 2862188
+Score  = 5668804
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10199 -novis 
+Fine   = 2626415
+Salary = 3803184
+Score  = 6429599
+
+D:\Documents\Computer\TopCoder\SnowCleaning>java -jar D:\Documents\Computer\TopCoder\SnowCleaning\SnowCleaningVis.jar -exec D:\Documents\Computer\TopCoder\SnowCleaning\v5.1.exe -seed 10200 -novis 
+Fine   = 3506580
+Salary = 3413736
+Score  = 6920316

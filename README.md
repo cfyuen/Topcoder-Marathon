@@ -9,6 +9,8 @@ PointsOnTheCircle: http://community.topcoder.com/longcontest/?module=ViewProblem
 
 RollingBalls: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=16495&pm=14094
 
+SnowCleaning: http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=15608&pm=12487
+
 RockyMine: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14455&pm=9854
 
 BookSelection: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14227&pm=10885
