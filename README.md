@@ -17,6 +17,8 @@ RockyMine: https://community.topcoder.com/longcontest/?module=ViewProblemStateme
 
 CellularAutomation: http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14273&pm=10989
 
+Planarity: http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14272&pm=10942
+
 BookSelection: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14227&pm=10885
 
 ChessPuzzle: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14195&pm=10728

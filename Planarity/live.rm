@@ -1,0 +1,3 @@
+rtsp://205.234.224.34:554/encoder/st01live1012/live.rm?cloakport=80,554,7070
+--stop--
+pnm://205.234.224.34:7070/encoder/st01live1012/live.rm?cloakport=80,554,7070

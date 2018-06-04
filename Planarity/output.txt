@@ -1,0 +1,180 @@
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 1 
+V = 10
+Alpha = 2.7431439830828896
+E = 42
+Score = 44.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 2 
+V = 23
+Alpha = 1.3799845315969623
+E = 61
+Score = 46.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 3 
+V = 99
+Alpha = 1.1150135028877757
+E = 413
+Score = 4168.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 4 
+V = 52
+Alpha = 2.1909318594639484
+E = 207
+Score = 693.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 5 
+V = 83
+Alpha = 2.825971462902503
+E = 308
+Score = 751.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 6 
+V = 34
+Alpha = 1.0386470180784189
+E = 89
+Score = 79.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 7 
+V = 98
+Alpha = 1.6724759405620613
+E = 431
+Score = 3356.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 8 
+V = 49
+Alpha = 2.626817509760431
+E = 208
+Score = 593.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 9 
+V = 55
+Alpha = 1.8448823389444475
+E = 161
+Score = 252.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 10 
+V = 84
+Alpha = 1.9578917178952873
+E = 405
+Score = 2868.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 11 
+V = 24
+Alpha = 2.875632887716206
+E = 63
+Score = 29.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 12 
+V = 51
+Alpha = 1.2491364747500253
+E = 235
+Score = 1321.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 13 
+V = 85
+Alpha = 1.7063431518817158
+E = 296
+Score = 1515.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 14 
+V = 16
+Alpha = 2.1699397560452294
+E = 39
+Score = 10.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 15 
+V = 17
+Alpha = 1.4543962467651732
+E = 36
+Score = 6.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 16 
+V = 39
+Alpha = 1.324316518933408
+E = 168
+Score = 564.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 17 
+V = 83
+Alpha = 1.1338557531988431
+E = 252
+Score = 1060.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 18 
+V = 95
+Alpha = 2.744706367950201
+E = 457
+Score = 2558.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 19 
+V = 75
+Alpha = 2.229880510188131
+E = 343
+Score = 2041.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 20 
+V = 36
+Alpha = 1.2668552872772583
+E = 96
+Score = 107.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 21 
+V = 41
+Alpha = 1.2445260100276607
+E = 202
+Score = 1088.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 22 
+V = 54
+Alpha = 2.518668943468369
+E = 112
+Score = 62.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 23 
+V = 34
+Alpha = 1.7930687435965398
+E = 131
+Score = 338.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 24 
+V = 30
+Alpha = 2.8885686150983503
+E = 142
+Score = 401.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 25 
+V = 80
+Alpha = 2.129840770046063
+E = 178
+Score = 247.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 26 
+V = 28
+Alpha = 1.69514175444296
+E = 132
+Score = 403.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 27 
+V = 68
+Alpha = 2.6726254476335574
+E = 312
+Score = 1215.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 28 
+V = 24
+Alpha = 1.8338851505987332
+E = 104
+Score = 219.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 29 
+V = 24
+Alpha = 1.2270339060201003
+E = 52
+Score = 19.0
+
+D:\Documents\Computer\TopCoder\Planarity>java -jar D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar -exec D:\Documents\Computer\TopCoder\Planarity\v4.3.exe -seed 30 
+V = 32
+Alpha = 2.4724984404467696
+E = 81
+Score = 58.0

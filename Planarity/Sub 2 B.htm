@@ -1,0 +1,3166 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title>TopCoder</title>
+
+
+<script language="JavaScript" type="text/javascript" src="/js/tcscript.js"></script>
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/css/style.css" />
+<link type="text/css" rel="stylesheet" href="/css/coders.css" />
+<link type="text/css" rel="stylesheet" href="/css/stats.css" />
+<link type="text/css" rel="stylesheet" href="/css/tcStyles20080219.css" />
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <script type="text/javascript">
+        function next() {
+            var myForm = document.standingsForm;
+            myForm.sr.value=1+parseInt(myForm.nr.value);
+            myForm.sc.value='';
+            myForm.sd.value='';
+            myForm.submit();
+        }
+        function previous() {
+            var myForm = document.standingsForm;
+            myForm.sr.value=1-parseInt(myForm.nr.value);
+            myForm.sc.value='';
+            myForm.sd.value='';
+            myForm.submit();
+        }
+    </script>
+</head>
+
+<body>
+
+
+
+
+
+
+
+<script type="text/javascript" src="/js/popup.js"></script>
+
+<div id="shortcutBar">
+    <div class="icon"><a href="http://www.topcoder.com/tc"><img src="/i/interface/scHome.png" alt="" onmouseover="postPopUpText('globalPopupText','Home'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+    <div class="icon"><a href="javascript:arena();"><img src="/i/interface/scAlgo.png" alt="" onmouseover="postPopUpText('globalPopupText','Algorithm Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ActiveContests&amp;pt=23"><img src="/i/interface/scConceptualization.png" alt="" onmouseover="postPopUpText('globalPopupText','Software Conceptualization Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ActiveContests&amp;pt=6"><img src="/i/interface/scSpecification.png" alt="" onmouseover="postPopUpText('globalPopupText','Software Specification Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ActiveContests&amp;pt=7"><img src="/i/interface/scArchitecture.png" alt="" onmouseover="postPopUpText('globalPopupText','Software Architecture Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=112"><img src="/i/interface/scDesign.png" alt="" onmouseover="postPopUpText('globalPopupText','Component Design Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=113"><img src="/i/interface/scDevelopment.png" alt="" onmouseover="postPopUpText('globalPopupText','Component Development Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ViewAssemblyActiveContests"><img src="/i/interface/scAssembly.png" alt="" onmouseover="postPopUpText('globalPopupText','Software Assembly Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ActiveContests&pt=13"><img src="/i/interface/scTesting.png" alt="" onmouseover="postPopUpText('globalPopupText','Testing Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+    <div class="icon"><a href="javascript:arena();"><img src="/i/interface/scTCHS.png" alt="" onmouseover="postPopUpText('globalPopupText','High School Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/longcontest/?module=ViewActiveContests"><img src="/i/interface/scMarathon.png" alt="" onmouseover="postPopUpText('globalPopupText','Marathon Matches'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+    <div class="icon"><a href="http://studio.topcoder.com/?module=ViewActiveContests"><img src="/i/interface/scStudio.png" alt="" onmouseover="postPopUpText('globalPopupText','TopCoder Studio Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()" /></a></div>
+</div>
+
+<div id="globalPopup" class="popUp"><div id="globalPopupText"></div></div>
+
+
+<div style="position: absolute; right:0px; top:31px;"><a href="http://www.topcoder.com/tc?module=MyHome"><img src="/i/interface/myTopCoder.png" alt="My TopCoder" style="display:block;"/></a></div>
+
+
+<div align="center" style="margin: 0px 290px 0px 280px;">
+   <div id="outerLogo">
+      <div id="innerLogo">
+      <a href="http://www.topcoder.com/"><img src="/i/interface/topcoder.gif" alt="TopCoder" style="display: block;" /></a>
+      </div>
+   </div>
+</div>
+
+<div class="memberCountBox">
+Member Count: 249,445 - 
+
+
+May 22, 2010
+
+&nbsp;<a class="gMetal" href="Javascript:tcTime()">[Get Time]</a>
+</div>
+
+<div class="topBar">
+    <div style="float: right; margin: 5px 0px 0px 0px;">
+        
+            Hello,&nbsp;<a href="/tc?module=MemberProfile&amp;cr=22716606" class="coderTextYellow">thinfaifai</a>
+            
+                | <a class="gMetal" href="http://www.topcoder.com/longcontest/?module=Logout">Logout</a>
+            
+        
+    </div>
+</div>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr valign="top">
+
+<td width="180">
+         
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="/js/arena.js"></script>
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+function toggleMenu(menuTitle,menuID){
+   var menu = document.getElementById(menuID);
+   if(menu.style.display == 'block') menu.className = 'CLOSED';
+   else if(menu.className == 'OPEN' && menu.style.display != 'none') menu.className = 'CLOSED';
+   else {
+      menu.className = 'OPEN';
+   }
+   if(menuTitle.blur)menuTitle.blur();
+   if(menuTitle.className == 'exp') menuTitle.className = 'exp_ed';
+   else menuTitle.className = 'exp';
+   return;
+}
+function flipMenu(myMenuName){
+   var menuName = document.getElementById(myMenuName);
+   menuName.className = 'exp_ed';
+}
+
+// -->
+</script>
+
+<div style="padding: 0px;"><img src="/i/interface/leftnav_top.gif" alt="" /></div>
+<div id="navbar">
+    
+<ul>
+<li class="exp_ed"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_competitions')">Competitions</a>
+<ul id="m_competitions" class="OPEN">
+<li><a href="http://www.topcoder.com/tc">Home</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_competitor_stats')">The Tops</a>
+<ul id="m_competitor_stats">
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_top_rated_competitors')">Top Ranked</a>
+<ul id="m_top_rated_competitors">
+<li><a href="http://www.topcoder.com/tc?module=AlgoRank">Algorithm</a></li>
+<li><a href="http://www.topcoder.com/tc?module=HSRank">High School</a></li>
+<li><a href="http://www.topcoder.com/longcontest/stats/?module=CoderRank">Marathon Match</a></li>
+<li><a href="http://www.topcoder.com/stat?c=top_conceptors">Conceptualization</a></li>
+<li><a href="http://www.topcoder.com/stat?c=top_specificators">Specification</a></li>
+<li><a href="http://www.topcoder.com/stat?c=top_architects">Architecture</a></li>
+<li><a href="http://www.topcoder.com/stat?c=top_designers">Design</a></li>
+<li><a href="http://www.topcoder.com/stat?c=top_developers">Development</a></li>
+<li><a href="http://www.topcoder.com/stat?c=top_assemblers">Assembly</a></li>
+<li><a href="http://www.topcoder.com/stat?c=top_testers">Test Suites</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_recordbook')">Record Book</a>
+<ul id="m_recordbook">
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=statistics&amp;d2=recordbook_home">Algorithm</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=compstats&amp;d2=comp_recordbook_home">Component</a></li>
+<li><a href="http://www.topcoder.com/longcontest/?module=Static&amp;d1=stats&amp;d2=recordbook_home">Marathon Match</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_com')">Coder of the Month</a>
+<ul id="m_com">
+<li><a href="http://www.topcoder.com/tc?module=COMHistory&amp;achtid=5">Algorithm</a></li>
+<li><a href="http://www.topcoder.com/tc?module=COMHistory&amp;achtid=6">Design</a></li>
+<li><a href="http://www.topcoder.com/tc?module=COMHistory&amp;achtid=7">Development</a></li>
+</ul></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_algo_competitions')">Algorithm</a>
+<ul id="m_algo_competitions">
+<li><a href="/wiki/display/tc/Algorithm+Overview">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_algo_support')">Track Information</a>
+<ul id="m_algo_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Algorithm+Competitions">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Algorithm+Competition+FAQs">FAQs</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Algorithm+Competition+Rating+System">Rating System</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Write+Problems+for+TopCoder">Write Problems</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_algo_stats')">Statistics</a>
+<ul id="m_algo_stats">
+<li><a href="http://www.topcoder.com/tc?module=MatchList">Match Archive</a></li>
+<li><a href="http://www.topcoder.com/stat?c=round_overview">Match Overviews</a></li>
+<li><a href="http://www.topcoder.com/tc?module=SrmDivisionWins">Match Winners</a></li>
+<li><a href="http://www.topcoder.com/stat?c=last_match">Match Results</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis">Match Editorials</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ProblemArchive">Problem Archive</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ColorChange&amp;ratid=1">Recent Color Changes</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Algorithm+Data+Feeds">Data Feeds</a></li>
+</ul></li>
+<li><a href="javascript:arena();">Launch Arena</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_conceptualization_competitions')">Conceptualization</a>
+<ul id="m_conceptualization_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+Conceptualization+Contests">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_conceptualization_support')">Track Information</a>
+<ul id="m_conceptualization_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Conceptualization+Competitions">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Conceptualization+Documentation">Documentation</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Conceptualization+Submission+Instructions">Tutorial</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Conceptualization+Reliability+Bonus">Reliability Ratings</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=ActiveContests&pt=23">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=23">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CompList&amp;ph=134">Past Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;pt=23">Review Opportunities</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ReviewBoard&amp;pt=23">Meet the Review Board</a></li>
+<li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+UML+Tool">UML Tool</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_specification_competitions')">Specification</a>
+<ul id="m_specification_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+Specification+Contests">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_specification_support')">Track Information</a>
+<ul id="m_specification_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Specification+Competitions">How to Compete</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=ActiveContests&amp;pt=6">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=6">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CompList&amp;ph=117">Past Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;pt=6">Review Opportunities</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ReviewBoard&amp;pt=6">Meet the Review Board</a></li>
+<li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+UML+Tool">UML Tool</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_architecture_competitions')">Architecture</a>
+<ul id="m_architecture_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/Architecture+Overview">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_architecture_support')">Track Information</a>
+<ul id="m_architecture_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Architecture+Competitions">How to Compete</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=ActiveContests&amp;pt=7">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=7">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CompList&amp;ph=118">Past Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;pt=7">Review Opportunities</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ReviewBoard&amp;pt=7">Meet the Review Board</a></li>
+<li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+UML+Tool">UML Tool</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_des_competitions')">Component Design</a>
+<ul id="m_des_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/Component+Design+Overview">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_des_support')">Track Information</a>
+<ul id="m_des_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Component+Design+Competitions">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Component+Design+Documentation">Documentation</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Component+Design+Ratings">Ratings</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Component+Design+Reliability+Ratings">Reliability Ratings</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ColorChange&amp;ph=112">Recent Color Changes</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Component+Design+Data+Feeds">Data Feeds</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=112">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=1">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CompList&amp;ph=112">Past Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;pt=1">Review Opportunities</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ReviewBoard&amp;pt=1">Meet the Review Board</a></li>
+<li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+UML+Tool">UML Tool</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_dev_competitions')">Component Development</a>
+<ul id="m_dev_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Component+Development+Competitions">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_dev_support')">Track Information</a>
+<ul id="m_dev_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Component+Development+Competitions">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Component+Development+Documentation">Documentation</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Component+Development+Ratings">Ratings</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Component+Development+Reliability+Ratings">Reliability Ratings</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ColorChange&amp;ph=113">Recent Color Changes</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Component+Development+Data+Feeds">Data Feeds</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=113">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=2">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CompList&amp;ph=113">Past Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;pt=2">Review Opportunities</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ReviewBoard&amp;pt=2">Meet the Review Board</a></li>
+<li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+UML+Tool">UML Tool</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_assembly_competitions')">Assembly</a>
+<ul id="m_assembly_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/Assembly">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_assembly_support')">Track Information</a>
+<ul id="m_assembly_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Assembly+Competitions">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Assembly+Competition+Tutorial">Tutorial</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Assembly+Competition+Documentation">Documentation</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewAssemblyActiveContests">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=14">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CompList&amp;ph=125">Past Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;pt=14">Review Opportunities</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ReviewBoard&amp;pt=14">Meet the Review Board</a></li>
+<li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_test_scenarios_competitions')">Test Scenarios</a>
+<ul id="m_test_scenarios_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/Test+Scenarios+and+Scripts">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_test_scenarios_support')">Track Information</a>
+<ul id="m_test_scenarios_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Testing+Competitions">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Testing+Competition+Tutorial">Tutorial</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Testing+Competition+Documentation">Documentation</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=ActiveContests&amp;pt=26">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=26">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CompList&amp;pt=26">Past Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;pt=26">Review Opportunities</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ReviewBoard&amp;pt=26">Meet the Review Board</a></li>
+<li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+UML+Tool">UML Tool</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_test_suites_competitions')">Test Suites</a>
+<ul id="m_test_suites_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/Test+Scenarios+and+Scripts">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_test_suites_support')">Track Information</a>
+<ul id="m_test_suites_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Testing+Competitions">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Testing+Competition+Tutorial">Tutorial</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Testing+Competition+Documentation">Documentation</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=ActiveContests&amp;pt=13">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=13">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CompList&amp;pt=13">Past Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;pt=13">Review Opportunities</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ReviewBoard&amp;pt=13">Meet the Review Board</a></li>
+<li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+UML+Tool">UML Tool</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_ui_prototype_competitions')">UI Prototype</a>
+<ul id="m_ui_prototype_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/UI+Prototype+Competitions">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_ui_prototype_support')">Track Information</a>
+<ul id="m_ui_prototype_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+UI+Prototype+Competitions">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/UI+Prototype+Ratings">Ratings</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/UI+Prototype+Reliability+Ratings">Reliability Ratings</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=ActiveContests&amp;pt=19">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=19">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CompList&amp;pt=19">Past Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;pt=19">Review Opportunities</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ReviewBoard&amp;pt=19">Meet the Review Board</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_ria_build_competitions')">RIA Build</a>
+<ul id="m_ria_build_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/RIA+Build+Competitions">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_ria_build_support')">Track Information</a>
+<ul id="m_ria_build_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+RIA+Builds">How to Compete</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=ActiveContests&amp;pt=24">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=24">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CompList&amp;pt=24">Past Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;pt=24">Review Opportunities</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ReviewBoard&amp;pt=24">Meet the Review Board</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_bugraces_competitions')">Bug Races</a>
+<ul id="m_bugraces_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/Bug+Races">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_bugraces_support')">Track Information</a>
+<ul id="m_bugraces_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Bug+Races">How to Compete</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Active+Bug+Races">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Bug+Races+Reviews">Review Opportunities</a></li>
+</ul></li>
+<li class="exp_ed"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_long_contests')">Marathon Matches</a>
+<ul id="m_long_contests" class="OPEN">
+<li><a href="http://www.topcoder.com/wiki/display/tc/Marathon+Matches+Overview">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_long_support')">Track Information</a>
+<ul id="m_long_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Marathon+Match+Events">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/longcontest/?module=Static&amp;d1=support&amp;d2=ratings">Rating System</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_long_stats')">Statistics</a>
+<ul id="m_long_stats">
+<li><a href="http://www.topcoder.com/longcontest/stats/?module=MatchList">Match Archive</a></li>
+<li><a href="http://www.topcoder.com/longcontest/stats/?module=ViewOverview">Match Overview</a></li>
+<li><a href="http://www.topcoder.com/longcontest/stats/?module=MatchWinners">Match Winners</a></li>
+<li><a href="http://www.topcoder.com/longcontest/?module=Static&amp;d1=match_editorials&amp;d2=archive">Match Editorials</a></li>
+<li><a href="http://www.topcoder.com/longcontest/?module=Static&amp;d1=support&amp;d2=dataFeed">Data Feeds</a></li>
+</ul></li>
+<li class="highlight"><a href="http://www.topcoder.com/longcontest/?module=ViewActiveContests">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/longcontest/?module=ViewPractice">Practice</a></li>
+<li><a href="http://www.topcoder.com/longcontest/?module=ViewQueue">Queue Status</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_hs_competitions')">High School</a>
+<ul id="m_hs_competitions">
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=hs&amp;d2=home">Overview</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_hs_stats')">Statistics</a>
+<ul id="m_hs_stats">
+<li><a href="http://www.topcoder.com/tc?module=HSRoundOverview">Match Overview</a></li>
+<li><a href="http://www.topcoder.com/tc?module=HSRoundStatsTeam">Match Results (Team)</a></li>
+<li><a href="http://www.topcoder.com/tc?module=HSRoundStatsInd">Match Results (Indiv.)</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=hs&amp;d2=match_editorials&amp;d3=archive">Match Editorials</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ColorChange&amp;ratid=2">Recent Color Changes</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=hs&amp;d2=support&amp;d3=dataFeed">Data Feeds</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&d1=hs&d2=spotlightSessions">Spotlight Sessions</a></li>
+<li><a href="javascript:arena();">Launch Arena</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_copilot_opportunities')">Copilot Opportunities</a>
+<ul id="m_copilot_opportunities">
+<li><a href="http://www.topcoder.com/wiki/display/tc/Copilot+Overview">Overview</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Active+Copilot+Opportunities">Active Contests</a></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_tournaments')">Tournaments</a>
+<ul id="m_tournaments">
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=tournaments&amp;d2=home">TopCoder</a></li>
+<li><a href="http://www.topcoder.com/pl/">Powered by TopCoder</a></li>
+<li><a href="http://www.topcoder.com/tc?module=CRPFStatic&amp;d1=crpf&amp;d2=crpf_overview">Charity</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/dr">The Digital Run</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_edu_content')">Educational Content</a>
+<ul id="m_edu_content">
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=education&amp;d2=overview">Overview</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=alg_index">Algorithm Tutorials</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=comp_index">Component Tutorials</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=mm_index">Marathon Tutorials</a></li>
+</ul></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Get+Paid+for+Competing">How to Get Paid</a></li>
+</ul></li>
+<li><a href="http://forums.topcoder.com/">Forums</a></li>
+<li><a href="http://www.topcoder.com/wiki/dashboard.action">TopCoder Wiki</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=calendar&amp;d2=thisMonth">Event Calendar</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=pressroom&amp;d2=index">Press Room</a></li>
+<li><a href="http://www.topcoder.com/tc?&amp;module=SurveyList">Surveys</a></li>
+<li><a href="http://www.topcoder.com/tc?module=MyHome">My TopCoder</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_about_tc')">About TopCoder</a>
+<ul id="m_about_tc">
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=index">Overview</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=whyjoin">Why Join TopCoder?</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=jobs">Working at TopCoder</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=management">Management Team</a></li>
+</ul></li></ul>
+
+    <div style="float: left; padding: 10px 0px 0px 17px;">
+        
+        
+        
+        
+        <a href="http://www.topcoder.com/tc?module=LinkTracking&amp;link=http://software.topcoder.com/&amp;refer=leftnav"><img src="/i/leftnav/tc_direct.png" alt="TopCoder Direct" /></a>
+
+        
+    </div>
+    
+
+<div id="navbarSearch">
+<b>Member Search:</b>
+<form action="http://www.topcoder.com/tc" method="get" name="simpleSearchForm" class="noSpace" id="simpleSearchForm">
+   <input class="noSpace" type="hidden" name="module" value="SimpleSearch" />
+   <input class="noSpace" type="text" name="ha" value="Handle:" size="12" maxlength="15" onfocus="javascript: if (document.simpleSearchForm.ha.value=='Handle:') document.simpleSearchForm.ha.value = '';" onblur="javascript:if (document.simpleSearchForm.ha.value == '')document.simpleSearchForm.ha.value = 'Handle:';" />
+   <a class="gMetal" href="javascript:void document.simpleSearchForm.submit();">Go</a><br />
+   <a class="gMetal" href="http://www.topcoder.com/tc?module=ViewAdvanced">Advanced Search</a>
+</form>
+</div>
+</div>
+<div style="float: left; clear:left; padding: 0px 0px 23px 0px;"><img src="/i/interface/leftnav_bottom.gif" alt="" /></div>
+
+
+    <div align="center" style="float: left; clear:left; width: 170px; margin: 0px;">
+        <img src="/i/interface/brackets.png" alt="" style="margin-bottom: 23px;" />
+    </div>
+
+
+
+
+</td>
+
+
+
+<td class="statTableSpacer" width="100%" valign="top">
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" class="pageTitleTable">
+    <tr>
+        <td width="100%" class="pageTitle"><img border="0" src="/i/header_long_comps_topcoder.gif" alt="long_comps_topcoder"/></td>
+        <td align="right" class="pageSubtitle">&#160;Standings</td>
+    </tr>
+</table>
+
+
+
+<div style="float:right; padding: 0px 0px 0px 5px;">
+   &#160;
+
+</div>
+
+<span class="bigHandle">Contest: 2010 TCO Marathon Round 1</span><br/>                
+<span class="bodySubtitle">Problem: 
+
+
+
+
+
+
+
+<a href="/longcontest/?module=ViewProblemStatement&amp;rd=14272&amp;pm=10942" class='bcLink '>
+    Planarity
+</a>
+ </span><br/>
+    
+    
+        <span class="bodySubtitle">Registrants: <a href="/longcontest/?module=ViewRegistrants&amp;rd=14272" class="bcLink">
+
+               610</a></span>
+            <br/>
+            
+<span class="bodySubtitle">Competitors:  144</span>
+<br>
+<form name="standingsForm" action='/longcontest/' method="get">
+    <input type="hidden" name="sc" />
+    <input type="hidden" name="sd" />
+    <input type="hidden" name="nr" value="100" />
+    <input type="hidden" name="sr" value="1" />
+    <input type="hidden" name="rd" value="14272" />
+    <input type="hidden" name="module" value="ViewStandings" />
+
+
+<div style="clear: both;" align="center">
+   <div class="pagingBox">
+   &lt;&lt; prev
+       | <a href="Javascript:next()" class="bcLink">next &gt;&gt;</a>
+   </div>
+</div>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="statTableHolder">
+    <tr>
+        <td>
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="statTable">
+
+                <tr>
+                    <td class="tableTitle" colspan="7">Standings</td>
+                </tr>
+                <tr>
+                    <td class="tableHeader" width="20">
+                        <A href="/longcontest/?&amp;sc=8&amp;sd=asc&amp;module=ViewStandings&amp;rd=14272">Handle</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="right" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=5&amp;sd=desc&amp;module=ViewStandings&amp;rd=14272">Score</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="center" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=5&amp;sd=desc&amp;module=ViewStandings&amp;rd=14272">Rank</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="center" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=10&amp;sd=desc&amp;module=ViewStandings&amp;rd=14272">Last Submission Time</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="center" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=11&amp;sd=asc&amp;module=ViewStandings&amp;rd=14272">Language</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="center" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=7&amp;sd=asc&amp;module=ViewStandings&amp;rd=14272">Example Tests</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="center" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=6&amp;sd=desc&amp;module=ViewStandings&amp;rd=14272">Submissions</A>
+                    </td>
+                </tr>
+                
+                
+                
+                <tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=20436799&amp;tab=long" class="coderTextYellow">gsais</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+99.46</td>
+<td class="statLt" align="center">
+1</td>
+<td class="statLt" align="center">
+05.22.2010 01:34:39</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=20436799&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=20436799&rd=14272&compid=12151" class="statLink">
+7
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=8527113&amp;tab=long" class="coderTextYellow">Krzysan</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+96.24</td>
+<td class="statDk" align="center">
+2</td>
+<td class="statDk" align="center">
+05.20.2010 22:20:57</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=8527113&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=8527113&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22628843&amp;tab=long" class="coderTextBlue">eXtreme[PL]</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+94.85</td>
+<td class="statLt" align="center">
+3</td>
+<td class="statLt" align="center">
+05.20.2010 12:15:10</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22628843&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22628843&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=274498&amp;tab=long" class="coderTextBlue">O_O</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+93.93</td>
+<td class="statDk" align="center">
+4</td>
+<td class="statDk" align="center">
+05.21.2010 16:30:56</td>
+<td class="statDk" align="center">
+C#</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=274498&rd=14272&compid=12151" class="statLink">
+21
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=274498&rd=14272&compid=12151" class="statLink">
+13
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22839984&amp;tab=long" class="coderTextYellow">mkolfman</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+93.41</td>
+<td class="statLt" align="center">
+5</td>
+<td class="statLt" align="center">
+05.21.2010 20:41:13</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22839984&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22839984&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22074760&amp;tab=long" class="coderTextYellow">Rizvanov_de_xXx</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+92.39</td>
+<td class="statDk" align="center">
+6</td>
+<td class="statDk" align="center">
+05.20.2010 10:13:05</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22074760&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22074760&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22654819&amp;tab=long" class="coderTextYellow">eireksten</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+92.05</td>
+<td class="statLt" align="center">
+7</td>
+<td class="statLt" align="center">
+05.21.2010 19:59:49</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22654819&rd=14272&compid=12151" class="statLink">
+7
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22654819&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22675302&amp;tab=long" class="coderTextYellow">LayCurse</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+91.53</td>
+<td class="statDk" align="center">
+8</td>
+<td class="statDk" align="center">
+05.20.2010 15:45:15</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22675302&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22675302&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22703807" class="coderTextBlack">byronknoll</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+91.23</td>
+<td class="statLt" align="center">
+9</td>
+<td class="statLt" align="center">
+05.22.2010 01:58:14</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22703807&rd=14272&compid=12151" class="statLink">
+19
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22703807&rd=14272&compid=12151" class="statLink">
+10
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22722755&amp;tab=long" class="coderTextYellow">De_nis</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+90.78</td>
+<td class="statDk" align="center">
+10</td>
+<td class="statDk" align="center">
+05.21.2010 11:44:28</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22722755&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22722755&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22647221&amp;tab=long" class="coderTextGreen">sl2</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+90.06</td>
+<td class="statLt" align="center">
+11</td>
+<td class="statLt" align="center">
+05.21.2010 16:35:46</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22647221&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22647221&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=20958407&amp;tab=long" class="coderTextBlue">rlblaster</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+90.03</td>
+<td class="statDk" align="center">
+12</td>
+<td class="statDk" align="center">
+05.21.2010 02:53:17</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=20958407&rd=14272&compid=12151" class="statLink">
+5
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=20958407&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22855897&amp;tab=long" class="coderTextBlue">athyssen</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+89.52</td>
+<td class="statLt" align="center">
+13</td>
+<td class="statLt" align="center">
+05.20.2010 16:38:14</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22855897&rd=14272&compid=12151" class="statLink">
+14
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22855897&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22694931&amp;tab=long" class="coderTextYellow">quimey</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+89.32</td>
+<td class="statDk" align="center">
+14</td>
+<td class="statDk" align="center">
+05.21.2010 23:40:32</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22694931&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22694931&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22658297&amp;tab=long" class="coderTextGreen">Tanaeem</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+88.88</td>
+<td class="statLt" align="center">
+15</td>
+<td class="statLt" align="center">
+05.21.2010 09:06:45</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22658297&rd=14272&compid=12151" class="statLink">
+9
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22658297&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22768223&amp;tab=long" class="coderTextYellow">Daiver19</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+88.86</td>
+<td class="statDk" align="center">
+16</td>
+<td class="statDk" align="center">
+05.21.2010 16:06:04</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22768223&rd=14272&compid=12151" class="statLink">
+13
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22768223&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=15036711&amp;tab=long" class="coderTextGreen">starfrog</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+88.73</td>
+<td class="statLt" align="center">
+17</td>
+<td class="statLt" align="center">
+05.20.2010 13:36:46</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=15036711&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=15036711&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22774825&amp;tab=long" class="coderTextYellow">Whoa314</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+87.68</td>
+<td class="statDk" align="center">
+18</td>
+<td class="statDk" align="center">
+05.20.2010 16:30:57</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22774825&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22774825&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=10435514&amp;tab=long" class="coderTextBlue">synne</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+87.22</td>
+<td class="statLt" align="center">
+19</td>
+<td class="statLt" align="center">
+05.21.2010 07:24:56</td>
+<td class="statLt" align="center">
+C#</td></td>
+<td class="statLt" align="center">
+
+0
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=10435514&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=11909635&amp;tab=long" class="coderTextGreen">Breusov</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+86.92</td>
+<td class="statDk" align="center">
+20</td>
+<td class="statDk" align="center">
+05.21.2010 22:24:44</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=11909635&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=11909635&rd=14272&compid=12151" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+*<a href="/tc?module=MemberProfile&amp;cr=22716606&amp;tab=long" class="coderTextYellow">thinfaifai</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+84.63</td>
+<td class="statLt" align="center">
+21</td>
+<td class="statLt" align="center">
+05.22.2010 01:58:50</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22716606&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22716606&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22658761&amp;tab=long" class="coderTextYellow">thocev5</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+83.73</td>
+<td class="statDk" align="center">
+22</td>
+<td class="statDk" align="center">
+05.21.2010 06:18:38</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22658761&rd=14272&compid=12151" class="statLink">
+8
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22658761&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=20336263&amp;tab=long" class="coderTextGreen">simonsyd</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+82.73</td>
+<td class="statLt" align="center">
+23</td>
+<td class="statLt" align="center">
+05.20.2010 14:39:35</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=20336263&rd=14272&compid=12151" class="statLink">
+5
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=20336263&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=14822038&amp;tab=long" class="coderTextYellow">Nikaustr</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+82.32</td>
+<td class="statDk" align="center">
+24</td>
+<td class="statDk" align="center">
+05.20.2010 21:23:05</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=14822038&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=14822038&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22698830&amp;tab=long" class="coderTextBlue">bholzer2</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+82.17</td>
+<td class="statLt" align="center">
+25</td>
+<td class="statLt" align="center">
+05.20.2010 16:11:36</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22698830&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22698830&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=13356348&amp;tab=long" class="coderTextGreen">pavel13</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+80.45</td>
+<td class="statDk" align="center">
+26</td>
+<td class="statDk" align="center">
+05.20.2010 14:43:59</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=13356348&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=13356348&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=7313615&amp;tab=long" class="coderTextYellow">covganet</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+79.26</td>
+<td class="statLt" align="center">
+27</td>
+<td class="statLt" align="center">
+05.21.2010 08:20:40</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=7313615&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=7313615&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22659583&amp;tab=long" class="coderTextYellow">DustinKSmith</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+79.17</td>
+<td class="statDk" align="center">
+28</td>
+<td class="statDk" align="center">
+05.20.2010 19:35:44</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22659583&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22659583&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22868777&amp;tab=long" class="coderTextBlue">snus.alex</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+78.59</td>
+<td class="statLt" align="center">
+29</td>
+<td class="statLt" align="center">
+05.21.2010 13:52:17</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22868777&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22868777&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=16228010&amp;tab=long" class="coderTextGreen">amigooo</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+78.30</td>
+<td class="statDk" align="center">
+30</td>
+<td class="statDk" align="center">
+05.20.2010 04:18:43</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=16228010&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=16228010&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=7514011&amp;tab=long" class="coderTextBlue">sulfer</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+78.05</td>
+<td class="statLt" align="center">
+31</td>
+<td class="statLt" align="center">
+05.21.2010 01:35:24</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=7514011&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=7514011&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22727267&amp;tab=long" class="coderTextGreen">McArchuk</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+77.46</td>
+<td class="statDk" align="center">
+32</td>
+<td class="statDk" align="center">
+05.21.2010 11:54:29</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22727267&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22727267&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=269991&amp;tab=long" class="coderTextBlue">yasha</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+76.94</td>
+<td class="statLt" align="center">
+33</td>
+<td class="statLt" align="center">
+05.21.2010 15:49:46</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=269991&rd=14272&compid=12151" class="statLink">
+5
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=269991&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=308953&amp;tab=long" class="coderTextBlue">Mike Mirzayanov</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+76.77</td>
+<td class="statDk" align="center">
+34</td>
+<td class="statDk" align="center">
+05.21.2010 03:39:19</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=308953&rd=14272&compid=12151" class="statLink">
+9
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=308953&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22875082" class="coderTextBlack">calmcoder</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+76.75</td>
+<td class="statLt" align="center">
+35</td>
+<td class="statLt" align="center">
+05.21.2010 00:29:07</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22875082&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22875082&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=8366961&amp;tab=long" class="coderTextGreen">mercoz</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+74.89</td>
+<td class="statDk" align="center">
+36</td>
+<td class="statDk" align="center">
+05.21.2010 17:22:01</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+0
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=8366961&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22770042&amp;tab=long" class="coderTextYellow">shahrdar</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+74.38</td>
+<td class="statLt" align="center">
+37</td>
+<td class="statLt" align="center">
+05.21.2010 11:25:06</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22770042&rd=14272&compid=12151" class="statLink">
+32
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22770042&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=20315020&amp;tab=long" class="coderTextBlue">nika</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+73.73</td>
+<td class="statDk" align="center">
+38</td>
+<td class="statDk" align="center">
+05.20.2010 10:22:23</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=20315020&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=20315020&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=20701906&amp;tab=long" class="coderTextGreen">Johan.de.Ruiter</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+72.53</td>
+<td class="statLt" align="center">
+39</td>
+<td class="statLt" align="center">
+05.21.2010 03:53:39</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=20701906&rd=14272&compid=12151" class="statLink">
+8
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=20701906&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22843806&amp;tab=long" class="coderTextBlue">lncubus</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+70.38</td>
+<td class="statDk" align="center">
+40</td>
+<td class="statDk" align="center">
+05.21.2010 16:51:28</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22843806&rd=14272&compid=12151" class="statLink">
+5
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22843806&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22651906&amp;tab=long" class="coderTextGreen">net_buster</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+70.28</td>
+<td class="statLt" align="center">
+41</td>
+<td class="statLt" align="center">
+05.21.2010 12:33:45</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22651906&rd=14272&compid=12151" class="statLink">
+5
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22651906&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+*<a href="/tc?module=MemberProfile&amp;cr=22786105&amp;tab=long" class="coderTextGray">zaq1xsw2tktk</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+70.23</td>
+<td class="statDk" align="center">
+42</td>
+<td class="statDk" align="center">
+05.22.2010 02:00:12</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22786105&rd=14272&compid=12151" class="statLink">
+12
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22786105&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=299904&amp;tab=long" class="coderTextGreen">mishagam</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+69.44</td>
+<td class="statLt" align="center">
+43</td>
+<td class="statLt" align="center">
+05.20.2010 22:12:13</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=299904&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=299904&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22736823&amp;tab=long" class="coderTextGreen">Proud2BACoug</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+67.23</td>
+<td class="statDk" align="center">
+44</td>
+<td class="statDk" align="center">
+05.19.2010 18:21:34</td>
+<td class="statDk" align="center">
+C#</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22736823&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22736823&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=13274356&amp;tab=long" class="coderTextGreen">kishore_g84</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+66.50</td>
+<td class="statLt" align="center">
+45</td>
+<td class="statLt" align="center">
+05.20.2010 18:25:24</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=13274356&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=13274356&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22713690&amp;tab=long" class="coderTextGreen">SubCero</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+65.70</td>
+<td class="statDk" align="center">
+46</td>
+<td class="statDk" align="center">
+05.21.2010 01:01:56</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22713690&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22713690&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22732328" class="coderTextBlack">K.A.D.R</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+65.47</td>
+<td class="statLt" align="center">
+47</td>
+<td class="statLt" align="center">
+05.20.2010 16:40:35</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22732328&rd=14272&compid=12151" class="statLink">
+5
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22732328&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=15193859&amp;tab=long" class="coderTextYellow">{dano}</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+64.54</td>
+<td class="statDk" align="center">
+48</td>
+<td class="statDk" align="center">
+05.20.2010 10:17:09</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=15193859&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=15193859&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=296691&amp;tab=long" class="coderTextBlue">Malkyne</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+64.31</td>
+<td class="statLt" align="center">
+49</td>
+<td class="statLt" align="center">
+05.20.2010 19:17:38</td>
+<td class="statLt" align="center">
+C#</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=296691&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=296691&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=21159810&amp;tab=long" class="coderTextGreen">darko_aleksic</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+63.87</td>
+<td class="statDk" align="center">
+50</td>
+<td class="statDk" align="center">
+05.20.2010 08:25:58</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=21159810&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=21159810&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=21050879&amp;tab=long" class="coderTextGreen">Puj</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+63.39</td>
+<td class="statLt" align="center">
+51</td>
+<td class="statLt" align="center">
+05.21.2010 18:43:04</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=21050879&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=21050879&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22870259&amp;tab=long" class="coderTextYellow">Azus</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+62.05</td>
+<td class="statDk" align="center">
+52</td>
+<td class="statDk" align="center">
+05.21.2010 02:21:43</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22870259&rd=14272&compid=12151" class="statLink">
+19
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22870259&rd=14272&compid=12151" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=20771416&amp;tab=long" class="coderTextYellow">alex_kasycky</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+61.93</td>
+<td class="statLt" align="center">
+53</td>
+<td class="statLt" align="center">
+05.20.2010 16:49:21</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=20771416&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=20771416&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=7527926&amp;tab=long" class="coderTextGreen">Softwalker</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+61.87</td>
+<td class="statDk" align="center">
+54</td>
+<td class="statDk" align="center">
+05.21.2010 14:20:47</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=7527926&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=7527926&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22359623&amp;tab=long" class="coderTextGray">dpetek</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+59.83</td>
+<td class="statLt" align="center">
+55</td>
+<td class="statLt" align="center">
+05.20.2010 09:06:37</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22359623&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22359623&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22707576" class="coderTextBlack">isliguezze</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+59.81</td>
+<td class="statDk" align="center">
+56</td>
+<td class="statDk" align="center">
+05.21.2010 17:14:50</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22707576&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22707576&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=13358674&amp;tab=long" class="coderTextBlue">amiune</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+59.80</td>
+<td class="statLt" align="center">
+57</td>
+<td class="statLt" align="center">
+05.21.2010 09:56:29</td>
+<td class="statLt" align="center">
+C#</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=13358674&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=13358674&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22737342&amp;tab=long" class="coderTextGreen">SergeiFedorov</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+56.55</td>
+<td class="statDk" align="center">
+58</td>
+<td class="statDk" align="center">
+05.20.2010 08:55:06</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22737342&rd=14272&compid=12151" class="statLink">
+11
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22737342&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=282718&amp;tab=long" class="coderTextYellow">Rustyoldman</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+55.52</td>
+<td class="statLt" align="center">
+59</td>
+<td class="statLt" align="center">
+05.19.2010 22:31:51</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=282718&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=282718&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=265711&amp;tab=long" class="coderTextGreen">amjacobs</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+54.19</td>
+<td class="statDk" align="center">
+60</td>
+<td class="statDk" align="center">
+05.20.2010 18:57:53</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=265711&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=265711&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=21507690&amp;tab=long" class="coderTextBlue">psir</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+52.27</td>
+<td class="statLt" align="center">
+61</td>
+<td class="statLt" align="center">
+05.21.2010 11:49:04</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=21507690&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=21507690&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22708795&amp;tab=long" class="coderTextBlue">nizky</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+51.32</td>
+<td class="statDk" align="center">
+62</td>
+<td class="statDk" align="center">
+05.21.2010 11:55:07</td>
+<td class="statDk" align="center">
+C#</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22708795&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22708795&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=154648&amp;tab=long" class="coderTextBlue">dana</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+50.94</td>
+<td class="statLt" align="center">
+63</td>
+<td class="statLt" align="center">
+05.20.2010 23:32:25</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=154648&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=154648&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22669827&amp;tab=long" class="coderTextBlue">edauri</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+49.64</td>
+<td class="statDk" align="center">
+64</td>
+<td class="statDk" align="center">
+05.22.2010 00:29:47</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22669827&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22669827&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=251184&amp;tab=long" class="coderTextGreen">dplass</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+49.52</td>
+<td class="statLt" align="center">
+65</td>
+<td class="statLt" align="center">
+05.21.2010 20:20:10</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=251184&rd=14272&compid=12151" class="statLink">
+7
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=251184&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22831936&amp;tab=long" class="coderTextGreen">osa_k</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+48.95</td>
+<td class="statDk" align="center">
+66</td>
+<td class="statDk" align="center">
+05.21.2010 09:44:08</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22831936&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22831936&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22725081&amp;tab=long" class="coderTextGreen">lxn</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+46.78</td>
+<td class="statLt" align="center">
+67</td>
+<td class="statLt" align="center">
+05.20.2010 23:45:57</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22725081&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22725081&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22828354&amp;tab=long" class="coderTextBlue">rlemesle</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+46.05</td>
+<td class="statDk" align="center">
+68</td>
+<td class="statDk" align="center">
+05.21.2010 13:56:44</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22828354&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22828354&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=284038&amp;tab=long" class="coderTextGreen">aussie</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+45.61</td>
+<td class="statLt" align="center">
+69</td>
+<td class="statLt" align="center">
+05.19.2010 22:09:09</td>
+<td class="statLt" align="center">
+C#</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=284038&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=284038&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22659109&amp;tab=long" class="coderTextBlue">valdem</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+45.37</td>
+<td class="statDk" align="center">
+70</td>
+<td class="statDk" align="center">
+05.20.2010 19:05:25</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22659109&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22659109&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22675110&amp;tab=long" class="coderTextGray">ngg</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+45.13</td>
+<td class="statLt" align="center">
+71</td>
+<td class="statLt" align="center">
+05.20.2010 08:52:26</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22675110&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22675110&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22852089&amp;tab=long" class="coderTextYellow">TheKingOfWrong</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+44.97</td>
+<td class="statDk" align="center">
+72</td>
+<td class="statDk" align="center">
+05.20.2010 02:09:10</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22852089&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22852089&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22675206&amp;tab=long" class="coderTextBlue">edunov</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+44.73</td>
+<td class="statLt" align="center">
+73</td>
+<td class="statLt" align="center">
+05.19.2010 14:31:57</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22675206&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22675206&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22663678&amp;tab=long" class="coderTextYellow">licstar</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+44.23</td>
+<td class="statDk" align="center">
+74</td>
+<td class="statDk" align="center">
+05.19.2010 23:51:05</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22663678&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22663678&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22782168&amp;tab=long" class="coderTextGreen">mastermark</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+44.18</td>
+<td class="statLt" align="center">
+75</td>
+<td class="statLt" align="center">
+05.20.2010 23:01:50</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22782168&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22782168&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=269515&amp;tab=long" class="coderTextYellow">valeriy</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+44.06</td>
+<td class="statDk" align="center">
+76</td>
+<td class="statDk" align="center">
+05.22.2010 00:26:49</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=269515&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=269515&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22715447&amp;tab=long" class="coderTextGreen">kima</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+43.50</td>
+<td class="statLt" align="center">
+77</td>
+<td class="statLt" align="center">
+05.21.2010 19:25:21</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+0
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22715447&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=15115719&amp;tab=long" class="coderTextGreen">algoboy</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+42.97</td>
+<td class="statDk" align="center">
+78</td>
+<td class="statDk" align="center">
+05.21.2010 16:23:28</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=15115719&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=15115719&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22730004" class="coderTextBlack">wjomlex</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+42.23</td>
+<td class="statLt" align="center">
+79</td>
+<td class="statLt" align="center">
+05.20.2010 02:26:49</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22730004&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22730004&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=307060&amp;tab=long" class="coderTextYellow">AdrianKuegel</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+41.99</td>
+<td class="statDk" align="center">
+80</td>
+<td class="statDk" align="center">
+05.20.2010 08:35:56</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=307060&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=307060&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22629908&amp;tab=long" class="coderTextBlue">acsaga</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+40.78</td>
+<td class="statLt" align="center">
+81</td>
+<td class="statLt" align="center">
+05.21.2010 11:01:26</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22629908&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22629908&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=15795618&amp;tab=long" class="coderTextGreen">linubik</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+39.04</td>
+<td class="statDk" align="center">
+82</td>
+<td class="statDk" align="center">
+05.21.2010 06:33:33</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=15795618&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=15795618&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22690688&amp;tab=long" class="coderTextYellow">gli</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+38.87</td>
+<td class="statLt" align="center">
+83</td>
+<td class="statLt" align="center">
+05.21.2010 14:38:29</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22690688&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22690688&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22718910&amp;tab=long" class="coderTextBlue">tygrysek</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+38.44</td>
+<td class="statDk" align="center">
+84</td>
+<td class="statDk" align="center">
+05.21.2010 17:00:10</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22718910&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22718910&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22744138" class="coderTextBlack">x3mka</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+37.90</td>
+<td class="statLt" align="center">
+85</td>
+<td class="statLt" align="center">
+05.21.2010 18:07:08</td>
+<td class="statLt" align="center">
+C#</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22744138&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22744138&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22875177" class="coderTextBlack">chisoncai</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+36.64</td>
+<td class="statDk" align="center">
+86</td>
+<td class="statDk" align="center">
+05.21.2010 02:56:59</td>
+<td class="statDk" align="center">
+C#</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22875177&rd=14272&compid=12151" class="statLink">
+11
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22875177&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=21990198&amp;tab=long" class="coderTextGreen">alecn2002</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+36.11</td>
+<td class="statLt" align="center">
+87</td>
+<td class="statLt" align="center">
+05.21.2010 12:57:52</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=21990198&rd=14272&compid=12151" class="statLink">
+6
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=21990198&rd=14272&compid=12151" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22673787&amp;tab=long" class="coderTextBlue">Jackpot</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+35.60</td>
+<td class="statDk" align="center">
+88</td>
+<td class="statDk" align="center">
+05.21.2010 18:44:07</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22673787&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22673787&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=21758810&amp;tab=long" class="coderTextGreen">Bankevich</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+34.93</td>
+<td class="statLt" align="center">
+89</td>
+<td class="statLt" align="center">
+05.20.2010 17:30:33</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=21758810&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=21758810&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22629033&amp;tab=long" class="coderTextBlue">shig</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+34.73</td>
+<td class="statDk" align="center">
+90</td>
+<td class="statDk" align="center">
+05.21.2010 05:58:46</td>
+<td class="statDk" align="center">
+Python</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22629033&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22629033&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22678139&amp;tab=long" class="coderTextYellow">martins256</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+34.68</td>
+<td class="statLt" align="center">
+91</td>
+<td class="statLt" align="center">
+05.21.2010 15:37:31</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22678139&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22678139&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=138663&amp;tab=long" class="coderTextYellow">Sord</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+31.88</td>
+<td class="statDk" align="center">
+92</td>
+<td class="statDk" align="center">
+05.19.2010 14:16:01</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=138663&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=138663&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22852032&amp;tab=long" class="coderTextBlue">mattias192</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+29.95</td>
+<td class="statLt" align="center">
+93</td>
+<td class="statLt" align="center">
+05.20.2010 19:12:48</td>
+<td class="statLt" align="center">
+C#</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22852032&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22852032&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=21841130&amp;tab=long" class="coderTextGray">einz</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+28.20</td>
+<td class="statDk" align="center">
+94</td>
+<td class="statDk" align="center">
+05.20.2010 04:43:09</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=21841130&rd=14272&compid=12151" class="statLink">
+9
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=21841130&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22653660&amp;tab=long" class="coderTextBlue">ferr</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+26.60</td>
+<td class="statLt" align="center">
+95</td>
+<td class="statLt" align="center">
+05.20.2010 02:20:08</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+0
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22653660&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22672296&amp;tab=long" class="coderTextYellow">eraserhd</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+25.60</td>
+<td class="statDk" align="center">
+96</td>
+<td class="statDk" align="center">
+05.21.2010 20:45:45</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22672296&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22672296&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22721621" class="coderTextBlack">ZloyBastard</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+25.25</td>
+<td class="statLt" align="center">
+97</td>
+<td class="statLt" align="center">
+05.21.2010 16:29:08</td>
+<td class="statLt" align="center">
+C#</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22721621&rd=14272&compid=12151" class="statLink">
+9
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22721621&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22732853&amp;tab=long" class="coderTextBlue">zero.lin</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+22.62</td>
+<td class="statDk" align="center">
+98</td>
+<td class="statDk" align="center">
+05.20.2010 09:37:45</td>
+<td class="statDk" align="center">
+C#</td></td>
+<td class="statDk" align="center">
+
+0
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22732853&rd=14272&compid=12151" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="/tc?module=MemberProfile&amp;cr=22850949&amp;tab=long" class="coderTextGreen">demongolem</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+22.45</td>
+<td class="statLt" align="center">
+99</td>
+<td class="statLt" align="center">
+05.21.2010 18:42:23</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22850949&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22850949&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="/tc?module=MemberProfile&amp;cr=22714672" class="coderTextBlack">unobtainium</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+22.33</td>
+<td class="statDk" align="center">
+100</td>
+<td class="statDk" align="center">
+05.22.2010 00:52:54</td>
+<td class="statDk" align="center">
+VB</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22714672&rd=14272&compid=12151" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22714672&rd=14272&compid=12151" class="statLink">
+2
+</A>
+
+</td>
+</tr>
+                
+            </table>
+        </td>
+    </tr>
+</table>
+    <p>* Indicates that this competitor's most recent test or submission has not yet been processed</p>
+
+<div class="pagingBox">
+&lt;&lt; prev
+    | <a href="Javascript:next()" class="bcLink">next &gt;&gt;</a>
+</div>
+</form>
+
+</td>
+
+
+<td width="170">
+    
+
+
+
+<script type="text/javascript" language="javascript">
+
+</script>
+
+
+
+
+    <div style="width:150px;">
+        &nbsp;
+    </div>
+
+
+</td>
+
+
+<td width="10"><img src="/i/clear.gif" width="10" height="1" border="0"></td>
+</tr>
+</table>
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+    <tr>
+        <td width="100%" class="footer">
+            <a href="http://www.topcoder.com/" class="footerLinks">Home</a>&#160;&#160;|&#160;&#160;
+            <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=index" class="footerLinks">About TopCoder</a>&#160;&#160;|&#160;&#160;
+            <a href="http://www.topcoder.com/tc?module=Static&amp;d1=pressroom&amp;d2=index" class="footerLinks">Press Room</a>&#160;&#160;|&#160;&#160;
+            <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=contactus" class="footerLinks">Contact Us</a>&#160;&#160;|&#160;&#160;
+            <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=jobs" class="footerLinks">Careers</a>&#160;&#160;|&#160;&#160;
+            <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=privacy" class="footerLinks">Privacy</a>&#160;&#160;|&#160;&#160;
+            <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=terms" class="footerLinks">Terms</a>
+            <br />
+            <a href="http://www.topcoder.com/tc" class="footerLinks">Competitions</a>&#160;&#160;|&#160;&#160;
+            <a href="http://software.topcoder.com/" class="footerLinks">Software</a>        </td>
+    </tr>
+    <tr>
+      <td width="100%" class="copyright">Copyright &#169; 2001-2010, TopCoder, Inc. All rights reserved.</td></tr>
+</tbody>
+</table>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6340959-1");
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+java -Xmx1024M -jar "D:\Documents\Computer\TopCoder\Planarity\Visualizer.jar" -exec "D:\Documents\Computer\TopCoder\Planarity\v0" -seed 1
+
+D:\Documents\Computer\TopCoder\Planarity\runvis.bat >> output.txt
