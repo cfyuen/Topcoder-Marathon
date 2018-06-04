@@ -31,6 +31,8 @@ BounceOff: https://community.topcoder.com/longcontest/?module=ViewProblemStateme
 
 Gearing: http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13767&pm=10357
 
+ReliefMap: http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13766&pm=10322
+
 MegaParty: https://community.topcoder.com/longcontest/stats/?module=ViewOverview&rd=13709
 
 KnightsMoveCipher: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13679&pm=10242

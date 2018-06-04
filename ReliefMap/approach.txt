@@ -1,0 +1,28 @@
+
+
+- ask points in 2 contour lines, if the same, ask until different (take a line as basic, take two side to ask)
+- ask the same point 2 times (or more) and take average
+- calculate quite accurate D and calculate all contour line points
+
+- ask all (may not be all) extreme point, and determine whether it is the highest or lowest point
+(1) find average between 2 nearest contour line and return result
+
+
+*1* ask all extreme point until find 0, floodfill the side to find D (ask several point on the line and take average)
+*2* calculate all contour line
+*3* for each contour line, floodfill, if find no black point (contour line or point), measure middle point
+
+
+improvements:
+- get estimate of D first round, deeply investigate second round (be careful of round top)
+- if no point find, random find point near contour (or center of circle)
+- if distance(last mp,now mp) < thereshold, no measure
+- for a point, use top/bottom point realationship (when there is no contour line nearby)
+	if that point is close to many contour lines, weight is higher
+	use distance and weight to estimate a point
+
+strange 23
+big error 102
+
+stick 5491,5501,1124
+5506 small D not stick
