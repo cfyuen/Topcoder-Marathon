@@ -1,0 +1,1745 @@
+
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title>TopCoder</title>
+
+
+
+
+
+
+<script type="text/javascript" src="/js/reskin/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/js/reskin/jquery-migrate-1.2.1.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/js/reskin/html5shiv.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/js/reskin/jquery.jfeed.pack.js"></script>
+<script type="text/javascript" src="/js/reskin/newTCScript.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300' rel='stylesheet' type='text/css'/>
+    
+    <link type="text/css" rel="stylesheet" href="/css/coders.css" />
+    <link type="text/css" rel="stylesheet" href="/css/login.css" />
+    <link type="text/css" rel="stylesheet" href="/css/reskin/myHome.css" />
+    <!--[if IE]>
+    <link type="text/css" rel="stylesheet" href="/css/ie.css" />
+    <![endif]-->
+    
+<link type="text/css" rel="stylesheet" href="/css/reskin/newStyles.css"/>
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="/css/reskin/newStyles_ie8.css"/>
+<![endif]-->
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+<script>
+    $(document).ready(function(){
+        $("a.new-btn-login").attr('href', $("a.new-btn-login").attr('href') + "?next=" + window.location.href);
+    })
+</script>
+
+
+    
+
+        <!-- new theme -->
+
+        <div class="header-wrapper">
+            <!-- Main header element-->
+            <header class="top-header new-topcoder-header">
+                <!-- Header content visible on small screens-->
+                <div class="show-small mobile-heading"><span class="tc-text-logo">[ topcoder ]</span>
+                    <button type="button" class="btn-open-menu">Menu</button>
+                    <button type="button" class="btn-close-menu"></button>
+
+                    
+
+                     <!-- for logged in user-->
+
+                        <a href="javascript:;" class="user-link">
+                            <img src="/i/m/nophoto_submit.gif" alt="User Avatar" class="user-avatar">
+                        </a>
+                    
+
+
+
+                </div>
+                <!-- main menu -->
+                <ul class="main-menu">
+                    <!-- search container-->
+                    <li class="menu-item search-wrapper">
+                        <div class="menu-item-header search-header show-large">
+                            <button type="button" class="btn-expand-search search-icon"></button>
+                        </div>
+                        <div class="submenu">
+                            <form action="https://www.topcoder.com/search" method="get">
+                                <input type="text" id="searchBox" placeholder="Find member" name="s">
+                                <input type="hidden" name="scope" value="member"/>
+                                <input type="submit"
+                                       style="position: absolute; left: -9999px; width: 1px; height: 1px;"
+                                       tabindex="-1" />
+                             </form>
+                            <!-- Suggestion list container-->
+                            <ul class="suggestion-list"></ul>
+                        </div>
+                    </li>
+
+
+
+                    
+
+                        <!-- for logged in user-->
+
+                        <li class="menu-item link-group user-menu">
+                            <div class="authenticated-options">
+                                <div class="menu-item-header">
+                                    <img class="user-avatar" alt="User Avatar" src="/i/m/nophoto_submit.gif">
+                                    <span class="username">thinfaifai</span>
+                                </div>
+                                <a class="btn-link btn-edit-profile show-small" href="https://www.topcoder.com/settings/profile/">EDIT</a>
+                                <ul class="submenu">
+                                    <li class="submenu-item"><a class="menu-link menu-link-dashboard" href="https://www.topcoder.com//my-dashboard/">DASHBOARD</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-profile" href="https://www.topcoder.com/members/thinfaifai/">MY PROFILE</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-payments" target="_blank" href="https://community.topcoder.com/PactsMemberServlet?module=PaymentHistory&full_list=false">PAYMENTS</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-settings" href="https://www.topcoder.com/settings/profile/" target="_blank">SETTINGS</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-logout" href="javascript:doLogOutTC();">LOG OUT</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+                    
+
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">COMPETE</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/design/active" class="menu-link menu-link-design">DESIGN CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/develop/active" class="menu-link menu-link-dev">DEVELOPMENT CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/data/active" class="menu-link menu-link-data">DATA SCIENCE CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://arena.topcoder.com" class="menu-link menu-link-arena">COMPETITIVE PROGRAMMING</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <!-- 'LEARN' link group-->
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">LEARN</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/member-onboarding/" class="menu-link menu-link-learn-started">GET STARTED</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/design/" class="menu-link menu-link-learn-design">DESIGN</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/development/" class="menu-link menu-link-learn-dev">DEVELOPMENT</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/data-science/" class="menu-link menu-link-learn-data">DATA SCIENCE</a>
+                            </li>
+                            <li class="submenu-item"><a href="http://www.topcoder.com/community/competitive%20programming/" class="menu-link menu-link-learn-competition">COMPETITIVE PROGRAMMING</a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <!-- 'COMMUNITY' link group-->
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">COMMUNITY</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/members/" class="menu-link menu-link-community-members">OVERVIEW</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/member-programs/" class="menu-link menu-link-community-programs">PROGRAMS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://apps.topcoder.com/forums/" class="menu-link menu-link-community-forums" target="_blank">FORUMS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/statistics/" class="menu-link menu-link-community-stats">STATISTICS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/events/" class="menu-link menu-link-community-events">EVENTS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/blog/" class="menu-link menu-link-community-blog">BLOG</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </header>
+        </div>
+    
+    
+
+
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+        
+        <td width="180">
+         
+
+
+
+
+
+
+
+    
+        
+            
+            
+        
+
+
+
+
+
+
+<div style="width: 185px;" class="leftNavWrapper">
+    
+<input type="hidden" id="nodeName" value="m_long_contests"/>
+<script language="JavaScript" type="text/javascript" src="/js/arena.js"></script>
+
+    <section class="get-time" style="margin-bottom:15px">
+        
+        <span class="date"></span>
+        <a href="javascript:tcTime();">Get Time</a>
+    </section>
+    <!-- End .get-time -->
+
+    <section class="navigation">
+    <ul>
+        <li><a id="copilot_posting_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Copilot%20Posting">Copilot Posting</a></li>
+        <li><a href="http://www.topcoder.com/active-challenges/design/">Design</a></li>
+        <li>
+            <a href="javascript:;">Develop<i></i></a>
+            <ul class="hide">
+                <li><a id="conceptualization_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Conceptualization">Conceptualization</a></li>
+                <li><a id="specification_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Specification">Specification</a></li>
+                <li><a id="architecture_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Architecture">Architecture</a></li>
+                <li><a id="ui_prototype_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=UI%20Prototype%20Competition">UI Prototype</a></li>
+                <li><a id="assembly_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Assembly%20Competition">Assembly</a></li>
+                <li><a id="first2finish_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=First2Finish">First2Finish</a></li>
+                <li><a id="code_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Code">Code</a></li>
+                <li><a id="des_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Design">Component Design</a></li>
+                <li><a id="dev_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Development">Component Development</a></li>
+                <li><a id="test_suites_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Test%20Suites">Test Suites</a></li>
+                <li><a id="content_creation_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Content%20Creation">Content Creation</a></li>
+                <li><a id="test_scenarios_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Test%20Scenarios">Test Scenarios</a></li>
+                <li><a id="bug_hunt_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Bug%20Hunt">Bug Hunt</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Review Opportunities<i></i></a>
+            <ul class="hide">
+                <li>
+                    <dl>
+                        <dt>Conceptualization</dt>
+                        <dd><a id="conceptualization_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=23">Review Opportunities</a></dd>
+                        <dd><a id="conceptualization_review_border" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=23">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Specification</dt>
+                        <dd><a id="specification_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=6">Review Opportunities</a></dd>
+                        <dd><a id="specification_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=6">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Architecture</dt>
+                        <dd><a id="architecture_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=7">Review Opportunities</a></dd>
+                        <dd><a id="architecture_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=7">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Component Design</dt>
+                        <dd><a id="des_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=1">Review Opportunities</a></dd>
+                        <dd><a id="des_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=1 ">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Component Development</dt>
+                        <dd><a id="dev_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=2">Review Opportunities</a></dd>
+                        <dd><a id="dev_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=2">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Assembly</dt>
+                        <dd><a id="assembly_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=14">Review Opportunities</a></dd>
+                        <dd><a id="assembly_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=14">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>First2Finish</dt>
+                        <dd><a id="first2finish_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=38">Review Opportunities</a></dd>
+                        <dd><a id="first2finish_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=38">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Code</dt>
+                        <dd><a id="code_review"href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=39">Review Opportunities</a></dd>
+                        <dd><a id="code_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=39">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Test Suites</dt>
+                        <dd><a id="test_suites_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=13">Review Opportunities</a></dd>
+                        <dd><a id="test_suites_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=13">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Report</dt>
+                        <dd><a id="reporting_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=36">Review Opportunities</a></dd>
+                        <dd><a id="reporting_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=36">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>UI prototype</dt>
+                        <dd><a id="ui_prototype_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=19">Review Opportunities</a></dd>
+                        <dd><a id="ui_prototype_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=19">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>RIA Build</dt>
+                        <dd><a id="ria_build_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=24">Review Opportunities</a></dd>
+                        <dd><a id="ria_build_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=24">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Content Creation</dt>
+                        <dd><a id="content_creation_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=35">Review Opportunities</a></dd>
+                        <dd><a id="content_creation_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=35">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Test Scenarios</dt>
+                        <dd><a id="test_scenarios_review"  href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=26">Review Opportunities</a></dd>
+                        <dd><a id="test_scenarios_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=26">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="last-item">
+                        <dt>Bug Hunt</dt>
+                        <dd><a id="bug_hunt_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=9">Review Opportunities</a></dd>
+                        <dd><a id="bug_hunt_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=9">Meet the review board</a></dd>
+                    </dl>
+                </li>
+
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Algorithm (SRM)<i></i></a>
+            <ul class="hide">
+                <li><a href="http://www.topcoder.com/active-challenges/data/">Single Round Matches (SRM)</a></li>
+                <li><a id="algo_match_archive" href="http://www.topcoder.com/tc?module=MatchList">Match Archive</a></li>
+                <li><a id="algo_match_overviews" href="http://www.topcoder.com/stat?c=round_overview">Match Overviews</a></li>
+                <li><a id="algo_match_winners" href="http://www.topcoder.com/tc?module=SrmDivisionWins">Match Winners</a></li>
+                <li><a id="algo_match_results" href="http://www.topcoder.com/stat?c=last_match">Match Results</a></li>
+                <li><a href="http://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis">Match Editorials</a></li>
+                <li><a id="algo_problem_archive" href="http://www.topcoder.com/tc?module=ProblemArchive">Problem Archive</a></li>
+                <li><a id="algo_color_changes" href="http://www.topcoder.com/tc?module=ColorChange&ratid=1">Recent Color Changes</a></li>
+                <li><a href="http://apps.topcoder.com/wiki/display/tc/Algorithm+Data+Feeds">Data Feeds</a></li>
+                <li><a href="javascript:arena();">Launch Arena</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Marathon Match<i></i></a>
+            <ul class="hide">
+                <li><a id="long_compete" href="http://www.topcoder.com/challenges/data/active/">Challenges</a></li>
+                <li><a id="long_match_archive" href="http://www.topcoder.com/challenges/data/past/">Match Archive</a></li>
+                <li><a id="long_match_overview" href="http://www.topcoder.com/longcontest/stats/?module=ViewOverview">Match Overview</a></li>
+                <li><a id="long_match_winners" href="http://www.topcoder.com/longcontest/stats/?module=MatchWinners">Match Winners</a></li>
+                <li><a id="long_editorials" href="http://www.topcoder.com/longcontest/?module=Static&d1=match_editorials&d2=archive">Match Editorials</a></li>
+                <li><a id="long_data_feeds" href="http://www.topcoder.com/longcontest/?module=Static&d1=support&d2=dataFeed">Data Feeds</a></li>
+                <li><a id="long_practice" href="http://www.topcoder.com/longcontest/?module=ViewPractice">Practice</a></li>
+                <li><a id="long_queue" href="http://www.topcoder.com/longcontest/?module=ViewQueue">Queue Status</a></li>
+            </ul>
+        </li>
+        
+        <li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+        <li>
+            <a href="javascript:;">topcoder Networks<i></i></a>
+            <ul class="hide">
+                <li><a href="http://community.topcoder.com/ntl/">NASA Tournament Lab</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.topcoder.com/community/events/">Events</a></li>
+        <li>
+            <a href="javascript:;">Statistics<i></i></a>
+            <ul class="hide">
+                <li>
+                    <dl>
+                        <dt>Top Ranked</dt>
+                        <dd><a id="top_rated_algo" href="http://www.topcoder.com/tc?module=AlgoRank">Algorithm</a></dd>
+                        <dd><a id="top_rated_hs" href="http://www.topcoder.com/tc?module=HSRank">High School</a></dd>
+                        <dd><a id="top_rated_long" href="http://www.topcoder.com/longcontest/stats/?module=CoderRank">Marathon Match</a></dd>
+                        <dd><a id="top_rated_conceptors" href="http://www.topcoder.com/stat?c=top_conceptors">Conceptualization</a></dd>
+                        <dd><a id="top_rated_specificators" href="http://www.topcoder.com/stat?c=top_specificators">Specification</a></dd>
+                        <dd><a id="top_rated_architects" href="http://www.topcoder.com/stat?c=top_architects">Architecture</a></dd>
+                        <dd><a id="top_rated_des" href="http://www.topcoder.com/stat?c=top_designers">Design</a></dd>
+                        <dd><a id="top_rated_dev" href="http://www.topcoder.com/stat?c=top_developers">Development</a></dd>
+                        <dd><a id="top_rated_assemblers" href="http://www.topcoder.com/stat?c=top_assemblers">Assembly</a></dd>
+                        <dd><a id="top_rated_testers" href="http://www.topcoder.com/stat?c=top_testers">Test Suites</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Record Book</dt>
+                        <dd><a  id="algo_recordbook" href="http://www.topcoder.com/tc?module=Static&d1=statistics&d2=recordbook_home">Algorithm</a></dd>
+                        <dd><a  id="comp_recordbook" href="http://www.topcoder.com/tc?module=Static&d1=compstats&d2=comp_recordbook_home">Component</a></dd>
+                        <dd><a  id="long_recordbook" href="http://www.topcoder.com/longcontest/?module=Static&d1=stats&d2=recordbook_home">Marathon Match</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="last-item">
+                        <dt>Coder of the Month</dt>
+                        <dd><a  id="algo_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=5">Algorithm</a></dd>
+                        <dd><a  id="des_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=6">Design</a></dd>
+                        <dd><a  id="dev_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=7">Development</a></dd>
+                    </dl>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Tutorials<i></i></a>
+            <ul class="hide">
+                <li><a  id="algo_tutorials" href="http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/">Algorithm Tutorials</a></li>
+                <li><a id="comp_tutorials" href="http://help.topcoder.com/development/competing-in-development-challenges/development-tutorials/ ">Software Tutorials</a></li>
+                <li><a id="mm_tutorials" href="http://help.topcoder.com/data-science/competing-in-algorithm-challenges/marathon-match-tutorials/">Marathon Tutorials</a></li>
+            </ul>
+        </li>
+        <li><a href="https://apps.topcoder.com/forums/" id="forums">Forums</a></li>
+        <li><a href="https://www.topcoder.com/tc?module=MyHome" id="my_topcoder">My topcoder</a></li>
+    </ul>
+</section>
+<!-- End .navigation -->
+<section class="member-search">
+    <h3>Member Search</h3>
+    <div class="form">
+        <form action="http://community.topcoder.com/tc" method="get" name="simpleSearchForm" class="noSpace" id="simpleSearchForm">
+            <input class="noSpace" type="hidden" name="module" value="SimpleSearch" />
+            <input class="noSpace" type="text" name="ha" value="Handle:" size="12" maxlength="15" onfocus="javascript: if (document.simpleSearchForm.ha.value=='Handle:') document.simpleSearchForm.ha.value = '';" onblur="javascript:if (document.simpleSearchForm.ha.value == '')document.simpleSearchForm.ha.value = 'Handle:';" />
+            <a href="javascript:javascript:void document.simpleSearchForm.submit();" class="btn btn-search-member"><i>SEARCH</i></a>
+        </form>
+    </div>
+</section>
+
+<!-- End .member-search -->
+
+</div>
+
+    
+    
+
+
+
+        </td>
+        
+
+        
+        <td class="statTableSpacer" width="100%" valign="top">
+
+            
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" class="pageTitleTable">
+    <tr>
+        <td width="100%" class="pageTitle">
+
+
+            
+                
+                    
+                    <img border="0" src="/i/header_long_comps_topcoder.gif" alt="long_comps_topcoder"/>
+                
+                
+            
+
+
+        </td>
+        <td align="right" class="pageSubtitle">&#160;Example Results</td>
+    </tr>
+</table>
+
+
+
+            <span class="bigHandle">Contest: 
+
+
+
+
+
+<a href="/longcontest/?module=ViewStandings&amp;rd=16495" class="bcLink">
+    Marathon Match 90
+</a></span><br/>                
+            <span class="bodySubtitle">Problem: 
+
+
+
+
+
+
+
+<a href="/longcontest/?module=ViewProblemStatement&amp;rd=16495&amp;pm=14094" class='bcLink '>
+    RollingBalls
+</a>
+ </span><br/>
+            <span class="bodySubtitle">Coder: <a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22716606&amp;tab=long" class="coderTextYellow">thinfaifai</a></span><br/>
+
+            
+            
+            
+                <h2>0) Score: 0.8
+                    
+                    Run Time: 9538 ms
+                    
+                    
+                    Peak Memory Used: 77.266MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 1
+W = 10, H = 10
+Balls in maze = 5
+Start maze:
+#00......#
+...##...#.
+....#...#.
+..........
+#.#...#0..
+..#......#
+.0#.....#.
+.#.0..##..
+#..#....#.
+#....#....
+Target maze:
+#........#
+...##...#.
+.0..#0..#.
+.00.......
+#.#...#...
+..#......#
+..#.0...#.
+.#....##..
+#..#....#.
+#....#....
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 36<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>Run again (Time: 0.000000)<br />Run again (Time: 0.005000)<br />Run again (Time: 0.009000)<br />Iter 0: Bestscore = 0  cur score = 8<br />Run again (Time: 0.014000)<br />Run again (Time: 0.019000)<br />Run again (Time: 0.023000)<br />Iter 1: Bestscore = 8  cur score = 8<br />Run again (Time: 0.028000)<br />Run again (Time: 0.033000)<br />Run again (Time: 0.037000)<br />Iter 2: Bestscore = 8  cur score = 8<br />Run again (Time: 0.042000)<br />Run again (Time: 0.046000)<br />Run again (Time: 0.051000)<br />Iter 3: Bestscore = 8  cur score = 8<br />Run again (Time: 0.056000)<br />Run again (Time: 0.060000)<br />Run again (Time: 0.065000)<br />Iter 4: Bestscore = 8  cur score = 8<br />Run again (Time: 0.070000)<br />Run again (Time: 0.074000)<br />Run again (Time: 0.079000)<br />Iter 5: Bestscore = 8  cur score = 8<br />Run again (Time: 0.084000)<br />Run again (Time: 0.088000)<br />Iter 6: Bestscore = 8  cur score = 8<br />Run again (Time: 0.093000)<br />Run again (Time: 0.098000)<br />Run again (Time: 0.102000)<br />Iter 7: Bestscore = 8  cur score = 8<br />Run again (Time: 0.107000)<br />Run again (Time: 0.111000)<br />Iter 8: Bestscore = 8  cur score = 8<br />Run again (Time: 0.116000)<br />Run again (Time: 0.121000)<br />Run again (Time: 0.125000)<br />Iter 9: Bestscore = 8  cur score = 8<br />Run again (Time: 0.130000)<br />Run again (Time: 0.135000)<br />Iter 10: Bestscore = 8  cur score = 8<br />Run again (Time: 0.139000)<br />Run again (Time: 0.144000)<br />Iter 11: Bestscore = 8  cur score = 6<br />Run again (Time: 0.149000)<br />Run again (Time: 0.153000)<br />Iter 12: Bestscore = 8  cur score = 8<br />Run again (Time: 0.158000)<br />Run again (Time: 0.163000)<br />Run again (Time: 0.167000)<br />Iter 13: Bestscore = 8  cur score = 8<br />Run again (Time: 0.172000)<br />Run again (Time: 0.177000)<br />Run again (Time: 0.181000)<br />Iter 14: Bestscore = 8  cur score = 8<br />Run again (Time: 0.186000)<br />Run again (Time: 0.191000)<br />Run again (Time: 0.195000)<br />Iter 15: Bestscore = 8  cur score = 8<br />Run again (Time: 0.200000)<br />Run again (Time: 0.204000)<br />Run again (Time: 0.209000)<br />Iter 16: Bestscore = 8  cur score = 8<br />Run again (Time: 0.214000)<br />Run again (Time: 0.218000)<br />Run again (Time: 0.223000)<br />Iter 17: Bestscore = 8  cur score = 8<br />Run again (Time: 0.228000)<br />Run again (Time: 0.232000)<br />Run again (Time: 0.237000)<br />Iter 18: Bestscore = 8  cur score = 8<br />Run again (Time: 0.241000)<br />Run again (Time: 0.246000)<br />Run again (Time: 0.251000)<br />Iter 19: Bestscore = 8  cur score = 8<br />Run again (Time: 0.255000)<br />Run again (Time: 0.260000)<br />Run again (Time: 0.265000)<br />Iter 20: Bestscore = 8  cur score = 8<br />Run again (Time: 0.269000)<br />Run again (Time: 0.274000)<br />Run again (Time: 0.278000)<br />Iter 21: Bestscore = 8  cur score = 8<br />Run again (Time: 0.283000)<br />Run again (Time: 0.288000)<br />Run again (Time: 0.292000)<br />Iter 22: Bestscore = 8  cur score = 8<br />Run again (Time: 0.297000)<br />Run again (Time: 0.302000)<br />Run again (Time: 0.306000)<br />Iter 23: Bestscore = 8  cur score = 8<br />Run again (Time: 0.311000)<br />Run again (Time: 0.316000)<br />Run again (Time: 0.320000)<br />Iter 24: Bestscore = 8  cur score = 8<br />Run again (Time: 0.325000)<br />Run again (Time: 0.330000)<br />Run again (Time: 0.334000)<br />Iter 25: Bestscore = 8  cur score = 8<br />Run again (Time: 0.339000)<br />Run again (Time: 0.343000)<br />Run again (Time: 0.348000)<br />Iter 26: Bestscore = 8  cur score = 8<br />Run again (Time: 0.353000)<br />Run again (Time: 0.357000)<br />Run again (Time: 0.362000)<br />Iter 27: Bestscore = 8  cur score = 8<br />Run again (Time: 0.367000)<br />Run again (Time: 0.371000)<br />Run again (Time: 0.376000)<br />Iter 28: Bestscore = 8  cur score = 8<br />Run again (Time: 0.381000)<br />Run again (Time: 0.385000)<br />Run again (Time: 0.390000)<br />Iter 29: Bestscore = 8  cur score = 8<br />Run again (Time: 0.394000)<br />Run again (Time: 0.399000)<br />Run again (Time: 0.404000)<br />Iter 30: Bestscore = 8  cur score = 8<br />Run again (Time: 0.408000)<br />Run again (Time: 0.413000)<br />Run again (Time: 0.418000)<br />Iter 31: Bestscore = 8  cur score = 8<br />Run again (Time: 0.422000)<br />Run again (Time: 0.427000)<br />Iter 32: Bestscore = 8  cur score = 6<br />Run again (Time: 0.432000)<br />Run again (Time: 0.436000)<br />Run again (Time: 0.441000)<br />Iter 33: Bestscore = 8  cur score = 8<br />Run again (Time: 0.446000)<br />Run again (Time: 0.450000)<br />Run again (Time: 0.455000)<br />Iter 34: Bestscore = 8  cur score = 8<br />Run again (Time: 0.460000)<br />Run again (Time: 0.464000)<br />Run again (Time: 0.469000)<br />Iter 35: Bestscore = 8  cur score = 8<br />Run again (Time: 0.474000)<br />Run again (Time: 0.478000)<br />Run again (Time: 0.483000)<br />Iter 36: Bestscore = 8  cur score = 8<br />Run again (Time: 0.487000)<br />Run again (Time: 0.492000)<br />Iter 37: Bestscore = 8  cur score = 8<br />Run again (Time: 0.497000)<br />Run again (Time: 0.501000)<br />Run again (Time: 0.506000)<br />Iter 38: Bestscore = 8  cur score = 8<br />Run again (Time: 0.511000)<br />Run again (Time: 0.515000)<br />Run again (Time: 0.520000)<br />Iter 39: Bestscore = 8  cur score = 8<br />Run again (Time: 0.525000)<br />Run again (Time: 0.529000)<br />Run again (Time: 0.534000)<br />Iter 40: Bestscore = 8  cur score = 8<br />Run again (Time: 0.539000)<br />Run again (Time: 0.543000)<br />Iter 41: Bestscore = 8  cur score = 8<br />Run again (Time: 0.548000)<br />Run again (Time: 0.552000)<br />Run again (Time: 0.557000)<br />Iter 42: Bestscore = 8  cur score = 8<br />Run again (Time: 0.562000)<br />Run again (Time: 0.566000)<br />Run again (Time: 0.571000)<br />Iter 43: Bestscore = 8  cur score = 8<br />Run again (Time: 0.576000)<br />Run again (Time: 0.580000)<br />Run again (Time: 0.585000)<br />Iter 44: Bestscore = 8  cur score = 8<br />Run again (Time: 0.589000)<br />Run again (Time: 0.594000)<br />Iter 45: Bestscore = 8  cur score = 8<br />Run again (Time: 0.599000)<br />Run again (Time: 0.603000)<br />Iter 46: Bestscore = 8  cur score = 8<br />Run again (Time: 0.608000)<br />Run again (Time: 0.613000)<br />Run again (Time: 0.617000)<br />Iter 47: Bestscore = 8  cur score = 8<br />Run again (Time: 0.622000)<br />Run again (Time: 0.627000)<br />Iter 48: Bestscore = 8  cur score = 8<br />Run again (Time: 0.631000)<br />Run again (Time: 0.636000)<br />Run again (Time: 0.640000)<br />Iter 49: Bestscore = 8  cur score = 8<br />Run again (Time: 0.645000)<br />Run again (Time: 0.650000)<br />Iter 50: Bestscore = 8  cur score = 8<br />Run again (Time: 0.654000)<br />Run again (Time: 0.659000)<br />Run again (Time: 0.664000)<br />Iter 51: Bestscore = 8  cur score = 8<br />Run again (Time: 0.668000)<br />Run again (Time: 0.673000)<br />Run again (Time: 0.678000)<br />Iter 52: Bestscore = 8  cur score = 8<br />Run again (Time: 0.682000)<br />Run again (Time: 0.687000)<br />Run again (Time: 0.691000)<br />Iter 53: Bestscore = 8  cur score = 8<br />Run again (Time: 0.696000)<br />Run again (Time: 0.701000)<br />Run again (Time: 0.705000)<br />Iter 54: Bestscore = 8  cur score = 8<br />Run again (Time: 0.710000)<br />Run again (Time: 0.715000)<br />Iter 55: Bestscore = 8  cur score = 8<br />Run again (Time: 0.719000)<br />Run again (Time: 0.724000)<br />Run again (Time: 0.729000)<br />Iter 56: Bestscore = 8  cur score = 8<br />Run again (Time: 0.733000)<br />Run again (Time: 0.738000)<br />Run again (Time: 0.743000)<br />Iter 57: Bestscore = 8  cur score = 8<br />Run again (Time: 0.747000)<br />Run again (Time: 0.752000)<br />Iter 58: Bestscore = 8  cur score = 8<br />Run again (Time: 0.757000)<br />Run again (Time: 0.761000)<br />Run again (Time: 0.766000)<br />Iter 59: Bestscore = 8  cur score = 8<br />Run again (Time: 0.770000)<br />Run again (Time: 0.775000)<br />Run again (Time: 0.780000)<br />Iter 60: Bestscore = 8  cur score = 8<br />Run again (Time: 0.784000)<br />Run again (Time: 0.789000)<br />Iter 61: Bestscore = 8  cur score = 6<br />Run again (Time: 0.794000)<br />Run again (Time: 0.798000)<br />Iter 62: Bestscore = 8  cur score = 8<br />Run again (Time: 0.803000)<br />Run again (Time: 0.808000)<br />Iter 63: Bestscore = 8  cur score = 6<br />Run again (Time: 0.812000)<br />Run again (Time: 0.817000)<br />Run again (Time: 0.822000)<br />Iter 64: Bestscore = 8  cur score = 8<br />Run again (Time: 0.826000)<br />Run again (Time: 0.831000)<br />Iter 65: Bestscore = 8  cur score = 8<br />Run again (Time: 0.836000)<br />Run again (Time: 0.840000)<br />Run again (Time: 0.845000)<br />Iter 66: Bestscore = 8  cur score = 8<br />Run again (Time: 0.849000)<br />Run again (Time: 0.854000)<br />Iter 67: Bestscore = 8  cur score = 6<br />Run again (Time: 0.859000)<br />Run again (Time: 0.863000)<br />Iter 68: Bestscore = 8  cur score = 8<br />Run again (Time: 0.868000)<br />Run again (Time: 0.873000)<br />Iter 69: Bestscore = 8  cur score = 8<br />Run again (Time: 0.877000)<br />Run again (Time: 0.882000)<br />Run again (Time: 0.887000)<br />Iter 70: Bestscore = 8  cur score = 8<br />Run again (Time: 0.891000)<br />Run again (Time: 0.896000)<br />Run again (Time: 0.900000)<br />Iter 71: Bestscore = 8  cur score = 8<br />Run again (Time: 0.905000)<br />Run again (Time: 0.910000)<br />Run again (Time: 0.914000)<br />Iter 72: Bestscore = 8  cur score = 8<br />Run again (Time: 0.919000)<br />Run again (Time: 0.924000)<br />Run again (Time: 0.928000)<br />Iter 73: Bestscore = 8  cur score = 8<br />Run again (Time: 0.933000)<br />Run again (Time: 0.938000)<br />Run again (Time: 0.942000)<br />Iter 74: Bestscore = 8  cur score = 8<br />Run again (Time: 0.947000)<br />Run again (Time: 0.951000)<br />Run again (Time: 0.956000)<br />Iter 75: Bestscore = 8  cur score = 8<br />Run again (Time: 0.961000)<br />Run again (Time: 0.965000)<br />Run again (Time: 0.970000)<br />Iter 76: Bestscore = 8  cur score = 8<br />Run again (Time: 0.975000)<br />Run again (Time: 0.979000)<br />Run again (Time: 0.984000)<br />Iter 77: Bestscore = 8  cur score = 8<br />Run again (Time: 0.989000)<br />Run again (Time: 0.993000)<br />Run again (Time: 0.998000)<br />Iter 78: Bestscore = 8  cur score = 8<br />Run again (Time: 1.002000)<br />Run again (Time: 1.007000)<br />Run again (Time: 1.012000)<br />Iter 79: Bestscore = 8  cur score = 8<br />Run again (Time: 1.016000)<br />Run again (Time: 1.021000)<br />Run again (Time: 1.026000)<br />Iter 80: Bestscore = 8  cur score = 8<br />Run again (Time: 1.030000)<br />Run again (Time: 1.035000)<br />Iter 81: Bestscore = 8  cur score = 8<br />Run again (Time: 1.040000)<br />Run again (Time: 1.044000)<br />Run again (Time: 1.049000)<br />Iter 82: Bestscore = 8  cur score = 8<br />Run again (Time: 1.053000)<br />Run again (Time: 1.058000)<br />Run again (Time: 1.063000)<br />Iter 83: Bestscore = 8  cur score = 8<br />Run again (Time: 1.067000)<br />Run again (Time: 1.072000)<br />Run again (Time: 1.077000)<br />Iter 84: Bestscore = 8  cur score = 8<br />Run again (Time: 1.081000)<br />Run again (Time: 1.086000)<br />Run again (Time: 1.090000)<br />Iter 85: Bestscore = 8  cur score = 8<br />Run again (Time: 1.095000)<br />Run again (Time: 1.100000)<br />Run again (Time: 1.104000)<br />Iter 86: Bestscore = 8  cur score = 8<br />Run again (Time: 1.109000)<br />Run again (Time: 1.114000)<br />Iter 87: Bestscore = 8  cur score = 8<br />Run again (Time: 1.118000)<br />Run again (Time: 1.123000)<br />Run again (Time: 1.128000)<br />Iter 88: Bestscore = 8  cur score = 8<br />Run again (Time: 1.132000)<br />Run again (Time: 1.137000)<br />Iter 89: Bestscore = 8  cur score = 8<br />Run again (Time: 1.142000)<br />Run again (Time: 1.146000)<br />Iter 90: Bestscore = 8  cur score = 8<br />Run again (Time: 1.151000)<br />Run again (Time: 1.156000)<br />Run again (Time: 1.160000)<br />Iter 91: Bestscore = 8  cur score = 8<br />Run again (Time: 1.165000)<br />Run again (Time: 1.169000)<br />Iter 92: Bestscore = 8  cur score = 8<br />Run again (Time: 1.174000)<br />Run again (Time: 1.179000)<br />Iter 93: Bestscore = 8  cur score = 8<br />Run again (Time: 1.183000)<br />Run again (Time: 1.188000)<br />Run again (Time: 1.193000)<br />Iter 94: Bestscore = 8  cur score = 8<br />Run again (Time: 1.197000)<br />Run again (Time: 1.202000)<br />Run again (Time: 1.207000)<br />Iter 95: Bestscore = 8  cur score = 8<br />Run again (Time: 1.211000)<br />Run again (Time: 1.216000)<br />Iter 96: Bestscore = 8  cur score = 8<br />Run again (Time: 1.221000)<br />Run again (Time: 1.225000)<br />Run again (Time: 1.230000)<br />Iter 97: Bestscore = 8  cur score = 8<br />Run again (Time: 1.235000)<br />Run again (Time: 1.239000)<br />Iter 98: Bestscore = 8  cur score = 8<br />Run again (Time: 1.244000)<br />Run again (Time: 1.248000)<br />Run again (Time: 1.253000)<br />Iter 99: Bestscore = 8  cur score = 8<br />Run again (Time: 1.258000)<br />Run again (Time: 1.262000)<br />Run again (Time: 1.267000)<br />Iter 100: Bestscore = 8  cur score = 8<br />Run again (Time: 1.272000)<br />Run again (Time: 1.276000)<br />Iter 101: Bestscore = 8  cur score = 8<br />Run again (Time: 1.281000)<br />Run again (Time: 1.285000)<br />Run again (Time: 1.290000)<br />Iter 102: Bestscore = 8  cur score = 8<br />Run again (Time: 1.295000)<br />Run again (Time: 1.299000)<br />Run again (Time: 1.304000)<br />Iter 103: Bestscore = 8  cur score = 8<br />Run again (Time: 1.309000)<br />Run again (Time: 1.313000)<br />Run again (Time: 1.318000)<br />Iter 104: Bestscore = 8  cur score = 8<br />Run again (Time: 1.323000)<br />Run again (Time: 1.327000)<br />Run again (Time: 1.332000)<br />Iter 105: Bestscore = 8  cur score = 8<br />Run again (Time: 1.336000)<br />Run again (Time: 1.341000)<br />Iter 106: Bestscore = 8  cur score = 6<br />Run again (Time: 1.346000)<br />Run again (Time: 1.350000)<br />Iter 107: Bestscore = 8  cur score = 8<br />Run again (Time: 1.355000)<br />Run again (Time: 1.360000)<br />Run again (Time: 1.364000)<br />Iter 108: Bestscore = 8  cur score = 8<br />Run again (Time: 1.369000)<br />Run again (Time: 1.374000)<br />Run again (Time: 1.378000)<br />Iter 109: Bestscore = 8  cur score = 8<br />Run again (Time: 1.383000)<br />Run again (Time: 1.388000)<br />Iter 110: Bestscore = 8  cur score = 8<br />Run again (Time: 1.392000)<br />Run again (Time: 1.397000)<br />Iter 111: Bestscore = 8  cur score = 6<br />Run again (Time: 1.402000)<br />Run again (Time: 1.406000)<br />Iter 112: Bestscore = 8  cur score = 8<br />Run again (Time: 1.411000)<br />Run again (Time: 1.415000)<br />Run again (Time: 1.420000)<br />Iter 113: Bestscore = 8  cur score = 8<br />Run again (Time: 1.425000)<br />Run again (Time: 1.429000)<br />Iter 114: Bestscore = 8  cur score = 8<br />Run again (Time: 1.434000)<br />Run again (Time: 1.439000)<br />Iter 115: Bestscore = 8  cur score = 8<br />Run again (Time: 1.443000)<br />Run again (Time: 1.448000)<br />Iter 116: Bestscore = 8  cur score = 6<br />Run again (Time: 1.453000)<br />Run again (Time: 1.457000)<br />Run again (Time: 1.462000)<br />Iter 117: Bestscore = 8  cur score = 8<br />Run again (Time: 1.467000)<br />Run again (Time: 1.471000)<br />Run again (Time: 1.476000)<br />Iter 118: Bestscore = 8  cur score = 8<br />Run again (Time: 1.481000)<br />Run again (Time: 1.485000)<br />Iter 119: Bestscore = 8  cur score = 8<br />Run again (Time: 1.490000)<br />Run again (Time: 1.494000)<br />Run again (Time: 1.499000)<br />Iter 120: Bestscore = 8  cur score = 8<br />Run again (Time: 1.504000)<br />Run again (Time: 1.508000)<br />Run again (Time: 1.513000)<br />Iter 121: Bestscore = 8  cur score = 8<br />Run again (Time: 1.518000)<br />Run again (Time: 1.522000)<br />Run again (Time: 1.527000)<br />Iter 122: Bestscore = 8  cur score = 8<br />Run again (Time: 1.532000)<br />Run again (Time: 1.536000)<br />Run again (Time: 1.541000)<br />Iter 123: Bestscore = 8  cur score = 8<br />Run again (Time: 1.545000)<br />Run again (Time: 1.550000)<br />Iter 124: Bestscore = 8  cur score = 8<br />Run again (Time: 1.555000)<br />Run again (Time: 1.559000)<br />Iter 125: Bestscore = 8  cur score = 6<br />Run again (Time: 1.564000)<br />Run again (Time: 1.569000)<br />Run again (Time: 1.573000)<br />Iter 126: Bestscore = 8  cur score = 8<br />Run again (Time: 1.578000)<br />Run again (Time: 1.583000)<br />Run again (Time: 1.587000)<br />Iter 127: Bestscore = 8  cur score = 8<br />Run again (Time: 1.592000)<br />Run again (Time: 1.597000)<br />Iter 128: Bestscore = 8  cur score = 8<br />Run again (Time: 1.601000)<br />Run again (Time: 1.606000)<br />Iter 129: Bestscore = 8  cur score = 8<br />Run again (Time: 1.610000)<br />Run again (Time: 1.615000)<br />Run again (Time: 1.620000)<br />Iter 130: Bestscore = 8  cur score = 8<br />Run again (Time: 1.624000)<br />Run again (Time: 1.629000)<br />Run again (Time: 1.634000)<br />Iter 131: Bestscore = 8  cur score = 8<br />Run again (Time: 1.638000)<br />Run again (Time: 1.643000)<br />Run again (Time: 1.648000)<br />Iter 132: Bestscore = 8  cur score = 8<br />Run again (Time: 1.652000)<br />Run again (Time: 1.657000)<br />Run again (Time: 1.661000)<br />Iter 133: Bestscore = 8  cur score = 8<br />Run again (Time: 1.666000)<br />Run again (Time: 1.671000)<br />Run again (Time: 1.675000)<br />Iter 134: Bestscore = 8  cur score = 8<br />Run again (Time: 1.680000)<br />Run again (Time: 1.685000)<br />Run again (Time: 1.689000)<br />Iter 135: Bestscore = 8  cur score = 8<br />Run again (Time: 1.694000)<br />Run again (Time: 1.699000)<br />Run again (Time: 1.703000)<br />Iter 136: Bestscore = 8  cur score = 8<br />Run again (Time: 1.708000)<br />Run again (Time: 1.712000)<br />Iter 137: Bestscore = 8  cur score = 8<br />Run again (Time: 1.717000)<br />Run again (Time: 1.722000)<br />Iter 138: Bestscore = 8  cur score = 8<br />Run again (Time: 1.726000)<br />Run again (Time: 1.731000)<br />Iter 139: Bestscore = 8  cur score = 8<br />Run again (Time: 1.736000)<br />Run again (Time: 1.740000)<br />Run again (Time: 1.745000)<br />Iter 140: Bestscore = 8  cur score = 8<br />Run again (Time: 1.750000)<br />Run again (Time: 1.754000)<br />Iter 141: Bestscore = 8  cur score = 8<br />Run again (Time: 1.759000)<br />Run again (Time: 1.764000)<br />Run again (Time: 1.768000)<br />Iter 142: Bestscore = 8  cur score = 8<br />Run again (Time: 1.773000)<br />Run again (Time: 1.777000)<br />Run again (Time: 1.782000)<br />Iter 143: Bestscore = 8  cur score = 8<br />Run again (Time: 1.787000)<br />Run again (Time: 1.791000)<br />Run again (Time: 1.796000)<br />Iter 144: Bestscore = 8  cur score = 8<br />Run again (Time: 1.801000)<br />Run again (Time: 1.805000)<br />Iter 145: Bestscore = 8  cur score = 8<br />Run again (Time: 1.810000)<br />Run again (Time: 1.814000)<br />Run again (Time: 1.819000)<br />Iter 146: Bestscore = 8  cur score = 8<br />Run again (Time: 1.824000)<br />Run again (Time: 1.828000)<br />Iter 147: Bestscore = 8  cur score = 8<br />Run again (Time: 1.833000)<br />Run again (Time: 1.838000)<br />Run again (Time: 1.842000)<br />Iter 148: Bestscore = 8  cur score = 8<br />Run again (Time: 1.847000)<br />Run again (Time: 1.852000)<br />Run again (Time: 1.856000)<br />Iter 149: Bestscore = 8  cur score = 8<br />Run again (Time: 1.861000)<br />Run again (Time: 1.865000)<br />Run again (Time: 1.870000)<br />Iter 150: Bestscore = 8  cur score = 8<br />Run again (Time: 1.875000)<br />Run again (Time: 1.879000)<br />Iter 151: Bestscore = 8  cur score = 8<br />Run again (Time: 1.884000)<br />Run again (Time: 1.889000)<br />Iter 152: Bestscore = 8  cur score = 8<br />Run again (Time: 1.893000)<br />Run again (Time: 1.898000)<br />Run again (Time: 1.902000)<br />Iter 153: Bestscore = 8  cur score = 8<br />Run again (Time: 1.907000)<br />Run again (Time: 1.912000)<br />Run again (Time: 1.916000)<br />Iter 154: Bestscore = 8  cur score = 8<br />Run again (Time: 1.921000)<br />Run again (Time: 1.926000)<br />Run again (Time: 1.930000)<br />Iter 155: Bestscore = 8  cur score = 8<br />Run again (Time: 1.935000)<br />Run again (Time: 1.940000)<br />Run again (Time: 1.944000)<br />Iter 156: Bestscore = 8  cur score = 8<br />Run again (Time: 1.949000)<br />Run again (Time: 1.954000)<br />Iter 157: Bestscore = 8  cur score = 8<br />Run again (Time: 1.958000)<br />Run again (Time: 1.963000)<br />Run again (Time: 1.967000)<br />Iter 158: Bestscore = 8  cur score = 8<br />Run again (Time: 1.972000)<br />Run again (Time: 1.977000)<br />Run again (Time: 1.981000)<br />Iter 159: Bestscore = 8  cur score = 8<br />Run again (Time: 1.986000)<br />Run again (Time: 1.991000)<br />Run again (Time: 1.995000)<br />Iter 160: Bestscore = 8  cur score = 8<br />Run again (Time: 2.000000)<br />Run again (Time: 2.005000)<br />Iter 161: Bestscore = 8  cur score = 6<br />Run again (Time: 2.009000)<br />Run again (Time: 2.014000)<br />Run again (Time: 2.018000)<br />Iter 162: Bestscore = 8  cur score = 8<br />Run again (Time: 2.023000)<br />Run again (Time: 2.028000)<br />Iter 163: Bestscore = 8  cur score = 8<br />Run again (Time: 2.033000)<br />Run again (Time: 2.037000)<br />Iter 164: Bestscore = 8  cur score = 8<br />Run again (Time: 2.042000)<br />Run again (Time: 2.047000)<br />Run again (Time: 2.051000)<br />Iter 165: Bestscore = 8  cur score = 8<br />Run again (Time: 2.056000)<br />Run again (Time: 2.060000)<br />Iter 166: Bestscore = 8  cur score = 8<br />Run again (Time: 2.065000)<br />Run again (Time: 2.070000)<br />Iter 167: Bestscore = 8  cur score = 8<br />Run again (Time: 2.074000)<br />Run again (Time: 2.079000)<br />Run again (Time: 2.084000)<br />Iter 168: Bestscore = 8  cur score = 8<br />Run again (Time: 2.088000)<br />Run again (Time: 2.093000)<br />Iter 169: Bestscore = 8  cur score = 8<br />Run again (Time: 2.098000)<br />Run again (Time: 2.102000)<br />Run again (Time: 2.107000)<br />Iter 170: Bestscore = 8  cur score = 8<br />Run again (Time: 2.112000)<br />Run again (Time: 2.116000)<br />Run again (Time: 2.121000)<br />Iter 171: Bestscore = 8  cur score = 8<br />Run again (Time: 2.125000)<br />Run again (Time: 2.130000)<br />Run again (Time: 2.135000)<br />Iter 172: Bestscore = 8  cur score = 8<br />Run again (Time: 2.139000)<br />Run again (Time: 2.144000)<br />Run again (Time: 2.149000)<br />Iter 173: Bestscore = 8  cur score = 8<br />Run again (Time: 2.153000)<br />Run again (Time: 2.158000)<br />Run again (Time: 2.162000)<br />Iter 174: Bestscore = 8  cur score = 8<br />Run again (Time: 2.167000)<br />Run again (Time: 2.172000)<br />Run again (Time: 2.176000)<br />Iter 175: Bestscore = 8  cur score = 8<br />Run again (Time: 2.181000)<br />Run again (Time: 2.186000)<br />Run again (Time: 2.190000)<br />Iter 176: Bestscore = 8  cur score = 8<br />Run again (Time: 2.195000)<br />Run again (Time: 2.200000)<br />Run again (Time: 2.204000)<br />Iter 177: Bestscore = 8  cur score = 8<br />Run again (Time: 2.209000)<br />Run again (Time: 2.214000)<br />Iter 178: Bestscore = 8  cur score = 8<br />Run again (Time: 2.218000)<br />Run again (Time: 2.223000)<br />Run again (Time: 2.227000)<br />Iter 179: Bestscore = 8  cur score = 8<br />Run again (Time: 2.232000)<br />Run again (Time: 2.237000)<br />Iter 180: Bestscore = 8  cur score = 8<br />Run again </pre>
+                </p>
+                <hr />
+                
+            
+                <h2>1) Score: 0.8863636363636364
+                    
+                    Run Time: 9535 ms
+                    
+                    
+                    Peak Memory Used: 77.266MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 2
+W = 20, H = 20
+Balls in maze = 44
+Start maze:
+.#.#.0#.#0..#...1##.
+.1#.#.10.........##.
+........1#.....#....
+0.......1#..........
+#.......##.....#0...
+#..1...0....0..1#1..
+.1.#...#1.........#0
+.1....1......1....00
+..#...#......#...0.0
+0......#.1#..1...#..
+1#.......#..........
+....#.#...#.0.....#.
+.#..#....#..#.....#.
+....#..##1#.#...#..1
+.........0##....#...
+..........0...#...#.
+.........#.........#
+....#......#.......#
+0...#1...#..1.......
+#.0#......11#0.#10.0
+Target maze:
+.#.#..#.#...#1...##.
+1.#.#...0.0..1...##.
+......10.#.....#....
+.11......#..1.0.....
+#00...1.##.....#....
+#......1........#..0
+..1#..0#.1..0.....#.
+..0.....0...........
+..#..1#..1.00#......
+..1....#..#......#..
+.#...0...#..........
+....#.#...#....0..#.
+1#..#....#..#.....#0
+1...#..##.#0#...#...
+..........##1...#...
+.........1....#...#1
+..0....01#...1.....#
+....#...1..#.......#
+..00#....#........1.
+#..#........#..#....
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 35<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>Run again (Time: 0.000000)<br />Run again (Time: 0.058000)<br />Run again (Time: 0.105000)<br />Run again (Time: 0.160000)<br />Iter 0: Bestscore = 0  cur score = 66<br />Run again (Time: 0.205000)<br />Run again (Time: 0.263000)<br />Run again (Time: 0.317000)<br />Iter 1: Bestscore = 66  cur score = 74<br />Run again (Time: 0.360000)<br />Run again (Time: 0.418000)<br />Run again (Time: 0.475000)<br />Run again (Time: 0.521000)<br />Iter 2: Bestscore = 74  cur score = 74<br />Run again (Time: 0.566000)<br />Run again (Time: 0.623000)<br />Run again (Time: 0.669000)<br />Iter 3: Bestscore = 74  cur score = 66<br />Run again (Time: 0.713000)<br />Run again (Time: 0.770000)<br />Run again (Time: 0.824000)<br />Iter 4: Bestscore = 74  cur score = 70<br />Run again (Time: 0.877000)<br />Run again (Time: 0.934000)<br />Run again (Time: 0.989000)<br />Iter 5: Bestscore = 74  cur score = 72<br />Run again (Time: 1.033000)<br />Run again (Time: 1.089000)<br />Run again (Time: 1.144000)<br />Run again (Time: 1.197000)<br />Run again (Time: 1.241000)<br />Iter 6: Bestscore = 74  cur score = 76<br />Run again (Time: 1.284000)<br />Run again (Time: 1.340000)<br />Run again (Time: 1.395000)<br />Iter 7: Bestscore = 76  cur score = 66<br />Run again (Time: 1.441000)<br />Run again (Time: 1.498000)<br />Run again (Time: 1.553000)<br />Iter 8: Bestscore = 76  cur score = 70<br />Run again (Time: 1.597000)<br />Run again (Time: 1.655000)<br />Run again (Time: 1.710000)<br />Run again (Time: 1.755000)<br />Iter 9: Bestscore = 76  cur score = 78<br />Run again (Time: 1.799000)<br />Run again (Time: 1.855000)<br />Run again (Time: 1.910000)<br />Run again (Time: 1.963000)<br />Iter 10: Bestscore = 78  cur score = 72<br />Run again (Time: 2.016000)<br />Run again (Time: 2.073000)<br />Run again (Time: 2.128000)<br />Run again (Time: 2.173000)<br />Iter 11: Bestscore = 78  cur score = 68<br />Run again (Time: 2.218000)<br />Run again (Time: 2.275000)<br />Run again (Time: 2.329000)<br />Run again (Time: 2.382000)<br />Iter 12: Bestscore = 78  cur score = 66<br />Run again (Time: 2.436000)<br />Run again (Time: 2.492000)<br />Run again (Time: 2.547000)<br />Run again (Time: 2.600000)<br />Iter 13: Bestscore = 78  cur score = 72<br />Run again (Time: 2.653000)<br />Run again (Time: 2.710000)<br />Run again (Time: 2.765000)<br />Run again (Time: 2.810000)<br />Iter 14: Bestscore = 78  cur score = 68<br />Run again (Time: 2.854000)<br />Run again (Time: 2.911000)<br />Run again (Time: 2.965000)<br />Iter 15: Bestscore = 78  cur score = 68<br />Run again (Time: 3.010000)<br />Run again (Time: 3.067000)<br />Run again (Time: 3.122000)<br />Run again (Time: 3.167000)<br />Run again (Time: 3.212000)<br />Iter 16: Bestscore = 78  cur score = 68<br />Run again (Time: 3.265000)<br />Run again (Time: 3.322000)<br />Run again (Time: 3.376000)<br />Run again (Time: 3.429000)<br />Iter 17: Bestscore = 78  cur score = 78<br />Run again (Time: 3.473000)<br />Run again (Time: 3.530000)<br />Run again (Time: 3.585000)<br />Iter 18: Bestscore = 78  cur score = 66<br />Run again (Time: 3.631000)<br />Run again (Time: 3.688000)<br />Run again (Time: 3.743000)<br />Run again (Time: 3.797000)<br />Iter 19: Bestscore = 78  cur score = 72<br />Run again (Time: 3.840000)<br />Run again (Time: 3.897000)<br />Run again (Time: 3.943000)<br />Run again (Time: 3.997000)<br />Iter 20: Bestscore = 78  cur score = 70<br />Run again (Time: 4.042000)<br />Run again (Time: 4.099000)<br />Run again (Time: 4.153000)<br />Run again (Time: 4.198000)<br />Iter 21: Bestscore = 78  cur score = 68<br />Run again (Time: 4.242000)<br />Run again (Time: 4.300000)<br />Run again (Time: 4.355000)<br />Run again (Time: 4.409000)<br />Iter 22: Bestscore = 78  cur score = 76<br />Run again (Time: 4.462000)<br />Run again (Time: 4.519000)<br />Run again (Time: 4.574000)<br />Run again (Time: 4.627000)<br />Iter 23: Bestscore = 78  cur score = 72<br />Run again (Time: 4.680000)<br />Run again (Time: 4.736000)<br />Run again (Time: 4.792000)<br />Run again (Time: 4.847000)<br />Iter 24: Bestscore = 78  cur score = 74<br />Run again (Time: 4.891000)<br />Run again (Time: 4.948000)<br />Run again (Time: 5.003000)<br />Run again (Time: 5.056000)<br />Iter 25: Bestscore = 78  cur score = 72<br />Run again (Time: 5.110000)<br />Run again (Time: 5.166000)<br />Run again (Time: 5.222000)<br />Iter 26: Bestscore = 78  cur score = 66<br />Run again (Time: 5.276000)<br />Run again (Time: 5.332000)<br />Run again (Time: 5.387000)<br />Run again (Time: 5.431000)<br />Iter 27: Bestscore = 78  cur score = 72<br />Run again (Time: 5.475000)<br />Run again (Time: 5.532000)<br />Run again (Time: 5.578000)<br />Run again (Time: 5.622000)<br />Iter 28: Bestscore = 78  cur score = 72<br />Run again (Time: 5.667000)<br />Run again (Time: 5.723000)<br />Run again (Time: 5.779000)<br />Run again (Time: 5.832000)<br />Iter 29: Bestscore = 78  cur score = 66<br />Run again (Time: 5.886000)<br />Run again (Time: 5.943000)<br />Run again (Time: 5.999000)<br />Run again (Time: 6.044000)<br />Iter 30: Bestscore = 78  cur score = 68<br />Run again (Time: 6.088000)<br />Run again (Time: 6.144000)<br />Run again (Time: 6.200000)<br />Run again (Time: 6.244000)<br />Iter 31: Bestscore = 78  cur score = 72<br />Run again (Time: 6.289000)<br />Run again (Time: 6.346000)<br />Run again (Time: 6.401000)<br />Run again (Time: 6.446000)<br />Iter 32: Bestscore = 78  cur score = 70<br />Run again (Time: 6.490000)<br />Run again (Time: 6.547000)<br />Run again (Time: 6.593000)<br />Iter 33: Bestscore = 78  cur score = 62<br />Run again (Time: 6.639000)<br />Run again (Time: 6.696000)<br />Run again (Time: 6.750000)<br />Run again (Time: 6.795000)<br />Iter 34: Bestscore = 78  cur score = 72<br />Run again (Time: 6.840000)<br />Run again (Time: 6.898000)<br />Run again (Time: 6.954000)<br />Run again (Time: 6.999000)<br />Iter 35: Bestscore = 78  cur score = 70<br />Run again (Time: 7.043000)<br />Run again (Time: 7.100000)<br />Run again (Time: 7.156000)<br />Run again (Time: 7.210000)<br />Run again (Time: 7.255000)<br />Iter 36: Bestscore = 78  cur score = 72<br />Run again (Time: 7.299000)<br />Run again (Time: 7.357000)<br />Run again (Time: 7.411000)<br />Iter 37: Bestscore = 78  cur score = 72<br />Run again (Time: 7.455000)<br />Run again (Time: 7.513000)<br />Run again (Time: 7.569000)<br />Run again (Time: 7.613000)<br />Iter 38: Bestscore = 78  cur score = 70<br />Run again (Time: 7.657000)<br />Run again (Time: 7.714000)<br />Run again (Time: 7.769000)<br />Iter 39: Bestscore = 78  cur score = 78<br />Run again (Time: 7.813000)<br />Run again (Time: 7.869000)<br />Run again (Time: 7.923000)<br />Iter 40: Bestscore = 78  cur score = 72<br />Run again (Time: 7.976000)<br />Run again (Time: 8.033000)<br />Run again (Time: 8.088000)<br />Run again (Time: 8.133000)<br />Iter 41: Bestscore = 78  cur score = 66<br />Run again (Time: 8.177000)<br />Run again (Time: 8.235000)<br />Run again (Time: 8.291000)<br />Run again (Time: 8.336000)<br />Iter 42: Bestscore = 78  cur score = 76<br />Run again (Time: 8.380000)<br />Run again (Time: 8.438000)<br />Run again (Time: 8.493000)<br />Run again (Time: 8.538000)<br />Iter 43: Bestscore = 78  cur score = 68<br />Run again (Time: 8.591000)<br />Run again (Time: 8.647000)<br />Run again (Time: 8.694000)<br />Iter 44: Bestscore = 78  cur score = 68<br />Run again (Time: 8.738000)<br />Run again (Time: 8.795000)<br />Run again (Time: 8.849000)<br />Iter 45: Bestscore = 78  cur score = 72<br />Run again (Time: 8.893000)<br />Run again (Time: 8.951000)<br />Run again (Time: 9.007000)<br />Run again (Time: 9.051000)<br />Iter 46: Bestscore = 78  cur score = 68<br />Run again (Time: 9.096000)<br />Run again (Time: 9.152000)<br />Run again (Time: 9.207000)<br />Run again (Time: 9.252000)<br />Iter 47: Bestscore = 78  cur score = 66<br />Run again (Time: 9.297000)<br />Run again (Time: 9.356000)<br />Run again (Time: 9.411000)<br />Run again (Time: 9.456000)<br />Iter 48: Bestscore = 78  cur score = 72<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>2) Score: 0.8454545454545455
+                    
+                    Run Time: 9540 ms
+                    
+                    
+                    Peak Memory Used: 77.266MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 3
+W = 30, H = 30
+Balls in maze = 110
+Start maze:
+0001..1.#...#........0.112....
+.....2.0....#.##.1##.2#.#.....
+........#2#2.2#..0#01........0
+.........01.22....#........0#.
+..#.#...0.2...#..#...........#
+....1#.......#...#.....2.....0
+..#.#2.#0..............1.....2
+..#2.1...#..##...#....##.....0
+..111................002##....
+.#.....#2..............1.....1
+........#..........#.#010#..#1
+...#22...0#.....#.##1.#.#...#.
+#...#.....2.....1.02..........
+1#2.1.........1.....#.....#...
+..............#...#1#....##21.
+........#2.......#........2#..
+....0#1.2.....0#..............
+1.....20................#....2
+.1#...0..#....#...2..........1
+1.............................
+2.#...................#......1
+.......#.......#...#..#..#1...
+.....#............##...#..0..1
+.#...02.........#...........#.
+......#..#......1.0#..#....#..
+#.....#...........20.2........
+0..1##...#.#0..#....##.....#..
+...#.2......##...2.......#....
+2...01..#.....#..0.#..#.....0#
+20..2#2......##1....##.0#..0.1
+Target maze:
+2..0.1..#2..#2.......2........
+............#.##1.##..#0#2....
+........#.#0..#01.#.........2.
+....0.0........2..#......10.#.
+0.#.#.....00..#..#...........#
+..2..#.12....#...#0.11....00..
+.1#.#..#.............0...1..1.
+..#......#..##...#..2.##......
+.1........0.11......0.21##1...
+.#..2..#............2.0.......
+.1.2....#..........#.#...#..#.
+...#..0..2#2..0.#.##..#.#...#2
+#..1#.2..............011...21.
+.#..................#.....#...
+...11.2.......#...#.#...1##..1
+........#........#.2.1...1.#..
+.....#....2....#...........20.
+......12......1.110.....#.....
+..#..2..0#2..2#.2...2.........
+......0...........1.0.........
+..#.2.......0.........#.......
+.......#0......#...#..#..#....
+.1...#............##.0.#.....0
+.#.......1......#.......1...#.
+.....2#..#......2..#..#....#..
+#.1...#.......................
+.00.##2..#.#...#2...##...0.#..
+..0#.....1..##...........#....
+...2..2.#.....#.0.0#..#......#
+2....#.......##.1...##..#.0...
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 38<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>Run again (Time: 0.000000)<br />Run again (Time: 0.305000)<br />Run again (Time: 0.547000)<br />Run again (Time: 0.775000)<br />Run again (Time: 0.993000)<br />Run again (Time: 1.203000)<br />Iter 0: Bestscore = 0  cur score = 186<br />Run again (Time: 1.408000)<br />Run again (Time: 1.712000)<br />Run again (Time: 1.930000)<br />Run again (Time: 2.116000)<br />Iter 1: Bestscore = 186  cur score = 175<br />Run again (Time: 2.303000)<br />Run again (Time: 2.602000)<br />Run again (Time: 2.808000)<br />Run again (Time: 3.007000)<br />Run again (Time: 3.201000)<br />Iter 2: Bestscore = 186  cur score = 156<br />Run again (Time: 3.396000)<br />Run again (Time: 3.711000)<br />Run again (Time: 3.965000)<br />Run again (Time: 4.202000)<br />Run again (Time: 4.425000)<br />Iter 3: Bestscore = 186  cur score = 167<br />Run again (Time: 4.643000)<br />Run again (Time: 4.945000)<br />Run again (Time: 5.197000)<br />Run again (Time: 5.417000)<br />Run again (Time: 5.630000)<br />Iter 4: Bestscore = 186  cur score = 164<br />Run again (Time: 5.841000)<br />Run again (Time: 6.158000)<br />Run again (Time: 6.409000)<br />Run again (Time: 6.601000)<br />Run again (Time: 6.782000)<br />Iter 5: Bestscore = 186  cur score = 177<br />Run again (Time: 6.961000)<br />Run again (Time: 7.264000)<br />Run again (Time: 7.458000)<br />Run again (Time: 7.637000)<br />Run again (Time: 7.812000)<br />Iter 6: Bestscore = 186  cur score = 185<br />Run again (Time: 7.985000)<br />Run again (Time: 8.285000)<br />Run again (Time: 8.531000)<br />Run again (Time: 8.754000)<br />Run again (Time: 8.974000)<br />Iter 7: Bestscore = 186  cur score = 173<br />Run again (Time: 9.193000)<br />Run again (Time: 9.485000)<br />Iter 8: Bestscore = 186  cur score = 127<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>3) Score: 0.7542372881355932
+                    
+                    Run Time: 9537 ms
+                    
+                    
+                    Peak Memory Used: 77.395MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 4
+W = 46, H = 34
+Balls in maze = 177
+Start maze:
+#............0....#...##..43...2...9..01#.4..9
+..#..#............#.#...##..........#...#.....
+..#.#...#......#......................50..7#.#
+.....#................#.##24##........#.7...#.
+...##....#...............3.#...........7..84..
+...#.##..7.13.#7...#4......#3.....9#7..#.5#..#
+......7##..#54....#.5#5......##...17.....9.##.
+1...#......1#...6#3.........#.#...#.#.........
+#...#...##....2933.........50.4#.............#
+.5.....##.#.....#..#......#3..014.............
+0.........3....#19....#....#.#.#.....52.....5.
+.#...#..##1....#..#1##8.#7..2.67.....#......#.
+9.............8#...4##3.....#6..........#..#.0
+#......###.....1#.....29.....#7.4............8
+.....#.....#.9#7........#....3..#.#8......2...
+........#....6##.....#...#2................3..
+..5.#0.70......2#...#..0#.2#.............#.#..
+.#..##5###...#961..65..54..1..........#..###..
+5..#45#7.......#.#.#0.......#................9
+6##.6##.4....#7#.........#07.................0
+...#.#.6##..###..#......5......8#4....#.....#4
+..16.........0.9.####.....................#...
+.....#......#6.#..6....#....#..#.#.#..#..9...6
+3.#.#..#......837....789.#........#9...4.#.0..
+#5.......#...#..#..#..#1.##00........#.3.21#.#
+.##......#18.....9#1.......##....##.......1.6#
+..#....#.....#.............#2.........4#...#.7
+..4#.......#.88#..#......#...........#.....#..
+..........132.#....4#.#..#2....#......#...6...
+.#........#...#......#.......#.........3#..#.2
+#...#...............................#.....#.1.
+67#................................8..#.......
+.........#...1#..........#6.........#...#.....
+.#.......#....#.5..........9.#.##.42..1....9#.
+Target maze:
+#..7....8.......0.#4..##....42.3........#.....
+.6#..#..1...7.....#.#.7.##...9..6..3#4..#..5.9
+..#.#...#14....#.2...8...............2.7...#.#
+..5..#..........9.....#.##..##....9.9.#.....#4
+...##....#.................#.1......7.1..7....
+.3.#.##.......#..7.#..8....#5....7.#...#..#..#
+7......##..#....3.#..#.......##...........5##.
+..9.#.......#....#..........#.#...#.#0.7....0.
+#...#...##35.....0..........4..#.0...........#
+.......##.#.....#..#......#.5......2.627......
+...........5...#......#.7.2#.#.#............2.
+1#...#..##.0...#..#.##..#............#.0....#.
+...0.0........2#41.3##89..3.#....5......#..#.9
+#9...45###......#7...........#.......963..8...
+...0.#.....#..#.........#.......#.#.....1...4.
+........#.....##53.4.#9..#1.........8.........
+...5#...........#...#...#..#...........9.#.#..
+.#..##.###353#....4.6....8......1.2...#..###..
+7.5#..#.1......#.#.#.....3..#.5.......4.......
+1##..##..1...#.#..9......#..3...637.......2...
+...#.#..##.7###..#...0..........#.....#..4..#.
+.................####..9.7....2......6....#0..
+06.5.#......#.9#.......#....#9.#.#.#..#.5.....
+..#.#..#..........7......#0......0#...3..#....
+#.6.4...6#...#..#..#..#.1##....0...9.#.....#4#
+.##....2.#.......3#........##8.6.##0.7...2...#
+..#.91.#.....#........8...4#.........1.#...#..
+84.#.....8.#...#..#......#.8.........#3....#.1
+........6..1..#.....#.#..#.....#......#.......
+.#........#...#......#.5.....#...4......#..#..
+#...#.7....11.......................#....2#...
+..#......66..1...........6............#.......
+.........#....#..........#..........#..2#.....
+.#.......#...2#1.1..4...5....#.##4.......6..#6
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 35<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>Run again (Time: 0.000000)<br />Run again (Time: 0.771000)<br />Run again (Time: 1.519000)<br />Run again (Time: 2.250000)<br />Run again (Time: 2.923000)<br />Iter 0: Bestscore = 0  cur score = 266<br />Run again (Time: 3.558000)<br />Run again (Time: 4.333000)<br />Run again (Time: 5.041000)<br />Run again (Time: 5.724000)<br />Run again (Time: 6.394000)<br />Iter 1: Bestscore = 266  cur score = 260<br />Run again (Time: 7.063000)<br />Run again (Time: 7.757000)<br />Run again (Time: 8.449000)<br />Run again (Time: 9.085000)<br />Iter 2: Bestscore = 266  cur score = 267<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>4) Score: 0.8036437246963563
+                    
+                    Run Time: 9537 ms
+                    
+                    
+                    Peak Memory Used: 77.395MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 5
+W = 43, H = 45
+Balls in maze = 247
+Start maze:
+...#.1..0#.#0....110...#1..0#.#.#1..1...#.#
+........11..........#.#...1.0#...#.#.#.....
+.....0#1#01#.#.#.##...#.1#..1............0#
+.#.......1#.......0101.#...0#1...........##
+0......#.#0#.#0........#........#.#...0.#.1
+1#....0....#.#.#.##...0.........01....###..
+#..#.0...#....#.....#.#..##...0..##..1.....
+11....#........#..#1.#1.#....1......#..##..
+0#.#.#.0#.##..0..#....0##.#.##..#.##......#
+....0#.#.1...01...0##.#..##.....0.1.####1..
+...0#.0#.#0.##....0....0#..##.......#1...#.
+..1..#....01#..##...#........#........#..0.
+..##0#.#....#.......#........#...#.0.......
+.##.#...1...#....#........1#.#..#..###.....
+.##.1...#..#1............#11....0...0#....0
+.1...#.1.....#.##.#..0#...#.#..#........11#
+.0.....1#....1..##.#.#0#.#...11...###1.....
+...0.1###...#........1#......##..0.00..#...
+..##.11.....#..#....11#1..##..#...#0.....1.
+#.#1..#.1.#.....#..##...0#.#10............0
+.0....#....#......#.##.......##0..1........
+##.................10#.#.#...#0.##....#1...
+.0........#.#...##...#0...##.0.###.#.#0....
+.#.##....#.##...#........0100.....0#...1#.#
+0#......1.##10....#......1#.1...#..##..#.#0
+1...#0..0.#0#...........0.#.....#1.0#..##.1
+..#1...0..#...............1..#.#.1#.#..1#..
+.00....#.01.........1..#....0#....#...#.#..
+.......#........1#..##.#0.0##...#.#..#....1
+....#..#01.....1#1.#.#.1#..#...10.#......0.
+.#......1#....#0..0#..#.1...0#..#...#...#..
+.#..##.0...11...#..........###1.11#........
+####..01....#..0#.#...........0#.........#.
+##....#...#10.00...........###1.0#.......00
+0..##...10.1.##...#...#...#..#.#.....#..#.#
+11...11.##..#..0##...#.......1##.#..00#.1#.
+.....1#..#......1..#.#.#.........#01..#....
+.#..#.......1#....#.#1.....#1#.1..1##0.....
+.#..#......##1.....1.#.#.#.##.1#.##1#......
+...........##.....##.###........#...#..#..#
+0.....#.....#...0##......#.00#........1..##
+..0#..#.#....#0####.#.....#.#.........11..0
+0.0..........#0...01....1.....1#..#....1#..
+...##.#1......#..#0..#..1#.0#.....0#...#..#
+.#.1##.1..#1.......###1##..#01.#.0.1##....0
+Target maze:
+...#.0...#.#.........1.#.1..#.#.#.......#.#
+..1....1..1......11.#.#1...0.#...#.#.#...0.
+0..1..#.#..#.#.#.##..0#1.#1...0.1.........#
+.#0...1.0.#.1...01.0...#....#.......1....##
+1....0.#.#.#.#....00...#....1..0#.#..1..#1.
+.#..00.....#.#.#.##....1..1....1......###..
+#1.#.....#....#.....#0#0.##.....0##........
+...0..#...0....#..#..#..#.......1...#..##..
+.#.#0#..#.##.01..#....1##.#.##..#.##......#
+....1#.#...1.......##.#..##0........####...
+....#0.#.#.0##...0......#..##...1..0#0...#.
+1....#01....#..##...#0....0..#1.......#....
+..##.#.#....#.......#........#..0#......0..
+.##.#0......#....#.....0...#.#..#..###.....
+.##.....#.1#..1...1......#.....100...#...1.
+1.0..#....01.#.##.#011#...#.#..#..........#
+.....0..#..0....##.#.#0#1#.......1###.0.0.1
+......###...#.1.0.....#......##..1....0#...
+.0##...10...#..#......#...##..#0..#...11...
+#1#...#0.1#10...#1.##....#.#...1....0...1..
+1.....#....#....1.#.##.......##.0...0......
+##11.............0...#.#.#.0.#..##1.0.#....
+0.........#.#...##...#1...##...###.#.#.1...
+.#.##...1#.##.1.#.0.0...........11.#....#.#
+.#.......1##.....0#.0.....#.....#..##..#.#.
+..1.#.....#.#100....1..0..#...0.#...#..##0.
+..#.11.1..#.1..1.............#.#1.#.#...#..
+0..0...#...1........0..#.0...#...1#.0.#.#..
+.......#0........#..##1#..1##...#0#..#..11.
+....#..#......0.#..#.#..#..#..0..0#........
+.#....000#....#.0..#..#....0.#..#..1#...#.0
+.#..##0.1.......#10........###0...#..0..0..
+####1...1...#.01#1#....1....0..#...1.....#.
+##....#.0.#...1..0.........###...#.1.0.....
+..0##0....1..##...#...#...#.1#1#.01..#..#.#
+........##.1#.0.##...#........##1#....#..#.
+01....#..#...10.0..#.#.#.1......0#....#....
+.#..#0.......#.0..#1#..1.11#.#.....##......
+.#.0#......##........#.#.#0##1.#.##.#...0..
+....1.....1##1....##.###1..01.1.#1..#.1#.1#
+......#.....#..0.##00....#0..#...........##
+...#.1#.#.1..#.####.#1....#.#.01..00.....1.
+.............#........1........#1.#1..1.#..
+1.1##.#......1#..#..0#...#..#......#...#..#
+.#..##....#........###.##..#...#....##..0..
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 35<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>Run again (Time: 0.000000)<br />Run again (Time: 0.833000)<br />Run again (Time: 1.573000)<br />Run again (Time: 2.283000)<br />Run again (Time: 2.963000)<br />Run again (Time: 3.632000)<br />Iter 0: Bestscore = 0  cur score = 390<br />Run again (Time: 4.294000)<br />Run again (Time: 5.144000)<br />Run again (Time: 5.840000)<br />Run again (Time: 6.482000)<br />Iter 1: Bestscore = 390  cur score = 397<br />Run again (Time: 7.122000)<br />Run again (Time: 8.016000)<br />Run again (Time: 8.792000)<br />Iter 2: Bestscore = 397  cur score = 381<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>5) Score: 0.7923728813559322
+                    
+                    Run Time: 9538 ms
+                    
+                    
+                    Peak Memory Used: 77.395MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 6
+W = 25, H = 52
+Balls in maze = 118
+Start maze:
+.##2..1.#..#2..#........1
+22...#.....2.2#.10.##..#.
+0...1...........#.#....#.
+......#..........##.#....
+#..........#....#......1.
+.........#.........#....0
+1..........#...1.......#1
+#..#......1.#0..#....#..#
+.....#..#0...#...........
+#.1.....#2.##....2#.##..#
+..#.....#.......#.......2
+..#.##..#.2...#...0#.....
+#.#.....0..1#............
+.#...#...1#.0...1.#......
+....02#1....2###1.1#.#...
+.....#...#......###.#....
+..............##...#.0#.2
+.###................20#1.
+.....0.#...#.........#.#1
+....##.....0....1#.#..#..
+02......#...#..#2.......1
+....#.#...#.....#1.......
+..#...........#.........0
+...#....#...#.....#......
+.#.#...#0...............#
+...##..........#..#....0#
+.1#....00#..221#.......##
+..........1.#0..0....#...
+2#...........0#.#.##.....
+1..................#.....
+##............#.....#..#.
+.0.......0#..#0.....1#.#.
+......#.#..........#.1...
+....................#...#
+1............#......#1...
+.............1.#...#.....
+....#...#2..1....0.2.....
+2.1......##.2...##...#.#.
+#02.......#1#1.........#.
+#.....###2.2..........#..
+.#...2.0#.2#..0..........
+0...##...#.##.###...1....
+..#.....#...........##...
+................#.##.....
+..............##1........
+....#.....#.......#....#.
+.1###........1#1..1.....1
+02...##.......#..###..#0.
+#..10.#..................
+2#......#.#1...#....##...
+1............01#......11.
+22...1..1.1#1..0.#....#..
+Target maze:
+.##0....#..#...#.1....0..
+....1#1.......#....##..#.
+....2...11...1..#.#....#.
+......#0...1.2...##.#....
+#....1.....#....#...1....
+......1..#........1#.1.0.
+..........1#...........#.
+#..#..0.....#.2.#..2.#..#
+.....#..#...2#..2.....0..
+#2......#..##...1.#.##..#
+..#.....#.2.....#........
+..#.##20#...2.#.2..#.....
+#.#........0#............
+.#...#....#.......#......
+..0.1.#......###...#.#..2
+.....#...#...0..###.#....
+.....2...1...2##...#..#..
+.###...0....1.1.......#..
+.......#...#.......1.#.#.
+....##...........#.#..#..
+........#...#..#.0.......
+....#.#..2#.....#.......1
+..#...........#..........
+...#....#...#.....#......
+.#.#...#...........0...0#
+...##..0.......#.0#.01..#
+..#......#.....#.0.....##
+...1........#..1.....#...
+.#2...1.......#.#.##...1.
+......0.22..1....1.#.....
+##1.2.........#.....#..#.
+.......21.#..#.0.....#.#.
+...0..#.#........1.#.....
+...........1......0.#...#
+.....1.....00#2...1.#....
+.1.............#...#.....
+....#...#................
+......0.0##.....##10.#.#.
+#.........#.#..........#1
+#.....###.....0....1..#.2
+.#2.....#2.#.............
+..20##...#.##.###........
+..#.....#1........2.##.1.
+1....11.0.......#.##..1..
+..0.......1...##...1.0..0
+....#.....#.......#...1#.
+..###.........#..........
+20.0.##.......#..###..#..
+#.....#.......1..........
+.#.2.12.#.#..2.#....##...
+............1..#.2..11...
+..2........#.....#....#..
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 35<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>Run again (Time: 0.000000)<br />Run again (Time: 0.364000)<br />Run again (Time: 0.716000)<br />Run again (Time: 1.029000)<br />Run again (Time: 1.337000)<br />Iter 0: Bestscore = 0  cur score = 184<br />Run again (Time: 1.641000)<br />Run again (Time: 2.000000)<br />Run again (Time: 2.323000)<br />Run again (Time: 2.636000)<br />Iter 1: Bestscore = 184  cur score = 171<br />Run again (Time: 2.950000)<br />Run again (Time: 3.319000)<br />Run again (Time: 3.666000)<br />Run again (Time: 3.967000)<br />Iter 2: Bestscore = 184  cur score = 178<br />Run again (Time: 4.260000)<br />Run again (Time: 4.610000)<br />Run again (Time: 4.949000)<br />Run again (Time: 5.253000)<br />Run again (Time: 5.540000)<br />Run again (Time: 5.819000)<br />Iter 3: Bestscore = 184  cur score = 187<br />Run again (Time: 6.098000)<br />Run again (Time: 6.463000)<br />Run again (Time: 6.742000)<br />Run again (Time: 7.049000)<br />Iter 4: Bestscore = 187  cur score = 176<br />Run again (Time: 7.353000)<br />Run again (Time: 7.704000)<br />Run again (Time: 8.042000)<br />Run again (Time: 8.356000)<br />Iter 5: Bestscore = 187  cur score = 166<br />Run again (Time: 8.671000)<br />Run again (Time: 9.029000)<br />Run again (Time: 9.344000)<br />Iter 6: Bestscore = 187  cur score = 172<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>6) Score: 0.8235294117647058
+                    
+                    Run Time: 9540 ms
+                    
+                    
+                    Peak Memory Used: 77.395MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 7
+W = 57, H = 52
+Balls in maze = 306
+Start maze:
+1....1...###10.....##0#.#1.#...###.....#.#....#..0....#1.
+#.1#.....#...#..#.1......##...0..0.###1.....#1.0.11#..#..
+.#..#......##1.##..#.........##.#.0#1..1#.1###.#....#....
+1.............#..1.##...#.#.....#.#...#.#.#1#.......0#...
+..#.1...00#.1....0##..#..#.#..####0.......#..#......#...1
+..#...###..1...1#0#..#...#..#.0..#.#...........#...#....#
+.#1...##..##....##...#...#011..##1.1.##...#..#..#0...#...
+1......1....#...1......1.#.......#.....##...#0....#......
+1.....#0.....###..####.#1....#.....#.##.#0...#...#......0
+#..##.0....#.##..##1..0.#0..#00#..00.#.10.#....#.#.#....#
+0#.##.###.#.#.0....##....#1...01#.#..#1....#...........#.
+...#...#..#.##.#..1...#...#...........#...##...#.#.###1..
+..#......#...#.#.###....##........#........10...#1......1
+.....0..0..1##.#....#.#.............10..........0.#..##.1
+..#..1..#..#.#.#.......0#........#..##1.....####...1##..#
+#....#...........#..#..#........#..#.#.1..######.#.#.1.##
+#.#....11.###..#....#.............1#...#....#....0##..0.1
+..##..#..##.0#1..##0.............##.#..#10............###
+0.#.###.#..##0..#.##..1###......#.#....#0....#...###....0
+.#.....##....110.#100.1.....1.#.........#......1#..#.0.#1
+...#....#.##..#.#....1.....1..#.#.#..#..#1...#0...#......
+.##.1###0........#..#.....##..##0..1##...1###.#.....#0...
+.#1...#1...............#.#.......#1...01..#..#.#0.#..#...
+#......#......#...#.#01..........0#.#1...........##1.....
+.1###...#..##0...#.##11#....#....#....####.##..###.0.#...
+#1..0##.....1##....1#..........#.......1#.....##.#.#.#...
+..#........#...........#1...#.#...#.............#.#.....#
+##..#.....##....#.....#...#...1.##...#0.....#00..#......0
+#....0.0....###11...#.##...#0..........#.......01.#0.....
+..0##.0..............10#...#0......0..#1.#.#####0##..#1..
+0....#.#1.......##......#...#......#..0..1..#..##...#..#1
+..............#.111.##....##.......#......##.......1.01##
+..#...........001..##.#..0##....1#...#.......###.#..0#.1#
+.#11.#..#...#.#......01#..##0....1..0.##..###1..#.#1....0
+##...#..#1...#.#.#..##..#..#.#.0....#.0.#...#.###1##.#...
+.0.....#.#1...##...1#.#11....0#0...1.0..##......0.##.....
+01....1....#...100..........#1#....0#1....#....#.1.##..0.
+.....1#0..#.#.#.#1............#0..#1##...#0.#...100..#.#.
+01..#..#1..##...............0#.##.#.#......1##....#..#..#
+........####....#...#......#....0#..#..0.#....##1......##
+#.....##....0##.........#..#.#..#.##...#...0#1.#1.......0
+0....#.#..##.##.......#.##..#....#.###1...#1.......#.....
+...#..##01.....1....#.#..........01..####.00#..1#.#......
+..#..#.......#.1...#.........#.#......#.....##.....1#....
+......#.0......##.....#####1...0............#..#0.01.#...
+.....#..#....#.........#0##.....#..............00#.......
+#....#...0.##...#........01#.#....0.........#..1..#......
+.###.#...#...#..##....0.#1.#.....#.........#...#.#.#.....
+.#1....#.#...01#...##0####.#......#...#.#.....1..#..#..#.
+..##.0#1#.##..#...#..0#.#1..#....0#.#.#.###..#1..###0#0..
+....#.#.....##1#1...#0#10##1......#..##.10.#.###...#0.0..
+001.....#.0###.1...1##.#..0#0...##....###.1....####.#....
+Target maze:
+..1...11.###......0##.#.#.1#...###1..0.#.#....#.......#..
+#..#.....#...#..#......0.##..0.....###......#......#.1#..
+1#01#.....1##..##1.#...0.....##.#..#....#..###.#1..0#.1.1
+....1...0.....#1...##...#.#.....#.#...#1#.#.#..1.....#...
+..#00.1...#.......##..#..#.#0.####........#.1#...0..#....
+..#...###.......#.#..#...#0.#...1#.#.......1...#...#....#
+.#....##..##....##...#...#1....##...1##...#..#..#..0.#.1.
+......1..1..#....1.......#.......#.1...##...#..0..#..0...
+.11...#0....0###..####.#.01..#..0..#.##.#....#...#..1....
+#..##..1...#.##.1##....0#.0.#..#.....#...1#11.0#.#.#....#
+.#.##.###.#.#.....1##....#......#.#..#..1..#......0....#.
+...#...#..#.##.#....1.#0..#.0.0....1..#...##0..#.#.###...
+..#......#...#.#1###..1.##....0...#..1.1...0....#......1.
+1...1.0.....##.#..01#.#1........011...............#.0##..
+..#.....#..#.#.#...01...#........#..##.0....####....##..#
+#....#...........#..#..#1.......#.1#.#...1######.#.#..0##
+#.#......0###..#....#.......0.1....#1..#....#.....##1.1..
+.0##..#..##0.#...##..............##.#0.#..............###
+..#.###.#..##.0.#.##..0###....1.#.#....#.....#1..###.....
+.#..1..##.11...1.#...0...1.0..#....0....#.1..1.0#..#...#0
+...#.0..#.##..#.#.............#.#.#..#..#.0..#...1#1.....
+.##1.###.........#..#.1...##..##....##....###.#.....#....
+.#.0..#..0.............#.#.......#.0...00.#.1#.#..#..#.0.
+#......#.....0#1..#.#.............#.#............##..0.1.
+..###...#1.##1...#.##..#.1..#....#....####.##..###...#...
+#...1##.0....##.....#..........#..010.1.#.0...##.#1#.#...
+.1#........#..1....1..1#...0#.#...#..00...0.....#.#.....#
+##..#.....##....#1....#...#...0.##...#.1....#...0#.......
+#..0..0.....###0....#0##...#.....1..1..#..1...01..#1.1...
+.0.##..1..1..1..1......#0..#.......0..#..#.#####.##0.#...
+.....#.#0.......##...0..#...#..1.0.#........#..##..0#0.#.
+..........1...#.....##....##1......#...0..##..0........##
+..#.1..............##.#...##1....#.1.#.......###.#...#..#
+1#...#..#...#.#........#..##.........1##..###...#.#.0...1
+##...#..#....#.#.#0.##.1#..#.#......#..0#...#.###.##.#010
+.......#.#....##....#.#.....1.#.0...1.0.##.......1##.....
+.....1.01..#0.....1.....1...#0#...1.#.10..#....#1.0##0...
+.0....#1..#.#.#.#......1......#...#.##01.#..#......1.#.#.
+...0#..#...##.0..............#.##1#.#.......##...0#0.#..#
+.0......####....#1..#..1...#0....#..#....#...0##.......##
+#..0..##.....##.011.....#..#.#..#.##..1#....#.1#.1.......
+....1#.#..##.##.......#.##..#....#.###.0..#........#....1
+...#..##............#0#..0..........0####...#...#0#....1.
+..#..#1..0...#.....#.......1.#.#......#.....##.....0#....
+......#.1......##.11..#####.........0.1.....#..#.1...#...
+..1..#..#....#....0...0#.##.....#0.1...1......1..#.......
+#00.0#.....##...#...110....#.#....1..1......#.....#.1..1.
+.###.#...#.00#..##......#..#....0#0......0.#...#1#.#.....
+.#..1..#.#.....#...##.####.#......#0..#.#......1.#..#00#.
+.1##..#.#.##..#.1.#...#1#..1#.....#.#.#.###0.#..0###.#...
+0...#.#.0.1.##.#....#.#..##.......#..##....#.###...#.0...
+....0...#..###1.0.1.##.#0.0#..00##....###..0...####.#....
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 35<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>Run again (Time: 0.000000)<br />Run again (Time: 1.611000)<br />Run again (Time: 3.030000)<br />Run again (Time: 4.291000)<br />Run again (Time: 5.380000)<br />Run again (Time: 6.454000)<br />Iter 0: Bestscore = 0  cur score = 504<br />Run again (Time: 7.530000)<br />Run again (Time: 9.230000)<br />Iter 1: Bestscore = 504  cur score = 381<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>7) Score: 0.7764705882352941
+                    
+                    Run Time: 9538 ms
+                    
+                    
+                    Peak Memory Used: 77.266MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 8
+W = 34, H = 47
+Balls in maze = 85
+Start maze:
+.#4###.......##.#..#..1..1..#..#..
+#...#.....#...#..#2.#.....#0.###..
+.#.....##.....#....#......##.....1
+#.#....#....####.......3#.##.#..#7
+....5###.###.......4########..#.##
+.#.#....#.#...#.#.#.2..#.#..#...#3
+.###.#....#.#.#..##...............
+#.#.......7##.....#..#.#.....#..#.
+..55....7#.......4#..............#
+.#.#.....7.#..###...#...#..#.#.#.#
+....#..##..#....#.....##.#6#....##
+.........#6..###..6##.....#......0
+..#.....#6#.##...#....##..####...5
+..#....#............##....#.4#....
+..#..#...####.#.#.##.#...#...7.#..
+..#.#.##.##.##..##...#....##..#.#.
+......4.#7...##..........####...#.
+....#.#.#5.##....7#.....7#........
+....#..6.....#....##....#6#.#.#...
+...#.##3#.....3##.....5...#...#...
+###...3.#...#6.#..#...5#.####...3.
+#.#....4...#...##....#......3.#.#5
+.#.....#........#..#.#2...1#0.#..7
+#....#..#..#....6#.#.7#.##7#...#..
+..............#15...#....4......#.
+#..#.#.##.##..##..#.......#2......
+...............#...#.2.#...##..#.#
+#..#.#...#..#....5.4.6....##..#...
+.......5#..##5.###..##.....#.#6#..
+..#.#.........###74..#....#.#....#
+#.#...#.#..#.#..3##.#7.##.#4.....#
+.2#..#.........#.#.........#.#.#..
+##.1.#...#..#..#..............#.#.
+...#..#.#.........#.#....###....##
+.#.#.#....#....#..4###..#......#..
+.........7###.#.......##.#......#.
+#0...##.....#......#.........###..
+..2......2###........##..#....#...
+.##..###.##............#0.........
+.4#......#2.#.#..#3.###.#.#.#...#.
+###..##...##..#...##..##0....#..#.
+..#....#..##..#.0#..##............
+.#........##....##.............##.
+..#..#.#.........#.3.#.#.....#...#
+..##.7.....#.....#.#.#....#.......
+#.#.#..........#.....#...#..#....#
+....#.#..##.#50###...2##......0###
+Target maze:
+.#.###.......##.#..#........#..#..
+#...#.....#...#..#.2#....1#..###.7
+.#4....##.....#....#..1...##......
+#5#....#....####........#.##.#..#.
+.....###.###........########..#.##
+.#.#....#.#...#.#.#....#.#..#..0#.
+.###5#....#.#.#..##..3.......1....
+#.#.....7..##.....#..#.#..6..#..#.
+.7.......#.4......#............2.#
+.#4#.......#..###...#...#..#.#.#.#
+....#..##..#..6.#4....##.#.#....##
+..5......#..6###...##....2#.......
+..#.....#.#.##...#.3..##..####....
+..#....#.6.....6....##..7.#..#.7..
+..#..#...####.#.#.##.#...#.....#..
+..#.#.##.##.##..##...#....##.4#5#.
+....7..6#....##..........####...#.
+....#.#.#..##.....#..1...#........
+....#..3...3.#....##5...#.#.#.#.50
+...#.##.#.7....##........6#...#...
+###.4...#...#.6#..#....#.####.7...
+#.#.2......#...##5...#.2......#.#.
+.#.....#........#..#.#.....#..#..3
+#....#..#..#.....#.#..#.##.#...#..
+..............#.....#0.........3#2
+#..#.#.##.##..##.5#.67....#.......
+.....5.3.......#..1#...#...##..#.#
+#..#.#...#..#...7..4......##..#...
+........#..##..###..##.....#.#.#..
+..#.#........5###7..5#....#.#....#
+#.#5..#.#..#.#...##.#..##4#7..6..#
+..#..#.........#.#.........#.#.#..
+##.2.#...#..#..#..............#.#.
+...#..#.#...2.....#4#7...###....##
+.#.#.#....#....#...###..#......#..
+...7......###.#.5.....##.#...3..#.
+#....##.....#......#.........###..
+..........###......3.##.4#....#...
+.##..###.##.....0......#..........
+4.#......#..#.#..#4.###.#.#.#...#.
+###..##...##..#...##..##.....#..#.
+..#....#..##..#..#..##............
+.#....02..##....##.............##.
+..#..#.#.........#3..#.#.....#...#
+..##0..7...#.....#.#.#....#0......
+#.#.#..........#.....#...#..#..0.#
+....#1#..##.#..###2...##0......###
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 36<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>Run again (Time: 0.000000)<br />Run again (Time: 0.190000)<br />Run again (Time: 0.376000)<br />Run again (Time: 0.551000)<br />Run again (Time: 0.727000)<br />Iter 0: Bestscore = 0  cur score = 121<br />Run again (Time: 0.899000)<br />Run again (Time: 1.096000)<br />Run again (Time: 1.274000)<br />Iter 1: Bestscore = 121  cur score = 107<br />Run again (Time: 1.451000)<br />Run again (Time: 1.645000)<br />Run again (Time: 1.820000)<br />Run again (Time: 1.988000)<br />Iter 2: Bestscore = 121  cur score = 132<br />Run again (Time: 2.155000)<br />Run again (Time: 2.349000)<br />Run again (Time: 2.526000)<br />Run again (Time: 2.700000)<br />Iter 3: Bestscore = 132  cur score = 120<br />Run again (Time: 2.873000)<br />Run again (Time: 3.059000)<br />Run again (Time: 3.233000)<br />Run again (Time: 3.404000)<br />Iter 4: Bestscore = 132  cur score = 115<br />Run again (Time: 3.574000)<br />Run again (Time: 3.769000)<br />Run again (Time: 3.949000)<br />Run again (Time: 4.122000)<br />Iter 5: Bestscore = 132  cur score = 129<br />Run again (Time: 4.295000)<br />Run again (Time: 4.488000)<br />Run again (Time: 4.669000)<br />Run again (Time: 4.847000)<br />Iter 6: Bestscore = 132  cur score = 123<br />Run again (Time: 5.028000)<br />Run again (Time: 5.225000)<br />Run again (Time: 5.411000)<br />Run again (Time: 5.589000)<br />Run again (Time: 5.765000)<br />Iter 7: Bestscore = 132  cur score = 129<br />Run again (Time: 5.940000)<br />Run again (Time: 6.135000)<br />Run again (Time: 6.314000)<br />Run again (Time: 6.487000)<br />Iter 8: Bestscore = 132  cur score = 125<br />Run again (Time: 6.660000)<br />Run again (Time: 6.847000)<br />Run again (Time: 7.027000)<br />Iter 9: Bestscore = 132  cur score = 107<br />Run again (Time: 7.203000)<br />Run again (Time: 7.397000)<br />Run again (Time: 7.578000)<br />Run again (Time: 7.760000)<br />Run again (Time: 7.943000)<br />Iter 10: Bestscore = 132  cur score = 119<br />Run again (Time: 8.126000)<br />Run again (Time: 8.319000)<br />Run again (Time: 8.503000)<br />Run again (Time: 8.678000)<br />Run again (Time: 8.848000)<br />Iter 11: Bestscore = 132  cur score = 128<br />Run again (Time: 9.017000)<br />Run again (Time: 9.212000)<br />Run again (Time: 9.398000)<br />Iter 12: Bestscore = 132  cur score = 105<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>8) Score: 0.7652439024390244
+                    
+                    Run Time: 9539 ms
+                    
+                    
+                    Peak Memory Used: 77.395MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 9
+W = 55, H = 41
+Balls in maze = 328
+Start maze:
+.0.....0##....0#0...1###....##.#..10##1..0....#....0#.0
+....#.#...#.#.#.....##.1##10...#..#1#...#....00#..#..#.
+1..0#.......#.1..#.#111...#...1#...11#.##.#.....0##....
+..##...........#.0##...1##00#.......###..1..##....#1.##
+#..####.#...#.#.11..1#.#1#.1..........0.#.001.1#0#1.##0
+#.#..#..1#1.##.0#...1..........0#....#.....#......0#01.
+...#.#1.........#..###.................11.#..#0.....0.#
+##..........#.##....0.##..#.#..#.0#...1..#..###..1#..#.
+1#..##..#1..........#1#0......#.......0#..#..#..#0....1
+..11#.....#0#..#.#.11........#0..#.....#.##0....0.#.#.#
+..#..###...#0..1....##.....1##..0##............1.#....0
+..##...#..#1....#.#.#0.#....#..1..#..#.#1...#....1.....
+#..##.#.......#......10..1#..#1###....#.##.#..##..#....
+...#...........#.#...##.#.0.#.#..#0...#..##....##......
+..#1#.....##..#00.....##......#.0......0#.#0.1..###..#.
+#0..1#..#.10#.###.#..#1#...#....##..###00.####.#1.#.##.
+.0..........#####.#....#...##..##1....00...........#1..
+1.....1##..##.#......#.010......1...#........00.1.....#
+01#.........#....#.....1###...##......##0.##..#..1..#.1
+.###....101..#...##1...#.....#0.....#.##.......###.#...
+.#1......0.1#.#.#1.1#..1.#....#11.1.0###0......#....0..
+1#..0#.#....#..10.###.#.......#.#.##.#1.#.#..#0..#.##1.
+1.........#1..1#....0#1.#.#.##.#1#11#0......#1....1##.#
+....##...#.1##.1..##.#.......1#...#.0.0##.#.0##11....0.
+0..#0.......0..01....#...###1.00.##...###0.0...#..1..1.
+#.....#...#1.#...#..#......1#.1.1###...#1...#.1...0.0#.
+....#.....#1#.......#0#0.#.....0...1..###1#.......##0..
+.....#.#...#0..........#..#...1......0#11#....1...0#.11
+.#1.................0#.....11.0......#.00..0..#0#0.#...
+.#..#..#....00..#..#1..#....#1...0#.1....0110.##10....0
+1#..#..#.#1.##1...10.101.....#.....#0......#..#...1#.##
+#..#0.#....111#......1.......0..0.11.#.....101###1..#.#
+0.0#.#0....#..1#.#####0...#1.0#.#000.0.##...###00.#....
+...........0#..#0...###..#.01...0.#.........####.0#.#..
+#......#...#0........#1..0..#..#..0...11#......#......1
+....0#.1..0...1.0.####0.1.##...#0..##...1.......1...#..
+....0#...0#....##.##...##0..0....#.#1.#...#.###........
+..#.###..1#.0#..1...##..#...#.##.#.#.011..........1...1
+..0....#1.##0.##.0...#1..0...#..##.....#....#..#.0.##.#
+...###.#.1..#....#.#.0#....##..#...........0..........1
+.....0..0.....1##...11##1.0#.......#0..#...#0..00#...0#
+Target maze:
+........##0.1..#.....###0...##.#..0.##......0.#.0...#0.
+....#.#...#1#.#.....##1.##.1..0#..#1#1..#0..1..#..#.0#.
+0...#.......#....#.#.1....#0...#.1...#.##.#0.....##1...
+.0##.....010...#..##11.1##.1#.......###.....##....#..##
+#..####.#...#.#....1.#0#.#1.1.....1.....#..1.1.#.#.1##.
+#.#..#...#.1##.1#.10...........1#....#.....#....00.#0.0
+1..#.#..........#.1###....0...............#.1#...0....#
+##1.........#.##...1..##..#.#..#..#..1.1.#..###1..#..#.
+.#..##1.#.1....10...#.#....1.1#100.00..#..#..#..#..11.0
+.0..#.1...#.#..#.#..01.......#...#...0.#.##...0..0#.#.#
+..#..###..0#...0....##.0....##0..##..0...........#.....
+..##...#..#....1#.#.#.0#..1.#01...#1.#.#....#1.........
+#1.##.#...1...#1..1......0#.0#.###..0.#.##.#..##1.#0...
+...#...........#.#..1##1#...#.#..#.0..#..##....##......
+..#.#.....##.0#..01...##...010#......0..#.#.....###..#.
+#....#..#...#1###.#..#.#...#....##..###..1####0#..#.##.
+1.....00....#####.#.1..#...##..##........1........0#..0
+.1...1.##..##.#..1...#.1............#0......0.......1.#
+..#1........#....#.011..###...##......##.1##..#...10#..
+1###.......1.#...##....#.....#1...0.#.##.1...11###1#0.1
+.#.......1..#.#.#...#....#..1.#......###.0.....#......1
+.#0..#.#...1#1....###.#.01....#.#.##0#..#0#0.#...#0##.1
+.....0....#..1.#.....#..#0#.##.#.#1.#...11..#0.....##.#
+0.0.##...#11##1...##.#..11....#01.#01..##.#.1##.....0..
+1..#....1.01.....0...#...###....0##1..###...0.1#.......
+#.....#.0.#00#.10#..#0......#....###.1.#..01#0...0.1.#.
+.1..#....1#.#....1..#.#..#...011....1.###.#.0.1...##...
+.0...#.#...#.0........0#..#...0.......#.0#.001.0...#1..
+.#.......1....01.0.01#10..0.......01.#......1.#.#..#1..
+.#..#..#..1.....#..#.11#1...#...11#..0001.....##....0..
+.#..#..#.#..##.10...11..0..00#.....#......0#.1#...0#.##
+#..#..#...1...#.....................0#.0......###...#0#
+...#.#.....#...#.#####..0.#...#1#...0..##...###..1#0...
+.0.......0..#1.#.0..###..#...00...#.1.0.1...####..#.#..
+#......#...#..0...1..#..1...#..#.1.10...#0...1.#.......
+0....#0..0.0......####.1.1##0.0#..0##....1.....0.1..#..
+0....#....#0...##1##1..##..0.....#.#..#...#.###........
+..#.###.1.#0.#.0....##..#...#.##.#.#0...1.011....10....
+1......#..##.1##..1..#..0...0#..##..01.#....#..#...##.#
+...###0#...0#...1#.#..#....##..#.......10...0....01....
+...0.........11##.1..0##...#..0....#...#.0.#10...#....#
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 34<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>Run again (Time: 0.000000)<br />Run again (Time: 0.921000)<br />Run again (Time: 1.772000)<br />Run again (Time: 2.551000)<br />Run again (Time: 3.343000)<br />Run again (Time: 4.137000)<br />Iter 0: Bestscore = 0  cur score = 502<br />Run again (Time: 4.930000)<br />Run again (Time: 5.901000)<br />Run again (Time: 6.850000)<br />Run again (Time: 7.625000)<br />Run again (Time: 8.398000)<br />Iter 1: Bestscore = 502  cur score = 500<br />Run again (Time: 9.172000)<br />Iter 2: Bestscore = 502  cur score = 44<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>9) Score: 0.9230769230769231
+                    
+                    Run Time: 9538 ms
+                    
+                    
+                    Peak Memory Used: 77.266MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 10
+W = 11, H = 29
+Balls in maze = 52
+Start maze:
+..000.#....
+...#.......
+00.........
+...........
+0..........
+..........0
+..0......00
+.....0....#
+.....0....#
+....#...#00
+0..0.......
+..0........
+0...#.0#...
+0.....#.#..
+00#0..##.00
+00.......00
+0........0.
+....#.#0...
+0...0......
+.#.........
+#..........
+.........00
+#0....#000.
+......#.#.0
+#.....#.#.0
+0..........
+0.0.....#..
+.....00.#..
+.0#0.0...00
+Target maze:
+.....0#....
+...#....00.
+...........
+....0...0..
+..0........
+.....0..0..
+0..0.0.....
+0.000.....#
+.0.....0..#
+....#.00#..
+..0......00
+....0.....0
+....#..#...
+......#.#..
+..#..0##0..
+......0....
+.....0..0.0
+00..#.#...0
+...0...0..0
+.#.........
+#.0....0...
+0.0...0.0..
+#.....#.0.0
+..0..0#.#..
+#.00.0#.#..
+...........
+........#0.
+........#.0
+0.#........
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 36<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>Run again (Time: 0.000000)<br />Run again (Time: 0.066000)<br />Run again (Time: 0.131000)<br />Run again (Time: 0.182000)<br />Iter 0: Bestscore = 0  cur score = 90<br />Run again (Time: 0.233000)<br />Run again (Time: 0.301000)<br />Run again (Time: 0.363000)<br />Run again (Time: 0.425000)<br />Iter 1: Bestscore = 90  cur score = 86<br />Run again (Time: 0.476000)<br />Run again (Time: 0.541000)<br />Run again (Time: 0.605000)<br />Iter 2: Bestscore = 90  cur score = 76<br />Run again (Time: 0.667000)<br />Run again (Time: 0.733000)<br />Run again (Time: 0.785000)<br />Run again (Time: 0.837000)<br />Run again (Time: 0.888000)<br />Iter 3: Bestscore = 90  cur score = 84<br />Run again (Time: 0.939000)<br />Run again (Time: 1.004000)<br />Run again (Time: 1.069000)<br />Iter 4: Bestscore = 90  cur score = 72<br />Run again (Time: 1.133000)<br />Run again (Time: 1.198000)<br />Run again (Time: 1.261000)<br />Run again (Time: 1.314000)<br />Iter 5: Bestscore = 90  cur score = 84<br />Run again (Time: 1.376000)<br />Run again (Time: 1.441000)<br />Run again (Time: 1.495000)<br />Run again (Time: 1.548000)<br />Iter 6: Bestscore = 90  cur score = 74<br />Run again (Time: 1.602000)<br />Run again (Time: 1.668000)<br />Run again (Time: 1.734000)<br />Run again (Time: 1.798000)<br />Iter 7: Bestscore = 90  cur score = 84<br />Run again (Time: 1.862000)<br />Run again (Time: 1.928000)<br />Run again (Time: 1.992000)<br />Run again (Time: 2.045000)<br />Iter 8: Bestscore = 90  cur score = 84<br />Run again (Time: 2.097000)<br />Run again (Time: 2.162000)<br />Run again (Time: 2.226000)<br />Iter 9: Bestscore = 90  cur score = 80<br />Run again (Time: 2.289000)<br />Run again (Time: 2.355000)<br />Run again (Time: 2.420000)<br />Run again (Time: 2.483000)<br />Iter 10: Bestscore = 90  cur score = 80<br />Run again (Time: 2.546000)<br />Run again (Time: 2.611000)<br />Run again (Time: 2.664000)<br />Iter 11: Bestscore = 90  cur score = 80<br />Run again (Time: 2.716000)<br />Run again (Time: 2.782000)<br />Run again (Time: 2.836000)<br />Run again (Time: 2.889000)<br />Iter 12: Bestscore = 90  cur score = 76<br />Run again (Time: 2.941000)<br />Run again (Time: 3.009000)<br />Run again (Time: 3.062000)<br />Run again (Time: 3.115000)<br />Iter 13: Bestscore = 90  cur score = 86<br />Run again (Time: 3.168000)<br />Run again (Time: 3.235000)<br />Run again (Time: 3.299000)<br />Run again (Time: 3.363000)<br />Iter 14: Bestscore = 90  cur score = 82<br />Run again (Time: 3.415000)<br />Run again (Time: 3.481000)<br />Run again (Time: 3.535000)<br />Iter 15: Bestscore = 90  cur score = 76<br />Run again (Time: 3.588000)<br />Run again (Time: 3.655000)<br />Run again (Time: 3.719000)<br />Iter 16: Bestscore = 90  cur score = 86<br />Run again (Time: 3.770000)<br />Run again (Time: 3.836000)<br />Run again (Time: 3.890000)<br />Run again (Time: 3.943000)<br />Iter 17: Bestscore = 90  cur score = 84<br />Run again (Time: 3.995000)<br />Run again (Time: 4.062000)<br />Run again (Time: 4.127000)<br />Run again (Time: 4.193000)<br />Run again (Time: 4.245000)<br />Iter 18: Bestscore = 90  cur score = 84<br />Run again (Time: 4.298000)<br />Run again (Time: 4.365000)<br />Run again (Time: 4.429000)<br />Run again (Time: 4.491000)<br />Run again (Time: 4.542000)<br />Iter 19: Bestscore = 90  cur score = 96<br />Run again (Time: 4.593000)<br />Run again (Time: 4.660000)<br />Run again (Time: 4.725000)<br />Run again (Time: 4.787000)<br />Iter 20: Bestscore = 96  cur score = 84<br />Run again (Time: 4.850000)<br />Run again (Time: 4.918000)<br />Run again (Time: 4.983000)<br />Iter 21: Bestscore = 96  cur score = 78<br />Run again (Time: 5.047000)<br />Run again (Time: 5.113000)<br />Run again (Time: 5.176000)<br />Iter 22: Bestscore = 96  cur score = 80<br />Run again (Time: 5.227000)<br />Run again (Time: 5.292000)<br />Run again (Time: 5.345000)<br />Run again (Time: 5.397000)<br />Iter 23: Bestscore = 96  cur score = 84<br />Run again (Time: 5.449000)<br />Run again (Time: 5.514000)<br />Run again (Time: 5.576000)<br />Run again (Time: 5.627000)<br />Iter 24: Bestscore = 96  cur score = 84<br />Run again (Time: 5.678000)<br />Run again (Time: 5.744000)<br />Run again (Time: 5.808000)<br />Run again (Time: 5.859000)<br />Iter 25: Bestscore = 96  cur score = 90<br />Run again (Time: 5.910000)<br />Run again (Time: 5.975000)<br />Run again (Time: 6.028000)<br />Run again (Time: 6.079000)<br />Iter 26: Bestscore = 96  cur score = 84<br />Run again (Time: 6.130000)<br />Run again (Time: 6.195000)<br />Run again (Time: 6.258000)<br />Run again (Time: 6.310000)<br />Run again (Time: 6.363000)<br />Run again (Time: 6.415000)<br />Iter 27: Bestscore = 96  cur score = 80<br />Run again (Time: 6.467000)<br />Run again (Time: 6.534000)<br />Run again (Time: 6.599000)<br />Run again (Time: 6.650000)<br />Iter 28: Bestscore = 96  cur score = 86<br />Run again (Time: 6.702000)<br />Run again (Time: 6.767000)<br />Run again (Time: 6.830000)<br />Iter 29: Bestscore = 96  cur score = 84<br />Run again (Time: 6.882000)<br />Run again (Time: 6.948000)<br />Run again (Time: 7.000000)<br />Iter 30: Bestscore = 96  cur score = 80<br />Run again (Time: 7.052000)<br />Run again (Time: 7.118000)<br />Run again (Time: 7.181000)<br />Run again (Time: 7.243000)<br />Run again (Time: 7.305000)<br />Run again (Time: 7.356000)<br />Iter 31: Bestscore = 96  cur score = 86<br />Run again (Time: 7.407000)<br />Run again (Time: 7.472000)<br />Iter 32: Bestscore = 96  cur score = 74<br />Run again (Time: 7.524000)<br />Run again (Time: 7.590000)<br />Run again (Time: 7.652000)<br />Iter 33: Bestscore = 96  cur score = 84<br />Run again (Time: 7.703000)<br />Run again (Time: 7.768000)<br />Run again (Time: 7.822000)<br />Run again (Time: 7.876000)<br />Run again (Time: 7.927000)<br />Iter 34: Bestscore = 96  cur score = 88<br />Run again (Time: 7.978000)<br />Run again (Time: 8.044000)<br />Run again (Time: 8.099000)<br />Run again (Time: 8.152000)<br />Iter 35: Bestscore = 96  cur score = 88<br />Run again (Time: 8.203000)<br />Run again (Time: 8.269000)<br />Run again (Time: 8.322000)<br />Run again (Time: 8.385000)<br />Run again (Time: 8.448000)<br />Iter 36: Bestscore = 96  cur score = 86<br />Run again (Time: 8.510000)<br />Run again (Time: 8.574000)<br />Run again (Time: 8.627000)<br />Run again (Time: 8.679000)<br />Iter 37: Bestscore = 96  cur score = 84<br />Run again (Time: 8.731000)<br />Run again (Time: 8.797000)<br />Run again (Time: 8.861000)<br />Run again (Time: 8.915000)<br />Iter 38: Bestscore = 96  cur score = 84<br />Run again (Time: 8.968000)<br />Run again (Time: 9.033000)<br />Run again (Time: 9.084000)<br />Run again (Time: 9.135000)<br />Iter 39: Bestscore = 96  cur score = 92<br />Run again (Time: 9.185000)<br />Run again (Time: 9.251000)<br />Run again (Time: 9.317000)<br />Run again (Time: 9.382000)<br />Run again (Time: 9.447000)<br />Run again (Time: 9.499000)<br />Iter 40: Bestscore = 96  cur score = 90<br /></pre>
+                </p>
+                <hr />
+                
+            
+
+
+        </td>
+
+        
+        <td width="170">
+            
+
+
+
+<script type="text/javascript" language="javascript">
+
+</script>
+
+
+
+
+    <div style="width:150px;">
+        &nbsp;
+    </div>
+
+
+        </td>
+        
+
+        <td width="10"><img src="/i/clear.gif" width="10" height="1" border="0" alt="" /></td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+                    
+                    
+
+
+                        
+                            
+                                
+                            
+                        
+
+                        
+                    
+                
+                
+                    
+                         
+                              
+                                 
+                                     
+
+                                 
+                              
+                             
+                         
+
+
+                
+                
+                    
+                    
+                        
+                    
+                    
+                
+                
+            
+            
+                
+                    
+                        
+                        
+                            
+                            
+                            
+                            
+                        
+                        
+                    
+                    
+                        
+                            
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+                            
+
+                        
+                    
+                
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                
+            
+        
+
+        <footer class="bottom-footer"><!-- Footer links-->
+            <nav class="menu-item">
+                <div class="menu-item-header show-small">OTHERS</div>
+                <ul class="submenu">
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/sitemap">SITEMAP</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/about/">ABOUT US</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/contact-us/">CONTACT US</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://help.topcoder.com/">HELP CENTER</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/community/how-it-works/privacy-policy/">PRIVACY POLICY</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/community/how-it-works/terms/">TERMS</a></li>
+                </ul>
+            </nav>
+            <!-- Social links-->
+            <div class="social-links"><p>topcoder is also on</p><a class="fb-link" href="https://www.facebook.com/topcoder"></a><a
+                    class="twitter-link" href="http://www.twitter.com/topcoder"></a><a class="linkedin-link" href="https://www.linkedin.com/company/topcoder"></a><a
+                    class="google-link" href="https://plus.google.com/+topcoder/posts"></a></div>
+            <p class="copyright-notice">&copy; 2015 topcoder. All Rights Reserved</p></footer>
+    
+    
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6340959-1']);
+  _gaq.push(['_setDomainName', '.topcoder.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</body>
+</html>
