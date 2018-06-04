@@ -1,0 +1,4 @@
+java -jar GA.jar -seed 1 -exec "C:\Documents and Settings\yuch6304\Skrivebord\document\computer\GraphicalAuthentication\v0"
+
+
+seed 9993 all 90,90

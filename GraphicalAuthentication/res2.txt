@@ -1,0 +1,162 @@
+201 18 8 3 1 21 12 6 3 1
+
+Seed 0
+K: 203 M: 5
+Calls: 100 Score: 0
+     right: 4/5
+     4 
+     6 
+
+Seed 1
+K: 196 M: 5
+Calls: 41 Score: 1.02381
+
+Seed 2
+K: 196 M: 7
+Calls: 100 Score: 0
+     right: 6/7
+     4 
+     11 
+
+Seed 3
+K: 207 M: 6
+Calls: 100 Score: 1.0099
+
+Seed 4
+K: 216 M: 8
+Calls: 100 Score: 0
+     right: 6/8
+     4 5 
+     13 44 
+
+Seed 5
+K: 201 M: 8
+Calls: 100 Score: 0
+     right: 7/8
+     7 
+     15 
+
+Seed 6
+K: 208 M: 7
+Calls: 100 Score: 0
+     right: 6/7
+     5 
+     8 
+
+Seed 7
+K: 193 M: 8
+Calls: 100 Score: 0
+     right: 7/8
+     5 
+     11 
+
+Seed 8
+K: 217 M: 8
+Calls: 100 Score: 0
+     right: 6/8
+     3 5 
+     9 10 
+
+Seed 9
+K: 206 M: 7
+Calls: 100 Score: 0
+     right: 6/7
+     2 
+     10 
+
+Seed 10
+K: 192 M: 5
+Calls: 52 Score: 1.01887
+
+Seed 11
+K: 221 M: 8
+Calls: 100 Score: 0
+     right: 7/8
+     3 
+     12 
+
+Seed 12
+K: 206 M: 9
+Calls: 100 Score: 0
+     right: 7/9
+     3 6 
+     10 27 
+
+Seed 13
+K: 206 M: 5
+Calls: 100 Score: 0
+     right: 3/5
+     0 3 
+     6 7 
+
+Seed 14
+K: 215 M: 8
+Calls: 100 Score: 0
+     right: 5/8
+     2 3 4 
+     11 16 31 
+
+Seed 15
+K: 206 M: 6
+Calls: 100 Score: 0
+     right: 5/6
+     5 
+     14 
+
+Seed 16
+K: 205 M: 8
+Calls: 100 Score: 0
+     right: 6/8
+     6 7 
+     13 17 
+
+Seed 17
+K: 204 M: 5
+Calls: 100 Score: 0
+     right: 4/5
+     4 
+     6 
+
+Seed 18
+K: 201 M: 8
+Calls: 86 Score: 1.01149
+
+Seed 19
+K: 204 M: 5
+Calls: 100 Score: 0
+     right: 4/5
+     4 
+     6 
+
+Seed 20
+K: 207 M: 9
+Calls: 100 Score: 0
+     right: 7/9
+     5 6 
+     10 35 
+
+Seed 21
+K: 215 M: 5
+Calls: 47 Score: 1.02083
+
+Seed 22
+K: 201 M: 7
+Calls: 100 Score: 0
+     right: 5/7
+     5 6 
+     8 20 
+
+Seed 23
+K: 195 M: 7
+Calls: 100 Score: 0
+     right: 6/7
+     4 
+     9 
+
+Seed 24
+K: 212 M: 8
+Calls: 100 Score: 0
+     right: 5/8
+     4 5 7 
+     10 21 27 
+

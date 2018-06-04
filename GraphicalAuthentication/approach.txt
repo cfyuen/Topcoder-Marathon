@@ -1,0 +1,20 @@
+run some spy.login()
+for each spy.login()
+   log all image
+   if empty, do nothing
+   if something and cnt not exceed m
+         add 1 to that image
+         (add some to other image nearby?)
+   if something and cnt exceed m
+         if point outside convex hull
+		this image=max+1
+   check all previous state
+         if not fit, all possible image near point +
+	 if fit, all now image +
+
+
+convex hull = always updated (take top m, or try all combination within m+c)
+
+
+fail = 1012
+exception = 1018
