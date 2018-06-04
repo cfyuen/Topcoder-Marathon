@@ -15,5 +15,7 @@ BookSelection: https://community.topcoder.com/longcontest/?module=ViewProblemSta
 
 ChessPuzzle: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14195&pm=10728
 
+TilesMatching: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13795&pm=10410
+
 GraphicalAuthentication: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13568&pm=10147
 

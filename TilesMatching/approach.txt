@@ -1,0 +1,32 @@
+
+Heuristics:
+
+normal:
+for all available square: highest score
+
+wildcard:
+1. place in impossible square
+	for all impossible square: highest score
+2. all squares: highest score
+
+remove:
+highest score
+discard if score < thereshold?
+
+
+score:
+for all empty square: if near to at least 1 placed tile
+			canplace=0    -
+			canplace=1    -
+			canplace=2    -
+			canplace=n    -
+			canplace=2n-1 -
+			canplace=all  -
+
+for all rows and columns:
+	if (emptysquare<n/2) score+=100000*pow((n-emptysquare)/n),10)
+
+
+ok=n*n
+for all different tiles: if avspace=0, ok--
+score*=pow(ok/(n*n),nowd)

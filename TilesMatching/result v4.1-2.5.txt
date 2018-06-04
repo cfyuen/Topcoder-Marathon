@@ -1,0 +1,6000 @@
+Seed = 1001
+N = 6   D = 4   S = 10
+Total discard = 1201   Total Move = 10000
+Clear = 821   Together = 1
+Score = 17039
+
+Seed = 1002
+N = 9   D = 4   S = 8
+Total discard = 99   Total Move = 370
+Clear = 23   Together = 0
+Score = 455
+
+Seed = 1003
+N = 9   D = 3   S = 12
+Total discard = 2296   Total Move = 10000
+Clear = 574   Together = 0
+Score = 14592
+
+Seed = 1004
+N = 10   D = 3   S = 10
+Total discard = 791   Total Move = 2432
+Clear = 143   Together = 0
+Score = 3071
+
+Seed = 1005
+N = 10   D = 2   S = 8
+Total discard = 15   Total Move = 65
+Clear = 4   Together = 0
+Score = 82
+
+Seed = 1006
+N = 8   D = 2   S = 11
+Total discard = 2474   Total Move = 10000
+Clear = 613   Together = 0
+Score = 14269
+
+Seed = 1007
+N = 6   D = 4   S = 8
+Total discard = 356   Total Move = 2596
+Clear = 250   Together = 0
+Score = 4240
+
+Seed = 1008
+N = 9   D = 3   S = 12
+Total discard = 2330   Total Move = 10000
+Clear = 567   Together = 1
+Score = 14510
+
+Seed = 1009
+N = 7   D = 4   S = 12
+Total discard = 1977   Total Move = 10000
+Clear = 619   Together = 0
+Score = 15451
+
+Seed = 1010
+N = 6   D = 3   S = 12
+Total discard = 1091   Total Move = 10000
+Clear = 696   Together = 0
+Score = 17261
+
+Seed = 1011
+N = 6   D = 2   S = 11
+Total discard = 1165   Total Move = 10000
+Clear = 754   Together = 0
+Score = 17129
+
+Seed = 1012
+N = 4   D = 3   S = 8
+Total discard = 204   Total Move = 10000
+Clear = 1164   Together = 1
+Score = 19132
+
+Seed = 1013
+N = 6   D = 2   S = 8
+Total discard = 813   Total Move = 5793
+Clear = 575   Together = 0
+Score = 9580
+
+Seed = 1014
+N = 8   D = 2   S = 12
+Total discard = 2405   Total Move = 10000
+Clear = 569   Together = 1
+Score = 14459
+
+Seed = 1015
+N = 4   D = 4   S = 9
+Total discard = 218   Total Move = 10000
+Clear = 1051   Together = 0
+Score = 19241
+
+Seed = 1016
+N = 8   D = 3   S = 12
+Total discard = 2527   Total Move = 10000
+Clear = 561   Together = 0
+Score = 14205
+
+Seed = 1017
+N = 4   D = 3   S = 10
+Total discard = 198   Total Move = 10000
+Clear = 953   Together = 0
+Score = 19332
+
+Seed = 1018
+N = 10   D = 4   S = 10
+Total discard = 87   Total Move = 246
+Clear = 7   Together = 0
+Score = 229
+
+Seed = 1019
+N = 10   D = 3   S = 12
+Total discard = 3126   Total Move = 10000
+Clear = 502   Together = 0
+Score = 12898
+
+Seed = 1020
+N = 4   D = 4   S = 12
+Total discard = 218   Total Move = 10000
+Clear = 790   Together = 0
+Score = 19262
+
+Seed = 1021
+N = 8   D = 4   S = 8
+Total discard = 212   Total Move = 787
+Clear = 60   Together = 1
+Score = 1079
+
+Seed = 1022
+N = 4   D = 2   S = 12
+Total discard = 210   Total Move = 10000
+Clear = 792   Together = 0
+Score = 19294
+
+Seed = 1023
+N = 6   D = 3   S = 12
+Total discard = 1126   Total Move = 10000
+Clear = 698   Together = 0
+Score = 17250
+
+Seed = 1024
+N = 8   D = 2   S = 9
+Total discard = 119   Total Move = 489
+Clear = 33   Together = 1
+Score = 694
+
+Seed = 1025
+N = 8   D = 4   S = 12
+Total discard = 2520   Total Move = 10000
+Clear = 562   Together = 0
+Score = 14224
+
+Seed = 1026
+N = 4   D = 4   S = 12
+Total discard = 199   Total Move = 10000
+Clear = 794   Together = 0
+Score = 19329
+
+Seed = 1027
+N = 7   D = 2   S = 10
+Total discard = 269   Total Move = 1238
+Clear = 88   Together = 0
+Score = 1849
+
+Seed = 1028
+N = 8   D = 4   S = 8
+Total discard = 155   Total Move = 560
+Clear = 41   Together = 0
+Score = 733
+
+Seed = 1029
+N = 9   D = 3   S = 10
+Total discard = 677   Total Move = 2881
+Clear = 189   Together = 1
+Score = 4124
+
+Seed = 1030
+N = 8   D = 3   S = 8
+Total discard = 58   Total Move = 212
+Clear = 15   Together = 0
+Score = 274
+
+Seed = 1031
+N = 9   D = 4   S = 10
+Total discard = 148   Total Move = 649
+Clear = 38   Together = 0
+Score = 881
+
+Seed = 1032
+N = 7   D = 4   S = 9
+Total discard = 2241   Total Move = 10000
+Clear = 782   Together = 2
+Score = 14851
+
+Seed = 1033
+N = 5   D = 4   S = 8
+Total discard = 162   Total Move = 10000
+Clear = 1146   Together = 4
+Score = 19102
+
+Seed = 1034
+N = 6   D = 3   S = 9
+Total discard = 1271   Total Move = 10000
+Clear = 887   Together = 4
+Score = 16820
+
+Seed = 1035
+N = 4   D = 2   S = 8
+Total discard = 193   Total Move = 10000
+Clear = 1179   Together = 0
+Score = 19239
+
+Seed = 1036
+N = 9   D = 4   S = 12
+Total discard = 2357   Total Move = 10000
+Clear = 565   Together = 1
+Score = 14459
+
+Seed = 1037
+N = 7   D = 2   S = 10
+Total discard = 519   Total Move = 2487
+Clear = 177   Together = 0
+Score = 3738
+
+Seed = 1038
+N = 9   D = 2   S = 11
+Total discard = 502   Total Move = 2272
+Clear = 143   Together = 0
+Score = 3343
+
+Seed = 1039
+N = 5   D = 3   S = 12
+Total discard = 188   Total Move = 10000
+Clear = 783   Together = 0
+Score = 19208
+
+Seed = 1040
+N = 7   D = 2   S = 10
+Total discard = 2136   Total Move = 10000
+Clear = 718   Together = 1
+Score = 15074
+
+Seed = 1041
+N = 5   D = 4   S = 9
+Total discard = 140   Total Move = 10000
+Clear = 1030   Together = 1
+Score = 19157
+
+Seed = 1042
+N = 6   D = 4   S = 12
+Total discard = 1177   Total Move = 10000
+Clear = 690   Together = 0
+Score = 17103
+
+Seed = 1043
+N = 7   D = 3   S = 12
+Total discard = 2020   Total Move = 10000
+Clear = 618   Together = 0
+Score = 15396
+
+Seed = 1044
+N = 6   D = 4   S = 11
+Total discard = 1196   Total Move = 10000
+Clear = 755   Together = 0
+Score = 17109
+
+Seed = 1045
+N = 8   D = 3   S = 10
+Total discard = 1616   Total Move = 6396
+Clear = 426   Together = 1
+Score = 9070
+
+Seed = 1046
+N = 6   D = 4   S = 8
+Total discard = 1433   Total Move = 10000
+Clear = 981   Together = 2
+Score = 16463
+
+Seed = 1047
+N = 7   D = 4   S = 11
+Total discard = 2016   Total Move = 10000
+Clear = 671   Together = 1
+Score = 15398
+
+Seed = 1048
+N = 7   D = 3   S = 8
+Total discard = 979   Total Move = 4257
+Clear = 361   Together = 1
+Score = 6190
+
+Seed = 1049
+N = 8   D = 3   S = 12
+Total discard = 2484   Total Move = 10000
+Clear = 562   Together = 1
+Score = 14296
+
+Seed = 1050
+N = 9   D = 2   S = 11
+Total discard = 427   Total Move = 1878
+Clear = 116   Together = 0
+Score = 2727
+
+Seed = 1051
+N = 7   D = 3   S = 10
+Total discard = 1771   Total Move = 8560
+Clear = 613   Together = 2
+Score = 12979
+
+Seed = 1052
+N = 7   D = 2   S = 12
+Total discard = 1864   Total Move = 10000
+Clear = 628   Together = 0
+Score = 15672
+
+Seed = 1053
+N = 10   D = 4   S = 12
+Total discard = 3202   Total Move = 10000
+Clear = 488   Together = 0
+Score = 12654
+
+Seed = 1054
+N = 8   D = 4   S = 12
+Total discard = 2455   Total Move = 10000
+Clear = 568   Together = 1
+Score = 14397
+
+Seed = 1055
+N = 4   D = 4   S = 9
+Total discard = 228   Total Move = 10000
+Clear = 1048   Together = 0
+Score = 19204
+
+Seed = 1056
+N = 8   D = 2   S = 9
+Total discard = 380   Total Move = 1554
+Clear = 112   Together = 0
+Score = 2182
+
+Seed = 1057
+N = 6   D = 3   S = 10
+Total discard = 582   Total Move = 4934
+Clear = 403   Together = 1
+Score = 8412
+
+Seed = 1058
+N = 6   D = 2   S = 11
+Total discard = 842   Total Move = 7239
+Clear = 543   Together = 2
+Score = 12436
+
+Seed = 1059
+N = 8   D = 3   S = 10
+Total discard = 2620   Total Move = 10000
+Clear = 652   Together = 1
+Score = 13930
+
+Seed = 1060
+N = 10   D = 4   S = 11
+Total discard = 980   Total Move = 3049
+Clear = 161   Together = 0
+Score = 3840
+
+Seed = 1061
+N = 10   D = 3   S = 10
+Total discard = 25   Total Move = 95
+Clear = 4   Together = 0
+Score = 110
+
+Seed = 1062
+N = 7   D = 4   S = 8
+Total discard = 237   Total Move = 943
+Clear = 73   Together = 0
+Score = 1290
+
+Seed = 1063
+N = 6   D = 4   S = 12
+Total discard = 1099   Total Move = 10000
+Clear = 697   Together = 0
+Score = 17265
+
+Seed = 1064
+N = 7   D = 4   S = 8
+Total discard = 126   Total Move = 512
+Clear = 40   Together = 0
+Score = 706
+
+Seed = 1065
+N = 8   D = 4   S = 9
+Total discard = 664   Total Move = 2394
+Clear = 157   Together = 3
+Score = 3224
+
+Seed = 1066
+N = 7   D = 2   S = 11
+Total discard = 491   Total Move = 2289
+Clear = 148   Together = 0
+Score = 3426
+
+Seed = 1067
+N = 10   D = 4   S = 9
+Total discard = 132   Total Move = 417
+Clear = 23   Together = 0
+Score = 492
+
+Seed = 1068
+N = 8   D = 3   S = 11
+Total discard = 1696   Total Move = 6652
+Clear = 400   Together = 1
+Score = 9389
+
+Seed = 1069
+N = 6   D = 3   S = 10
+Total discard = 1192   Total Move = 10000
+Clear = 822   Together = 2
+Score = 17088
+
+Seed = 1070
+N = 5   D = 3   S = 10
+Total discard = 159   Total Move = 10000
+Clear = 936   Together = 0
+Score = 19201
+
+Seed = 1071
+N = 7   D = 2   S = 11
+Total discard = 894   Total Move = 4529
+Clear = 302   Together = 0
+Score = 6957
+
+Seed = 1072
+N = 8   D = 2   S = 11
+Total discard = 597   Total Move = 2578
+Clear = 161   Together = 0
+Score = 3752
+
+Seed = 1073
+N = 5   D = 4   S = 12
+Total discard = 171   Total Move = 10000
+Clear = 786   Together = 0
+Score = 19261
+
+Seed = 1074
+N = 6   D = 2   S = 9
+Total discard = 170   Total Move = 1319
+Clear = 117   Together = 0
+Score = 2202
+
+Seed = 1075
+N = 9   D = 3   S = 9
+Total discard = 21   Total Move = 109
+Clear = 7   Together = 0
+Score = 151
+
+Seed = 1076
+N = 7   D = 3   S = 10
+Total discard = 2127   Total Move = 10000
+Clear = 711   Together = 1
+Score = 15013
+
+Seed = 1077
+N = 4   D = 2   S = 10
+Total discard = 197   Total Move = 10000
+Clear = 952   Together = 0
+Score = 19323
+
+Seed = 1078
+N = 7   D = 3   S = 12
+Total discard = 1910   Total Move = 10000
+Clear = 622   Together = 0
+Score = 15554
+
+Seed = 1079
+N = 8   D = 2   S = 12
+Total discard = 2332   Total Move = 9756
+Clear = 558   Together = 0
+Score = 14120
+
+Seed = 1080
+N = 9   D = 4   S = 12
+Total discard = 1031   Total Move = 4374
+Clear = 240   Together = 0
+Score = 6223
+
+Seed = 1081
+N = 4   D = 4   S = 9
+Total discard = 212   Total Move = 10000
+Clear = 1053   Together = 0
+Score = 19265
+
+Seed = 1082
+N = 9   D = 3   S = 10
+Total discard = 721   Total Move = 3233
+Clear = 216   Together = 0
+Score = 4672
+
+Seed = 1083
+N = 7   D = 2   S = 8
+Total discard = 76   Total Move = 377
+Clear = 33   Together = 0
+Score = 565
+
+Seed = 1084
+N = 8   D = 4   S = 8
+Total discard = 46   Total Move = 211
+Clear = 14   Together = 0
+Score = 277
+
+Seed = 1085
+N = 5   D = 4   S = 12
+Total discard = 188   Total Move = 10000
+Clear = 782   Together = 0
+Score = 19196
+
+Seed = 1086
+N = 5   D = 3   S = 8
+Total discard = 177   Total Move = 10000
+Clear = 1152   Together = 1
+Score = 19063
+
+Seed = 1087
+N = 9   D = 3   S = 10
+Total discard = 89   Total Move = 384
+Clear = 21   Together = 0
+Score = 505
+
+Seed = 1088
+N = 9   D = 3   S = 11
+Total discard = 512   Total Move = 2296
+Clear = 137   Together = 0
+Score = 3291
+
+Seed = 1089
+N = 7   D = 4   S = 10
+Total discard = 2151   Total Move = 10000
+Clear = 707   Together = 2
+Score = 14979
+
+Seed = 1090
+N = 9   D = 2   S = 12
+Total discard = 827   Total Move = 3558
+Clear = 193   Together = 1
+Score = 5083
+
+Seed = 1091
+N = 8   D = 2   S = 8
+Total discard = 67   Total Move = 289
+Clear = 20   Together = 0
+Score = 382
+
+Seed = 1092
+N = 8   D = 3   S = 8
+Total discard = 53   Total Move = 236
+Clear = 15   Together = 0
+Score = 303
+
+Seed = 1093
+N = 8   D = 4   S = 9
+Total discard = 269   Total Move = 1065
+Clear = 72   Together = 0
+Score = 1444
+
+Seed = 1094
+N = 10   D = 3   S = 8
+Total discard = 126   Total Move = 394
+Clear = 25   Together = 0
+Score = 468
+
+Seed = 1095
+N = 8   D = 4   S = 12
+Total discard = 2498   Total Move = 10000
+Clear = 567   Together = 0
+Score = 14306
+
+Seed = 1096
+N = 8   D = 2   S = 12
+Total discard = 2308   Total Move = 10000
+Clear = 583   Together = 0
+Score = 14688
+
+Seed = 1097
+N = 5   D = 3   S = 12
+Total discard = 188   Total Move = 10000
+Clear = 783   Together = 0
+Score = 19208
+
+Seed = 1098
+N = 10   D = 3   S = 8
+Total discard = 117   Total Move = 397
+Clear = 24   Together = 1
+Score = 496
+
+Seed = 1099
+N = 10   D = 4   S = 9
+Total discard = 220   Total Move = 672
+Clear = 40   Together = 0
+Score = 812
+
+Seed = 1100
+N = 10   D = 2   S = 12
+Total discard = 1147   Total Move = 3932
+Clear = 200   Together = 0
+Score = 5185
+
+Seed = 1101
+N = 6   D = 3   S = 10
+Total discard = 1255   Total Move = 10000
+Clear = 816   Together = 0
+Score = 16905
+
+Seed = 1102
+N = 5   D = 4   S = 12
+Total discard = 194   Total Move = 10000
+Clear = 791   Together = 0
+Score = 19298
+
+Seed = 1103
+N = 7   D = 4   S = 11
+Total discard = 2024   Total Move = 10000
+Clear = 665   Together = 0
+Score = 15291
+
+Seed = 1104
+N = 6   D = 2   S = 12
+Total discard = 1134   Total Move = 10000
+Clear = 695   Together = 1
+Score = 17242
+
+Seed = 1105
+N = 10   D = 3   S = 11
+Total discard = 1163   Total Move = 3707
+Clear = 195   Together = 0
+Score = 4689
+
+Seed = 1106
+N = 5   D = 4   S = 11
+Total discard = 170   Total Move = 10000
+Clear = 856   Together = 0
+Score = 19246
+
+Seed = 1107
+N = 8   D = 2   S = 9
+Total discard = 88   Total Move = 344
+Clear = 20   Together = 0
+Score = 436
+
+Seed = 1108
+N = 8   D = 4   S = 9
+Total discard = 399   Total Move = 1545
+Clear = 110   Together = 2
+Score = 2190
+
+Seed = 1109
+N = 6   D = 4   S = 10
+Total discard = 1304   Total Move = 10000
+Clear = 810   Together = 0
+Score = 16796
+
+Seed = 1110
+N = 7   D = 4   S = 10
+Total discard = 2148   Total Move = 10000
+Clear = 707   Together = 0
+Score = 14922
+
+Seed = 1111
+N = 6   D = 4   S = 12
+Total discard = 1097   Total Move = 10000
+Clear = 699   Together = 0
+Score = 17291
+
+Seed = 1112
+N = 6   D = 2   S = 11
+Total discard = 628   Total Move = 5467
+Clear = 413   Together = 0
+Score = 9382
+
+Seed = 1113
+N = 6   D = 3   S = 8
+Total discard = 502   Total Move = 3387
+Clear = 325   Together = 1
+Score = 5509
+
+Seed = 1114
+N = 9   D = 3   S = 12
+Total discard = 2277   Total Move = 10000
+Clear = 573   Together = 0
+Score = 14599
+
+Seed = 1115
+N = 9   D = 3   S = 9
+Total discard = 51   Total Move = 236
+Clear = 14   Together = 0
+Score = 311
+
+Seed = 1116
+N = 9   D = 2   S = 12
+Total discard = 2131   Total Move = 10000
+Clear = 583   Together = 0
+Score = 14865
+
+Seed = 1117
+N = 7   D = 4   S = 8
+Total discard = 127   Total Move = 557
+Clear = 43   Together = 0
+Score = 774
+
+Seed = 1118
+N = 10   D = 4   S = 10
+Total discard = 532   Total Move = 1689
+Clear = 93   Together = 0
+Score = 2087
+
+Seed = 1119
+N = 10   D = 4   S = 10
+Total discard = 240   Total Move = 772
+Clear = 40   Together = 0
+Score = 932
+
+Seed = 1120
+N = 10   D = 2   S = 10
+Total discard = 346   Total Move = 1101
+Clear = 61   Together = 0
+Score = 1365
+
+Seed = 1121
+N = 8   D = 2   S = 12
+Total discard = 2275   Total Move = 10000
+Clear = 578   Together = 1
+Score = 14697
+
+Seed = 1122
+N = 4   D = 2   S = 10
+Total discard = 232   Total Move = 10000
+Clear = 944   Together = 0
+Score = 19208
+
+Seed = 1123
+N = 7   D = 4   S = 12
+Total discard = 1975   Total Move = 10000
+Clear = 615   Together = 1
+Score = 15441
+
+Seed = 1124
+N = 6   D = 4   S = 8
+Total discard = 1332   Total Move = 10000
+Clear = 989   Together = 5
+Score = 16700
+
+Seed = 1125
+N = 4   D = 4   S = 12
+Total discard = 198   Total Move = 10000
+Clear = 790   Together = 0
+Score = 19282
+
+Seed = 1126
+N = 6   D = 4   S = 9
+Total discard = 866   Total Move = 6641
+Clear = 582   Together = 3
+Score = 11094
+
+Seed = 1127
+N = 10   D = 4   S = 8
+Total discard = 48   Total Move = 146
+Clear = 6   Together = 0
+Score = 146
+
+Seed = 1128
+N = 10   D = 3   S = 10
+Total discard = 191   Total Move = 598
+Clear = 29   Together = 0
+Score = 697
+
+Seed = 1129
+N = 7   D = 4   S = 12
+Total discard = 2019   Total Move = 10000
+Clear = 613   Together = 0
+Score = 15337
+
+Seed = 1130
+N = 7   D = 3   S = 9
+Total discard = 2200   Total Move = 10000
+Clear = 784   Together = 1
+Score = 14883
+
+Seed = 1131
+N = 9   D = 3   S = 12
+Total discard = 2299   Total Move = 10000
+Clear = 569   Together = 1
+Score = 14565
+
+Seed = 1132
+N = 7   D = 4   S = 10
+Total discard = 2214   Total Move = 10000
+Clear = 700   Together = 1
+Score = 14816
+
+Seed = 1133
+N = 6   D = 3   S = 12
+Total discard = 1173   Total Move = 10000
+Clear = 691   Together = 0
+Score = 17119
+
+Seed = 1134
+N = 5   D = 2   S = 9
+Total discard = 163   Total Move = 10000
+Clear = 1038   Together = 0
+Score = 19179
+
+Seed = 1135
+N = 9   D = 4   S = 12
+Total discard = 1529   Total Move = 6720
+Clear = 382   Together = 1
+Score = 9811
+
+Seed = 1136
+N = 6   D = 3   S = 9
+Total discard = 1355   Total Move = 10000
+Clear = 883   Together = 0
+Score = 16592
+
+Seed = 1137
+N = 10   D = 2   S = 11
+Total discard = 630   Total Move = 1974
+Clear = 103   Together = 0
+Score = 2477
+
+Seed = 1138
+N = 8   D = 3   S = 12
+Total discard = 2413   Total Move = 10000
+Clear = 577   Together = 0
+Score = 14511
+
+Seed = 1139
+N = 6   D = 2   S = 10
+Total discard = 1191   Total Move = 10000
+Clear = 822   Together = 0
+Score = 17029
+
+Seed = 1140
+N = 4   D = 2   S = 12
+Total discard = 192   Total Move = 10000
+Clear = 793   Together = 0
+Score = 19324
+
+Seed = 1141
+N = 5   D = 3   S = 11
+Total discard = 165   Total Move = 10000
+Clear = 859   Together = 0
+Score = 19284
+
+Seed = 1142
+N = 5   D = 2   S = 10
+Total discard = 192   Total Move = 10000
+Clear = 929   Together = 1
+Score = 19128
+
+Seed = 1143
+N = 9   D = 2   S = 8
+Total discard = 13   Total Move = 64
+Clear = 3   Together = 0
+Score = 75
+
+Seed = 1144
+N = 10   D = 2   S = 10
+Total discard = 3   Total Move = 41
+Clear = 2   Together = 0
+Score = 58
+
+Seed = 1145
+N = 5   D = 3   S = 12
+Total discard = 181   Total Move = 10000
+Clear = 785   Together = 0
+Score = 19239
+
+Seed = 1146
+N = 8   D = 2   S = 10
+Total discard = 1764   Total Move = 7071
+Clear = 468   Together = 0
+Score = 9987
+
+Seed = 1147
+N = 4   D = 3   S = 8
+Total discard = 201   Total Move = 10000
+Clear = 1171   Together = 2
+Score = 19215
+
+Seed = 1148
+N = 5   D = 4   S = 12
+Total discard = 205   Total Move = 10000
+Clear = 785   Together = 0
+Score = 19215
+
+Seed = 1149
+N = 4   D = 2   S = 8
+Total discard = 195   Total Move = 10000
+Clear = 1174   Together = 0
+Score = 19197
+
+Seed = 1150
+N = 7   D = 4   S = 12
+Total discard = 1991   Total Move = 10000
+Clear = 618   Together = 0
+Score = 15425
+
+Seed = 1151
+N = 5   D = 2   S = 12
+Total discard = 191   Total Move = 10000
+Clear = 780   Together = 0
+Score = 19169
+
+Seed = 1152
+N = 4   D = 3   S = 10
+Total discard = 212   Total Move = 10000
+Clear = 945   Together = 1
+Score = 19268
+
+Seed = 1153
+N = 8   D = 4   S = 10
+Total discard = 2629   Total Move = 10000
+Clear = 658   Together = 1
+Score = 13981
+
+Seed = 1154
+N = 6   D = 4   S = 11
+Total discard = 1137   Total Move = 10000
+Clear = 753   Together = 0
+Score = 17146
+
+Seed = 1155
+N = 7   D = 2   S = 8
+Total discard = 84   Total Move = 417
+Clear = 32   Together = 0
+Score = 589
+
+Seed = 1156
+N = 5   D = 3   S = 10
+Total discard = 154   Total Move = 10000
+Clear = 938   Together = 1
+Score = 19256
+
+Seed = 1157
+N = 9   D = 2   S = 8
+Total discard = 103   Total Move = 418
+Clear = 30   Together = 0
+Score = 555
+
+Seed = 1158
+N = 6   D = 4   S = 11
+Total discard = 1162   Total Move = 10000
+Clear = 749   Together = 0
+Score = 17077
+
+Seed = 1159
+N = 7   D = 3   S = 8
+Total discard = 88   Total Move = 341
+Clear = 24   Together = 0
+Score = 445
+
+Seed = 1160
+N = 8   D = 4   S = 10
+Total discard = 746   Total Move = 2843
+Clear = 179   Together = 0
+Score = 3887
+
+Seed = 1161
+N = 5   D = 3   S = 9
+Total discard = 140   Total Move = 10000
+Clear = 1038   Together = 1
+Score = 19229
+
+Seed = 1162
+N = 10   D = 3   S = 11
+Total discard = 631   Total Move = 1938
+Clear = 99   Together = 0
+Score = 2396
+
+Seed = 1163
+N = 9   D = 3   S = 8
+Total discard = 35   Total Move = 155
+Clear = 9   Together = 0
+Score = 192
+
+Seed = 1164
+N = 8   D = 4   S = 10
+Total discard = 2670   Total Move = 10000
+Clear = 646   Together = 2
+Score = 13850
+
+Seed = 1165
+N = 8   D = 2   S = 10
+Total discard = 931   Total Move = 3767
+Clear = 246   Together = 1
+Score = 5326
+
+Seed = 1166
+N = 9   D = 4   S = 11
+Total discard = 220   Total Move = 949
+Clear = 50   Together = 0
+Score = 1279
+
+Seed = 1167
+N = 6   D = 2   S = 12
+Total discard = 1136   Total Move = 10000
+Clear = 694   Together = 0
+Score = 17192
+
+Seed = 1168
+N = 10   D = 3   S = 12
+Total discard = 1151   Total Move = 3569
+Clear = 167   Together = 0
+Score = 4422
+
+Seed = 1169
+N = 6   D = 4   S = 10
+Total discard = 1334   Total Move = 10000
+Clear = 806   Together = 0
+Score = 16726
+
+Seed = 1170
+N = 5   D = 4   S = 12
+Total discard = 177   Total Move = 10000
+Clear = 783   Together = 0
+Score = 19219
+
+Seed = 1171
+N = 10   D = 4   S = 9
+Total discard = 42   Total Move = 140
+Clear = 8   Together = 0
+Score = 170
+
+Seed = 1172
+N = 7   D = 2   S = 12
+Total discard = 1922   Total Move = 10000
+Clear = 623   Together = 0
+Score = 15554
+
+Seed = 1173
+N = 10   D = 4   S = 10
+Total discard = 104   Total Move = 331
+Clear = 14   Together = 0
+Score = 367
+
+Seed = 1174
+N = 6   D = 4   S = 8
+Total discard = 1306   Total Move = 9322
+Clear = 913   Together = 2
+Score = 15368
+
+Seed = 1175
+N = 6   D = 2   S = 8
+Total discard = 32   Total Move = 257
+Clear = 21   Together = 0
+Score = 393
+
+Seed = 1176
+N = 8   D = 3   S = 11
+Total discard = 2501   Total Move = 10000
+Clear = 617   Together = 2
+Score = 14352
+
+Seed = 1177
+N = 4   D = 4   S = 9
+Total discard = 193   Total Move = 10000
+Clear = 1051   Together = 0
+Score = 19266
+
+Seed = 1178
+N = 4   D = 3   S = 12
+Total discard = 218   Total Move = 10000
+Clear = 788   Together = 0
+Score = 19238
+
+Seed = 1179
+N = 5   D = 2   S = 9
+Total discard = 155   Total Move = 10000
+Clear = 1034   Together = 1
+Score = 19178
+
+Seed = 1180
+N = 8   D = 2   S = 8
+Total discard = 112   Total Move = 378
+Clear = 27   Together = 0
+Score = 482
+
+Seed = 1181
+N = 10   D = 3   S = 8
+Total discard = 43   Total Move = 154
+Clear = 9   Together = 0
+Score = 183
+
+Seed = 1182
+N = 7   D = 2   S = 9
+Total discard = 448   Total Move = 2076
+Clear = 159   Together = 0
+Score = 3059
+
+Seed = 1183
+N = 4   D = 2   S = 12
+Total discard = 234   Total Move = 10000
+Clear = 787   Together = 0
+Score = 19210
+
+Seed = 1184
+N = 6   D = 2   S = 11
+Total discard = 1093   Total Move = 10000
+Clear = 762   Together = 0
+Score = 17289
+
+Seed = 1185
+N = 5   D = 2   S = 8
+Total discard = 164   Total Move = 10000
+Clear = 1157   Together = 1
+Score = 19116
+
+Seed = 1186
+N = 9   D = 2   S = 9
+Total discard = 132   Total Move = 616
+Clear = 43   Together = 0
+Score = 871
+
+Seed = 1187
+N = 5   D = 2   S = 12
+Total discard = 176   Total Move = 10000
+Clear = 787   Together = 0
+Score = 19268
+
+Seed = 1188
+N = 7   D = 2   S = 8
+Total discard = 272   Total Move = 1231
+Clear = 98   Together = 3
+Score = 1815
+
+Seed = 1189
+N = 4   D = 2   S = 12
+Total discard = 222   Total Move = 10000
+Clear = 792   Together = 0
+Score = 19282
+
+Seed = 1190
+N = 9   D = 3   S = 11
+Total discard = 2385   Total Move = 10000
+Clear = 617   Together = 1
+Score = 14435
+
+Seed = 1191
+N = 4   D = 3   S = 10
+Total discard = 205   Total Move = 10000
+Clear = 950   Together = 0
+Score = 19295
+
+Seed = 1192
+N = 8   D = 4   S = 12
+Total discard = 2505   Total Move = 10000
+Clear = 564   Together = 0
+Score = 14263
+
+Seed = 1193
+N = 6   D = 3   S = 9
+Total discard = 1049   Total Move = 8345
+Clear = 744   Together = 1
+Score = 14019
+
+Seed = 1194
+N = 10   D = 2   S = 12
+Total discard = 1263   Total Move = 4283
+Clear = 216   Together = 0
+Score = 5612
+
+Seed = 1195
+N = 8   D = 4   S = 10
+Total discard = 2569   Total Move = 10000
+Clear = 660   Together = 0
+Score = 14031
+
+Seed = 1196
+N = 5   D = 2   S = 9
+Total discard = 143   Total Move = 10000
+Clear = 1039   Together = 0
+Score = 19208
+
+Seed = 1197
+N = 7   D = 2   S = 10
+Total discard = 473   Total Move = 2493
+Clear = 183   Together = 0
+Score = 3850
+
+Seed = 1198
+N = 6   D = 2   S = 8
+Total discard = 5   Total Move = 49
+Clear = 4   Together = 0
+Score = 76
+
+Seed = 1199
+N = 9   D = 2   S = 8
+Total discard = 97   Total Move = 439
+Clear = 32   Together = 0
+Score = 598
+
+Seed = 1200
+N = 9   D = 3   S = 12
+Total discard = 2328   Total Move = 10000
+Clear = 564   Together = 0
+Score = 14440
+
+Seed = 1201
+N = 6   D = 3   S = 11
+Total discard = 1168   Total Move = 10000
+Clear = 756   Together = 0
+Score = 17148
+
+Seed = 1202
+N = 5   D = 4   S = 8
+Total discard = 155   Total Move = 10000
+Clear = 1153   Together = 4
+Score = 19165
+
+Seed = 1203
+N = 8   D = 2   S = 10
+Total discard = 202   Total Move = 791
+Clear = 49   Together = 0
+Score = 1079
+
+Seed = 1204
+N = 8   D = 2   S = 12
+Total discard = 2379   Total Move = 10000
+Clear = 575   Together = 0
+Score = 14521
+
+Seed = 1205
+N = 5   D = 2   S = 9
+Total discard = 167   Total Move = 10000
+Clear = 1033   Together = 1
+Score = 19157
+
+Seed = 1206
+N = 10   D = 3   S = 9
+Total discard = 41   Total Move = 182
+Clear = 10   Together = 0
+Score = 231
+
+Seed = 1207
+N = 4   D = 3   S = 12
+Total discard = 219   Total Move = 10000
+Clear = 791   Together = 1
+Score = 19309
+
+Seed = 1208
+N = 6   D = 2   S = 10
+Total discard = 517   Total Move = 4281
+Clear = 348   Together = 1
+Score = 7274
+
+Seed = 1209
+N = 5   D = 4   S = 12
+Total discard = 205   Total Move = 10000
+Clear = 784   Together = 0
+Score = 19203
+
+Seed = 1210
+N = 5   D = 4   S = 8
+Total discard = 172   Total Move = 10000
+Clear = 1150   Together = 2
+Score = 19076
+
+Seed = 1211
+N = 5   D = 4   S = 8
+Total discard = 164   Total Move = 10000
+Clear = 1148   Together = 3
+Score = 19092
+
+Seed = 1212
+N = 10   D = 4   S = 12
+Total discard = 3109   Total Move = 10000
+Clear = 501   Together = 0
+Score = 12903
+
+Seed = 1213
+N = 4   D = 4   S = 10
+Total discard = 200   Total Move = 10000
+Clear = 947   Together = 1
+Score = 19300
+
+Seed = 1214
+N = 10   D = 4   S = 9
+Total discard = 100   Total Move = 287
+Clear = 15   Together = 0
+Score = 322
+
+Seed = 1215
+N = 8   D = 3   S = 9
+Total discard = 253   Total Move = 899
+Clear = 60   Together = 0
+Score = 1186
+
+Seed = 1216
+N = 8   D = 2   S = 10
+Total discard = 844   Total Move = 3394
+Clear = 226   Together = 0
+Score = 4810
+
+Seed = 1217
+N = 9   D = 4   S = 12
+Total discard = 441   Total Move = 1734
+Clear = 87   Together = 0
+Score = 2337
+
+Seed = 1218
+N = 5   D = 2   S = 10
+Total discard = 155   Total Move = 10000
+Clear = 941   Together = 1
+Score = 19285
+
+Seed = 1219
+N = 4   D = 4   S = 9
+Total discard = 210   Total Move = 10000
+Clear = 1051   Together = 0
+Score = 19249
+
+Seed = 1220
+N = 9   D = 4   S = 8
+Total discard = 56   Total Move = 201
+Clear = 10   Together = 1
+Score = 249
+
+Seed = 1221
+N = 5   D = 3   S = 8
+Total discard = 164   Total Move = 10000
+Clear = 1144   Together = 3
+Score = 19060
+
+Seed = 1222
+N = 10   D = 4   S = 10
+Total discard = 249   Total Move = 819
+Clear = 43   Together = 0
+Score = 1000
+
+Seed = 1223
+N = 10   D = 3   S = 12
+Total discard = 3199   Total Move = 10000
+Clear = 490   Together = 0
+Score = 12681
+
+Seed = 1224
+N = 5   D = 4   S = 9
+Total discard = 140   Total Move = 10000
+Clear = 1029   Together = 1
+Score = 19148
+
+Seed = 1225
+N = 10   D = 3   S = 12
+Total discard = 3227   Total Move = 10000
+Clear = 494   Together = 0
+Score = 12701
+
+Seed = 1226
+N = 4   D = 2   S = 11
+Total discard = 175   Total Move = 10000
+Clear = 864   Together = 0
+Score = 19329
+
+Seed = 1227
+N = 10   D = 4   S = 10
+Total discard = 164   Total Move = 542
+Clear = 27   Together = 0
+Score = 648
+
+Seed = 1228
+N = 9   D = 3   S = 8
+Total discard = 9   Total Move = 36
+Clear = 2   Together = 0
+Score = 43
+
+Seed = 1229
+N = 9   D = 4   S = 12
+Total discard = 267   Total Move = 1244
+Clear = 66   Together = 0
+Score = 1769
+
+Seed = 1230
+N = 5   D = 2   S = 11
+Total discard = 179   Total Move = 10000
+Clear = 855   Together = 0
+Score = 19226
+
+Seed = 1231
+N = 8   D = 2   S = 11
+Total discard = 2365   Total Move = 10000
+Clear = 625   Together = 1
+Score = 14543
+
+Seed = 1232
+N = 5   D = 3   S = 12
+Total discard = 170   Total Move = 10000
+Clear = 789   Together = 0
+Score = 19298
+
+Seed = 1233
+N = 10   D = 2   S = 11
+Total discard = 99   Total Move = 380
+Clear = 19   Together = 0
+Score = 490
+
+Seed = 1234
+N = 10   D = 2   S = 9
+Total discard = 72   Total Move = 242
+Clear = 14   Together = 0
+Score = 296
+
+Seed = 1235
+N = 10   D = 2   S = 12
+Total discard = 1614   Total Move = 5462
+Clear = 282   Together = 0
+Score = 7232
+
+Seed = 1236
+N = 9   D = 2   S = 8
+Total discard = 56   Total Move = 250
+Clear = 19   Together = 0
+Score = 346
+
+Seed = 1237
+N = 9   D = 4   S = 9
+Total discard = 44   Total Move = 225
+Clear = 12   Together = 0
+Score = 289
+
+Seed = 1238
+N = 4   D = 3   S = 9
+Total discard = 188   Total Move = 10000
+Clear = 1054   Together = 0
+Score = 19298
+
+Seed = 1239
+N = 9   D = 3   S = 8
+Total discard = 164   Total Move = 656
+Clear = 48   Together = 0
+Score = 876
+
+Seed = 1240
+N = 5   D = 3   S = 8
+Total discard = 57   Total Move = 3649
+Clear = 422   Together = 0
+Score = 6968
+
+Seed = 1241
+N = 8   D = 4   S = 10
+Total discard = 243   Total Move = 901
+Clear = 58   Together = 0
+Score = 1238
+
+Seed = 1242
+N = 6   D = 4   S = 9
+Total discard = 1292   Total Move = 10000
+Clear = 898   Together = 1
+Score = 16817
+
+Seed = 1243
+N = 5   D = 2   S = 9
+Total discard = 154   Total Move = 10000
+Clear = 1043   Together = 1
+Score = 19260
+
+Seed = 1244
+N = 6   D = 4   S = 9
+Total discard = 1361   Total Move = 10000
+Clear = 886   Together = 1
+Score = 16640
+
+Seed = 1245
+N = 6   D = 4   S = 10
+Total discard = 1259   Total Move = 10000
+Clear = 816   Together = 0
+Score = 16901
+
+Seed = 1246
+N = 7   D = 3   S = 9
+Total discard = 937   Total Move = 4395
+Clear = 348   Together = 0
+Score = 6590
+
+Seed = 1247
+N = 10   D = 3   S = 12
+Total discard = 3195   Total Move = 10000
+Clear = 493   Together = 0
+Score = 12721
+
+Seed = 1248
+N = 9   D = 2   S = 11
+Total discard = 1048   Total Move = 4710
+Clear = 287   Together = 0
+Score = 6819
+
+Seed = 1249
+N = 6   D = 3   S = 9
+Total discard = 1288   Total Move = 10000
+Clear = 893   Together = 1
+Score = 16776
+
+Seed = 1250
+N = 8   D = 2   S = 8
+Total discard = 74   Total Move = 317
+Clear = 19   Together = 0
+Score = 395
+
+Seed = 1251
+N = 5   D = 4   S = 11
+Total discard = 168   Total Move = 10000
+Clear = 856   Together = 0
+Score = 19248
+
+Seed = 1252
+N = 6   D = 4   S = 12
+Total discard = 1076   Total Move = 10000
+Clear = 701   Together = 0
+Score = 17336
+
+Seed = 1253
+N = 4   D = 4   S = 9
+Total discard = 224   Total Move = 10000
+Clear = 1047   Together = 0
+Score = 19199
+
+Seed = 1254
+N = 5   D = 2   S = 11
+Total discard = 178   Total Move = 10000
+Clear = 855   Together = 0
+Score = 19227
+
+Seed = 1255
+N = 5   D = 3   S = 8
+Total discard = 134   Total Move = 7843
+Clear = 903   Together = 0
+Score = 14933
+
+Seed = 1256
+N = 9   D = 3   S = 9
+Total discard = 139   Total Move = 591
+Clear = 39   Together = 0
+Score = 803
+
+Seed = 1257
+N = 7   D = 3   S = 11
+Total discard = 2080   Total Move = 10000
+Clear = 656   Together = 0
+Score = 15136
+
+Seed = 1258
+N = 5   D = 4   S = 11
+Total discard = 193   Total Move = 10000
+Clear = 849   Together = 2
+Score = 19212
+
+Seed = 1259
+N = 7   D = 4   S = 8
+Total discard = 225   Total Move = 924
+Clear = 74   Together = 0
+Score = 1291
+
+Seed = 1260
+N = 9   D = 3   S = 10
+Total discard = 146   Total Move = 735
+Clear = 52   Together = 0
+Score = 1109
+
+Seed = 1261
+N = 8   D = 2   S = 12
+Total discard = 2206   Total Move = 9532
+Clear = 547   Together = 0
+Score = 13890
+
+Seed = 1262
+N = 9   D = 2   S = 11
+Total discard = 613   Total Move = 2755
+Clear = 167   Together = 0
+Score = 3979
+
+Seed = 1263
+N = 4   D = 4   S = 9
+Total discard = 198   Total Move = 10000
+Clear = 1057   Together = 0
+Score = 19315
+
+Seed = 1264
+N = 6   D = 2   S = 8
+Total discard = 340   Total Move = 2517
+Clear = 252   Together = 0
+Score = 4193
+
+Seed = 1265
+N = 5   D = 2   S = 12
+Total discard = 178   Total Move = 10000
+Clear = 782   Together = 0
+Score = 19206
+
+Seed = 1266
+N = 8   D = 4   S = 10
+Total discard = 2645   Total Move = 10000
+Clear = 651   Together = 2
+Score = 13925
+
+Seed = 1267
+N = 8   D = 2   S = 10
+Total discard = 1671   Total Move = 6770
+Clear = 455   Together = 0
+Score = 9649
+
+Seed = 1268
+N = 8   D = 4   S = 8
+Total discard = 160   Total Move = 568
+Clear = 38   Together = 0
+Score = 712
+
+Seed = 1269
+N = 9   D = 3   S = 10
+Total discard = 279   Total Move = 1218
+Clear = 75   Together = 1
+Score = 1719
+
+Seed = 1270
+N = 6   D = 3   S = 11
+Total discard = 1201   Total Move = 10000
+Clear = 754   Together = 0
+Score = 17093
+
+Seed = 1271
+N = 5   D = 4   S = 8
+Total discard = 187   Total Move = 10000
+Clear = 1145   Together = 2
+Score = 19021
+
+Seed = 1272
+N = 9   D = 3   S = 12
+Total discard = 1073   Total Move = 4802
+Clear = 275   Together = 0
+Score = 7029
+
+Seed = 1273
+N = 9   D = 3   S = 12
+Total discard = 1318   Total Move = 5766
+Clear = 324   Together = 1
+Score = 8372
+
+Seed = 1274
+N = 4   D = 4   S = 9
+Total discard = 221   Total Move = 10000
+Clear = 1044   Together = 0
+Score = 19175
+
+Seed = 1275
+N = 5   D = 4   S = 11
+Total discard = 184   Total Move = 10000
+Clear = 854   Together = 0
+Score = 19210
+
+Seed = 1276
+N = 10   D = 2   S = 9
+Total discard = 60   Total Move = 237
+Clear = 13   Together = 1
+Score = 321
+
+Seed = 1277
+N = 5   D = 2   S = 8
+Total discard = 147   Total Move = 10000
+Clear = 1157   Together = 1
+Score = 19133
+
+Seed = 1278
+N = 4   D = 4   S = 10
+Total discard = 193   Total Move = 10000
+Clear = 950   Together = 0
+Score = 19307
+
+Seed = 1279
+N = 6   D = 3   S = 10
+Total discard = 1228   Total Move = 10000
+Clear = 813   Together = 2
+Score = 16962
+
+Seed = 1280
+N = 10   D = 2   S = 12
+Total discard = 652   Total Move = 2144
+Clear = 103   Together = 1
+Score = 2764
+
+Seed = 1281
+N = 7   D = 4   S = 11
+Total discard = 2067   Total Move = 10000
+Clear = 652   Together = 2
+Score = 15171
+
+Seed = 1282
+N = 4   D = 4   S = 10
+Total discard = 198   Total Move = 10000
+Clear = 950   Together = 1
+Score = 19332
+
+Seed = 1283
+N = 4   D = 4   S = 10
+Total discard = 204   Total Move = 10000
+Clear = 944   Together = 1
+Score = 19266
+
+Seed = 1284
+N = 9   D = 2   S = 9
+Total discard = 98   Total Move = 430
+Clear = 27   Together = 0
+Score = 575
+
+Seed = 1285
+N = 9   D = 2   S = 9
+Total discard = 95   Total Move = 423
+Clear = 28   Together = 0
+Score = 580
+
+Seed = 1286
+N = 9   D = 2   S = 8
+Total discard = 35   Total Move = 176
+Clear = 12   Together = 0
+Score = 237
+
+Seed = 1287
+N = 6   D = 2   S = 8
+Total discard = 62   Total Move = 481
+Clear = 44   Together = 0
+Score = 771
+
+Seed = 1288
+N = 9   D = 3   S = 8
+Total discard = 79   Total Move = 331
+Clear = 23   Together = 0
+Score = 436
+
+Seed = 1289
+N = 10   D = 3   S = 8
+Total discard = 60   Total Move = 195
+Clear = 10   Together = 0
+Score = 215
+
+Seed = 1290
+N = 7   D = 4   S = 8
+Total discard = 136   Total Move = 605
+Clear = 46   Together = 0
+Score = 837
+
+Seed = 1291
+N = 9   D = 3   S = 10
+Total discard = 364   Total Move = 1610
+Clear = 103   Together = 1
+Score = 2306
+
+Seed = 1292
+N = 10   D = 3   S = 10
+Total discard = 241   Total Move = 783
+Clear = 40   Together = 1
+Score = 972
+
+Seed = 1293
+N = 8   D = 3   S = 10
+Total discard = 413   Total Move = 1649
+Clear = 110   Together = 0
+Score = 2336
+
+Seed = 1294
+N = 4   D = 4   S = 8
+Total discard = 213   Total Move = 10000
+Clear = 1171   Together = 0
+Score = 19155
+
+Seed = 1295
+N = 10   D = 4   S = 10
+Total discard = 148   Total Move = 457
+Clear = 21   Together = 0
+Score = 519
+
+Seed = 1296
+N = 10   D = 2   S = 10
+Total discard = 248   Total Move = 820
+Clear = 48   Together = 0
+Score = 1052
+
+Seed = 1297
+N = 5   D = 2   S = 11
+Total discard = 168   Total Move = 10000
+Clear = 858   Together = 0
+Score = 19270
+
+Seed = 1298
+N = 10   D = 4   S = 12
+Total discard = 3137   Total Move = 10000
+Clear = 498   Together = 1
+Score = 12875
+
+Seed = 1299
+N = 10   D = 3   S = 10
+Total discard = 488   Total Move = 1512
+Clear = 83   Together = 0
+Score = 1854
+
+Seed = 1300
+N = 10   D = 2   S = 11
+Total discard = 1742   Total Move = 5779
+Clear = 311   Together = 1
+Score = 7491
+
+Seed = 1301
+N = 8   D = 2   S = 8
+Total discard = 195   Total Move = 689
+Clear = 52   Together = 0
+Score = 910
+
+Seed = 1302
+N = 4   D = 4   S = 11
+Total discard = 198   Total Move = 10000
+Clear = 864   Together = 0
+Score = 19306
+
+Seed = 1303
+N = 7   D = 3   S = 12
+Total discard = 1959   Total Move = 10000
+Clear = 616   Together = 0
+Score = 15433
+
+Seed = 1304
+N = 10   D = 4   S = 11
+Total discard = 71   Total Move = 263
+Clear = 13   Together = 0
+Score = 335
+
+Seed = 1305
+N = 4   D = 3   S = 10
+Total discard = 198   Total Move = 10000
+Clear = 949   Together = 0
+Score = 19292
+
+Seed = 1306
+N = 8   D = 2   S = 8
+Total discard = 35   Total Move = 137
+Clear = 7   Together = 0
+Score = 158
+
+Seed = 1307
+N = 6   D = 4   S = 12
+Total discard = 1173   Total Move = 10000
+Clear = 693   Together = 0
+Score = 17143
+
+Seed = 1308
+N = 6   D = 3   S = 11
+Total discard = 1179   Total Move = 10000
+Clear = 754   Together = 0
+Score = 17115
+
+Seed = 1309
+N = 7   D = 3   S = 9
+Total discard = 2276   Total Move = 10000
+Clear = 779   Together = 0
+Score = 14735
+
+Seed = 1310
+N = 9   D = 3   S = 12
+Total discard = 2286   Total Move = 10000
+Clear = 575   Together = 0
+Score = 14614
+
+Seed = 1311
+N = 7   D = 3   S = 9
+Total discard = 38   Total Move = 213
+Clear = 16   Together = 0
+Score = 319
+
+Seed = 1312
+N = 5   D = 3   S = 9
+Total discard = 144   Total Move = 10000
+Clear = 1030   Together = 1
+Score = 19153
+
+Seed = 1313
+N = 5   D = 3   S = 8
+Total discard = 172   Total Move = 10000
+Clear = 1154   Together = 0
+Score = 19060
+
+Seed = 1314
+N = 10   D = 2   S = 10
+Total discard = 147   Total Move = 533
+Clear = 28   Together = 0
+Score = 666
+
+Seed = 1315
+N = 6   D = 3   S = 9
+Total discard = 1235   Total Move = 10000
+Clear = 897   Together = 2
+Score = 16892
+
+Seed = 1316
+N = 7   D = 4   S = 12
+Total discard = 1932   Total Move = 10000
+Clear = 619   Together = 0
+Score = 15496
+
+Seed = 1317
+N = 9   D = 4   S = 11
+Total discard = 2358   Total Move = 10000
+Clear = 617   Together = 1
+Score = 14462
+
+Seed = 1318
+N = 9   D = 2   S = 8
+Total discard = 53   Total Move = 227
+Clear = 17   Together = 0
+Score = 310
+
+Seed = 1319
+N = 10   D = 3   S = 9
+Total discard = 45   Total Move = 191
+Clear = 9   Together = 0
+Score = 227
+
+Seed = 1320
+N = 6   D = 4   S = 8
+Total discard = 146   Total Move = 1218
+Clear = 119   Together = 0
+Score = 2024
+
+Seed = 1321
+N = 7   D = 3   S = 9
+Total discard = 2272   Total Move = 10000
+Clear = 774   Together = 1
+Score = 14721
+
+Seed = 1322
+N = 5   D = 4   S = 8
+Total discard = 172   Total Move = 10000
+Clear = 1151   Together = 1
+Score = 19060
+
+Seed = 1323
+N = 7   D = 3   S = 10
+Total discard = 2188   Total Move = 10000
+Clear = 715   Together = 0
+Score = 14962
+
+Seed = 1324
+N = 9   D = 4   S = 9
+Total discard = 297   Total Move = 1169
+Clear = 79   Together = 0
+Score = 1583
+
+Seed = 1325
+N = 9   D = 3   S = 10
+Total discard = 67   Total Move = 320
+Clear = 16   Together = 0
+Score = 413
+
+Seed = 1326
+N = 8   D = 4   S = 12
+Total discard = 2466   Total Move = 10000
+Clear = 566   Together = 0
+Score = 14326
+
+Seed = 1327
+N = 9   D = 4   S = 9
+Total discard = 139   Total Move = 538
+Clear = 31   Together = 1
+Score = 705
+
+Seed = 1328
+N = 6   D = 2   S = 8
+Total discard = 846   Total Move = 6492
+Clear = 641   Together = 6
+Score = 10918
+
+Seed = 1329
+N = 5   D = 3   S = 12
+Total discard = 184   Total Move = 10000
+Clear = 784   Together = 1
+Score = 19260
+
+Seed = 1330
+N = 8   D = 4   S = 11
+Total discard = 2515   Total Move = 10000
+Clear = 615   Together = 0
+Score = 14250
+
+Seed = 1331
+N = 4   D = 3   S = 8
+Total discard = 170   Total Move = 10000
+Clear = 1171   Together = 1
+Score = 19222
+
+Seed = 1332
+N = 10   D = 2   S = 12
+Total discard = 405   Total Move = 1347
+Clear = 69   Together = 0
+Score = 1770
+
+Seed = 1333
+N = 9   D = 4   S = 9
+Total discard = 258   Total Move = 980
+Clear = 62   Together = 1
+Score = 1307
+
+Seed = 1334
+N = 7   D = 3   S = 12
+Total discard = 1937   Total Move = 10000
+Clear = 616   Together = 0
+Score = 15455
+
+Seed = 1335
+N = 7   D = 3   S = 9
+Total discard = 1687   Total Move = 7845
+Clear = 616   Together = 4
+Score = 11810
+
+Seed = 1336
+N = 5   D = 2   S = 11
+Total discard = 169   Total Move = 10000
+Clear = 858   Together = 1
+Score = 19302
+
+Seed = 1337
+N = 9   D = 4   S = 10
+Total discard = 1380   Total Move = 5632
+Clear = 375   Together = 0
+Score = 8002
+
+Seed = 1338
+N = 5   D = 3   S = 8
+Total discard = 152   Total Move = 10000
+Clear = 1162   Together = 0
+Score = 19144
+
+Seed = 1339
+N = 10   D = 3   S = 8
+Total discard = 8   Total Move = 35
+Clear = 1   Together = 0
+Score = 35
+
+Seed = 1340
+N = 10   D = 4   S = 10
+Total discard = 410   Total Move = 1163
+Clear = 62   Together = 0
+Score = 1373
+
+Seed = 1341
+N = 5   D = 4   S = 12
+Total discard = 185   Total Move = 10000
+Clear = 786   Together = 0
+Score = 19247
+
+Seed = 1342
+N = 7   D = 3   S = 10
+Total discard = 2153   Total Move = 10000
+Clear = 705   Together = 4
+Score = 15017
+
+Seed = 1343
+N = 6   D = 2   S = 9
+Total discard = 154   Total Move = 1369
+Clear = 122   Together = 1
+Score = 2340
+
+Seed = 1344
+N = 5   D = 4   S = 8
+Total discard = 146   Total Move = 10000
+Clear = 1150   Together = 2
+Score = 19102
+
+Seed = 1345
+N = 6   D = 4   S = 12
+Total discard = 1139   Total Move = 10000
+Clear = 693   Together = 1
+Score = 17213
+
+Seed = 1346
+N = 7   D = 3   S = 10
+Total discard = 2171   Total Move = 10000
+Clear = 716   Together = 0
+Score = 14989
+
+Seed = 1347
+N = 10   D = 2   S = 11
+Total discard = 7   Total Move = 54
+Clear = 2   Together = 0
+Score = 69
+
+Seed = 1348
+N = 6   D = 3   S = 10
+Total discard = 1266   Total Move = 10000
+Clear = 804   Together = 0
+Score = 16774
+
+Seed = 1349
+N = 8   D = 4   S = 10
+Total discard = 2677   Total Move = 10000
+Clear = 655   Together = 0
+Score = 13873
+
+Seed = 1350
+N = 4   D = 4   S = 11
+Total discard = 220   Total Move = 10000
+Clear = 860   Together = 0
+Score = 19240
+
+Seed = 1351
+N = 5   D = 3   S = 12
+Total discard = 168   Total Move = 10000
+Clear = 783   Together = 0
+Score = 19228
+
+Seed = 1352
+N = 6   D = 2   S = 10
+Total discard = 851   Total Move = 6847
+Clear = 558   Together = 0
+Score = 11576
+
+Seed = 1353
+N = 8   D = 3   S = 8
+Total discard = 24   Total Move = 117
+Clear = 5   Together = 0
+Score = 133
+
+Seed = 1354
+N = 10   D = 3   S = 12
+Total discard = 3096   Total Move = 10000
+Clear = 500   Together = 1
+Score = 12940
+
+Seed = 1355
+N = 6   D = 4   S = 12
+Total discard = 1101   Total Move = 10000
+Clear = 701   Together = 0
+Score = 17311
+
+Seed = 1356
+N = 10   D = 3   S = 11
+Total discard = 222   Total Move = 726
+Clear = 36   Together = 0
+Score = 900
+
+Seed = 1357
+N = 5   D = 3   S = 10
+Total discard = 155   Total Move = 10000
+Clear = 939   Together = 0
+Score = 19235
+
+Seed = 1358
+N = 4   D = 2   S = 8
+Total discard = 181   Total Move = 10000
+Clear = 1168   Together = 1
+Score = 19187
+
+Seed = 1359
+N = 6   D = 2   S = 9
+Total discard = 1262   Total Move = 10000
+Clear = 897   Together = 0
+Score = 16811
+
+Seed = 1360
+N = 7   D = 3   S = 12
+Total discard = 2003   Total Move = 10000
+Clear = 615   Together = 0
+Score = 15377
+
+Seed = 1361
+N = 7   D = 3   S = 11
+Total discard = 2064   Total Move = 10000
+Clear = 660   Together = 1
+Score = 15229
+
+Seed = 1362
+N = 6   D = 4   S = 10
+Total discard = 1258   Total Move = 10000
+Clear = 818   Together = 1
+Score = 16952
+
+Seed = 1363
+N = 6   D = 2   S = 8
+Total discard = 179   Total Move = 1416
+Clear = 139   Together = 0
+Score = 2349
+
+Seed = 1364
+N = 9   D = 4   S = 9
+Total discard = 207   Total Move = 821
+Clear = 55   Together = 0
+Score = 1109
+
+Seed = 1365
+N = 5   D = 2   S = 12
+Total discard = 187   Total Move = 10000
+Clear = 785   Together = 0
+Score = 19233
+
+Seed = 1366
+N = 7   D = 2   S = 8
+Total discard = 209   Total Move = 922
+Clear = 76   Together = 0
+Score = 1321
+
+Seed = 1367
+N = 4   D = 3   S = 9
+Total discard = 222   Total Move = 10000
+Clear = 1049   Together = 0
+Score = 19219
+
+Seed = 1368
+N = 10   D = 4   S = 8
+Total discard = 7   Total Move = 28
+Clear = 1   Together = 0
+Score = 29
+
+Seed = 1369
+N = 6   D = 4   S = 10
+Total discard = 1252   Total Move = 10000
+Clear = 813   Together = 1
+Score = 16908
+
+Seed = 1370
+N = 6   D = 4   S = 12
+Total discard = 1083   Total Move = 10000
+Clear = 700   Together = 0
+Score = 17317
+
+Seed = 1371
+N = 4   D = 4   S = 12
+Total discard = 229   Total Move = 10000
+Clear = 789   Together = 0
+Score = 19239
+
+Seed = 1372
+N = 6   D = 3   S = 9
+Total discard = 96   Total Move = 805
+Clear = 70   Together = 0
+Score = 1339
+
+Seed = 1373
+N = 8   D = 3   S = 12
+Total discard = 2497   Total Move = 10000
+Clear = 559   Together = 0
+Score = 14211
+
+Seed = 1374
+N = 8   D = 4   S = 8
+Total discard = 97   Total Move = 389
+Clear = 30   Together = 0
+Score = 532
+
+Seed = 1375
+N = 5   D = 3   S = 8
+Total discard = 164   Total Move = 10000
+Clear = 1150   Together = 1
+Score = 19060
+
+Seed = 1376
+N = 5   D = 4   S = 10
+Total discard = 136   Total Move = 10000
+Clear = 936   Together = 1
+Score = 19254
+
+Seed = 1377
+N = 9   D = 3   S = 11
+Total discard = 2315   Total Move = 10000
+Clear = 617   Together = 3
+Score = 14571
+
+Seed = 1378
+N = 10   D = 2   S = 12
+Total discard = 604   Total Move = 2121
+Clear = 109   Together = 0
+Score = 2825
+
+Seed = 1379
+N = 10   D = 4   S = 10
+Total discard = 1055   Total Move = 3316
+Clear = 190   Together = 0
+Score = 4161
+
+Seed = 1380
+N = 8   D = 4   S = 11
+Total discard = 189   Total Move = 761
+Clear = 43   Together = 0
+Score = 1045
+
+Seed = 1381
+N = 7   D = 3   S = 12
+Total discard = 1872   Total Move = 10000
+Clear = 620   Together = 0
+Score = 15568
+
+Seed = 1382
+N = 9   D = 4   S = 10
+Total discard = 87   Total Move = 383
+Clear = 18   Together = 0
+Score = 476
+
+Seed = 1383
+N = 9   D = 4   S = 10
+Total discard = 220   Total Move = 894
+Clear = 53   Together = 0
+Score = 1204
+
+Seed = 1384
+N = 8   D = 2   S = 12
+Total discard = 2335   Total Move = 10000
+Clear = 573   Together = 0
+Score = 14541
+
+Seed = 1385
+N = 6   D = 2   S = 11
+Total discard = 1137   Total Move = 10000
+Clear = 753   Together = 2
+Score = 17212
+
+Seed = 1386
+N = 8   D = 3   S = 10
+Total discard = 21   Total Move = 104
+Clear = 4   Together = 0
+Score = 123
+
+Seed = 1387
+N = 6   D = 4   S = 12
+Total discard = 1172   Total Move = 10000
+Clear = 692   Together = 0
+Score = 17132
+
+Seed = 1388
+N = 9   D = 3   S = 10
+Total discard = 330   Total Move = 1232
+Clear = 72   Together = 0
+Score = 1622
+
+Seed = 1389
+N = 7   D = 3   S = 9
+Total discard = 149   Total Move = 673
+Clear = 47   Together = 0
+Score = 947
+
+Seed = 1390
+N = 4   D = 2   S = 12
+Total discard = 219   Total Move = 10000
+Clear = 788   Together = 0
+Score = 19237
+
+Seed = 1391
+N = 7   D = 2   S = 12
+Total discard = 48   Total Move = 261
+Clear = 15   Together = 0
+Score = 393
+
+Seed = 1392
+N = 10   D = 3   S = 9
+Total discard = 9   Total Move = 63
+Clear = 4   Together = 0
+Score = 90
+
+Seed = 1393
+N = 5   D = 2   S = 9
+Total discard = 47   Total Move = 2495
+Clear = 256   Together = 0
+Score = 4752
+
+Seed = 1394
+N = 7   D = 4   S = 11
+Total discard = 2026   Total Move = 10000
+Clear = 668   Together = 0
+Score = 15322
+
+Seed = 1395
+N = 5   D = 3   S = 12
+Total discard = 201   Total Move = 10000
+Clear = 783   Together = 0
+Score = 19195
+
+Seed = 1396
+N = 9   D = 2   S = 12
+Total discard = 2115   Total Move = 10000
+Clear = 590   Together = 0
+Score = 14965
+
+Seed = 1397
+N = 5   D = 4   S = 11
+Total discard = 182   Total Move = 10000
+Clear = 855   Together = 0
+Score = 19223
+
+Seed = 1398
+N = 8   D = 4   S = 8
+Total discard = 177   Total Move = 642
+Clear = 45   Together = 0
+Score = 825
+
+Seed = 1399
+N = 10   D = 3   S = 10
+Total discard = 43   Total Move = 173
+Clear = 5   Together = 0
+Score = 180
+
+Seed = 1400
+N = 10   D = 3   S = 12
+Total discard = 1484   Total Move = 4603
+Clear = 223   Together = 1
+Score = 5831
+
+Seed = 1401
+N = 6   D = 3   S = 9
+Total discard = 1335   Total Move = 10000
+Clear = 880   Together = 2
+Score = 16639
+
+Seed = 1402
+N = 4   D = 4   S = 10
+Total discard = 236   Total Move = 10000
+Clear = 946   Together = 0
+Score = 19224
+
+Seed = 1403
+N = 5   D = 3   S = 9
+Total discard = 154   Total Move = 10000
+Clear = 1034   Together = 1
+Score = 19179
+
+Seed = 1404
+N = 4   D = 3   S = 9
+Total discard = 206   Total Move = 10000
+Clear = 1055   Together = 0
+Score = 19289
+
+Seed = 1405
+N = 8   D = 3   S = 8
+Total discard = 38   Total Move = 137
+Clear = 6   Together = 0
+Score = 147
+
+Seed = 1406
+N = 5   D = 3   S = 11
+Total discard = 190   Total Move = 10000
+Clear = 857   Together = 0
+Score = 19237
+
+Seed = 1407
+N = 5   D = 2   S = 9
+Total discard = 16   Total Move = 1797
+Clear = 183   Together = 1
+Score = 3455
+
+Seed = 1408
+N = 6   D = 2   S = 9
+Total discard = 388   Total Move = 2916
+Clear = 260   Together = 0
+Score = 4868
+
+Seed = 1409
+N = 5   D = 3   S = 11
+Total discard = 202   Total Move = 10000
+Clear = 856   Together = 0
+Score = 19214
+
+Seed = 1410
+N = 8   D = 4   S = 9
+Total discard = 524   Total Move = 2083
+Clear = 143   Together = 2
+Score = 2900
+
+Seed = 1411
+N = 4   D = 3   S = 10
+Total discard = 243   Total Move = 10000
+Clear = 943   Together = 0
+Score = 19187
+
+Seed = 1412
+N = 8   D = 4   S = 12
+Total discard = 2430   Total Move = 10000
+Clear = 577   Together = 0
+Score = 14494
+
+Seed = 1413
+N = 7   D = 2   S = 9
+Total discard = 1243   Total Move = 5881
+Clear = 462   Together = 0
+Score = 8796
+
+Seed = 1414
+N = 5   D = 3   S = 9
+Total discard = 159   Total Move = 10000
+Clear = 1039   Together = 0
+Score = 19192
+
+Seed = 1415
+N = 7   D = 3   S = 11
+Total discard = 2012   Total Move = 10000
+Clear = 665   Together = 0
+Score = 15303
+
+Seed = 1416
+N = 4   D = 2   S = 8
+Total discard = 188   Total Move = 10000
+Clear = 1171   Together = 2
+Score = 19228
+
+Seed = 1417
+N = 8   D = 2   S = 11
+Total discard = 363   Total Move = 1655
+Clear = 106   Together = 0
+Score = 2458
+
+Seed = 1418
+N = 9   D = 4   S = 12
+Total discard = 2350   Total Move = 10000
+Clear = 574   Together = 0
+Score = 14538
+
+Seed = 1419
+N = 8   D = 2   S = 9
+Total discard = 586   Total Move = 2395
+Clear = 175   Together = 1
+Score = 3411
+
+Seed = 1420
+N = 5   D = 4   S = 10
+Total discard = 166   Total Move = 10000
+Clear = 942   Together = 0
+Score = 19254
+
+Seed = 1421
+N = 8   D = 2   S = 11
+Total discard = 1191   Total Move = 5013
+Clear = 312   Together = 1
+Score = 7287
+
+Seed = 1422
+N = 9   D = 2   S = 10
+Total discard = 175   Total Move = 800
+Clear = 50   Together = 0
+Score = 1125
+
+Seed = 1423
+N = 4   D = 3   S = 11
+Total discard = 207   Total Move = 10000
+Clear = 862   Together = 0
+Score = 19275
+
+Seed = 1424
+N = 9   D = 4   S = 11
+Total discard = 2365   Total Move = 10000
+Clear = 615   Together = 0
+Score = 14400
+
+Seed = 1425
+N = 7   D = 3   S = 8
+Total discard = 303   Total Move = 1422
+Clear = 121   Together = 0
+Score = 2087
+
+Seed = 1426
+N = 4   D = 3   S = 12
+Total discard = 192   Total Move = 10000
+Clear = 791   Together = 0
+Score = 19300
+
+Seed = 1427
+N = 6   D = 4   S = 9
+Total discard = 1322   Total Move = 10000
+Clear = 887   Together = 2
+Score = 16715
+
+Seed = 1428
+N = 9   D = 2   S = 11
+Total discard = 1856   Total Move = 8142
+Clear = 506   Together = 1
+Score = 11885
+
+Seed = 1429
+N = 5   D = 4   S = 11
+Total discard = 181   Total Move = 10000
+Clear = 857   Together = 0
+Score = 19246
+
+Seed = 1430
+N = 4   D = 2   S = 11
+Total discard = 215   Total Move = 10000
+Clear = 861   Together = 0
+Score = 19256
+
+Seed = 1431
+N = 5   D = 4   S = 11
+Total discard = 188   Total Move = 10000
+Clear = 854   Together = 1
+Score = 19239
+
+Seed = 1432
+N = 8   D = 3   S = 9
+Total discard = 549   Total Move = 2020
+Clear = 140   Together = 0
+Score = 2731
+
+Seed = 1433
+N = 6   D = 4   S = 11
+Total discard = 1195   Total Move = 10000
+Clear = 751   Together = 0
+Score = 17066
+
+Seed = 1434
+N = 4   D = 3   S = 10
+Total discard = 222   Total Move = 10000
+Clear = 949   Together = 0
+Score = 19268
+
+Seed = 1435
+N = 10   D = 2   S = 9
+Total discard = 251   Total Move = 888
+Clear = 57   Together = 0
+Score = 1150
+
+Seed = 1436
+N = 8   D = 2   S = 8
+Total discard = 59   Total Move = 270
+Clear = 19   Together = 0
+Score = 363
+
+Seed = 1437
+N = 5   D = 3   S = 10
+Total discard = 186   Total Move = 10000
+Clear = 934   Together = 1
+Score = 19184
+
+Seed = 1438
+N = 10   D = 2   S = 10
+Total discard = 467   Total Move = 1581
+Clear = 92   Together = 1
+Score = 2064
+
+Seed = 1439
+N = 9   D = 3   S = 12
+Total discard = 2331   Total Move = 10000
+Clear = 565   Together = 0
+Score = 14449
+
+Seed = 1440
+N = 6   D = 3   S = 11
+Total discard = 1177   Total Move = 10000
+Clear = 746   Together = 1
+Score = 17062
+
+Seed = 1441
+N = 6   D = 3   S = 11
+Total discard = 1087   Total Move = 10000
+Clear = 757   Together = 0
+Score = 17240
+
+Seed = 1442
+N = 9   D = 2   S = 12
+Total discard = 119   Total Move = 601
+Clear = 29   Together = 0
+Score = 830
+
+Seed = 1443
+N = 4   D = 4   S = 12
+Total discard = 201   Total Move = 10000
+Clear = 794   Together = 0
+Score = 19327
+
+Seed = 1444
+N = 9   D = 3   S = 10
+Total discard = 158   Total Move = 615
+Clear = 37   Together = 0
+Score = 827
+
+Seed = 1445
+N = 9   D = 2   S = 12
+Total discard = 212   Total Move = 994
+Clear = 47   Together = 1
+Score = 1382
+
+Seed = 1446
+N = 5   D = 2   S = 11
+Total discard = 201   Total Move = 10000
+Clear = 853   Together = 0
+Score = 19182
+
+Seed = 1447
+N = 8   D = 4   S = 9
+Total discard = 940   Total Move = 3445
+Clear = 243   Together = 1
+Score = 4719
+
+Seed = 1448
+N = 7   D = 2   S = 8
+Total discard = 258   Total Move = 1189
+Clear = 98   Together = 1
+Score = 1739
+
+Seed = 1449
+N = 9   D = 2   S = 10
+Total discard = 402   Total Move = 1690
+Clear = 107   Together = 0
+Score = 2358
+
+Seed = 1450
+N = 5   D = 2   S = 10
+Total discard = 146   Total Move = 10000
+Clear = 940   Together = 0
+Score = 19254
+
+Seed = 1451
+N = 9   D = 2   S = 12
+Total discard = 2182   Total Move = 10000
+Clear = 584   Together = 1
+Score = 14862
+
+Seed = 1452
+N = 10   D = 4   S = 10
+Total discard = 481   Total Move = 1436
+Clear = 77   Together = 0
+Score = 1725
+
+Seed = 1453
+N = 6   D = 4   S = 10
+Total discard = 1226   Total Move = 10000
+Clear = 817   Together = 1
+Score = 16974
+
+Seed = 1454
+N = 10   D = 3   S = 10
+Total discard = 460   Total Move = 1456
+Clear = 85   Together = 0
+Score = 1846
+
+Seed = 1455
+N = 10   D = 4   S = 12
+Total discard = 3210   Total Move = 10000
+Clear = 488   Together = 1
+Score = 12682
+
+Seed = 1456
+N = 8   D = 3   S = 9
+Total discard = 397   Total Move = 1570
+Clear = 112   Together = 0
+Score = 2181
+
+Seed = 1457
+N = 8   D = 4   S = 9
+Total discard = 156   Total Move = 549
+Clear = 33   Together = 0
+Score = 690
+
+Seed = 1458
+N = 6   D = 4   S = 11
+Total discard = 1127   Total Move = 10000
+Clear = 756   Together = 0
+Score = 17189
+
+Seed = 1459
+N = 4   D = 2   S = 8
+Total discard = 195   Total Move = 10000
+Clear = 1177   Together = 2
+Score = 19269
+
+Seed = 1460
+N = 9   D = 2   S = 8
+Total discard = 28   Total Move = 118
+Clear = 6   Together = 0
+Score = 138
+
+Seed = 1461
+N = 5   D = 2   S = 12
+Total discard = 185   Total Move = 10000
+Clear = 784   Together = 0
+Score = 19223
+
+Seed = 1462
+N = 6   D = 3   S = 11
+Total discard = 1150   Total Move = 10000
+Clear = 757   Together = 0
+Score = 17177
+
+Seed = 1463
+N = 4   D = 4   S = 10
+Total discard = 222   Total Move = 10000
+Clear = 945   Together = 0
+Score = 19228
+
+Seed = 1464
+N = 8   D = 2   S = 8
+Total discard = 4   Total Move = 26
+Clear = 1   Together = 0
+Score = 30
+
+Seed = 1465
+N = 10   D = 3   S = 10
+Total discard = 129   Total Move = 437
+Clear = 23   Together = 0
+Score = 538
+
+Seed = 1466
+N = 8   D = 3   S = 8
+Total discard = 115   Total Move = 438
+Clear = 32   Together = 0
+Score = 579
+
+Seed = 1467
+N = 7   D = 2   S = 11
+Total discard = 1775   Total Move = 9067
+Clear = 608   Together = 2
+Score = 14046
+
+Seed = 1468
+N = 10   D = 3   S = 9
+Total discard = 98   Total Move = 329
+Clear = 17   Together = 0
+Score = 384
+
+Seed = 1469
+N = 7   D = 3   S = 9
+Total discard = 326   Total Move = 1521
+Clear = 119   Together = 0
+Score = 2266
+
+Seed = 1470
+N = 5   D = 3   S = 11
+Total discard = 181   Total Move = 10000
+Clear = 854   Together = 0
+Score = 19213
+
+Seed = 1471
+N = 5   D = 2   S = 10
+Total discard = 99   Total Move = 6927
+Clear = 646   Together = 0
+Score = 13288
+
+Seed = 1472
+N = 10   D = 4   S = 11
+Total discard = 3363   Total Move = 10000
+Clear = 525   Together = 1
+Score = 12445
+
+Seed = 1473
+N = 10   D = 2   S = 10
+Total discard = 266   Total Move = 938
+Clear = 55   Together = 0
+Score = 1222
+
+Seed = 1474
+N = 8   D = 4   S = 9
+Total discard = 1212   Total Move = 4674
+Clear = 331   Together = 2
+Score = 6495
+
+Seed = 1475
+N = 4   D = 2   S = 12
+Total discard = 232   Total Move = 10000
+Clear = 788   Together = 0
+Score = 19224
+
+Seed = 1476
+N = 10   D = 4   S = 12
+Total discard = 2261   Total Move = 6816
+Clear = 323   Together = 0
+Score = 8431
+
+Seed = 1477
+N = 10   D = 4   S = 9
+Total discard = 69   Total Move = 225
+Clear = 10   Together = 0
+Score = 246
+
+Seed = 1478
+N = 9   D = 3   S = 10
+Total discard = 126   Total Move = 571
+Clear = 35   Together = 0
+Score = 795
+
+Seed = 1479
+N = 8   D = 4   S = 8
+Total discard = 99   Total Move = 322
+Clear = 21   Together = 0
+Score = 391
+
+Seed = 1480
+N = 9   D = 3   S = 11
+Total discard = 2306   Total Move = 10000
+Clear = 621   Together = 1
+Score = 14558
+
+Seed = 1481
+N = 8   D = 4   S = 9
+Total discard = 521   Total Move = 1978
+Clear = 135   Together = 3
+Score = 2753
+
+Seed = 1482
+N = 6   D = 3   S = 11
+Total discard = 1167   Total Move = 10000
+Clear = 756   Together = 0
+Score = 17149
+
+Seed = 1483
+N = 7   D = 3   S = 11
+Total discard = 2032   Total Move = 10000
+Clear = 668   Together = 0
+Score = 15316
+
+Seed = 1484
+N = 8   D = 4   S = 10
+Total discard = 2612   Total Move = 10000
+Clear = 652   Together = 1
+Score = 13938
+
+Seed = 1485
+N = 7   D = 4   S = 10
+Total discard = 2148   Total Move = 10000
+Clear = 712   Together = 1
+Score = 15002
+
+Seed = 1486
+N = 5   D = 2   S = 8
+Total discard = 9   Total Move = 580
+Clear = 65   Together = 0
+Score = 1091
+
+Seed = 1487
+N = 8   D = 4   S = 11
+Total discard = 2496   Total Move = 10000
+Clear = 607   Together = 1
+Score = 14214
+
+Seed = 1488
+N = 8   D = 3   S = 8
+Total discard = 259   Total Move = 954
+Clear = 70   Together = 1
+Score = 1279
+
+Seed = 1489
+N = 4   D = 2   S = 9
+Total discard = 209   Total Move = 10000
+Clear = 1050   Together = 0
+Score = 19241
+
+Seed = 1490
+N = 4   D = 2   S = 12
+Total discard = 238   Total Move = 10000
+Clear = 786   Together = 0
+Score = 19194
+
+Seed = 1491
+N = 8   D = 4   S = 10
+Total discard = 2657   Total Move = 10000
+Clear = 652   Together = 1
+Score = 13893
+
+Seed = 1492
+N = 5   D = 2   S = 8
+Total discard = 155   Total Move = 10000
+Clear = 1153   Together = 2
+Score = 19117
+
+Seed = 1493
+N = 4   D = 2   S = 8
+Total discard = 218   Total Move = 10000
+Clear = 1170   Together = 0
+Score = 19142
+
+Seed = 1494
+N = 9   D = 3   S = 9
+Total discard = 142   Total Move = 596
+Clear = 42   Together = 0
+Score = 832
+
+Seed = 1495
+N = 5   D = 3   S = 8
+Total discard = 148   Total Move = 10000
+Clear = 1156   Together = 1
+Score = 19124
+
+Seed = 1496
+N = 6   D = 3   S = 11
+Total discard = 1158   Total Move = 10000
+Clear = 748   Together = 1
+Score = 17103
+
+Seed = 1497
+N = 7   D = 4   S = 10
+Total discard = 2236   Total Move = 10000
+Clear = 696   Together = 2
+Score = 14784
+
+Seed = 1498
+N = 8   D = 4   S = 12
+Total discard = 2543   Total Move = 10000
+Clear = 558   Together = 0
+Score = 14153
+
+Seed = 1499
+N = 5   D = 3   S = 10
+Total discard = 154   Total Move = 10000
+Clear = 937   Together = 2
+Score = 19276
+
+Seed = 1500
+N = 4   D = 2   S = 8
+Total discard = 204   Total Move = 10000
+Clear = 1173   Together = 1
+Score = 19204
+
+Seed = 1501
+N = 7   D = 2   S = 9
+Total discard = 169   Total Move = 819
+Clear = 64   Together = 0
+Score = 1226
+
+Seed = 1502
+N = 4   D = 3   S = 9
+Total discard = 231   Total Move = 10000
+Clear = 1046   Together = 1
+Score = 19210
+
+Seed = 1503
+N = 6   D = 4   S = 12
+Total discard = 1091   Total Move = 10000
+Clear = 697   Together = 0
+Score = 17273
+
+Seed = 1504
+N = 7   D = 4   S = 10
+Total discard = 674   Total Move = 3357
+Clear = 243   Together = 0
+Score = 5113
+
+Seed = 1505
+N = 8   D = 2   S = 12
+Total discard = 2336   Total Move = 10000
+Clear = 576   Together = 0
+Score = 14576
+
+Seed = 1506
+N = 6   D = 2   S = 12
+Total discard = 1079   Total Move = 10000
+Clear = 704   Together = 0
+Score = 17369
+
+Seed = 1507
+N = 7   D = 2   S = 8
+Total discard = 53   Total Move = 209
+Clear = 12   Together = 0
+Score = 252
+
+Seed = 1508
+N = 9   D = 3   S = 9
+Total discard = 103   Total Move = 389
+Clear = 21   Together = 1
+Score = 502
+
+Seed = 1509
+N = 8   D = 2   S = 12
+Total discard = 2290   Total Move = 10000
+Clear = 583   Together = 0
+Score = 14706
+
+Seed = 1510
+N = 8   D = 3   S = 10
+Total discard = 238   Total Move = 972
+Clear = 63   Together = 0
+Score = 1364
+
+Seed = 1511
+N = 4   D = 2   S = 8
+Total discard = 152   Total Move = 7145
+Clear = 839   Together = 0
+Score = 13705
+
+Seed = 1512
+N = 6   D = 2   S = 10
+Total discard = 1221   Total Move = 10000
+Clear = 815   Together = 0
+Score = 16929
+
+Seed = 1513
+N = 7   D = 2   S = 9
+Total discard = 513   Total Move = 2380
+Clear = 185   Together = 0
+Score = 3532
+
+Seed = 1514
+N = 10   D = 4   S = 8
+Total discard = 93   Total Move = 275
+Clear = 15   Together = 0
+Score = 302
+
+Seed = 1515
+N = 4   D = 4   S = 9
+Total discard = 217   Total Move = 10000
+Clear = 1049   Together = 0
+Score = 19224
+
+Seed = 1516
+N = 9   D = 4   S = 12
+Total discard = 1975   Total Move = 8447
+Clear = 475   Together = 0
+Score = 12172
+
+Seed = 1517
+N = 6   D = 3   S = 11
+Total discard = 1167   Total Move = 10000
+Clear = 755   Together = 0
+Score = 17138
+
+Seed = 1518
+N = 8   D = 3   S = 8
+Total discard = 455   Total Move = 1650
+Clear = 126   Together = 2
+Score = 2251
+
+Seed = 1519
+N = 7   D = 4   S = 10
+Total discard = 2061   Total Move = 10000
+Clear = 726   Together = 0
+Score = 15199
+
+Seed = 1520
+N = 4   D = 3   S = 10
+Total discard = 196   Total Move = 10000
+Clear = 949   Together = 0
+Score = 19294
+
+Seed = 1521
+N = 5   D = 3   S = 11
+Total discard = 179   Total Move = 10000
+Clear = 853   Together = 1
+Score = 19237
+
+Seed = 1522
+N = 9   D = 2   S = 10
+Total discard = 44   Total Move = 221
+Clear = 9   Together = 0
+Score = 267
+
+Seed = 1523
+N = 8   D = 3   S = 8
+Total discard = 138   Total Move = 565
+Clear = 42   Together = 1
+Score = 787
+
+Seed = 1524
+N = 6   D = 3   S = 8
+Total discard = 346   Total Move = 2407
+Clear = 232   Together = 1
+Score = 3941
+
+Seed = 1525
+N = 4   D = 2   S = 11
+Total discard = 218   Total Move = 10000
+Clear = 861   Together = 0
+Score = 19253
+
+Seed = 1526
+N = 8   D = 4   S = 11
+Total discard = 2509   Total Move = 10000
+Clear = 609   Together = 0
+Score = 14190
+
+Seed = 1527
+N = 4   D = 3   S = 8
+Total discard = 184   Total Move = 10000
+Clear = 1168   Together = 1
+Score = 19184
+
+Seed = 1528
+N = 4   D = 2   S = 12
+Total discard = 201   Total Move = 10000
+Clear = 791   Together = 0
+Score = 19291
+
+Seed = 1529
+N = 9   D = 3   S = 11
+Total discard = 1846   Total Move = 8177
+Clear = 509   Together = 1
+Score = 11963
+
+Seed = 1530
+N = 4   D = 4   S = 10
+Total discard = 211   Total Move = 10000
+Clear = 948   Together = 0
+Score = 19269
+
+Seed = 1531
+N = 6   D = 4   S = 12
+Total discard = 1082   Total Move = 10000
+Clear = 703   Together = 0
+Score = 17354
+
+Seed = 1532
+N = 9   D = 2   S = 12
+Total discard = 165   Total Move = 701
+Clear = 32   Together = 0
+Score = 920
+
+Seed = 1533
+N = 7   D = 3   S = 9
+Total discard = 1586   Total Move = 7146
+Clear = 549   Together = 4
+Score = 10609
+
+Seed = 1534
+N = 6   D = 3   S = 12
+Total discard = 1154   Total Move = 10000
+Clear = 694   Together = 0
+Score = 17174
+
+Seed = 1535
+N = 7   D = 3   S = 12
+Total discard = 1972   Total Move = 10000
+Clear = 619   Together = 0
+Score = 15456
+
+Seed = 1536
+N = 5   D = 3   S = 9
+Total discard = 137   Total Move = 10000
+Clear = 1032   Together = 3
+Score = 19232
+
+Seed = 1537
+N = 6   D = 4   S = 12
+Total discard = 1083   Total Move = 10000
+Clear = 700   Together = 0
+Score = 17317
+
+Seed = 1538
+N = 7   D = 2   S = 8
+Total discard = 34   Total Move = 144
+Clear = 10   Together = 0
+Score = 190
+
+Seed = 1539
+N = 10   D = 2   S = 12
+Total discard = 2076   Total Move = 7006
+Clear = 354   Together = 0
+Score = 9178
+
+Seed = 1540
+N = 4   D = 3   S = 12
+Total discard = 225   Total Move = 10000
+Clear = 791   Together = 0
+Score = 19267
+
+Seed = 1541
+N = 7   D = 2   S = 10
+Total discard = 2094   Total Move = 10000
+Clear = 715   Together = 1
+Score = 15086
+
+Seed = 1542
+N = 6   D = 2   S = 10
+Total discard = 1239   Total Move = 10000
+Clear = 816   Together = 0
+Score = 16921
+
+Seed = 1543
+N = 6   D = 2   S = 11
+Total discard = 1148   Total Move = 10000
+Clear = 753   Together = 0
+Score = 17135
+
+Seed = 1544
+N = 10   D = 4   S = 8
+Total discard = 88   Total Move = 269
+Clear = 18   Together = 0
+Score = 325
+
+Seed = 1545
+N = 10   D = 3   S = 10
+Total discard = 454   Total Move = 1481
+Clear = 83   Together = 1
+Score = 1887
+
+Seed = 1546
+N = 7   D = 3   S = 10
+Total discard = 2208   Total Move = 10000
+Clear = 710   Together = 0
+Score = 14892
+
+Seed = 1547
+N = 10   D = 4   S = 9
+Total discard = 237   Total Move = 685
+Clear = 41   Together = 0
+Score = 817
+
+Seed = 1548
+N = 9   D = 4   S = 10
+Total discard = 850   Total Move = 3413
+Clear = 221   Together = 0
+Score = 4773
+
+Seed = 1549
+N = 8   D = 3   S = 9
+Total discard = 586   Total Move = 2396
+Clear = 174   Together = 0
+Score = 3376
+
+Seed = 1550
+N = 10   D = 2   S = 9
+Total discard = 104   Total Move = 354
+Clear = 17   Together = 0
+Score = 403
+
+Seed = 1551
+N = 8   D = 3   S = 9
+Total discard = 184   Total Move = 770
+Clear = 50   Together = 1
+Score = 1063
+
+Seed = 1552
+N = 10   D = 3   S = 9
+Total discard = 389   Total Move = 1202
+Clear = 74   Together = 0
+Score = 1479
+
+Seed = 1553
+N = 9   D = 2   S = 8
+Total discard = 40   Total Move = 182
+Clear = 11   Together = 0
+Score = 230
+
+Seed = 1554
+N = 9   D = 4   S = 10
+Total discard = 249   Total Move = 1046
+Clear = 65   Together = 0
+Score = 1447
+
+Seed = 1555
+N = 7   D = 2   S = 8
+Total discard = 36   Total Move = 177
+Clear = 11   Together = 0
+Score = 229
+
+Seed = 1556
+N = 9   D = 3   S = 9
+Total discard = 121   Total Move = 533
+Clear = 32   Together = 0
+Score = 700
+
+Seed = 1557
+N = 10   D = 2   S = 10
+Total discard = 142   Total Move = 484
+Clear = 24   Together = 0
+Score = 582
+
+Seed = 1558
+N = 10   D = 4   S = 10
+Total discard = 244   Total Move = 774
+Clear = 41   Together = 0
+Score = 940
+
+Seed = 1559
+N = 8   D = 3   S = 10
+Total discard = 2574   Total Move = 9738
+Clear = 625   Together = 4
+Score = 13534
+
+Seed = 1560
+N = 5   D = 2   S = 11
+Total discard = 188   Total Move = 10000
+Clear = 855   Together = 0
+Score = 19217
+
+Seed = 1561
+N = 5   D = 3   S = 12
+Total discard = 174   Total Move = 10000
+Clear = 785   Together = 0
+Score = 19246
+
+Seed = 1562
+N = 9   D = 2   S = 8
+Total discard = 46   Total Move = 221
+Clear = 15   Together = 0
+Score = 295
+
+Seed = 1563
+N = 7   D = 4   S = 12
+Total discard = 1967   Total Move = 10000
+Clear = 617   Together = 0
+Score = 15437
+
+Seed = 1564
+N = 8   D = 3   S = 12
+Total discard = 2469   Total Move = 10000
+Clear = 572   Together = 1
+Score = 14431
+
+Seed = 1565
+N = 6   D = 3   S = 8
+Total discard = 555   Total Move = 4066
+Clear = 403   Together = 0
+Score = 6735
+
+Seed = 1566
+N = 5   D = 3   S = 9
+Total discard = 154   Total Move = 10000
+Clear = 1039   Together = 0
+Score = 19197
+
+Seed = 1567
+N = 9   D = 2   S = 12
+Total discard = 2135   Total Move = 10000
+Clear = 587   Together = 0
+Score = 14909
+
+Seed = 1568
+N = 6   D = 2   S = 9
+Total discard = 1040   Total Move = 7898
+Clear = 694   Together = 3
+Score = 13185
+
+Seed = 1569
+N = 10   D = 2   S = 11
+Total discard = 259   Total Move = 898
+Clear = 51   Together = 0
+Score = 1200
+
+Seed = 1570
+N = 9   D = 2   S = 11
+Total discard = 159   Total Move = 705
+Clear = 40   Together = 0
+Score = 986
+
+Seed = 1571
+N = 7   D = 4   S = 10
+Total discard = 2176   Total Move = 10000
+Clear = 710   Together = 0
+Score = 14924
+
+Seed = 1572
+N = 9   D = 3   S = 11
+Total discard = 334   Total Move = 1508
+Clear = 88   Together = 1
+Score = 2175
+
+Seed = 1573
+N = 6   D = 4   S = 9
+Total discard = 1236   Total Move = 10000
+Clear = 890   Together = 3
+Score = 16855
+
+Seed = 1574
+N = 5   D = 3   S = 11
+Total discard = 166   Total Move = 10000
+Clear = 858   Together = 0
+Score = 19272
+
+Seed = 1575
+N = 8   D = 3   S = 9
+Total discard = 360   Total Move = 1471
+Clear = 104   Together = 0
+Score = 2047
+
+Seed = 1576
+N = 7   D = 4   S = 8
+Total discard = 63   Total Move = 302
+Clear = 22   Together = 0
+Score = 415
+
+Seed = 1577
+N = 10   D = 3   S = 9
+Total discard = 81   Total Move = 255
+Clear = 12   Together = 0
+Score = 282
+
+Seed = 1578
+N = 4   D = 4   S = 10
+Total discard = 238   Total Move = 10000
+Clear = 949   Together = 0
+Score = 19252
+
+Seed = 1579
+N = 10   D = 3   S = 8
+Total discard = 36   Total Move = 116
+Clear = 5   Together = 0
+Score = 120
+
+Seed = 1580
+N = 8   D = 4   S = 11
+Total discard = 2562   Total Move = 10000
+Clear = 608   Together = 0
+Score = 14126
+
+Seed = 1581
+N = 10   D = 4   S = 12
+Total discard = 2052   Total Move = 6307
+Clear = 308   Together = 0
+Score = 7951
+
+Seed = 1582
+N = 5   D = 4   S = 9
+Total discard = 153   Total Move = 10000
+Clear = 1039   Together = 1
+Score = 19225
+
+Seed = 1583
+N = 7   D = 2   S = 10
+Total discard = 576   Total Move = 2868
+Clear = 211   Together = 0
+Score = 4402
+
+Seed = 1584
+N = 5   D = 4   S = 12
+Total discard = 147   Total Move = 10000
+Clear = 788   Together = 0
+Score = 19309
+
+Seed = 1585
+N = 9   D = 4   S = 12
+Total discard = 2363   Total Move = 10000
+Clear = 567   Together = 0
+Score = 14441
+
+Seed = 1586
+N = 6   D = 4   S = 8
+Total discard = 1067   Total Move = 7555
+Clear = 729   Together = 7
+Score = 12488
+
+Seed = 1587
+N = 7   D = 3   S = 8
+Total discard = 486   Total Move = 2042
+Clear = 171   Together = 1
+Score = 2948
+
+Seed = 1588
+N = 7   D = 4   S = 10
+Total discard = 2133   Total Move = 10000
+Clear = 709   Together = 1
+Score = 14987
+
+Seed = 1589
+N = 8   D = 4   S = 11
+Total discard = 2555   Total Move = 10000
+Clear = 610   Together = 0
+Score = 14155
+
+Seed = 1590
+N = 4   D = 3   S = 10
+Total discard = 218   Total Move = 10000
+Clear = 951   Together = 0
+Score = 19292
+
+Seed = 1591
+N = 7   D = 4   S = 12
+Total discard = 2060   Total Move = 10000
+Clear = 611   Together = 0
+Score = 15272
+
+Seed = 1592
+N = 10   D = 3   S = 10
+Total discard = 967   Total Move = 2969
+Clear = 169   Together = 0
+Score = 3692
+
+Seed = 1593
+N = 7   D = 3   S = 10
+Total discard = 2120   Total Move = 10000
+Clear = 707   Together = 4
+Score = 15070
+
+Seed = 1594
+N = 7   D = 4   S = 8
+Total discard = 378   Total Move = 1598
+Clear = 130   Together = 0
+Score = 2260
+
+Seed = 1595
+N = 6   D = 4   S = 11
+Total discard = 1171   Total Move = 10000
+Clear = 756   Together = 0
+Score = 17145
+
+Seed = 1596
+N = 6   D = 4   S = 9
+Total discard = 1289   Total Move = 10000
+Clear = 894   Together = 2
+Score = 16811
+
+Seed = 1597
+N = 7   D = 2   S = 8
+Total discard = 236   Total Move = 1073
+Clear = 91   Together = 1
+Score = 1589
+
+Seed = 1598
+N = 10   D = 2   S = 9
+Total discard = 3   Total Move = 38
+Clear = 2   Together = 0
+Score = 53
+
+Seed = 1599
+N = 4   D = 3   S = 9
+Total discard = 202   Total Move = 10000
+Clear = 1053   Together = 0
+Score = 19275
+
+Seed = 1600
+N = 6   D = 4   S = 8
+Total discard = 1384   Total Move = 10000
+Clear = 971   Together = 1
+Score = 16408
+
+Seed = 1601
+N = 9   D = 2   S = 12
+Total discard = 2154   Total Move = 10000
+Clear = 579   Together = 0
+Score = 14794
+
+Seed = 1602
+N = 5   D = 4   S = 11
+Total discard = 186   Total Move = 10000
+Clear = 854   Together = 0
+Score = 19208
+
+Seed = 1603
+N = 10   D = 3   S = 12
+Total discard = 535   Total Move = 1726
+Clear = 85   Together = 0
+Score = 2211
+
+Seed = 1604
+N = 4   D = 4   S = 11
+Total discard = 223   Total Move = 10000
+Clear = 862   Together = 0
+Score = 19259
+
+Seed = 1605
+N = 10   D = 3   S = 8
+Total discard = 5   Total Move = 28
+Clear = 2   Together = 0
+Score = 39
+
+Seed = 1606
+N = 9   D = 3   S = 10
+Total discard = 828   Total Move = 3406
+Clear = 223   Together = 0
+Score = 4808
+
+Seed = 1607
+N = 8   D = 4   S = 11
+Total discard = 2603   Total Move = 10000
+Clear = 608   Together = 0
+Score = 14085
+
+Seed = 1608
+N = 6   D = 3   S = 9
+Total discard = 1261   Total Move = 10000
+Clear = 892   Together = 2
+Score = 16821
+
+Seed = 1609
+N = 5   D = 2   S = 9
+Total discard = 137   Total Move = 10000
+Clear = 1033   Together = 0
+Score = 19160
+
+Seed = 1610
+N = 9   D = 3   S = 12
+Total discard = 700   Total Move = 3150
+Clear = 180   Together = 0
+Score = 4610
+
+Seed = 1611
+N = 8   D = 2   S = 9
+Total discard = 315   Total Move = 1353
+Clear = 99   Together = 0
+Score = 1929
+
+Seed = 1612
+N = 4   D = 4   S = 9
+Total discard = 232   Total Move = 10000
+Clear = 1046   Together = 0
+Score = 19182
+
+Seed = 1613
+N = 4   D = 4   S = 11
+Total discard = 219   Total Move = 10000
+Clear = 863   Together = 0
+Score = 19274
+
+Seed = 1614
+N = 10   D = 4   S = 11
+Total discard = 899   Total Move = 2706
+Clear = 137   Together = 0
+Score = 3314
+
+Seed = 1615
+N = 4   D = 2   S = 12
+Total discard = 211   Total Move = 10000
+Clear = 787   Together = 0
+Score = 19233
+
+Seed = 1616
+N = 6   D = 2   S = 12
+Total discard = 1093   Total Move = 10000
+Clear = 699   Together = 1
+Score = 17331
+
+Seed = 1617
+N = 8   D = 3   S = 8
+Total discard = 34   Total Move = 132
+Clear = 9   Together = 0
+Score = 170
+
+Seed = 1618
+N = 6   D = 3   S = 8
+Total discard = 240   Total Move = 1825
+Clear = 180   Together = 0
+Score = 3025
+
+Seed = 1619
+N = 10   D = 2   S = 11
+Total discard = 502   Total Move = 1739
+Clear = 91   Together = 1
+Score = 2271
+
+Seed = 1620
+N = 8   D = 3   S = 12
+Total discard = 2450   Total Move = 10000
+Clear = 568   Together = 0
+Score = 14366
+
+Seed = 1621
+N = 5   D = 3   S = 8
+Total discard = 178   Total Move = 10000
+Clear = 1153   Together = 1
+Score = 19070
+
+Seed = 1622
+N = 8   D = 4   S = 8
+Total discard = 176   Total Move = 598
+Clear = 42   Together = 0
+Score = 758
+
+Seed = 1623
+N = 10   D = 2   S = 9
+Total discard = 9   Total Move = 47
+Clear = 2   Together = 0
+Score = 56
+
+Seed = 1624
+N = 5   D = 4   S = 8
+Total discard = 160   Total Move = 10000
+Clear = 1153   Together = 2
+Score = 19112
+
+Seed = 1625
+N = 4   D = 2   S = 11
+Total discard = 218   Total Move = 10000
+Clear = 860   Together = 0
+Score = 19242
+
+Seed = 1626
+N = 9   D = 4   S = 9
+Total discard = 381   Total Move = 1471
+Clear = 100   Together = 0
+Score = 1990
+
+Seed = 1627
+N = 8   D = 2   S = 11
+Total discard = 631   Total Move = 2563
+Clear = 158   Together = 0
+Score = 3670
+
+Seed = 1628
+N = 5   D = 2   S = 10
+Total discard = 173   Total Move = 10000
+Clear = 939   Together = 0
+Score = 19217
+
+Seed = 1629
+N = 9   D = 4   S = 11
+Total discard = 1399   Total Move = 6187
+Clear = 381   Together = 0
+Score = 8979
+
+Seed = 1630
+N = 7   D = 2   S = 8
+Total discard = 197   Total Move = 999
+Clear = 85   Together = 1
+Score = 1506
+
+Seed = 1631
+N = 9   D = 4   S = 12
+Total discard = 2332   Total Move = 10000
+Clear = 565   Together = 0
+Score = 14448
+
+Seed = 1632
+N = 4   D = 2   S = 10
+Total discard = 211   Total Move = 10000
+Clear = 944   Together = 1
+Score = 19259
+
+Seed = 1633
+N = 6   D = 3   S = 8
+Total discard = 255   Total Move = 1952
+Clear = 191   Together = 1
+Score = 3249
+
+Seed = 1634
+N = 8   D = 3   S = 12
+Total discard = 2533   Total Move = 10000
+Clear = 560   Together = 0
+Score = 14187
+
+Seed = 1635
+N = 6   D = 2   S = 11
+Total discard = 1155   Total Move = 10000
+Clear = 753   Together = 0
+Score = 17128
+
+Seed = 1636
+N = 5   D = 4   S = 12
+Total discard = 191   Total Move = 10000
+Clear = 782   Together = 0
+Score = 19193
+
+Seed = 1637
+N = 8   D = 3   S = 10
+Total discard = 707   Total Move = 2645
+Clear = 174   Together = 0
+Score = 3678
+
+Seed = 1638
+N = 8   D = 4   S = 8
+Total discard = 320   Total Move = 1287
+Clear = 101   Together = 1
+Score = 1799
+
+Seed = 1639
+N = 10   D = 2   S = 10
+Total discard = 135   Total Move = 497
+Clear = 25   Together = 0
+Score = 612
+
+Seed = 1640
+N = 7   D = 3   S = 12
+Total discard = 2035   Total Move = 10000
+Clear = 613   Together = 0
+Score = 15321
+
+Seed = 1641
+N = 6   D = 2   S = 12
+Total discard = 1085   Total Move = 10000
+Clear = 698   Together = 0
+Score = 17291
+
+Seed = 1642
+N = 4   D = 3   S = 12
+Total discard = 230   Total Move = 10000
+Clear = 785   Together = 0
+Score = 19190
+
+Seed = 1643
+N = 7   D = 4   S = 9
+Total discard = 1273   Total Move = 5918
+Clear = 465   Together = 3
+Score = 8911
+
+Seed = 1644
+N = 6   D = 4   S = 11
+Total discard = 1152   Total Move = 10000
+Clear = 753   Together = 1
+Score = 17164
+
+Seed = 1645
+N = 7   D = 4   S = 10
+Total discard = 2177   Total Move = 10000
+Clear = 712   Together = 1
+Score = 14973
+
+Seed = 1646
+N = 5   D = 3   S = 8
+Total discard = 132   Total Move = 10000
+Clear = 1153   Together = 4
+Score = 19188
+
+Seed = 1647
+N = 5   D = 4   S = 10
+Total discard = 165   Total Move = 10000
+Clear = 938   Together = 0
+Score = 19215
+
+Seed = 1648
+N = 7   D = 4   S = 11
+Total discard = 2102   Total Move = 10000
+Clear = 653   Together = 2
+Score = 15147
+
+Seed = 1649
+N = 4   D = 3   S = 12
+Total discard = 213   Total Move = 10000
+Clear = 784   Together = 1
+Score = 19231
+
+Seed = 1650
+N = 5   D = 3   S = 10
+Total discard = 154   Total Move = 10000
+Clear = 941   Together = 0
+Score = 19256
+
+Seed = 1651
+N = 8   D = 3   S = 12
+Total discard = 2421   Total Move = 10000
+Clear = 570   Together = 0
+Score = 14419
+
+Seed = 1652
+N = 5   D = 4   S = 11
+Total discard = 172   Total Move = 10000
+Clear = 853   Together = 1
+Score = 19244
+
+Seed = 1653
+N = 10   D = 3   S = 12
+Total discard = 2399   Total Move = 7567
+Clear = 371   Together = 0
+Score = 9620
+
+Seed = 1654
+N = 10   D = 2   S = 10
+Total discard = 58   Total Move = 222
+Clear = 9   Together = 0
+Score = 254
+
+Seed = 1655
+N = 10   D = 4   S = 8
+Total discard = 103   Total Move = 314
+Clear = 18   Together = 0
+Score = 355
+
+Seed = 1656
+N = 4   D = 2   S = 10
+Total discard = 200   Total Move = 10000
+Clear = 944   Together = 1
+Score = 19270
+
+Seed = 1657
+N = 6   D = 4   S = 8
+Total discard = 1312   Total Move = 10000
+Clear = 984   Together = 2
+Score = 16608
+
+Seed = 1658
+N = 5   D = 4   S = 9
+Total discard = 177   Total Move = 10000
+Clear = 1026   Together = 2
+Score = 19111
+
+Seed = 1659
+N = 7   D = 2   S = 10
+Total discard = 2046   Total Move = 10000
+Clear = 719   Together = 1
+Score = 15174
+
+Seed = 1660
+N = 5   D = 2   S = 8
+Total discard = 29   Total Move = 1631
+Clear = 187   Together = 0
+Score = 3098
+
+Seed = 1661
+N = 5   D = 4   S = 12
+Total discard = 187   Total Move = 10000
+Clear = 785   Together = 0
+Score = 19233
+
+Seed = 1662
+N = 10   D = 2   S = 10
+Total discard = 126   Total Move = 426
+Clear = 25   Together = 0
+Score = 550
+
+Seed = 1663
+N = 9   D = 2   S = 12
+Total discard = 1583   Total Move = 7248
+Clear = 418   Together = 1
+Score = 10717
+
+Seed = 1664
+N = 7   D = 3   S = 9
+Total discard = 822   Total Move = 3751
+Clear = 289   Together = 0
+Score = 5530
+
+Seed = 1665
+N = 9   D = 3   S = 8
+Total discard = 39   Total Move = 157
+Clear = 9   Together = 0
+Score = 190
+
+Seed = 1666
+N = 6   D = 3   S = 12
+Total discard = 1120   Total Move = 10000
+Clear = 700   Together = 0
+Score = 17280
+
+Seed = 1667
+N = 6   D = 2   S = 12
+Total discard = 1128   Total Move = 10000
+Clear = 699   Together = 0
+Score = 17260
+
+Seed = 1668
+N = 9   D = 4   S = 9
+Total discard = 47   Total Move = 212
+Clear = 11   Together = 0
+Score = 264
+
+Seed = 1669
+N = 10   D = 3   S = 9
+Total discard = 90   Total Move = 350
+Clear = 18   Together = 0
+Score = 422
+
+Seed = 1670
+N = 6   D = 4   S = 12
+Total discard = 1058   Total Move = 10000
+Clear = 703   Together = 0
+Score = 17378
+
+Seed = 1671
+N = 5   D = 3   S = 11
+Total discard = 187   Total Move = 10000
+Clear = 852   Together = 1
+Score = 19218
+
+Seed = 1672
+N = 6   D = 4   S = 9
+Total discard = 1343   Total Move = 10000
+Clear = 883   Together = 3
+Score = 16685
+
+Seed = 1673
+N = 6   D = 4   S = 12
+Total discard = 1099   Total Move = 10000
+Clear = 701   Together = 0
+Score = 17313
+
+Seed = 1674
+N = 6   D = 3   S = 9
+Total discard = 1281   Total Move = 10000
+Clear = 889   Together = 3
+Score = 16801
+
+Seed = 1675
+N = 8   D = 4   S = 9
+Total discard = 1690   Total Move = 6614
+Clear = 480   Together = 2
+Score = 9298
+
+Seed = 1676
+N = 4   D = 2   S = 10
+Total discard = 208   Total Move = 10000
+Clear = 947   Together = 0
+Score = 19262
+
+Seed = 1677
+N = 8   D = 2   S = 10
+Total discard = 389   Total Move = 1441
+Clear = 89   Together = 0
+Score = 1942
+
+Seed = 1678
+N = 4   D = 4   S = 10
+Total discard = 224   Total Move = 10000
+Clear = 944   Together = 0
+Score = 19216
+
+Seed = 1679
+N = 7   D = 3   S = 12
+Total discard = 1859   Total Move = 10000
+Clear = 627   Together = 0
+Score = 15665
+
+Seed = 1680
+N = 7   D = 2   S = 8
+Total discard = 198   Total Move = 904
+Clear = 76   Together = 1
+Score = 1338
+
+Seed = 1681
+N = 10   D = 2   S = 12
+Total discard = 3005   Total Move = 10000
+Clear = 515   Together = 0
+Score = 13175
+
+Seed = 1682
+N = 7   D = 3   S = 11
+Total discard = 2075   Total Move = 10000
+Clear = 660   Together = 1
+Score = 15218
+
+Seed = 1683
+N = 10   D = 3   S = 8
+Total discard = 51   Total Move = 180
+Clear = 9   Together = 0
+Score = 201
+
+Seed = 1684
+N = 8   D = 3   S = 12
+Total discard = 2409   Total Move = 10000
+Clear = 577   Together = 0
+Score = 14515
+
+Seed = 1685
+N = 10   D = 4   S = 11
+Total discard = 794   Total Move = 2367
+Clear = 122   Together = 0
+Score = 2915
+
+Seed = 1686
+N = 6   D = 3   S = 8
+Total discard = 913   Total Move = 6755
+Clear = 652   Together = 6
+Score = 11202
+
+Seed = 1687
+N = 7   D = 2   S = 12
+Total discard = 1947   Total Move = 10000
+Clear = 620   Together = 0
+Score = 15493
+
+Seed = 1688
+N = 9   D = 3   S = 11
+Total discard = 112   Total Move = 514
+Clear = 30   Together = 0
+Score = 732
+
+Seed = 1689
+N = 7   D = 4   S = 12
+Total discard = 1979   Total Move = 10000
+Clear = 615   Together = 0
+Score = 15401
+
+Seed = 1690
+N = 6   D = 3   S = 11
+Total discard = 1198   Total Move = 10000
+Clear = 753   Together = 1
+Score = 17118
+
+Seed = 1691
+N = 5   D = 2   S = 11
+Total discard = 175   Total Move = 10000
+Clear = 857   Together = 0
+Score = 19252
+
+Seed = 1692
+N = 4   D = 3   S = 11
+Total discard = 234   Total Move = 10000
+Clear = 862   Together = 0
+Score = 19248
+
+Seed = 1693
+N = 5   D = 3   S = 10
+Total discard = 170   Total Move = 10000
+Clear = 939   Together = 0
+Score = 19220
+
+Seed = 1694
+N = 10   D = 2   S = 8
+Total discard = 10   Total Move = 37
+Clear = 1   Together = 0
+Score = 35
+
+Seed = 1695
+N = 8   D = 4   S = 10
+Total discard = 2704   Total Move = 10000
+Clear = 645   Together = 1
+Score = 13776
+
+Seed = 1696
+N = 9   D = 2   S = 9
+Total discard = 63   Total Move = 252
+Clear = 13   Together = 0
+Score = 306
+
+Seed = 1697
+N = 6   D = 4   S = 12
+Total discard = 1134   Total Move = 10000
+Clear = 697   Together = 0
+Score = 17230
+
+Seed = 1698
+N = 7   D = 4   S = 8
+Total discard = 50   Total Move = 228
+Clear = 15   Together = 0
+Score = 298
+
+Seed = 1699
+N = 10   D = 4   S = 8
+Total discard = 67   Total Move = 219
+Clear = 12   Together = 0
+Score = 248
+
+Seed = 1700
+N = 7   D = 2   S = 11
+Total discard = 836   Total Move = 4118
+Clear = 271   Together = 1
+Score = 6296
+
+Seed = 1701
+N = 5   D = 2   S = 10
+Total discard = 139   Total Move = 10000
+Clear = 942   Together = 0
+Score = 19281
+
+Seed = 1702
+N = 10   D = 3   S = 11
+Total discard = 711   Total Move = 2175
+Clear = 108   Together = 0
+Score = 2652
+
+Seed = 1703
+N = 10   D = 2   S = 9
+Total discard = 123   Total Move = 415
+Clear = 22   Together = 0
+Score = 490
+
+Seed = 1704
+N = 4   D = 2   S = 9
+Total discard = 222   Total Move = 10000
+Clear = 1047   Together = 1
+Score = 19228
+
+Seed = 1705
+N = 7   D = 2   S = 12
+Total discard = 1895   Total Move = 10000
+Clear = 623   Together = 0
+Score = 15581
+
+Seed = 1706
+N = 4   D = 3   S = 12
+Total discard = 185   Total Move = 10000
+Clear = 794   Together = 0
+Score = 19343
+
+Seed = 1707
+N = 10   D = 3   S = 9
+Total discard = 67   Total Move = 218
+Clear = 10   Together = 0
+Score = 241
+
+Seed = 1708
+N = 4   D = 3   S = 8
+Total discard = 144   Total Move = 10000
+Clear = 1176   Together = 1
+Score = 19288
+
+Seed = 1709
+N = 8   D = 4   S = 9
+Total discard = 538   Total Move = 2016
+Clear = 141   Together = 0
+Score = 2747
+
+Seed = 1710
+N = 6   D = 3   S = 10
+Total discard = 1222   Total Move = 10000
+Clear = 817   Together = 0
+Score = 16948
+
+Seed = 1711
+N = 4   D = 4   S = 12
+Total discard = 224   Total Move = 10000
+Clear = 788   Together = 0
+Score = 19232
+
+Seed = 1712
+N = 10   D = 3   S = 9
+Total discard = 86   Total Move = 316
+Clear = 20   Together = 0
+Score = 410
+
+Seed = 1713
+N = 10   D = 3   S = 11
+Total discard = 1459   Total Move = 4598
+Clear = 246   Together = 0
+Score = 5845
+
+Seed = 1714
+N = 9   D = 2   S = 8
+Total discard = 7   Total Move = 33
+Clear = 1   Together = 0
+Score = 34
+
+Seed = 1715
+N = 7   D = 4   S = 11
+Total discard = 2065   Total Move = 10000
+Clear = 654   Together = 1
+Score = 15162
+
+Seed = 1716
+N = 7   D = 3   S = 11
+Total discard = 2067   Total Move = 10000
+Clear = 660   Together = 1
+Score = 15226
+
+Seed = 1717
+N = 4   D = 3   S = 12
+Total discard = 230   Total Move = 10000
+Clear = 787   Together = 0
+Score = 19214
+
+Seed = 1718
+N = 8   D = 3   S = 8
+Total discard = 248   Total Move = 964
+Clear = 76   Together = 0
+Score = 1324
+
+Seed = 1719
+N = 5   D = 2   S = 10
+Total discard = 161   Total Move = 10000
+Clear = 934   Together = 1
+Score = 19209
+
+Seed = 1720
+N = 9   D = 2   S = 10
+Total discard = 317   Total Move = 1398
+Clear = 91   Together = 0
+Score = 1991
+
+Seed = 1721
+N = 10   D = 4   S = 10
+Total discard = 355   Total Move = 1065
+Clear = 58   Together = 0
+Score = 1290
+
+Seed = 1722
+N = 6   D = 3   S = 9
+Total discard = 1323   Total Move = 10000
+Clear = 883   Together = 1
+Score = 16651
+
+Seed = 1723
+N = 7   D = 3   S = 11
+Total discard = 2034   Total Move = 10000
+Clear = 661   Together = 0
+Score = 15237
+
+Seed = 1724
+N = 8   D = 2   S = 11
+Total discard = 143   Total Move = 674
+Clear = 42   Together = 0
+Score = 993
+
+Seed = 1725
+N = 7   D = 4   S = 12
+Total discard = 1955   Total Move = 10000
+Clear = 616   Together = 0
+Score = 15437
+
+Seed = 1726
+N = 5   D = 2   S = 12
+Total discard = 194   Total Move = 10000
+Clear = 786   Together = 0
+Score = 19238
+
+Seed = 1727
+N = 5   D = 4   S = 9
+Total discard = 144   Total Move = 10000
+Clear = 1040   Together = 0
+Score = 19216
+
+Seed = 1728
+N = 7   D = 4   S = 9
+Total discard = 2346   Total Move = 10000
+Clear = 765   Together = 3
+Score = 14620
+
+Seed = 1729
+N = 5   D = 4   S = 8
+Total discard = 169   Total Move = 10000
+Clear = 1147   Together = 4
+Score = 19103
+
+Seed = 1730
+N = 7   D = 2   S = 12
+Total discard = 1834   Total Move = 10000
+Clear = 626   Together = 0
+Score = 15678
+
+Seed = 1731
+N = 10   D = 2   S = 11
+Total discard = 578   Total Move = 1870
+Clear = 96   Together = 0
+Score = 2348
+
+Seed = 1732
+N = 10   D = 4   S = 11
+Total discard = 587   Total Move = 1835
+Clear = 92   Together = 0
+Score = 2260
+
+Seed = 1733
+N = 5   D = 3   S = 10
+Total discard = 180   Total Move = 10000
+Clear = 936   Together = 0
+Score = 19180
+
+Seed = 1734
+N = 7   D = 4   S = 9
+Total discard = 127   Total Move = 504
+Clear = 32   Together = 0
+Score = 665
+
+Seed = 1735
+N = 8   D = 3   S = 8
+Total discard = 7   Total Move = 42
+Clear = 2   Together = 0
+Score = 51
+
+Seed = 1736
+N = 9   D = 2   S = 9
+Total discard = 64   Total Move = 314
+Clear = 19   Together = 0
+Score = 421
+
+Seed = 1737
+N = 10   D = 3   S = 12
+Total discard = 3185   Total Move = 10000
+Clear = 491   Together = 0
+Score = 12707
+
+Seed = 1738
+N = 4   D = 3   S = 9
+Total discard = 202   Total Move = 10000
+Clear = 1051   Together = 0
+Score = 19257
+
+Seed = 1739
+N = 4   D = 4   S = 12
+Total discard = 242   Total Move = 10000
+Clear = 788   Together = 0
+Score = 19214
+
+Seed = 1740
+N = 7   D = 3   S = 12
+Total discard = 1906   Total Move = 10000
+Clear = 618   Together = 0
+Score = 15510
+
+Seed = 1741
+N = 4   D = 3   S = 8
+Total discard = 186   Total Move = 10000
+Clear = 1172   Together = 1
+Score = 19214
+
+Seed = 1742
+N = 5   D = 3   S = 8
+Total discard = 180   Total Move = 10000
+Clear = 1142   Together = 3
+Score = 19028
+
+Seed = 1743
+N = 6   D = 2   S = 8
+Total discard = 590   Total Move = 4311
+Clear = 418   Together = 1
+Score = 7089
+
+Seed = 1744
+N = 10   D = 4   S = 10
+Total discard = 861   Total Move = 2620
+Clear = 145   Together = 0
+Score = 3209
+
+Seed = 1745
+N = 5   D = 3   S = 11
+Total discard = 161   Total Move = 10000
+Clear = 855   Together = 0
+Score = 19244
+
+Seed = 1746
+N = 5   D = 3   S = 11
+Total discard = 174   Total Move = 10000
+Clear = 853   Together = 1
+Score = 19242
+
+Seed = 1747
+N = 6   D = 4   S = 8
+Total discard = 1317   Total Move = 10000
+Clear = 1002   Together = 1
+Score = 16723
+
+Seed = 1748
+N = 5   D = 3   S = 12
+Total discard = 181   Total Move = 10000
+Clear = 785   Together = 0
+Score = 19239
+
+Seed = 1749
+N = 6   D = 4   S = 8
+Total discard = 1334   Total Move = 10000
+Clear = 986   Together = 2
+Score = 16602
+
+Seed = 1750
+N = 10   D = 4   S = 9
+Total discard = 107   Total Move = 345
+Clear = 18   Together = 0
+Score = 400
+
+Seed = 1751
+N = 8   D = 4   S = 8
+Total discard = 60   Total Move = 199
+Clear = 11   Together = 0
+Score = 227
+
+Seed = 1752
+N = 7   D = 3   S = 12
+Total discard = 1912   Total Move = 10000
+Clear = 619   Together = 1
+Score = 15552
+
+Seed = 1753
+N = 5   D = 4   S = 11
+Total discard = 190   Total Move = 10000
+Clear = 853   Together = 1
+Score = 19226
+
+Seed = 1754
+N = 5   D = 4   S = 8
+Total discard = 191   Total Move = 10000
+Clear = 1148   Together = 2
+Score = 19041
+
+Seed = 1755
+N = 5   D = 3   S = 9
+Total discard = 170   Total Move = 10000
+Clear = 1042   Together = 0
+Score = 19208
+
+Seed = 1756
+N = 10   D = 3   S = 12
+Total discard = 3141   Total Move = 10000
+Clear = 497   Together = 0
+Score = 12823
+
+Seed = 1757
+N = 7   D = 4   S = 8
+Total discard = 972   Total Move = 4393
+Clear = 377   Together = 5
+Score = 6557
+
+Seed = 1758
+N = 10   D = 3   S = 9
+Total discard = 274   Total Move = 854
+Clear = 52   Together = 0
+Score = 1048
+
+Seed = 1759
+N = 10   D = 3   S = 12
+Total discard = 3184   Total Move = 10000
+Clear = 491   Together = 1
+Score = 12744
+
+Seed = 1760
+N = 10   D = 4   S = 12
+Total discard = 3213   Total Move = 10000
+Clear = 487   Together = 1
+Score = 12667
+
+Seed = 1761
+N = 5   D = 3   S = 10
+Total discard = 148   Total Move = 10000
+Clear = 940   Together = 0
+Score = 19252
+
+Seed = 1762
+N = 5   D = 3   S = 12
+Total discard = 189   Total Move = 10000
+Clear = 784   Together = 0
+Score = 19219
+
+Seed = 1763
+N = 7   D = 3   S = 9
+Total discard = 692   Total Move = 3172
+Clear = 244   Together = 1
+Score = 4703
+
+Seed = 1764
+N = 6   D = 4   S = 8
+Total discard = 597   Total Move = 4350
+Clear = 425   Together = 0
+Score = 7153
+
+Seed = 1765
+N = 6   D = 4   S = 11
+Total discard = 1208   Total Move = 10000
+Clear = 750   Together = 1
+Score = 17075
+
+Seed = 1766
+N = 10   D = 3   S = 10
+Total discard = 776   Total Move = 2414
+Clear = 138   Together = 0
+Score = 3018
+
+Seed = 1767
+N = 7   D = 4   S = 10
+Total discard = 2162   Total Move = 10000
+Clear = 708   Together = 1
+Score = 14948
+
+Seed = 1768
+N = 10   D = 4   S = 11
+Total discard = 630   Total Move = 1917
+Clear = 93   Together = 0
+Score = 2310
+
+Seed = 1769
+N = 8   D = 4   S = 8
+Total discard = 59   Total Move = 194
+Clear = 10   Together = 0
+Score = 215
+
+Seed = 1770
+N = 5   D = 2   S = 8
+Total discard = 160   Total Move = 10000
+Clear = 1152   Together = 0
+Score = 19056
+
+Seed = 1771
+N = 5   D = 3   S = 12
+Total discard = 201   Total Move = 10000
+Clear = 791   Together = 0
+Score = 19291
+
+Seed = 1772
+N = 7   D = 2   S = 9
+Total discard = 1889   Total Move = 8961
+Clear = 703   Together = 1
+Score = 13426
+
+Seed = 1773
+N = 4   D = 4   S = 11
+Total discard = 224   Total Move = 10000
+Clear = 856   Together = 0
+Score = 19192
+
+Seed = 1774
+N = 9   D = 3   S = 8
+Total discard = 64   Total Move = 273
+Clear = 20   Together = 0
+Score = 369
+
+Seed = 1775
+N = 7   D = 4   S = 11
+Total discard = 2044   Total Move = 10000
+Clear = 659   Together = 2
+Score = 15271
+
+Seed = 1776
+N = 6   D = 3   S = 12
+Total discard = 1108   Total Move = 10000
+Clear = 705   Together = 0
+Score = 17352
+
+Seed = 1777
+N = 9   D = 3   S = 12
+Total discard = 2346   Total Move = 10000
+Clear = 570   Together = 0
+Score = 14494
+
+Seed = 1778
+N = 7   D = 4   S = 12
+Total discard = 1986   Total Move = 10000
+Clear = 613   Together = 1
+Score = 15406
+
+Seed = 1779
+N = 8   D = 2   S = 11
+Total discard = 1816   Total Move = 7488
+Clear = 465   Together = 0
+Score = 10787
+
+Seed = 1780
+N = 8   D = 4   S = 9
+Total discard = 250   Total Move = 953
+Clear = 67   Together = 0
+Score = 1306
+
+Seed = 1781
+N = 10   D = 3   S = 9
+Total discard = 10   Total Move = 46
+Clear = 2   Together = 0
+Score = 54
+
+Seed = 1782
+N = 6   D = 2   S = 8
+Total discard = 167   Total Move = 1246
+Clear = 120   Together = 1
+Score = 2063
+
+Seed = 1783
+N = 8   D = 4   S = 11
+Total discard = 2068   Total Move = 7869
+Clear = 477   Together = 1
+Score = 11081
+
+Seed = 1784
+N = 10   D = 2   S = 9
+Total discard = 29   Total Move = 117
+Clear = 7   Together = 0
+Score = 151
+
+Seed = 1785
+N = 9   D = 4   S = 8
+Total discard = 42   Total Move = 169
+Clear = 9   Together = 0
+Score = 199
+
+Seed = 1786
+N = 6   D = 4   S = 11
+Total discard = 1152   Total Move = 10000
+Clear = 754   Together = 0
+Score = 17142
+
+Seed = 1787
+N = 8   D = 4   S = 10
+Total discard = 2655   Total Move = 10000
+Clear = 651   Together = 1
+Score = 13885
+
+Seed = 1788
+N = 10   D = 2   S = 12
+Total discard = 1080   Total Move = 3720
+Clear = 192   Together = 0
+Score = 4944
+
+Seed = 1789
+N = 8   D = 2   S = 11
+Total discard = 1605   Total Move = 6694
+Clear = 414   Together = 0
+Score = 9643
+
+Seed = 1790
+N = 5   D = 2   S = 9
+Total discard = 151   Total Move = 10000
+Clear = 1035   Together = 0
+Score = 19164
+
+Seed = 1791
+N = 6   D = 2   S = 12
+Total discard = 1057   Total Move = 10000
+Clear = 701   Together = 0
+Score = 17355
+
+Seed = 1792
+N = 5   D = 2   S = 8
+Total discard = 108   Total Move = 7020
+Clear = 811   Together = 2
+Score = 13448
+
+Seed = 1793
+N = 10   D = 4   S = 9
+Total discard = 42   Total Move = 133
+Clear = 6   Together = 0
+Score = 145
+
+Seed = 1794
+N = 6   D = 3   S = 11
+Total discard = 1159   Total Move = 10000
+Clear = 756   Together = 0
+Score = 17157
+
+Seed = 1795
+N = 5   D = 3   S = 8
+Total discard = 38   Total Move = 1631
+Clear = 179   Together = 1
+Score = 3049
+
+Seed = 1796
+N = 6   D = 3   S = 12
+Total discard = 1168   Total Move = 10000
+Clear = 694   Together = 1
+Score = 17196
+
+Seed = 1797
+N = 10   D = 3   S = 11
+Total discard = 359   Total Move = 1195
+Clear = 63   Together = 0
+Score = 1529
+
+Seed = 1798
+N = 7   D = 2   S = 8
+Total discard = 76   Total Move = 282
+Clear = 21   Together = 0
+Score = 374
+
+Seed = 1799
+N = 6   D = 3   S = 12
+Total discard = 1114   Total Move = 10000
+Clear = 698   Together = 0
+Score = 17262
+
+Seed = 1800
+N = 7   D = 2   S = 11
+Total discard = 1992   Total Move = 10000
+Clear = 667   Together = 0
+Score = 15345
+
+Seed = 1801
+N = 5   D = 2   S = 8
+Total discard = 168   Total Move = 10000
+Clear = 1149   Together = 3
+Score = 19096
+
+Seed = 1802
+N = 7   D = 3   S = 8
+Total discard = 52   Total Move = 215
+Clear = 14   Together = 0
+Score = 275
+
+Seed = 1803
+N = 4   D = 4   S = 8
+Total discard = 190   Total Move = 10000
+Clear = 1166   Together = 1
+Score = 19162
+
+Seed = 1804
+N = 5   D = 3   S = 10
+Total discard = 162   Total Move = 10000
+Clear = 938   Together = 0
+Score = 19218
+
+Seed = 1805
+N = 5   D = 4   S = 9
+Total discard = 169   Total Move = 10000
+Clear = 1036   Together = 2
+Score = 19209
+
+Seed = 1806
+N = 10   D = 2   S = 12
+Total discard = 3065   Total Move = 10000
+Clear = 502   Together = 0
+Score = 12959
+
+Seed = 1807
+N = 5   D = 2   S = 10
+Total discard = 174   Total Move = 10000
+Clear = 931   Together = 0
+Score = 19136
+
+Seed = 1808
+N = 9   D = 3   S = 8
+Total discard = 60   Total Move = 229
+Clear = 12   Together = 0
+Score = 265
+
+Seed = 1809
+N = 4   D = 4   S = 12
+Total discard = 227   Total Move = 10000
+Clear = 791   Together = 0
+Score = 19265
+
+Seed = 1810
+N = 8   D = 3   S = 11
+Total discard = 2437   Total Move = 9562
+Clear = 577   Together = 0
+Score = 13472
+
+Seed = 1811
+N = 7   D = 4   S = 8
+Total discard = 657   Total Move = 3026
+Clear = 253   Together = 4
+Score = 4489
+
+Seed = 1812
+N = 5   D = 2   S = 11
+Total discard = 190   Total Move = 10000
+Clear = 861   Together = 1
+Score = 19314
+
+Seed = 1813
+N = 10   D = 3   S = 9
+Total discard = 88   Total Move = 315
+Clear = 16   Together = 0
+Score = 371
+
+Seed = 1814
+N = 10   D = 4   S = 11
+Total discard = 1348   Total Move = 3903
+Clear = 194   Together = 1
+Score = 4722
+
+Seed = 1815
+N = 9   D = 3   S = 10
+Total discard = 84   Total Move = 342
+Clear = 17   Together = 0
+Score = 428
+
+Seed = 1816
+N = 7   D = 3   S = 10
+Total discard = 283   Total Move = 1348
+Clear = 93   Together = 1
+Score = 2025
+
+Seed = 1817
+N = 6   D = 4   S = 12
+Total discard = 1146   Total Move = 10000
+Clear = 693   Together = 0
+Score = 17170
+
+Seed = 1818
+N = 10   D = 2   S = 8
+Total discard = 3   Total Move = 22
+Clear = 1   Together = 0
+Score = 27
+
+Seed = 1819
+N = 5   D = 4   S = 12
+Total discard = 192   Total Move = 10000
+Clear = 782   Together = 0
+Score = 19192
+
+Seed = 1820
+N = 5   D = 3   S = 9
+Total discard = 133   Total Move = 10000
+Clear = 1037   Together = 2
+Score = 19254
+
+Seed = 1821
+N = 4   D = 4   S = 10
+Total discard = 245   Total Move = 10000
+Clear = 942   Together = 1
+Score = 19205
+
+Seed = 1822
+N = 7   D = 4   S = 11
+Total discard = 773   Total Move = 3928
+Clear = 264   Together = 0
+Score = 6059
+
+Seed = 1823
+N = 4   D = 3   S = 9
+Total discard = 219   Total Move = 10000
+Clear = 1052   Together = 0
+Score = 19249
+
+Seed = 1824
+N = 6   D = 3   S = 8
+Total discard = 1371   Total Move = 10000
+Clear = 991   Together = 2
+Score = 16605
+
+Seed = 1825
+N = 5   D = 4   S = 11
+Total discard = 178   Total Move = 10000
+Clear = 857   Together = 0
+Score = 19249
+
+Seed = 1826
+N = 10   D = 2   S = 9
+Total discard = 143   Total Move = 524
+Clear = 31   Together = 0
+Score = 660
+
+Seed = 1827
+N = 8   D = 3   S = 8
+Total discard = 42   Total Move = 170
+Clear = 10   Together = 0
+Score = 208
+
+Seed = 1828
+N = 6   D = 4   S = 8
+Total discard = 1340   Total Move = 10000
+Clear = 992   Together = 4
+Score = 16692
+
+Seed = 1829
+N = 10   D = 3   S = 10
+Total discard = 365   Total Move = 1088
+Clear = 57   Together = 0
+Score = 1293
+
+Seed = 1830
+N = 8   D = 4   S = 11
+Total discard = 2525   Total Move = 10000
+Clear = 605   Together = 0
+Score = 14130
+
+Seed = 1831
+N = 6   D = 2   S = 10
+Total discard = 1267   Total Move = 10000
+Clear = 813   Together = 1
+Score = 16893
+
+Seed = 1832
+N = 9   D = 4   S = 9
+Total discard = 218   Total Move = 845
+Clear = 56   Together = 0
+Score = 1131
+
+Seed = 1833
+N = 6   D = 2   S = 8
+Total discard = 117   Total Move = 954
+Clear = 95   Together = 0
+Score = 1597
+
+Seed = 1834
+N = 7   D = 3   S = 12
+Total discard = 1913   Total Move = 10000
+Clear = 624   Together = 0
+Score = 15575
+
+Seed = 1835
+N = 8   D = 2   S = 11
+Total discard = 414   Total Move = 1776
+Clear = 110   Together = 0
+Score = 2572
+
+Seed = 1836
+N = 10   D = 2   S = 9
+Total discard = 75   Total Move = 279
+Clear = 14   Together = 0
+Score = 330
+
+Seed = 1837
+N = 8   D = 2   S = 10
+Total discard = 767   Total Move = 3315
+Clear = 222   Together = 0
+Score = 4768
+
+Seed = 1838
+N = 4   D = 3   S = 11
+Total discard = 210   Total Move = 10000
+Clear = 863   Together = 0
+Score = 19283
+
+Seed = 1839
+N = 6   D = 3   S = 10
+Total discard = 1281   Total Move = 10000
+Clear = 810   Together = 0
+Score = 16819
+
+Seed = 1840
+N = 8   D = 3   S = 9
+Total discard = 1279   Total Move = 5040
+Clear = 364   Together = 4
+Score = 7145
+
+Seed = 1841
+N = 6   D = 3   S = 12
+Total discard = 1112   Total Move = 10000
+Clear = 701   Together = 0
+Score = 17300
+
+Seed = 1842
+N = 5   D = 4   S = 11
+Total discard = 170   Total Move = 10000
+Clear = 857   Together = 0
+Score = 19257
+
+Seed = 1843
+N = 7   D = 2   S = 12
+Total discard = 1895   Total Move = 10000
+Clear = 620   Together = 0
+Score = 15545
+
+Seed = 1844
+N = 10   D = 2   S = 8
+Total discard = 27   Total Move = 129
+Clear = 6   Together = 0
+Score = 150
+
+Seed = 1845
+N = 5   D = 3   S = 11
+Total discard = 181   Total Move = 10000
+Clear = 848   Together = 2
+Score = 19213
+
+Seed = 1846
+N = 5   D = 2   S = 12
+Total discard = 179   Total Move = 10000
+Clear = 783   Together = 1
+Score = 19253
+
+Seed = 1847
+N = 4   D = 3   S = 9
+Total discard = 231   Total Move = 10000
+Clear = 1048   Together = 0
+Score = 19201
+
+Seed = 1848
+N = 7   D = 4   S = 11
+Total discard = 2113   Total Move = 10000
+Clear = 659   Together = 1
+Score = 15169
+
+Seed = 1849
+N = 8   D = 2   S = 11
+Total discard = 613   Total Move = 2504
+Clear = 155   Together = 0
+Score = 3596
+
+Seed = 1850
+N = 5   D = 3   S = 12
+Total discard = 163   Total Move = 10000
+Clear = 786   Together = 0
+Score = 19269
+
+Seed = 1851
+N = 4   D = 2   S = 9
+Total discard = 216   Total Move = 10000
+Clear = 1052   Together = 0
+Score = 19252
+
+Seed = 1852
+N = 9   D = 2   S = 12
+Total discard = 2251   Total Move = 10000
+Clear = 576   Together = 1
+Score = 14697
+
+Seed = 1853
+N = 6   D = 3   S = 12
+Total discard = 1076   Total Move = 10000
+Clear = 705   Together = 0
+Score = 17384
+
+Seed = 1854
+N = 9   D = 4   S = 8
+Total discard = 91   Total Move = 358
+Clear = 26   Together = 0
+Score = 475
+
+Seed = 1855
+N = 4   D = 2   S = 8
+Total discard = 163   Total Move = 10000
+Clear = 1173   Together = 1
+Score = 19245
+
+Seed = 1856
+N = 9   D = 4   S = 12
+Total discard = 2277   Total Move = 10000
+Clear = 573   Together = 0
+Score = 14599
+
+Seed = 1857
+N = 5   D = 2   S = 12
+Total discard = 190   Total Move = 10000
+Clear = 784   Together = 0
+Score = 19218
+
+Seed = 1858
+N = 4   D = 2   S = 9
+Total discard = 209   Total Move = 10000
+Clear = 1049   Together = 0
+Score = 19232
+
+Seed = 1859
+N = 5   D = 2   S = 11
+Total discard = 196   Total Move = 10000
+Clear = 851   Together = 0
+Score = 19165
+
+Seed = 1860
+N = 5   D = 4   S = 12
+Total discard = 165   Total Move = 10000
+Clear = 783   Together = 0
+Score = 19231
+
+Seed = 1861
+N = 4   D = 2   S = 9
+Total discard = 232   Total Move = 10000
+Clear = 1042   Together = 2
+Score = 19200
+
+Seed = 1862
+N = 8   D = 2   S = 11
+Total discard = 618   Total Move = 2454
+Clear = 147   Together = 0
+Score = 3453
+
+Seed = 1863
+N = 7   D = 4   S = 8
+Total discard = 857   Total Move = 3816
+Clear = 330   Together = 2
+Score = 5647
+
+Seed = 1864
+N = 4   D = 2   S = 11
+Total discard = 224   Total Move = 10000
+Clear = 864   Together = 0
+Score = 19280
+
+Seed = 1865
+N = 4   D = 2   S = 12
+Total discard = 215   Total Move = 10000
+Clear = 789   Together = 0
+Score = 19253
+
+Seed = 1866
+N = 9   D = 2   S = 8
+Total discard = 52   Total Move = 256
+Clear = 17   Together = 0
+Score = 340
+
+Seed = 1867
+N = 10   D = 2   S = 10
+Total discard = 9   Total Move = 74
+Clear = 4   Together = 0
+Score = 105
+
+Seed = 1868
+N = 10   D = 4   S = 10
+Total discard = 158   Total Move = 573
+Clear = 29   Together = 0
+Score = 705
+
+Seed = 1869
+N = 10   D = 2   S = 12
+Total discard = 241   Total Move = 812
+Clear = 41   Together = 0
+Score = 1063
+
+Seed = 1870
+N = 7   D = 2   S = 9
+Total discard = 606   Total Move = 2918
+Clear = 231   Together = 0
+Score = 4391
+
+Seed = 1871
+N = 10   D = 4   S = 8
+Total discard = 72   Total Move = 213
+Clear = 11   Together = 0
+Score = 229
+
+Seed = 1872
+N = 5   D = 4   S = 10
+Total discard = 184   Total Move = 10000
+Clear = 936   Together = 1
+Score = 19206
+
+Seed = 1873
+N = 6   D = 4   S = 10
+Total discard = 1255   Total Move = 10000
+Clear = 814   Together = 0
+Score = 16885
+
+Seed = 1874
+N = 4   D = 4   S = 9
+Total discard = 235   Total Move = 10000
+Clear = 1052   Together = 0
+Score = 19233
+
+Seed = 1875
+N = 8   D = 4   S = 9
+Total discard = 379   Total Move = 1282
+Clear = 85   Together = 1
+Score = 1695
+
+Seed = 1876
+N = 7   D = 3   S = 9
+Total discard = 1464   Total Move = 6671
+Clear = 517   Together = 3
+Score = 9941
+
+Seed = 1877
+N = 6   D = 3   S = 9
+Total discard = 1334   Total Move = 10000
+Clear = 881   Together = 2
+Score = 16649
+
+Seed = 1878
+N = 8   D = 4   S = 12
+Total discard = 2414   Total Move = 10000
+Clear = 573   Together = 0
+Score = 14462
+
+Seed = 1879
+N = 8   D = 4   S = 10
+Total discard = 1038   Total Move = 3899
+Clear = 252   Together = 0
+Score = 5381
+
+Seed = 1880
+N = 6   D = 4   S = 8
+Total discard = 491   Total Move = 3827
+Clear = 380   Together = 0
+Score = 6376
+
+Seed = 1881
+N = 8   D = 3   S = 12
+Total discard = 2480   Total Move = 10000
+Clear = 567   Together = 0
+Score = 14324
+
+Seed = 1882
+N = 8   D = 3   S = 9
+Total discard = 245   Total Move = 906
+Clear = 61   Together = 0
+Score = 1210
+
+Seed = 1883
+N = 5   D = 2   S = 12
+Total discard = 165   Total Move = 10000
+Clear = 788   Together = 0
+Score = 19291
+
+Seed = 1884
+N = 7   D = 2   S = 10
+Total discard = 582   Total Move = 3022
+Clear = 222   Together = 0
+Score = 4660
+
+Seed = 1885
+N = 4   D = 2   S = 10
+Total discard = 211   Total Move = 10000
+Clear = 948   Together = 0
+Score = 19269
+
+Seed = 1886
+N = 5   D = 2   S = 12
+Total discard = 172   Total Move = 10000
+Clear = 786   Together = 0
+Score = 19260
+
+Seed = 1887
+N = 8   D = 4   S = 8
+Total discard = 373   Total Move = 1367
+Clear = 106   Together = 0
+Score = 1842
+
+Seed = 1888
+N = 4   D = 2   S = 11
+Total discard = 218   Total Move = 10000
+Clear = 865   Together = 0
+Score = 19297
+
+Seed = 1889
+N = 7   D = 4   S = 10
+Total discard = 2157   Total Move = 10000
+Clear = 708   Together = 0
+Score = 14923
+
+Seed = 1890
+N = 10   D = 4   S = 10
+Total discard = 402   Total Move = 1275
+Clear = 69   Together = 0
+Score = 1563
+
+Seed = 1891
+N = 5   D = 3   S = 8
+Total discard = 136   Total Move = 10000
+Clear = 1157   Together = 6
+Score = 19264
+
+Seed = 1892
+N = 6   D = 3   S = 11
+Total discard = 1198   Total Move = 10000
+Clear = 749   Together = 0
+Score = 17041
+
+Seed = 1893
+N = 5   D = 4   S = 8
+Total discard = 195   Total Move = 10000
+Clear = 1148   Together = 2
+Score = 19037
+
+Seed = 1894
+N = 9   D = 2   S = 11
+Total discard = 327   Total Move = 1446
+Clear = 81   Together = 1
+Score = 2043
+
+Seed = 1895
+N = 8   D = 2   S = 12
+Total discard = 2323   Total Move = 10000
+Clear = 573   Together = 0
+Score = 14553
+
+Seed = 1896
+N = 4   D = 4   S = 11
+Total discard = 208   Total Move = 10000
+Clear = 862   Together = 0
+Score = 19274
+
+Seed = 1897
+N = 6   D = 3   S = 10
+Total discard = 616   Total Move = 4686
+Clear = 376   Together = 1
+Score = 7860
+
+Seed = 1898
+N = 8   D = 2   S = 8
+Total discard = 52   Total Move = 250
+Clear = 19   Together = 0
+Score = 350
+
+Seed = 1899
+N = 6   D = 3   S = 12
+Total discard = 1086   Total Move = 10000
+Clear = 700   Together = 0
+Score = 17314
+
+Seed = 1900
+N = 9   D = 4   S = 8
+Total discard = 42   Total Move = 135
+Clear = 5   Together = 0
+Score = 133
+
+Seed = 1901
+N = 4   D = 4   S = 12
+Total discard = 220   Total Move = 10000
+Clear = 790   Together = 0
+Score = 19260
+
+Seed = 1902
+N = 8   D = 3   S = 8
+Total discard = 195   Total Move = 673
+Clear = 45   Together = 1
+Score = 862
+
+Seed = 1903
+N = 10   D = 2   S = 11
+Total discard = 173   Total Move = 611
+Clear = 31   Together = 0
+Score = 779
+
+Seed = 1904
+N = 6   D = 3   S = 9
+Total discard = 1287   Total Move = 10000
+Clear = 890   Together = 2
+Score = 16777
+
+Seed = 1905
+N = 6   D = 2   S = 9
+Total discard = 57   Total Move = 478
+Clear = 43   Together = 0
+Score = 808
+
+Seed = 1906
+N = 10   D = 4   S = 8
+Total discard = 66   Total Move = 188
+Clear = 10   Together = 0
+Score = 202
+
+Seed = 1907
+N = 10   D = 2   S = 9
+Total discard = 43   Total Move = 166
+Clear = 8   Together = 0
+Score = 195
+
+Seed = 1908
+N = 4   D = 3   S = 11
+Total discard = 208   Total Move = 10000
+Clear = 862   Together = 1
+Score = 19307
+
+Seed = 1909
+N = 4   D = 2   S = 11
+Total discard = 224   Total Move = 10000
+Clear = 859   Together = 1
+Score = 19258
+
+Seed = 1910
+N = 10   D = 4   S = 11
+Total discard = 2783   Total Move = 8489
+Clear = 443   Together = 0
+Score = 10579
+
+Seed = 1911
+N = 5   D = 3   S = 12
+Total discard = 197   Total Move = 10000
+Clear = 784   Together = 0
+Score = 19211
+
+Seed = 1912
+N = 4   D = 2   S = 12
+Total discard = 201   Total Move = 10000
+Clear = 792   Together = 0
+Score = 19303
+
+Seed = 1913
+N = 8   D = 2   S = 11
+Total discard = 117   Total Move = 553
+Clear = 34   Together = 0
+Score = 810
+
+Seed = 1914
+N = 8   D = 2   S = 10
+Total discard = 2577   Total Move = 10000
+Clear = 668   Together = 1
+Score = 14133
+
+Seed = 1915
+N = 6   D = 4   S = 9
+Total discard = 1361   Total Move = 10000
+Clear = 884   Together = 1
+Score = 16622
+
+Seed = 1916
+N = 6   D = 2   S = 11
+Total discard = 1182   Total Move = 10000
+Clear = 750   Together = 1
+Score = 17101
+
+Seed = 1917
+N = 5   D = 3   S = 8
+Total discard = 151   Total Move = 10000
+Clear = 1140   Together = 8
+Score = 19161
+
+Seed = 1918
+N = 8   D = 2   S = 9
+Total discard = 91   Total Move = 382
+Clear = 26   Together = 0
+Score = 525
+
+Seed = 1919
+N = 5   D = 2   S = 8
+Total discard = 117   Total Move = 7069
+Clear = 817   Together = 1
+Score = 13512
+
+Seed = 1920
+N = 4   D = 4   S = 9
+Total discard = 219   Total Move = 10000
+Clear = 1050   Together = 0
+Score = 19231
+
+Seed = 1921
+N = 10   D = 3   S = 10
+Total discard = 140   Total Move = 439
+Clear = 22   Together = 0
+Score = 519
+
+Seed = 1922
+N = 9   D = 2   S = 9
+Total discard = 49   Total Move = 256
+Clear = 14   Together = 0
+Score = 333
+
+Seed = 1923
+N = 10   D = 3   S = 10
+Total discard = 182   Total Move = 601
+Clear = 30   Together = 0
+Score = 719
+
+Seed = 1924
+N = 5   D = 3   S = 10
+Total discard = 171   Total Move = 10000
+Clear = 937   Together = 0
+Score = 19199
+
+Seed = 1925
+N = 10   D = 3   S = 12
+Total discard = 3139   Total Move = 10000
+Clear = 498   Together = 2
+Score = 12909
+
+Seed = 1926
+N = 7   D = 3   S = 10
+Total discard = 1827   Total Move = 8498
+Clear = 603   Together = 1
+Score = 12731
+
+Seed = 1927
+N = 7   D = 2   S = 11
+Total discard = 172   Total Move = 884
+Clear = 58   Together = 0
+Score = 1350
+
+Seed = 1928
+N = 9   D = 2   S = 9
+Total discard = 50   Total Move = 250
+Clear = 15   Together = 0
+Score = 335
+
+Seed = 1929
+N = 10   D = 3   S = 9
+Total discard = 30   Total Move = 114
+Clear = 4   Together = 0
+Score = 120
+
+Seed = 1930
+N = 9   D = 3   S = 10
+Total discard = 230   Total Move = 927
+Clear = 55   Together = 0
+Score = 1247
+
+Seed = 1931
+N = 10   D = 4   S = 10
+Total discard = 853   Total Move = 2590
+Clear = 146   Together = 0
+Score = 3197
+
+Seed = 1932
+N = 8   D = 2   S = 10
+Total discard = 2015   Total Move = 7812
+Clear = 520   Together = 0
+Score = 10997
+
+Seed = 1933
+N = 5   D = 3   S = 10
+Total discard = 25   Total Move = 1331
+Clear = 123   Together = 0
+Score = 2536
+
+Seed = 1934
+N = 10   D = 2   S = 9
+Total discard = 51   Total Move = 166
+Clear = 7   Together = 0
+Score = 178
+
+Seed = 1935
+N = 4   D = 4   S = 11
+Total discard = 233   Total Move = 10000
+Clear = 854   Together = 0
+Score = 19161
+
+Seed = 1936
+N = 6   D = 3   S = 12
+Total discard = 1138   Total Move = 10000
+Clear = 699   Together = 0
+Score = 17250
+
+Seed = 1937
+N = 4   D = 4   S = 12
+Total discard = 233   Total Move = 10000
+Clear = 789   Together = 0
+Score = 19235
+
+Seed = 1938
+N = 6   D = 4   S = 10
+Total discard = 1184   Total Move = 10000
+Clear = 816   Together = 1
+Score = 17006
+
+Seed = 1939
+N = 8   D = 4   S = 9
+Total discard = 326   Total Move = 1241
+Clear = 80   Together = 1
+Score = 1662
+
+Seed = 1940
+N = 10   D = 3   S = 10
+Total discard = 314   Total Move = 971
+Clear = 53   Together = 0
+Score = 1187
+
+Seed = 1941
+N = 8   D = 4   S = 9
+Total discard = 401   Total Move = 1534
+Clear = 102   Together = 2
+Score = 2105
+
+Seed = 1942
+N = 8   D = 3   S = 9
+Total discard = 267   Total Move = 977
+Clear = 62   Together = 0
+Score = 1268
+
+Seed = 1943
+N = 8   D = 3   S = 8
+Total discard = 192   Total Move = 716
+Clear = 53   Together = 0
+Score = 948
+
+Seed = 1944
+N = 10   D = 3   S = 9
+Total discard = 11   Total Move = 49
+Clear = 2   Together = 0
+Score = 56
+
+Seed = 1945
+N = 7   D = 4   S = 12
+Total discard = 1945   Total Move = 10000
+Clear = 621   Together = 0
+Score = 15507
+
+Seed = 1946
+N = 4   D = 4   S = 11
+Total discard = 228   Total Move = 10000
+Clear = 863   Together = 0
+Score = 19265
+
+Seed = 1947
+N = 7   D = 2   S = 10
+Total discard = 51   Total Move = 308
+Clear = 22   Together = 0
+Score = 477
+
+Seed = 1948
+N = 8   D = 4   S = 10
+Total discard = 1885   Total Move = 7199
+Clear = 473   Together = 0
+Score = 10044
+
+Seed = 1949
+N = 8   D = 4   S = 11
+Total discard = 2608   Total Move = 10000
+Clear = 602   Together = 1
+Score = 14047
+
+Seed = 1950
+N = 8   D = 2   S = 10
+Total discard = 2503   Total Move = 10000
+Clear = 667   Together = 1
+Score = 14197
+
+Seed = 1951
+N = 5   D = 4   S = 10
+Total discard = 149   Total Move = 10000
+Clear = 938   Together = 0
+Score = 19231
+
+Seed = 1952
+N = 8   D = 4   S = 9
+Total discard = 48   Total Move = 186
+Clear = 10   Together = 0
+Score = 228
+
+Seed = 1953
+N = 7   D = 2   S = 8
+Total discard = 138   Total Move = 674
+Clear = 58   Together = 0
+Score = 1000
+
+Seed = 1954
+N = 9   D = 4   S = 10
+Total discard = 230   Total Move = 912
+Clear = 53   Together = 0
+Score = 1212
+
+Seed = 1955
+N = 10   D = 4   S = 12
+Total discard = 3149   Total Move = 10000
+Clear = 498   Together = 1
+Score = 12863
+
+Seed = 1956
+N = 8   D = 4   S = 12
+Total discard = 2446   Total Move = 10000
+Clear = 570   Together = 0
+Score = 14394
+
+Seed = 1957
+N = 6   D = 3   S = 10
+Total discard = 1229   Total Move = 10000
+Clear = 817   Together = 0
+Score = 16941
+
+Seed = 1958
+N = 8   D = 3   S = 9
+Total discard = 683   Total Move = 2547
+Clear = 177   Together = 0
+Score = 3457
+
+Seed = 1959
+N = 4   D = 4   S = 9
+Total discard = 214   Total Move = 10000
+Clear = 1053   Together = 0
+Score = 19263
+
+Seed = 1960
+N = 5   D = 4   S = 12
+Total discard = 179   Total Move = 10000
+Clear = 782   Together = 1
+Score = 19241
+
+Seed = 1961
+N = 8   D = 3   S = 11
+Total discard = 2470   Total Move = 10000
+Clear = 618   Together = 0
+Score = 14328
+
+Seed = 1962
+N = 9   D = 4   S = 10
+Total discard = 651   Total Move = 2597
+Clear = 168   Together = 0
+Score = 3626
+
+Seed = 1963
+N = 7   D = 2   S = 11
+Total discard = 977   Total Move = 4964
+Clear = 333   Together = 0
+Score = 7650
+
+Seed = 1964
+N = 6   D = 2   S = 10
+Total discard = 4   Total Move = 43
+Clear = 2   Together = 0
+Score = 59
+
+Seed = 1965
+N = 5   D = 2   S = 8
+Total discard = 116   Total Move = 6558
+Clear = 751   Together = 3
+Score = 12522
+
+Seed = 1966
+N = 6   D = 4   S = 9
+Total discard = 1333   Total Move = 10000
+Clear = 879   Together = 5
+Score = 16713
+
+Seed = 1967
+N = 9   D = 2   S = 11
+Total discard = 1004   Total Move = 4364
+Clear = 267   Together = 0
+Score = 6297
+
+Seed = 1968
+N = 10   D = 4   S = 9
+Total discard = 242   Total Move = 760
+Clear = 44   Together = 0
+Score = 914
+
+Seed = 1969
+N = 8   D = 2   S = 8
+Total discard = 42   Total Move = 183
+Clear = 11   Together = 0
+Score = 229
+
+Seed = 1970
+N = 6   D = 3   S = 10
+Total discard = 1280   Total Move = 10000
+Clear = 808   Together = 0
+Score = 16800
+
+Seed = 1971
+N = 4   D = 3   S = 11
+Total discard = 233   Total Move = 10000
+Clear = 861   Together = 1
+Score = 19271
+
+Seed = 1972
+N = 10   D = 3   S = 11
+Total discard = 754   Total Move = 2502
+Clear = 136   Together = 0
+Score = 3244
+
+Seed = 1973
+N = 8   D = 4   S = 11
+Total discard = 1469   Total Move = 5589
+Clear = 334   Together = 1
+Score = 7827
+
+Seed = 1974
+N = 4   D = 2   S = 8
+Total discard = 170   Total Move = 10000
+Clear = 1175   Together = 1
+Score = 19254
+
+Seed = 1975
+N = 5   D = 4   S = 9
+Total discard = 141   Total Move = 10000
+Clear = 1031   Together = 0
+Score = 19138
+
+Seed = 1976
+N = 8   D = 4   S = 11
+Total discard = 317   Total Move = 1208
+Clear = 70   Together = 1
+Score = 1694
+
+Seed = 1977
+N = 4   D = 2   S = 8
+Total discard = 206   Total Move = 10000
+Clear = 1169   Together = 1
+Score = 19170
+
+Seed = 1978
+N = 5   D = 3   S = 10
+Total discard = 167   Total Move = 10000
+Clear = 940   Together = 0
+Score = 19233
+
+Seed = 1979
+N = 5   D = 4   S = 10
+Total discard = 162   Total Move = 10000
+Clear = 936   Together = 1
+Score = 19228
+
+Seed = 1980
+N = 8   D = 4   S = 8
+Total discard = 31   Total Move = 142
+Clear = 7   Together = 0
+Score = 167
+
+Seed = 1981
+N = 6   D = 3   S = 9
+Total discard = 1320   Total Move = 10000
+Clear = 885   Together = 2
+Score = 16699
+
+Seed = 1982
+N = 9   D = 4   S = 11
+Total discard = 2349   Total Move = 10000
+Clear = 619   Together = 0
+Score = 14460
+
+Seed = 1983
+N = 4   D = 3   S = 8
+Total discard = 205   Total Move = 10000
+Clear = 1171   Together = 0
+Score = 19163
+
+Seed = 1984
+N = 4   D = 2   S = 12
+Total discard = 205   Total Move = 10000
+Clear = 790   Together = 0
+Score = 19275
+
+Seed = 1985
+N = 10   D = 2   S = 12
+Total discard = 149   Total Move = 597
+Clear = 31   Together = 0
+Score = 820
+
+Seed = 1986
+N = 5   D = 4   S = 11
+Total discard = 199   Total Move = 10000
+Clear = 852   Together = 0
+Score = 19173
+
+Seed = 1987
+N = 6   D = 2   S = 11
+Total discard = 1106   Total Move = 10000
+Clear = 757   Together = 0
+Score = 17221
+
+Seed = 1988
+N = 10   D = 4   S = 10
+Total discard = 414   Total Move = 1295
+Clear = 70   Together = 0
+Score = 1581
+
+Seed = 1989
+N = 4   D = 3   S = 10
+Total discard = 231   Total Move = 10000
+Clear = 947   Together = 0
+Score = 19239
+
+Seed = 1990
+N = 6   D = 3   S = 8
+Total discard = 1382   Total Move = 10000
+Clear = 981   Together = 3
+Score = 16538
+
+Seed = 1991
+N = 7   D = 4   S = 11
+Total discard = 2127   Total Move = 10000
+Clear = 654   Together = 1
+Score = 15100
+
+Seed = 1992
+N = 8   D = 3   S = 8
+Total discard = 11   Total Move = 45
+Clear = 2   Together = 0
+Score = 50
+
+Seed = 1993
+N = 9   D = 2   S = 12
+Total discard = 2219   Total Move = 10000
+Clear = 577   Together = 0
+Score = 14705
+
+Seed = 1994
+N = 6   D = 3   S = 8
+Total discard = 773   Total Move = 5436
+Clear = 527   Together = 1
+Score = 8903
+
+Seed = 1995
+N = 9   D = 4   S = 11
+Total discard = 256   Total Move = 1000
+Clear = 52   Together = 1
+Score = 1349
+
+Seed = 1996
+N = 6   D = 4   S = 9
+Total discard = 1330   Total Move = 10000
+Clear = 889   Together = 2
+Score = 16725
+
+Seed = 1997
+N = 7   D = 3   S = 10
+Total discard = 2187   Total Move = 10000
+Clear = 708   Together = 2
+Score = 14953
+
+Seed = 1998
+N = 4   D = 4   S = 10
+Total discard = 223   Total Move = 10000
+Clear = 949   Together = 0
+Score = 19267
+
+Seed = 1999
+N = 6   D = 4   S = 10
+Total discard = 1209   Total Move = 10000
+Clear = 813   Together = 2
+Score = 16981
+
+Seed = 2000
+N = 9   D = 2   S = 10
+Total discard = 238   Total Move = 990
+Clear = 61   Together = 0
+Score = 1362
+
