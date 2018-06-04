@@ -1,0 +1,1521 @@
+Seed: 1003
+K: 3    N: 74     M: 11
+Score: 16928966.03
+Seed: 1005
+K: 4    N: 78     M: 33
+Score: 17989633.51
+Seed: 1007
+K: 4    N: 90     M: 17
+Score: 16580150.95
+Seed: 1008
+K: 4    N: 18     M: 37
+Score: 5613901.24
+Seed: 1011
+K: 4    N: 66     M: 31
+Score: 14743943.05
+Seed: 1013
+K: 4    N: 62     M: 28
+Score: 12842914.43
+Seed: 1015
+K: 3    N: 62     M: 25
+Score: 18219365.91
+Seed: 1019
+K: 3    N: 88     M: 5
+Score: 19213799.18
+Seed: 1020
+K: 4    N: 60     M: 8
+Score: 9504229.04
+Seed: 1024
+K: 3    N: 64     M: 29
+Score: 20179979.25
+Seed: 1026
+K: 3    N: 36     M: 15
+Score: 8456452.37
+Seed: 1037
+K: 4    N: 56     M: 30
+Score: 13086048.55
+Seed: 1040
+K: 3    N: 70     M: 28
+Score: 22626373.07
+Seed: 1041
+K: 4    N: 92     M: 33
+Score: 20607882.90
+Seed: 1045
+K: 3    N: 96     M: 24
+Score: 29079661.01
+Seed: 1047
+K: 4    N: 100     M: 14
+Score: 18156252.42
+Seed: 1048
+K: 4    N: 14     M: 5
+Score: 3262791.53
+Seed: 1049
+K: 4    N: 62     M: 13
+Score: 10821878.02
+Seed: 1051
+K: 4    N: 74     M: 27
+Score: 15237428.18
+Seed: 1052
+K: 4    N: 46     M: 16
+Score: 8239453.57
+Seed: 1055
+K: 3    N: 94     M: 25
+Score: 29894718.49
+Seed: 1056
+K: 3    N: 52     M: 13
+Score: 12851577.80
+Seed: 1057
+K: 3    N: 72     M: 12
+Score: 18076709.90
+Seed: 1060
+K: 3    N: 12     M: 40
+Score: 5243040.94
+Seed: 1063
+K: 4    N: 26     M: 39
+Score: 7044549.57
+Seed: 1067
+K: 3    N: 66     M: 6
+Score: 14462199.17
+Seed: 1069
+K: 3    N: 76     M: 16
+Score: 19128834.79
+Seed: 1070
+K: 4    N: 66     M: 39
+Score: 15225332.65
+Seed: 1071
+K: 4    N: 82     M: 30
+Score: 16880634.32
+Seed: 1072
+K: 3    N: 64     M: 36
+Score: 23415125.54
+Seed: 1073
+K: 4    N: 28     M: 12
+Score: 6043212.74
+Seed: 1074
+K: 4    N: 64     M: 23
+Score: 12961734.51
+Seed: 1076
+K: 3    N: 26     M: 29
+Score: 8980531.64
+Seed: 1077
+K: 4    N: 64     M: 33
+Score: 13866631.36
+Seed: 1079
+K: 4    N: 88     M: 29
+Score: 18317871.99
+Seed: 1088
+K: 4    N: 58     M: 25
+Score: 12333731.10
+Seed: 1092
+K: 3    N: 20     M: 9
+Score: 5414694.58
+Seed: 1095
+K: 3    N: 92     M: 14
+Score: 21872146.22
+Seed: 1098
+K: 4    N: 46     M: 30
+Score: 9891476.01
+Seed: 1099
+K: 3    N: 18     M: 35
+Score: 6627617.09
+Seed: 1101
+K: 4    N: 96     M: 14
+Score: 15790529.12
+Seed: 1102
+K: 3    N: 40     M: 20
+Score: 12393972.35
+Seed: 1104
+K: 3    N: 88     M: 29
+Score: 28393086.46
+Seed: 1105
+K: 3    N: 54     M: 10
+Score: 11271163.17
+Seed: 1106
+K: 3    N: 16     M: 15
+Score: 4901510.10
+Seed: 1110
+K: 3    N: 56     M: 10
+Score: 13046641.54
+Seed: 1111
+K: 4    N: 14     M: 38
+Score: 4958552.73
+Seed: 1112
+K: 4    N: 46     M: 32
+Score: 10925908.46
+Seed: 1114
+K: 4    N: 86     M: 10
+Score: 13669618.37
+Seed: 1115
+K: 3    N: 54     M: 39
+Score: 21381963.24
+Seed: 1116
+K: 4    N: 84     M: 15
+Score: 14945692.28
+Seed: 1117
+K: 3    N: 40     M: 11
+Score: 9778257.44
+Seed: 1125
+K: 4    N: 96     M: 27
+Score: 20403374.11
+Seed: 1126
+K: 3    N: 40     M: 35
+Score: 14055799.07
+Seed: 1127
+K: 4    N: 52     M: 40
+Score: 12543721.98
+Seed: 1128
+K: 4    N: 76     M: 33
+Score: 17282483.05
+Seed: 1129
+K: 4    N: 22     M: 16
+Score: 5494727.86
+Seed: 1132
+K: 4    N: 26     M: 17
+Score: 5385401.72
+Seed: 1135
+K: 4    N: 54     M: 25
+Score: 10867270.68
+Seed: 1137
+K: 3    N: 82     M: 24
+Score: 25467842.13
+Seed: 1138
+K: 4    N: 28     M: 11
+Score: 5256762.55
+Seed: 1139
+K: 3    N: 56     M: 10
+Score: 12511519.69
+Seed: 1141
+K: 4    N: 18     M: 23
+Score: 4365207.17
+Seed: 1142
+K: 4    N: 12     M: 23
+Score: 3303233.11
+Seed: 1143
+K: 4    N: 78     M: 15
+Score: 14689362.22
+Seed: 1147
+K: 3    N: 50     M: 5
+Score: 11411453.73
+Seed: 1148
+K: 3    N: 64     M: 40
+Score: 25039790.37
+Seed: 1149
+K: 3    N: 58     M: 17
+Score: 14162694.39
+Seed: 1150
+K: 3    N: 58     M: 10
+Score: 12826177.22
+Seed: 1151
+K: 4    N: 68     M: 12
+Score: 11335558.79
+Seed: 1153
+K: 4    N: 58     M: 23
+Score: 11171600.02
+Seed: 1155
+K: 3    N: 72     M: 29
+Score: 25052007.79
+Seed: 1156
+K: 3    N: 78     M: 7
+Score: 15714677.80
+Seed: 1160
+K: 4    N: 10     M: 5
+Score: 2045187.09
+Seed: 1165
+K: 3    N: 44     M: 20
+Score: 13171163.03
+Seed: 1167
+K: 4    N: 76     M: 20
+Score: 14769521.98
+Seed: 1168
+K: 4    N: 14     M: 22
+Score: 3658842.39
+Seed: 1169
+K: 3    N: 88     M: 18
+Score: 22250534.08
+Seed: 1171
+K: 3    N: 18     M: 32
+Score: 5238878.41
+Seed: 1172
+K: 4    N: 12     M: 19
+Score: 3090356.93
+Seed: 1174
+K: 3    N: 36     M: 36
+Score: 12870229.56
+Seed: 1175
+K: 4    N: 70     M: 20
+Score: 13189243.38
+Seed: 1179
+K: 3    N: 70     M: 7
+Score: 15166339.52
+Seed: 1183
+K: 4    N: 54     M: 5
+Score: 9802745.38
+Seed: 1185
+K: 4    N: 68     M: 26
+Score: 13759038.67
+Seed: 1186
+K: 3    N: 20     M: 18
+Score: 5338342.62
+Seed: 1192
+K: 3    N: 66     M: 6
+Score: 13817676.75
+Seed: 1194
+K: 4    N: 38     M: 32
+Score: 8898651.59
+Seed: 1195
+K: 3    N: 16     M: 12
+Score: 3184014.41
+Seed: 1197
+K: 4    N: 82     M: 26
+Score: 16682318.65
+Seed: 1199
+K: 4    N: 52     M: 35
+Score: 12403622.36
+Seed: 1202
+K: 3    N: 56     M: 29
+Score: 18814332.22
+Seed: 1204
+K: 3    N: 94     M: 5
+Score: 19028570.13
+Seed: 1205
+K: 3    N: 94     M: 5
+Score: 18466078.97
+Seed: 1206
+K: 4    N: 100     M: 26
+Score: 20480878.51
+Seed: 1209
+K: 3    N: 40     M: 9
+Score: 9409326.06
+Seed: 1210
+K: 3    N: 90     M: 20
+Score: 27232200.26
+Seed: 1212
+K: 4    N: 28     M: 10
+Score: 4180733.45
+Seed: 1216
+K: 4    N: 26     M: 12
+Score: 5522126.70
+Seed: 1218
+K: 3    N: 22     M: 33
+Score: 7727500.91
+Seed: 1222
+K: 4    N: 42     M: 24
+Score: 8126539.57
+Seed: 1226
+K: 3    N: 16     M: 28
+Score: 5441577.53
+Seed: 1227
+K: 3    N: 18     M: 15
+Score: 5139034.02
+Seed: 1228
+K: 4    N: 80     M: 9
+Score: 13669581.00
+Seed: 1229
+K: 4    N: 68     M: 38
+Score: 15373758.65
+Seed: 1230
+K: 3    N: 22     M: 5
+Score: 5517937.09
+Seed: 1231
+K: 4    N: 72     M: 35
+Score: 16130413.99
+Seed: 1232
+K: 3    N: 30     M: 33
+Score: 11180593.42
+Seed: 1234
+K: 3    N: 64     M: 25
+Score: 20852149.89
+Seed: 1236
+K: 3    N: 96     M: 25
+Score: 29176806.68
+Seed: 1239
+K: 3    N: 68     M: 18
+Score: 18235836.25
+Seed: 1242
+K: 3    N: 94     M: 20
+Score: 25968230.19
+Seed: 1243
+K: 3    N: 40     M: 30
+Score: 14649057.40
+Seed: 1244
+K: 3    N: 22     M: 12
+Score: 4679711.50
+Seed: 1247
+K: 3    N: 56     M: 33
+Score: 19330797.50
+Seed: 1248
+K: 3    N: 86     M: 16
+Score: 21973892.09
+Seed: 1249
+K: 3    N: 74     M: 24
+Score: 23887051.18
+Seed: 1250
+K: 4    N: 16     M: 26
+Score: 3559968.34
+Seed: 1251
+K: 4    N: 50     M: 28
+Score: 10733963.18
+Seed: 1255
+K: 3    N: 84     M: 37
+Score: 33314447.27
+Seed: 1258
+K: 3    N: 10     M: 27
+Score: 3571078.87
+Seed: 1259
+K: 3    N: 88     M: 36
+Score: 33381538.15
+Seed: 1263
+K: 4    N: 72     M: 25
+Score: 14195082.42
+Seed: 1264
+K: 4    N: 42     M: 29
+Score: 10194857.00
+Seed: 1265
+K: 3    N: 52     M: 32
+Score: 18755894.91
+Seed: 1267
+K: 4    N: 16     M: 35
+Score: 5035922.03
+Seed: 1271
+K: 4    N: 80     M: 7
+Score: 12903598.53
+Seed: 1272
+K: 3    N: 82     M: 8
+Score: 18654671.13
+Seed: 1273
+K: 3    N: 90     M: 37
+Score: 34284974.84
+Seed: 1274
+K: 3    N: 74     M: 40
+Score: 27755527.54
+Seed: 1276
+K: 3    N: 82     M: 21
+Score: 22354917.41
+Seed: 1277
+K: 3    N: 92     M: 20
+Score: 24367057.75
+Seed: 1279
+K: 3    N: 58     M: 23
+Score: 17298582.64
+Seed: 1282
+K: 4    N: 88     M: 31
+Score: 19216118.06
+Seed: 1286
+K: 4    N: 82     M: 15
+Score: 13978350.50
+Seed: 1287
+K: 3    N: 34     M: 35
+Score: 11729263.04
+Seed: 1288
+K: 3    N: 32     M: 25
+Score: 10994520.46
+Seed: 1291
+K: 4    N: 88     M: 28
+Score: 18530769.31
+Seed: 1294
+K: 4    N: 32     M: 22
+Score: 5892441.77
+Seed: 1296
+K: 4    N: 38     M: 19
+Score: 7598570.09
+Seed: 1301
+K: 4    N: 88     M: 32
+Score: 19722475.00
+Seed: 1303
+K: 3    N: 86     M: 31
+Score: 30965247.16
+Seed: 1305
+K: 3    N: 78     M: 31
+Score: 26367413.47
+Seed: 1307
+K: 3    N: 70     M: 25
+Score: 20630001.44
+Seed: 1310
+K: 4    N: 10     M: 20
+Score: 3202614.87
+Seed: 1311
+K: 3    N: 18     M: 6
+Score: 3912792.07
+Seed: 1312
+K: 4    N: 70     M: 33
+Score: 15723063.75
+Seed: 1314
+K: 3    N: 58     M: 40
+Score: 22654159.03
+Seed: 1315
+K: 4    N: 84     M: 18
+Score: 15493686.70
+Seed: 1318
+K: 4    N: 36     M: 30
+Score: 8690725.51
+Seed: 1319
+K: 3    N: 24     M: 39
+Score: 8268057.76
+Seed: 1320
+K: 4    N: 54     M: 12
+Score: 9176316.40
+Seed: 1322
+K: 3    N: 20     M: 24
+Score: 5613793.10
+Seed: 1323
+K: 4    N: 26     M: 20
+Score: 5494390.68
+Seed: 1325
+K: 4    N: 72     M: 21
+Score: 12796646.95
+Seed: 1326
+K: 3    N: 40     M: 36
+Score: 15488722.53
+Seed: 1327
+K: 4    N: 38     M: 35
+Score: 9172856.39
+Seed: 1329
+K: 3    N: 12     M: 37
+Score: 4970491.35
+Seed: 1332
+K: 3    N: 36     M: 7
+Score: 8292114.57
+Seed: 1336
+K: 3    N: 52     M: 37
+Score: 19537876.45
+Seed: 1337
+K: 4    N: 80     M: 16
+Score: 14976815.39
+Seed: 1338
+K: 4    N: 32     M: 23
+Score: 6784117.99
+Seed: 1339
+K: 4    N: 98     M: 17
+Score: 18141292.62
+Seed: 1341
+K: 4    N: 20     M: 38
+Score: 6232830.96
+Seed: 1342
+K: 4    N: 92     M: 13
+Score: 15972101.20
+Seed: 1343
+K: 3    N: 90     M: 12
+Score: 21406811.53
+Seed: 1347
+K: 3    N: 98     M: 11
+Score: 21908126.63
+Seed: 1349
+K: 3    N: 52     M: 21
+Score: 14847771.00
+Seed: 1350
+K: 4    N: 42     M: 35
+Score: 10223586.71
+Seed: 1354
+K: 4    N: 38     M: 30
+Score: 9149748.77
+Seed: 1355
+K: 3    N: 32     M: 36
+Score: 12747734.87
+Seed: 1356
+K: 3    N: 18     M: 39
+Score: 7852608.88
+Seed: 1357
+K: 4    N: 80     M: 21
+Score: 14581556.98
+Seed: 1359
+K: 4    N: 100     M: 9
+Score: 16705109.35
+Seed: 1360
+K: 4    N: 10     M: 16
+Score: 2531894.79
+Seed: 1361
+K: 4    N: 30     M: 31
+Score: 7200223.41
+Seed: 1362
+K: 4    N: 32     M: 14
+Score: 6929038.10
+Seed: 1366
+K: 4    N: 88     M: 8
+Score: 13842065.72
+Seed: 1368
+K: 4    N: 70     M: 5
+Score: 11229042.90
+Seed: 1369
+K: 3    N: 66     M: 17
+Score: 16179722.85
+Seed: 1371
+K: 4    N: 66     M: 39
+Score: 15959662.25
+Seed: 1372
+K: 3    N: 86     M: 7
+Score: 17904784.33
+Seed: 1377
+K: 3    N: 46     M: 37
+Score: 16848652.15
+Seed: 1382
+K: 4    N: 38     M: 40
+Score: 9746915.07
+Seed: 1388
+K: 4    N: 100     M: 33
+Score: 22183656.99
+Seed: 1389
+K: 4    N: 98     M: 36
+Score: 21256296.57
+Seed: 1390
+K: 4    N: 20     M: 26
+Score: 4665655.40
+Seed: 1391
+K: 4    N: 92     M: 25
+Score: 18458253.09
+Seed: 1392
+K: 4    N: 64     M: 10
+Score: 11446582.11
+Seed: 1394
+K: 4    N: 72     M: 8
+Score: 10785250.79
+Seed: 1396
+K: 4    N: 62     M: 11
+Score: 10393349.82
+Seed: 1397
+K: 4    N: 42     M: 19
+Score: 8691375.80
+Seed: 1399
+K: 4    N: 30     M: 14
+Score: 6133320.73
+Seed: 1400
+K: 3    N: 52     M: 9
+Score: 12792030.58
+Seed: 1401
+K: 3    N: 64     M: 15
+Score: 15507692.97
+Seed: 1402
+K: 3    N: 98     M: 38
+Score: 38015858.66
+Seed: 1403
+K: 4    N: 64     M: 9
+Score: 10758809.54
+Seed: 1404
+K: 4    N: 84     M: 23
+Score: 16339490.43
+Seed: 1405
+K: 4    N: 64     M: 36
+Score: 15038913.82
+Seed: 1407
+K: 4    N: 68     M: 20
+Score: 13799909.84
+Seed: 1411
+K: 4    N: 22     M: 28
+Score: 5977857.98
+Seed: 1412
+K: 3    N: 26     M: 8
+Score: 6321660.46
+Seed: 1413
+K: 3    N: 68     M: 23
+Score: 21178959.20
+Seed: 1416
+K: 4    N: 40     M: 19
+Score: 8427477.12
+Seed: 1417
+K: 4    N: 46     M: 20
+Score: 9128174.06
+Seed: 1419
+K: 4    N: 18     M: 5
+Score: 3418462.47
+Seed: 1421
+K: 3    N: 10     M: 40
+Score: 3589115.65
+Seed: 1423
+K: 4    N: 48     M: 18
+Score: 10395580.16
+Seed: 1426
+K: 4    N: 72     M: 38
+Score: 17705115.34
+Seed: 1428
+K: 4    N: 82     M: 25
+Score: 16574866.18
+Seed: 1429
+K: 4    N: 14     M: 23
+Score: 3784056.29
+Seed: 1431
+K: 4    N: 84     M: 6
+Score: 14655318.94
+Seed: 1432
+K: 4    N: 98     M: 18
+Score: 18141415.14
+Seed: 1433
+K: 3    N: 56     M: 21
+Score: 14026758.28
+Seed: 1434
+K: 4    N: 32     M: 15
+Score: 6818862.36
+Seed: 1436
+K: 4    N: 54     M: 35
+Score: 12823718.31
+Seed: 1438
+K: 3    N: 98     M: 40
+Score: 39484805.05
+Seed: 1440
+K: 4    N: 74     M: 29
+Score: 15947037.14
+Seed: 1442
+K: 4    N: 52     M: 8
+Score: 9532323.24
+Seed: 1443
+K: 3    N: 40     M: 12
+Score: 10230410.03
+Seed: 1444
+K: 4    N: 80     M: 7
+Score: 13118909.73
+Seed: 1447
+K: 4    N: 86     M: 14
+Score: 14202910.15
+Seed: 1448
+K: 3    N: 48     M: 38
+Score: 16302281.46
+Seed: 1451
+K: 3    N: 92     M: 13
+Score: 21038438.61
+Seed: 1452
+K: 3    N: 10     M: 36
+Score: 4527646.06
+Seed: 1453
+K: 3    N: 88     M: 14
+Score: 21524930.81
+Seed: 1456
+K: 3    N: 52     M: 38
+Score: 20944761.64
+Seed: 1458
+K: 3    N: 36     M: 6
+Score: 6739888.21
+Seed: 1460
+K: 4    N: 56     M: 16
+Score: 10107771.54
+Seed: 1461
+K: 4    N: 68     M: 20
+Score: 13238633.14
+Seed: 1463
+K: 4    N: 64     M: 22
+Score: 12924503.30
+Seed: 1466
+K: 3    N: 66     M: 30
+Score: 21648165.68
+Seed: 1467
+K: 4    N: 12     M: 16
+Score: 2590999.13
+Seed: 1468
+K: 3    N: 92     M: 25
+Score: 28326555.15
+Seed: 1470
+K: 3    N: 74     M: 14
+Score: 17675381.36
+Seed: 1471
+K: 3    N: 32     M: 37
+Score: 13498370.09
+Seed: 1472
+K: 3    N: 88     M: 32
+Score: 31344558.28
+Seed: 1473
+K: 4    N: 92     M: 10
+Score: 16146640.39
+Seed: 1476
+K: 4    N: 84     M: 39
+Score: 19803203.62
+Seed: 1477
+K: 4    N: 46     M: 10
+Score: 7753170.11
+Seed: 1480
+K: 3    N: 46     M: 34
+Score: 15268606.44
+Seed: 1481
+K: 4    N: 18     M: 30
+Score: 4989104.31
+Seed: 1483
+K: 4    N: 76     M: 7
+Score: 12593008.38
+Seed: 1484
+K: 3    N: 46     M: 22
+Score: 12632692.17
+Seed: 1486
+K: 4    N: 34     M: 10
+Score: 5738614.71
+Seed: 1490
+K: 3    N: 44     M: 30
+Score: 14865144.47
+Seed: 1492
+K: 3    N: 56     M: 17
+Score: 15135389.47
+Seed: 1493
+K: 3    N: 26     M: 6
+Score: 4954306.70
+Seed: 1494
+K: 4    N: 44     M: 28
+Score: 9847759.36
+Seed: 1495
+K: 4    N: 96     M: 28
+Score: 21038546.22
+Seed: 1496
+K: 3    N: 94     M: 20
+Score: 26717757.91
+Seed: 1497
+K: 3    N: 88     M: 23
+Score: 25226471.17
+Seed: 1498
+K: 3    N: 34     M: 28
+Score: 10881052.83
+Seed: 1499
+K: 3    N: 14     M: 13
+Score: 3637728.96
+Seed: 1502
+K: 3    N: 30     M: 24
+Score: 9953124.87
+Seed: 1504
+K: 3    N: 18     M: 6
+Score: 3724844.91
+Seed: 1505
+K: 4    N: 84     M: 29
+Score: 18154157.32
+Seed: 1506
+K: 4    N: 64     M: 24
+Score: 13078839.93
+Seed: 1507
+K: 4    N: 28     M: 33
+Score: 6828130.31
+Seed: 1508
+K: 3    N: 40     M: 17
+Score: 10849276.71
+Seed: 1509
+K: 4    N: 22     M: 23
+Score: 5061152.54
+Seed: 1511
+K: 3    N: 60     M: 16
+Score: 16062847.67
+Seed: 1512
+K: 4    N: 18     M: 25
+Score: 4636013.08
+Seed: 1517
+K: 3    N: 24     M: 24
+Score: 7924394.15
+Seed: 1518
+K: 4    N: 16     M: 8
+Score: 3055642.17
+Seed: 1519
+K: 4    N: 76     M: 8
+Score: 12687226.96
+Seed: 1522
+K: 3    N: 14     M: 19
+Score: 3946364.72
+Seed: 1526
+K: 4    N: 70     M: 23
+Score: 14031196.82
+Seed: 1527
+K: 3    N: 70     M: 15
+Score: 17830529.13
+Seed: 1529
+K: 4    N: 94     M: 5
+Score: 15144552.68
+Seed: 1534
+K: 3    N: 74     M: 13
+Score: 18059496.05
+Seed: 1535
+K: 3    N: 12     M: 10
+Score: 2776872.74
+Seed: 1536
+K: 3    N: 60     M: 15
+Score: 16478504.53
+Seed: 1539
+K: 3    N: 78     M: 38
+Score: 30595971.64
+Seed: 1542
+K: 4    N: 90     M: 34
+Score: 20257518.18
+Seed: 1547
+K: 4    N: 84     M: 23
+Score: 15905121.27
+Seed: 1548
+K: 3    N: 18     M: 10
+Score: 4393768.13
+Seed: 1549
+K: 3    N: 28     M: 37
+Score: 11927220.90
+Seed: 1550
+K: 4    N: 26     M: 6
+Score: 4873114.36
+Seed: 1554
+K: 3    N: 38     M: 37
+Score: 14761261.14
+Seed: 1555
+K: 3    N: 74     M: 31
+Score: 25617363.90
+Seed: 1558
+K: 4    N: 36     M: 14
+Score: 6580642.81
+Seed: 1559
+K: 4    N: 100     M: 38
+Score: 21735976.14
+Seed: 1561
+K: 4    N: 88     M: 35
+Score: 19762041.06
+Seed: 1562
+K: 3    N: 100     M: 15
+Score: 25284262.48
+Seed: 1564
+K: 3    N: 20     M: 29
+Score: 6562861.26
+Seed: 1565
+K: 4    N: 68     M: 35
+Score: 14615460.83
+Seed: 1568
+K: 4    N: 90     M: 34
+Score: 19360528.29
+Seed: 1569
+K: 3    N: 54     M: 29
+Score: 18796266.56
+Seed: 1571
+K: 3    N: 80     M: 23
+Score: 25001667.95
+Seed: 1575
+K: 3    N: 82     M: 23
+Score: 24245954.87
+Seed: 1580
+K: 4    N: 58     M: 23
+Score: 11564971.30
+Seed: 1581
+K: 4    N: 18     M: 8
+Score: 3569217.15
+Seed: 1583
+K: 3    N: 60     M: 33
+Score: 22132190.04
+Seed: 1584
+K: 4    N: 46     M: 13
+Score: 8095912.75
+Seed: 1585
+K: 3    N: 38     M: 29
+Score: 13342564.84
+Seed: 1586
+K: 3    N: 42     M: 24
+Score: 11835805.27
+Seed: 1591
+K: 3    N: 42     M: 22
+Score: 13020546.10
+Seed: 1593
+K: 4    N: 84     M: 11
+Score: 14213172.34
+Seed: 1594
+K: 4    N: 72     M: 36
+Score: 16864578.62
+Seed: 1596
+K: 4    N: 16     M: 6
+Score: 3263444.14
+Seed: 1599
+K: 4    N: 68     M: 22
+Score: 13887314.57
+Seed: 1602
+K: 3    N: 88     M: 7
+Score: 18235228.39
+Seed: 1603
+K: 3    N: 38     M: 8
+Score: 8520191.25
+Seed: 1604
+K: 3    N: 40     M: 30
+Score: 13207188.06
+Seed: 1605
+K: 4    N: 86     M: 22
+Score: 16918366.26
+Seed: 1607
+K: 4    N: 14     M: 16
+Score: 3139166.22
+Seed: 1610
+K: 3    N: 10     M: 15
+Score: 2896657.61
+Seed: 1611
+K: 3    N: 100     M: 21
+Score: 30187413.96
+Seed: 1613
+K: 4    N: 90     M: 18
+Score: 15929660.99
+Seed: 1620
+K: 4    N: 68     M: 35
+Score: 16336682.23
+Seed: 1621
+K: 4    N: 76     M: 27
+Score: 16071507.32
+Seed: 1623
+K: 4    N: 18     M: 17
+Score: 3643466.80
+Seed: 1625
+K: 3    N: 40     M: 18
+Score: 10979001.97
+Seed: 1626
+K: 4    N: 84     M: 30
+Score: 18379428.57
+Seed: 1628
+K: 4    N: 12     M: 29
+Score: 3539084.19
+Seed: 1633
+K: 4    N: 44     M: 37
+Score: 11384484.64
+Seed: 1634
+K: 3    N: 32     M: 38
+Score: 13203698.44
+Seed: 1636
+K: 3    N: 58     M: 38
+Score: 21990860.05
+Seed: 1638
+K: 3    N: 44     M: 21
+Score: 12518394.49
+Seed: 1639
+K: 3    N: 32     M: 18
+Score: 9081465.77
+Seed: 1643
+K: 3    N: 76     M: 13
+Score: 17255759.08
+Seed: 1645
+K: 4    N: 10     M: 20
+Score: 2651158.24
+Seed: 1647
+K: 3    N: 92     M: 27
+Score: 28372607.59
+Seed: 1649
+K: 3    N: 84     M: 22
+Score: 22381549.12
+Seed: 1650
+K: 3    N: 18     M: 25
+Score: 5523026.02
+Seed: 1653
+K: 4    N: 40     M: 21
+Score: 7914428.25
+Seed: 1654
+K: 3    N: 26     M: 26
+Score: 7445888.55
+Seed: 1662
+K: 4    N: 98     M: 27
+Score: 20449518.79
+Seed: 1663
+K: 4    N: 60     M: 23
+Score: 12638126.26
+Seed: 1664
+K: 3    N: 90     M: 33
+Score: 32589477.11
+Seed: 1665
+K: 3    N: 90     M: 31
+Score: 30676275.54
+Seed: 1667
+K: 4    N: 86     M: 7
+Score: 14422609.08
+Seed: 1669
+K: 4    N: 32     M: 12
+Score: 5530214.86
+Seed: 1670
+K: 4    N: 50     M: 22
+Score: 10659928.28
+Seed: 1674
+K: 3    N: 92     M: 26
+Score: 28011349.85
+Seed: 1677
+K: 3    N: 36     M: 19
+Score: 10140065.36
+Seed: 1682
+K: 3    N: 38     M: 16
+Score: 10657138.50
+Seed: 1683
+K: 3    N: 36     M: 17
+Score: 9786226.67
+Seed: 1684
+K: 4    N: 100     M: 8
+Score: 17781909.45
+Seed: 1686
+K: 3    N: 60     M: 6
+Score: 13633963.99
+Seed: 1690
+K: 3    N: 66     M: 18
+Score: 17155259.30
+Seed: 1694
+K: 4    N: 72     M: 7
+Score: 12831839.56
+Seed: 1698
+K: 4    N: 86     M: 9
+Score: 14456360.69
+Seed: 1699
+K: 3    N: 78     M: 23
+Score: 23764680.80
+Seed: 1700
+K: 3    N: 64     M: 19
+Score: 18404979.04
+Seed: 1701
+K: 4    N: 84     M: 35
+Score: 18518408.04
+Seed: 1703
+K: 3    N: 70     M: 16
+Score: 17782275.30
+Seed: 1705
+K: 4    N: 20     M: 38
+Score: 5598643.27
+Seed: 1706
+K: 4    N: 54     M: 25
+Score: 10940892.12
+Seed: 1708
+K: 4    N: 34     M: 31
+Score: 8634622.51
+Seed: 1710
+K: 4    N: 30     M: 13
+Score: 6056622.95
+Seed: 1711
+K: 3    N: 76     M: 18
+Score: 20914224.81
+Seed: 1712
+K: 3    N: 56     M: 36
+Score: 21331216.77
+Seed: 1713
+K: 4    N: 14     M: 8
+Score: 2789881.91
+Seed: 1714
+K: 3    N: 26     M: 7
+Score: 6525221.04
+Seed: 1717
+K: 4    N: 30     M: 10
+Score: 5294781.21
+Seed: 1718
+K: 3    N: 22     M: 5
+Score: 2611246.28
+Seed: 1722
+K: 4    N: 72     M: 19
+Score: 14591141.10
+Seed: 1724
+K: 3    N: 36     M: 5
+Score: 6774414.74
+Seed: 1726
+K: 4    N: 38     M: 37
+Score: 9840357.91
+Seed: 1728
+K: 3    N: 36     M: 40
+Score: 15245787.36
+Seed: 1730
+K: 4    N: 42     M: 23
+Score: 9408379.40
+Seed: 1731
+K: 3    N: 10     M: 22
+Score: 2279731.09
+Seed: 1734
+K: 3    N: 46     M: 14
+Score: 10695848.84
+Seed: 1735
+K: 3    N: 80     M: 27
+Score: 24932033.99
+Seed: 1737
+K: 4    N: 14     M: 24
+Score: 4117837.88
+Seed: 1738
+K: 4    N: 86     M: 10
+Score: 14505635.19
+Seed: 1739
+K: 3    N: 34     M: 35
+Score: 12240258.10
+Seed: 1740
+K: 4    N: 64     M: 6
+Score: 10606396.38
+Seed: 1741
+K: 4    N: 52     M: 27
+Score: 10902805.97
+Seed: 1742
+K: 4    N: 50     M: 25
+Score: 9750082.51
+Seed: 1743
+K: 3    N: 60     M: 26
+Score: 20464698.30
+Seed: 1744
+K: 4    N: 78     M: 39
+Score: 17813379.61
+Seed: 1745
+K: 4    N: 76     M: 17
+Score: 13565829.05
+Seed: 1746
+K: 3    N: 40     M: 7
+Score: 8261036.48
+Seed: 1749
+K: 4    N: 10     M: 5
+Score: 1626819.86
+Seed: 1750
+K: 4    N: 82     M: 15
+Score: 14665338.21
+Seed: 1754
+K: 3    N: 10     M: 28
+Score: 3421857.53
+Seed: 1755
+K: 4    N: 98     M: 25
+Score: 20750987.93
+Seed: 1762
+K: 4    N: 56     M: 36
+Score: 13763254.21
+Seed: 1763
+K: 4    N: 44     M: 38
+Score: 11178096.84
+Seed: 1764
+K: 3    N: 20     M: 20
+Score: 5692796.49
+Seed: 1765
+K: 3    N: 90     M: 23
+Score: 25328222.25
+Seed: 1767
+K: 4    N: 86     M: 14
+Score: 15004144.26
+Seed: 1768
+K: 3    N: 46     M: 25
+Score: 13772458.16
+Seed: 1769
+K: 4    N: 30     M: 20
+Score: 6172579.11
+Seed: 1770
+K: 4    N: 52     M: 24
+Score: 10478274.95
+Seed: 1775
+K: 3    N: 14     M: 13
+Score: 4180389.37
+Seed: 1776
+K: 4    N: 64     M: 29
+Score: 13912347.07
+Seed: 1777
+K: 3    N: 62     M: 14
+Score: 15068379.24
+Seed: 1779
+K: 4    N: 64     M: 15
+Score: 11122992.76
+Seed: 1780
+K: 3    N: 30     M: 39
+Score: 12351155.31
+Seed: 1784
+K: 3    N: 92     M: 40
+Score: 36331526.54
+Seed: 1786
+K: 4    N: 32     M: 24
+Score: 7590377.20
+Seed: 1788
+K: 4    N: 50     M: 27
+Score: 10381796.77
+Seed: 1789
+K: 3    N: 72     M: 9
+Score: 15624930.68
+Seed: 1790
+K: 3    N: 90     M: 24
+Score: 28247235.63
+Seed: 1791
+K: 4    N: 16     M: 9
+Score: 2701480.67
+Seed: 1793
+K: 4    N: 84     M: 31
+Score: 18079051.14
+Seed: 1794
+K: 3    N: 26     M: 12
+Score: 7232977.87
+Seed: 1796
+K: 3    N: 98     M: 20
+Score: 27123928.00
+Seed: 1797
+K: 4    N: 62     M: 8
+Score: 10903243.17
+Seed: 1799
+K: 4    N: 10     M: 24
+Score: 2447245.84
+Seed: 1800
+K: 3    N: 66     M: 15
+Score: 16660444.96
+Seed: 1802
+K: 4    N: 10     M: 39
+Score: 3655552.98
+Seed: 1803
+K: 4    N: 12     M: 19
+Score: 2570197.53
+Seed: 1805
+K: 3    N: 42     M: 36
+Score: 17105305.91
+Seed: 1806
+K: 4    N: 50     M: 13
+Score: 8443436.90
+Seed: 1807
+K: 4    N: 16     M: 10
+Score: 3435103.51
+Seed: 1809
+K: 4    N: 12     M: 17
+Score: 3340523.29
+Seed: 1813
+K: 4    N: 58     M: 36
+Score: 13383359.68
+Seed: 1814
+K: 3    N: 92     M: 20
+Score: 24875710.97
+Seed: 1815
+K: 4    N: 56     M: 27
+Score: 12423052.71
+Seed: 1817
+K: 3    N: 22     M: 6
+Score: 5191498.09
+Seed: 1820
+K: 4    N: 18     M: 9
+Score: 2913945.04
+Seed: 1821
+K: 3    N: 30     M: 33
+Score: 11504105.22
+Seed: 1822
+K: 4    N: 50     M: 39
+Score: 12383052.58
+Seed: 1828
+K: 4    N: 80     M: 11
+Score: 13708044.23
+Seed: 1831
+K: 4    N: 44     M: 39
+Score: 11217821.22
+Seed: 1834
+K: 4    N: 50     M: 11
+Score: 8477774.95
+Seed: 1835
+K: 4    N: 58     M: 9
+Score: 10149645.75
+Seed: 1836
+K: 3    N: 18     M: 24
+Score: 6237295.08
+Seed: 1837
+K: 3    N: 94     M: 30
+Score: 30392946.11
+Seed: 1838
+K: 4    N: 94     M: 16
+Score: 17185067.12
+Seed: 1842
+K: 3    N: 28     M: 17
+Score: 6944662.24
+Seed: 1843
+K: 4    N: 56     M: 12
+Score: 9418008.25
+Seed: 1844
+K: 4    N: 94     M: 25
+Score: 18440217.17
+Seed: 1845
+K: 3    N: 52     M: 15
+Score: 12958601.85
+Seed: 1846
+K: 4    N: 10     M: 13
+Score: 3414669.96
+Seed: 1847
+K: 4    N: 14     M: 9
+Score: 3455927.95
+Seed: 1848
+K: 3    N: 14     M: 14
+Score: 4520915.81
+Seed: 1851
+K: 4    N: 26     M: 14
+Score: 5827172.65
+Seed: 1852
+K: 3    N: 90     M: 40
+Score: 34610988.47
+Seed: 1858
+K: 4    N: 42     M: 16
+Score: 7304372.51
+Seed: 1859
+K: 4    N: 46     M: 19
+Score: 9152589.85
+Seed: 1860
+K: 3    N: 36     M: 9
+Score: 7724409.21
+Seed: 1861
+K: 3    N: 18     M: 25
+Score: 5769027.34
+Seed: 1863
+K: 4    N: 76     M: 27
+Score: 15232933.67
+Seed: 1865
+K: 3    N: 94     M: 16
+Score: 24146954.60
+Seed: 1871
+K: 3    N: 58     M: 30
+Score: 18359967.54
+Seed: 1873
+K: 3    N: 38     M: 34
+Score: 14443621.21
+Seed: 1875
+K: 4    N: 96     M: 22
+Score: 18005936.73
+Seed: 1877
+K: 3    N: 88     M: 9
+Score: 18743403.31
+Seed: 1878
+K: 4    N: 68     M: 27
+Score: 14410499.43
+Seed: 1879
+K: 4    N: 22     M: 10
+Score: 3983742.23
+Seed: 1881
+K: 3    N: 82     M: 40
+Score: 31241257.83
+Seed: 1882
+K: 3    N: 98     M: 14
+Score: 23867357.29
+Seed: 1886
+K: 4    N: 92     M: 6
+Score: 14611136.82
+Seed: 1887
+K: 3    N: 98     M: 36
+Score: 34804070.28
+Seed: 1888
+K: 4    N: 96     M: 39
+Score: 23490636.94
+Seed: 1889
+K: 4    N: 74     M: 16
+Score: 13295807.93
+Seed: 1891
+K: 4    N: 88     M: 11
+Score: 14947629.07
+Seed: 1894
+K: 3    N: 100     M: 31
+Score: 33642085.55
+Seed: 1895
+K: 3    N: 24     M: 38
+Score: 10066129.13
+Seed: 1896
+K: 4    N: 12     M: 17
+Score: 3144819.23
+Seed: 1898
+K: 4    N: 10     M: 17
+Score: 2486330.82
+Seed: 1901
+K: 4    N: 84     M: 19
+Score: 15197966.72
+Seed: 1903
+K: 4    N: 94     M: 34
+Score: 21246686.71
+Seed: 1907
+K: 4    N: 82     M: 36
+Score: 18887539.54
+Seed: 1909
+K: 4    N: 56     M: 40
+Score: 13359249.40
+Seed: 1910
+K: 4    N: 14     M: 18
+Score: 3124987.27
+Seed: 1912
+K: 4    N: 60     M: 38
+Score: 14811525.03
+Seed: 1914
+K: 4    N: 48     M: 32
+Score: 11693251.06
+Seed: 1916
+K: 4    N: 28     M: 21
+Score: 6686741.74
+Seed: 1921
+K: 4    N: 46     M: 32
+Score: 10650637.45
+Seed: 1922
+K: 3    N: 26     M: 17
+Score: 5704288.90
+Seed: 1923
+K: 3    N: 24     M: 34
+Score: 8695383.17
+Seed: 1924
+K: 4    N: 48     M: 16
+Score: 10134534.42
+Seed: 1925
+K: 3    N: 12     M: 24
+Score: 4818371.30
+Seed: 1930
+K: 4    N: 68     M: 10
+Score: 11277469.20
+Seed: 1933
+K: 4    N: 74     M: 10
+Score: 13116937.89
+Seed: 1934
+K: 4    N: 82     M: 9
+Score: 12912100.63
+Seed: 1935
+K: 3    N: 64     M: 7
+Score: 11313469.95
+Seed: 1936
+K: 3    N: 16     M: 39
+Score: 6087014.21
+Seed: 1937
+K: 4    N: 30     M: 13
+Score: 5772517.75
+Seed: 1940
+K: 3    N: 80     M: 25
+Score: 22960327.71
+Seed: 1941
+K: 4    N: 32     M: 13
+Score: 5763194.12
+Seed: 1943
+K: 4    N: 16     M: 22
+Score: 4103563.55
+Seed: 1947
+K: 4    N: 18     M: 16
+Score: 4918921.50
+Seed: 1949
+K: 4    N: 66     M: 5
+Score: 10912796.36
+Seed: 1950
+K: 3    N: 42     M: 32
+Score: 14882576.75
+Seed: 1951
+K: 3    N: 18     M: 5
+Score: 4248043.88
+Seed: 1952
+K: 4    N: 32     M: 38
+Score: 8993849.13
+Seed: 1953
+K: 4    N: 60     M: 35
+Score: 13732968.83
+Seed: 1960
+K: 3    N: 34     M: 38
+Score: 13616926.92
+Seed: 1961
+K: 3    N: 28     M: 10
+Score: 6864412.98
+Seed: 1963
+K: 4    N: 72     M: 12
+Score: 12527284.71
+Seed: 1964
+K: 4    N: 24     M: 13
+Score: 4402365.04
+Seed: 1965
+K: 3    N: 28     M: 15
+Score: 7113232.02
+Seed: 1966
+K: 3    N: 46     M: 19
+Score: 12228018.34
+Seed: 1967
+K: 3    N: 68     M: 13
+Score: 15792465.70
+Seed: 1970
+K: 4    N: 72     M: 11
+Score: 12126628.83
+Seed: 1971
+K: 4    N: 96     M: 11
+Score: 15964223.76
+Seed: 1975
+K: 3    N: 38     M: 24
+Score: 11005394.59
+Seed: 1976
+K: 3    N: 44     M: 34
+Score: 16109974.45
+Seed: 1978
+K: 3    N: 68     M: 21
+Score: 18570312.06
+Seed: 1979
+K: 3    N: 10     M: 15
+Score: 3047472.78
+Seed: 1980
+K: 3    N: 68     M: 14
+Score: 15649559.41
+Seed: 1981
+K: 4    N: 22     M: 10
+Score: 4577315.92
+Seed: 1982
+K: 3    N: 48     M: 26
+Score: 14735464.66
+Seed: 1984
+K: 4    N: 18     M: 37
+Score: 5676517.03
+Seed: 1985
+K: 4    N: 62     M: 29
+Score: 13288564.90
+Seed: 1986
+K: 3    N: 52     M: 23
+Score: 15309044.29
+Seed: 1993
+K: 3    N: 34     M: 15
+Score: 8139113.23
+Seed: 1995
+K: 4    N: 16     M: 37
+Score: 4739896.75
+Seed: 1998
+K: 3    N: 92     M: 11
+Score: 20494787.98

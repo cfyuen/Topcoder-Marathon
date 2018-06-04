@@ -1,0 +1,1 @@
+java -jar Visualizer.jar -exec "C:\Documents and Settings\yuch6304\Skrivebord\document\computer\Gearing\v0" -seed 1 -vis -

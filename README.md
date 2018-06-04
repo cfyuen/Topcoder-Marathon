@@ -23,11 +23,13 @@ BookSelection: https://community.topcoder.com/longcontest/?module=ViewProblemSta
 
 ChessPuzzle: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14195&pm=10728
 
-TilesMatching: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13795&pm=10410
-
 SpaceMedKit: http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=14079&pm=10680
 
+TilesMatching: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13795&pm=10410
+
 BounceOff: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13791&pm=10372
+
+Gearing: http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=13767&pm=10357
 
 MegaParty: https://community.topcoder.com/longcontest/stats/?module=ViewOverview&rd=13709
 

@@ -1,0 +1,32 @@
+basic:
+1. delete all middle gears
+2. order: small from smallest to biggest, big from smallest to biggest (maybe the smallest be last)
+3. 	a line, with 1,2,3,1,2,3
+	a square, with 1,2,3,1,2,3, turn if valid, back if no valid, like DFS
+4. always record the best result
+
+cases:
+5 5 6 50
+5 5 50 50
+49 49 50 50
+
+
+small case:
+123,124,135,138,140,141,150,157,161,164,169,183,186,187,193,249,342,361*
+
+failed:
+177 (when collide, increase alpha by a little bit),321 (new version is ok),330
+423,432,446
+
+compress:
+194,215,233,242
+
+3 line:
+333,372,381,437,443,445,461,481,489,496
+
+improve:
+371,375,378,416
+
+many colours:
+418,456
+
