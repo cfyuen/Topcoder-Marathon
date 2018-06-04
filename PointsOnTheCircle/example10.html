@@ -1,0 +1,1059 @@
+
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title>TopCoder</title>
+
+
+
+
+
+
+<script type="text/javascript" src="/js/reskin/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/js/reskin/jquery-migrate-1.2.1.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/js/reskin/html5shiv.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/js/reskin/jquery.jfeed.pack.js"></script>
+<script type="text/javascript" src="/js/reskin/newTCScript.js"></script>
+
+
+<script type="text/javascript">var _kmq = _kmq || [];
+  var _kmk = _kmk || 'aa23cd43c455ef33b6a0df3de81a79af9ea30f75';
+  function _kms(u){
+    setTimeout(function(){
+      var d = document, f = d.getElementsByTagName('script')[0],
+      s = d.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = u;
+      f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+  _kms('//i.kissmetrics.com/i.js');
+  _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300' rel='stylesheet' type='text/css'/>
+    
+    <link type="text/css" rel="stylesheet" href="/css/coders.css" />
+    <link type="text/css" rel="stylesheet" href="/css/login.css" />
+    <link type="text/css" rel="stylesheet" href="/css/reskin/myHome.css" />
+    <!--[if IE]>
+    <link type="text/css" rel="stylesheet" href="/css/ie.css" />
+    <![endif]-->
+    
+<link type="text/css" rel="stylesheet" href="/css/reskin/newStyles.css"/>
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="/css/reskin/newStyles_ie8.css"/>
+<![endif]-->
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+<script>
+    $(document).ready(function(){
+        $("a.new-btn-login").attr('href', $("a.new-btn-login").attr('href') + "?next=" + window.location.href);
+    })
+</script>
+
+
+    
+
+        <!-- new theme -->
+
+        <div class="header-wrapper">
+            <!-- Main header element-->
+            <header class="top-header new-topcoder-header">
+                <!-- Header content visible on small screens-->
+                <div class="show-small mobile-heading"><span class="tc-text-logo">[ topcoder ]</span>
+                    <button type="button" class="btn-open-menu">Menu</button>
+                    <button type="button" class="btn-close-menu"></button>
+
+                    
+
+                     <!-- for logged in user-->
+
+                        <a href="javascript:;" class="user-link">
+                            <img src="/i/m/nophoto_submit.gif" alt="User Avatar" class="user-avatar">
+                        </a>
+                    
+
+
+
+                </div>
+                <!-- main menu -->
+                <ul class="main-menu">
+                    <!-- search container-->
+                    <li class="menu-item search-wrapper">
+                        <div class="menu-item-header search-header show-large">
+                            <button type="button" class="btn-expand-search search-icon"></button>
+                        </div>
+                        <div class="submenu">
+                            <form action="https://www.topcoder.com/search/members/" method="get">
+                                <input type="text" id="searchBox" style="font-size: 12px"  placeholder="FIND MEMBERS BY USERNAME OR SKILL" name="q">
+                                <input type="submit"
+                                       style="position: absolute; left: -9999px; width: 1px; height: 1px;"
+                                       tabindex="-1" />
+                             </form>
+                            <!-- Suggestion list container-->
+                            <ul class="suggestion-list"></ul>
+                        </div>
+                    </li>
+
+
+
+                    
+
+                        <!-- for logged in user-->
+
+                        <li class="menu-item link-group user-menu">
+                            <div class="authenticated-options">
+                                <div class="menu-item-header">
+                                    <img class="user-avatar" alt="User Avatar" src="/i/m/nophoto_submit.gif">
+                                    <span class="username">thinfaifai</span>
+                                </div>
+                                <a class="btn-link btn-edit-profile show-small" href="https://www.topcoder.com/settings/profile/">EDIT</a>
+                                <ul class="submenu">
+                                    <li class="submenu-item"><a class="menu-link menu-link-dashboard" href="https://www.topcoder.com//my-dashboard/">DASHBOARD</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-profile" href="https://www.topcoder.com/members/thinfaifai/">MY PROFILE</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-payments" target="_blank" href="https://community.topcoder.com/PactsMemberServlet?module=PaymentHistory&full_list=false">PAYMENTS</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-settings" href="https://www.topcoder.com/settings/profile/" target="_blank">SETTINGS</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-logout" href="javascript:doLogOutTC();">LOG OUT</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+                    
+
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">COMPETE</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/design/active" class="menu-link menu-link-design">DESIGN CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/develop/active" class="menu-link menu-link-dev">DEVELOPMENT CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/data/active" class="menu-link menu-link-data">DATA SCIENCE CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://arena.topcoder.com" class="menu-link menu-link-arena">COMPETITIVE PROGRAMMING</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <!-- 'LEARN' link group-->
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">LEARN</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/member-onboarding/" class="menu-link menu-link-learn-started">GET STARTED</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/design/" class="menu-link menu-link-learn-design">DESIGN</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/development/" class="menu-link menu-link-learn-dev">DEVELOPMENT</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/data-science/" class="menu-link menu-link-learn-data">DATA SCIENCE</a>
+                            </li>
+                            <li class="submenu-item"><a href="http://www.topcoder.com/community/competitive%20programming/" class="menu-link menu-link-learn-competition">COMPETITIVE PROGRAMMING</a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <!-- 'COMMUNITY' link group-->
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">COMMUNITY</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/members/" class="menu-link menu-link-community-members">OVERVIEW</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/tco" class="menu-link menu-link-community-tco17">TCO</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/member-programs/" class="menu-link menu-link-community-programs">PROGRAMS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://apps.topcoder.com/forums/" class="menu-link menu-link-community-forums" target="_blank">FORUMS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/statistics/" class="menu-link menu-link-community-stats">STATISTICS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/events/" class="menu-link menu-link-community-events">EVENTS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/blog/" class="menu-link menu-link-community-blog">BLOG</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </header>
+        </div>
+    
+    
+
+
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+        
+        <td width="180">
+         
+
+
+
+
+
+
+
+    
+        
+            
+            
+        
+
+
+
+
+
+
+<div style="width: 185px;" class="leftNavWrapper">
+    
+<input type="hidden" id="nodeName" value="m_long_contests"/>
+<script language="JavaScript" type="text/javascript" src="/js/arena.js"></script>
+
+    <section class="get-time" style="margin-bottom:15px">
+        
+        <span class="date"></span>
+        <a href="javascript:tcTime();">Get Time</a>
+    </section>
+    <!-- End .get-time -->
+
+    <section class="navigation">
+    <ul>
+        <li><a id="copilot_posting_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Copilot%20Posting">Copilot Posting</a></li>
+        <li><a href="http://www.topcoder.com/active-challenges/design/">Design</a></li>
+        <li>
+            <a href="javascript:;">Develop<i></i></a>
+            <ul class="hide">
+                <li><a id="conceptualization_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Conceptualization">Conceptualization</a></li>
+                <li><a id="specification_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Specification">Specification</a></li>
+                <li><a id="architecture_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Architecture">Architecture</a></li>
+                <li><a id="ui_prototype_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=UI%20Prototype%20Competition">UI Prototype</a></li>
+                <li><a id="assembly_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Assembly%20Competition">Assembly</a></li>
+                <li><a id="first2finish_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=First2Finish">First2Finish</a></li>
+                <li><a id="code_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Code">Code</a></li>
+                <li><a id="des_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Design">Component Design</a></li>
+                <li><a id="dev_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Development">Component Development</a></li>
+                <li><a id="test_suites_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Test%20Suites">Test Suites</a></li>
+                <li><a id="content_creation_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Content%20Creation">Content Creation</a></li>
+                <li><a id="test_scenarios_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Test%20Scenarios">Test Scenarios</a></li>
+                <li><a id="bug_hunt_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Bug%20Hunt">Bug Hunt</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Review Opportunities<i></i></a>
+            <ul class="hide">
+                <li>
+                    <dl>
+                        <dt>Conceptualization</dt>
+                        <dd><a id="conceptualization_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=23">Review Opportunities</a></dd>
+                        <dd><a id="conceptualization_review_border" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=23">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Specification</dt>
+                        <dd><a id="specification_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=6">Review Opportunities</a></dd>
+                        <dd><a id="specification_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=6">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Architecture</dt>
+                        <dd><a id="architecture_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=7">Review Opportunities</a></dd>
+                        <dd><a id="architecture_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=7">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Component Design</dt>
+                        <dd><a id="des_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=1">Review Opportunities</a></dd>
+                        <dd><a id="des_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=1 ">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Component Development</dt>
+                        <dd><a id="dev_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=2">Review Opportunities</a></dd>
+                        <dd><a id="dev_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=2">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Assembly</dt>
+                        <dd><a id="assembly_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=14">Review Opportunities</a></dd>
+                        <dd><a id="assembly_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=14">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>First2Finish</dt>
+                        <dd><a id="first2finish_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=38">Review Opportunities</a></dd>
+                        <dd><a id="first2finish_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=38">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Code</dt>
+                        <dd><a id="code_review"href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=39">Review Opportunities</a></dd>
+                        <dd><a id="code_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=39">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Test Suites</dt>
+                        <dd><a id="test_suites_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=13">Review Opportunities</a></dd>
+                        <dd><a id="test_suites_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=13">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Report</dt>
+                        <dd><a id="reporting_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=36">Review Opportunities</a></dd>
+                        <dd><a id="reporting_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=36">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>UI prototype</dt>
+                        <dd><a id="ui_prototype_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=19">Review Opportunities</a></dd>
+                        <dd><a id="ui_prototype_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=19">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>RIA Build</dt>
+                        <dd><a id="ria_build_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=24">Review Opportunities</a></dd>
+                        <dd><a id="ria_build_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=24">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Content Creation</dt>
+                        <dd><a id="content_creation_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=35">Review Opportunities</a></dd>
+                        <dd><a id="content_creation_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=35">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Test Scenarios</dt>
+                        <dd><a id="test_scenarios_review"  href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=26">Review Opportunities</a></dd>
+                        <dd><a id="test_scenarios_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=26">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="last-item">
+                        <dt>Bug Hunt</dt>
+                        <dd><a id="bug_hunt_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=9">Review Opportunities</a></dd>
+                        <dd><a id="bug_hunt_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=9">Meet the review board</a></dd>
+                    </dl>
+                </li>
+
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Algorithm (SRM)<i></i></a>
+            <ul class="hide">
+                <li><a href="http://www.topcoder.com/active-challenges/data/">Single Round Matches (SRM)</a></li>
+                <li><a id="algo_match_archive" href="http://www.topcoder.com/tc?module=MatchList">Match Archive</a></li>
+                <li><a id="algo_match_overviews" href="http://www.topcoder.com/stat?c=round_overview">Match Overviews</a></li>
+                <li><a id="algo_match_winners" href="http://www.topcoder.com/tc?module=SrmDivisionWins">Match Winners</a></li>
+                <li><a id="algo_match_results" href="http://www.topcoder.com/stat?c=last_match">Match Results</a></li>
+                <li><a href="http://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis">Match Editorials</a></li>
+                <li><a id="algo_problem_archive" href="http://www.topcoder.com/tc?module=ProblemArchive">Problem Archive</a></li>
+                <li><a id="algo_color_changes" href="http://www.topcoder.com/tc?module=ColorChange&ratid=1">Recent Color Changes</a></li>
+                <li><a href="http://apps.topcoder.com/wiki/display/tc/Algorithm+Data+Feeds">Data Feeds</a></li>
+                <li><a href="javascript:arena();">Launch Arena</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Marathon Match<i></i></a>
+            <ul class="hide">
+                <li><a id="long_compete" href="http://www.topcoder.com/challenges/data/active/">Challenges</a></li>
+                <li><a id="long_match_archive" href="http://www.topcoder.com/challenges/data/past/">Match Archive</a></li>
+                <li><a id="long_match_overview" href="http://www.topcoder.com/longcontest/stats/?module=ViewOverview">Match Overview</a></li>
+                <li><a id="long_match_winners" href="http://www.topcoder.com/longcontest/stats/?module=MatchWinners">Match Winners</a></li>
+                <li><a id="long_editorials" href="http://www.topcoder.com/longcontest/?module=Static&d1=match_editorials&d2=archive">Match Editorials</a></li>
+                <li><a id="long_data_feeds" href="http://www.topcoder.com/longcontest/?module=Static&d1=support&d2=dataFeed">Data Feeds</a></li>
+                <li><a id="long_practice" href="http://www.topcoder.com/longcontest/?module=ViewPractice">Practice</a></li>
+                <li><a id="long_queue" href="http://www.topcoder.com/longcontest/?module=ViewQueue">Queue Status</a></li>
+            </ul>
+        </li>
+        
+        <li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+        <li>
+            <a href="javascript:;">topcoder Networks<i></i></a>
+            <ul class="hide">
+                <li><a href="http://community.topcoder.com/ntl/">NASA Tournament Lab</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.topcoder.com/community/events/">Events</a></li>
+        <li>
+            <a href="javascript:;">Statistics<i></i></a>
+            <ul class="hide">
+                <li>
+                    <dl>
+                        <dt>Top Ranked</dt>
+                        <dd><a id="top_rated_algo" href="http://www.topcoder.com/tc?module=AlgoRank">Algorithm</a></dd>
+                        <dd><a id="top_rated_hs" href="http://www.topcoder.com/tc?module=HSRank">High School</a></dd>
+                        <dd><a id="top_rated_long" href="http://www.topcoder.com/longcontest/stats/?module=CoderRank">Marathon Match</a></dd>
+                        <dd><a id="top_rated_conceptors" href="http://www.topcoder.com/stat?c=top_conceptors">Conceptualization</a></dd>
+                        <dd><a id="top_rated_specificators" href="http://www.topcoder.com/stat?c=top_specificators">Specification</a></dd>
+                        <dd><a id="top_rated_architects" href="http://www.topcoder.com/stat?c=top_architects">Architecture</a></dd>
+                        <dd><a id="top_rated_des" href="http://www.topcoder.com/stat?c=top_designers">Design</a></dd>
+                        <dd><a id="top_rated_dev" href="http://www.topcoder.com/stat?c=top_developers">Development</a></dd>
+                        <dd><a id="top_rated_assemblers" href="http://www.topcoder.com/stat?c=top_assemblers">Assembly</a></dd>
+                        <dd><a id="top_rated_testers" href="http://www.topcoder.com/stat?c=top_testers">Test Suites</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Record Book</dt>
+                        <dd><a  id="algo_recordbook" href="http://www.topcoder.com/tc?module=Static&d1=statistics&d2=recordbook_home">Algorithm</a></dd>
+                        <dd><a  id="comp_recordbook" href="http://www.topcoder.com/tc?module=Static&d1=compstats&d2=comp_recordbook_home">Component</a></dd>
+                        <dd><a  id="long_recordbook" href="http://www.topcoder.com/longcontest/?module=Static&d1=stats&d2=recordbook_home">Marathon Match</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="last-item">
+                        <dt>Coder of the Month</dt>
+                        <dd><a  id="algo_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=5">Algorithm</a></dd>
+                        <dd><a  id="des_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=6">Design</a></dd>
+                        <dd><a  id="dev_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=7">Development</a></dd>
+                    </dl>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Tutorials<i></i></a>
+            <ul class="hide">
+                <li><a  id="algo_tutorials" href="http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/">Algorithm Tutorials</a></li>
+                <li><a id="comp_tutorials" href="http://help.topcoder.com/development/competing-in-development-challenges/development-tutorials/ ">Software Tutorials</a></li>
+                <li><a id="mm_tutorials" href="http://help.topcoder.com/data-science/competing-in-algorithm-challenges/marathon-match-tutorials/">Marathon Tutorials</a></li>
+            </ul>
+        </li>
+        <li><a href="https://apps.topcoder.com/forums/" id="forums">Forums</a></li>
+        <li><a href="https://www.topcoder.com/tc?module=MyHome" id="my_topcoder">My topcoder</a></li>
+    </ul>
+</section>
+<!-- End .navigation -->
+<section class="member-search">
+    <h3>Member Search</h3>
+    <div class="form">
+        <form action="http://community.topcoder.com/tc" method="get" name="simpleSearchForm" class="noSpace" id="simpleSearchForm">
+            <input class="noSpace" type="hidden" name="module" value="SimpleSearch" />
+            <input class="noSpace" type="text" name="ha" value="Handle:" size="12" maxlength="15" onfocus="javascript: if (document.simpleSearchForm.ha.value=='Handle:') document.simpleSearchForm.ha.value = '';" onblur="javascript:if (document.simpleSearchForm.ha.value == '')document.simpleSearchForm.ha.value = 'Handle:';" />
+            <a href="javascript:javascript:void document.simpleSearchForm.submit();" class="btn btn-search-member"><i>SEARCH</i></a>
+        </form>
+    </div>
+</section>
+
+<!-- End .member-search -->
+
+</div>
+
+    
+    
+
+
+
+        </td>
+        
+
+        
+        <td class="statTableSpacer" width="100%" valign="top">
+
+            
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" class="pageTitleTable">
+    <tr>
+        <td width="100%" class="pageTitle">
+
+
+            
+                
+                    
+                    <img border="0" src="/i/header_long_comps_topcoder.gif" alt="long_comps_topcoder"/>
+                
+                
+            
+
+
+        </td>
+        <td align="right" class="pageSubtitle">&#160;Example Results</td>
+    </tr>
+</table>
+
+
+
+            <span class="bigHandle">Contest: 
+
+
+
+
+
+<a href="/longcontest/?module=ViewStandings&amp;rd=17063" class="bcLink">
+    Marathon Match 97
+</a></span><br/>                
+            <span class="bodySubtitle">Problem: 
+
+
+
+
+
+
+
+<a href="/longcontest/?module=ViewProblemStatement&amp;rd=17063&amp;pm=14816" class='bcLink '>
+    PointsOnTheCircle
+</a>
+ </span><br/>
+            <span class="bodySubtitle">Coder: <a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22716606&amp;tab=long" class="coderTextYellow">thinfaifai</a></span><br/>
+
+            
+            
+            
+                <h2>0) Score: 9.917234075792756
+                    
+                    Run Time: 9807 ms
+                    
+                    
+                    Peak Memory Used: 90.039MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 1
+N = 8
+Edge probability = 20.0%
+Number of edges = 9
+0 0 0 0 1 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 1 0 0 1 
+0 0 0 0 1 0 1 0 
+1 1 1 1 0 0 1 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 1 0 0 1 
+0 0 1 0 0 1 1 0 
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 8&#160;&#160;&#160;&#160;E = 9<br />SA restart 1<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 4543929   ops2: 2000000   ops3: 1000047<br />SA restart 2<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 9084397   ops2: 4000000   ops3: 2001980<br />SA restart 3<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 13609096   ops2: 6000000   ops3: 3025806<br />SA restart 4<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 18160454   ops2: 8000000   ops3: 4054232<br />SA restart 5<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 22703208   ops2: 10000000   ops3: 5057190<br />SA restart 6<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 27245904   ops2: 12000000   ops3: 6058216<br />SA restart 7<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 31783240   ops2: 14000000   ops3: 7061875<br />SA restart 8<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 36291377   ops2: 16000000   ops3: 8110749<br />SA restart 9<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 40817857   ops2: 18000000   ops3: 9128918<br />SA restart 10<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 45364981   ops2: 20000000   ops3: 10139227<br />SA restart 11<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 49906166   ops2: 22000000   ops3: 11141166<br />SA restart 12<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 54446012   ops2: 24000000   ops3: 12146448<br />SA restart 13<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 58984958   ops2: 26000000   ops3: 13150571<br />SA restart 14<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 63517401   ops2: 28000000   ops3: 14163434<br />SA restart 15<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 68055886   ops2: 30000000   ops3: 15163946<br />SA restart 16<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 72570049   ops2: 32000000   ops3: 16207297<br />SA restart 17<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 77099475   ops2: 34000000   ops3: 17229050<br />SA restart 18<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 81644294   ops2: 36000000   ops3: 18227242<br />SA restart 19<br />32767 2147483647<br /><br />Score = 10.3508<br /> New best: 9.9172<br /> ops: 86210649   ops2: 38000000   ops3: 19291475<br />SA restart 20<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 90733239   ops2: 40000000   ops3: 20321642<br />SA restart 21<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 95269738   ops2: 42000000   ops3: 21323189<br />SA restart 22<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 99807419   ops2: 44000000   ops3: 22330930<br />SA restart 23<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 104349067   ops2: 46000000   ops3: 23329583<br />SA restart 24<br />32767 2147483647<br /><br />Score = 10.3508<br /> New best: 9.9172<br /> ops: 108894575   ops2: 48000000   ops3: 24346140<br />SA restart 25<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 113420237   ops2: 50000000   ops3: 25369933<br />SA restart 26<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 117965097   ops2: 52000000   ops3: 26374021<br />SA restart 27<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 122505312   ops2: 54000000   ops3: 27375601<br />SA restart 28<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 127047815   ops2: 56000000   ops3: 28377987<br />SA restart 29<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 131592047   ops2: 58000000   ops3: 29379985<br />SA restart 30<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 136130685   ops2: 60000000   ops3: 30384112<br />SA restart 31<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 140676341   ops2: 62000000   ops3: 31383550<br />SA restart 32<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 145210955   ops2: 64000000   ops3: 32383626<br />SA restart 33<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 149730448   ops2: 66000000   ops3: 33424738<br />SA restart 34<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 154276272   ops2: 68000000   ops3: 34427563<br />SA restart 35<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 158799076   ops2: 70000000   ops3: 35457562<br />SA restart 36<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 163353837   ops2: 72000000   ops3: 36472584<br />SA restart 37<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 167893060   ops2: 74000000   ops3: 37476040<br />SA restart 38<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 172400541   ops2: 76000000   ops3: 38520622<br />SA restart 39<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 176942207   ops2: 78000000   ops3: 39521853<br />SA restart 40<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 181484258   ops2: 80000000   ops3: 40526936<br />SA restart 41<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 186014511   ops2: 82000000   ops3: 41550634<br />SA restart 42<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 190537539   ops2: 84000000   ops3: 42579247<br />SA restart 43<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 195078130   ops2: 86000000   ops3: 43581741<br />SA restart 44<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 199590301   ops2: 88000000   ops3: 44625105<br />SA restart 45<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 204130573   ops2: 90000000   ops3: 45626374<br />SA restart 46<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 208671066   ops2: 92000000   ops3: 46627442<br />SA restart 47<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 213191705   ops2: 94000000   ops3: 47661603<br />SA restart 48<br />32767 2147483647<br /><br />Score = 10.3508<br /> New best: 9.9172<br /> ops: 217751400   ops2: 96000000   ops3: 48714130<br />SA restart 49<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 222292965   ops2: 98000000   ops3: 49715967<br />SA restart 50<br />32767 2147483647<br /><br />Score = 9.9172<br /> New best: 9.9172<br /> ops: 226805311   ops2: 100000000   ops3: 50767645<br />SA restart 51<br />32767 2147483647<br /><br />Score = 12.8200<br /> New best: 9.9172<br /> ops: 227691314   ops2: 100394367   ops3: 50777720<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>1) Score: 39.084253231682
+                    
+                    Run Time: 9807 ms
+                    
+                    
+                    Peak Memory Used: 90.039MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 2
+N = 20
+Edge probability = 17.1%
+Number of edges = 46
+0 0 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 
+0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 1 1 0 
+1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 
+1 1 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1 
+0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 
+1 1 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 0 
+1 0 1 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 
+0 0 1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 
+0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 1 
+0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 20&#160;&#160;&#160;&#160;E = 46<br />SA restart 1<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 11950502   ops2: 2000000   ops3: 1324075<br />SA restart 2<br />32767 2147483647<br /><br />Score = 39.9715<br /> New best: 39.0843<br /> ops: 23925782   ops2: 4000000   ops3: 2651592<br />SA restart 3<br />32767 2147483647<br /><br />Score = 40.9514<br /> New best: 39.0843<br /> ops: 35804586   ops2: 6000000   ops3: 3976836<br />SA restart 4<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 47809712   ops2: 8000000   ops3: 5304443<br />SA restart 5<br />32767 2147483647<br /><br />Score = 40.3843<br /> New best: 39.0843<br /> ops: 59802381   ops2: 10000000   ops3: 6632618<br />SA restart 6<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 71816156   ops2: 12000000   ops3: 7958884<br />SA restart 7<br />32767 2147483647<br /><br />Score = 40.1569<br /> New best: 39.0843<br /> ops: 83790476   ops2: 14000000   ops3: 9287066<br />SA restart 8<br />32767 2147483647<br /><br />Score = 40.2223<br /> New best: 39.0843<br /> ops: 95734338   ops2: 16000000   ops3: 10616028<br />SA restart 9<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 107739636   ops2: 18000000   ops3: 11942650<br />SA restart 10<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 119692636   ops2: 20000000   ops3: 13267887<br />SA restart 11<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 131705471   ops2: 22000000   ops3: 14595158<br />SA restart 12<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 143723415   ops2: 24000000   ops3: 15922470<br />SA restart 13<br />32767 2147483647<br /><br />Score = 40.6011<br /> New best: 39.0843<br /> ops: 155686113   ops2: 26000000   ops3: 17250180<br />SA restart 14<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 167696890   ops2: 28000000   ops3: 18577244<br />SA restart 15<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 179654153   ops2: 30000000   ops3: 19902054<br />SA restart 16<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 191605496   ops2: 32000000   ops3: 21225866<br />SA restart 17<br />32767 2147483647<br /><br />Score = 39.6937<br /> New best: 39.0843<br /> ops: 203623272   ops2: 34000000   ops3: 22553523<br />SA restart 18<br />32767 2147483647<br /><br />Score = 40.2196<br /> New best: 39.0843<br /> ops: 215650041   ops2: 36000000   ops3: 23880067<br />SA restart 19<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 227597237   ops2: 38000000   ops3: 25204311<br />SA restart 20<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 239555541   ops2: 40000000   ops3: 26529011<br />SA restart 21<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 251511744   ops2: 42000000   ops3: 27854477<br />SA restart 22<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 263459845   ops2: 44000000   ops3: 29177824<br />SA restart 23<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 275469009   ops2: 46000000   ops3: 30505440<br />SA restart 24<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 287429430   ops2: 48000000   ops3: 31829227<br />SA restart 25<br />32767 2147483647<br /><br />Score = 39.9715<br /> New best: 39.0843<br /> ops: 299390106   ops2: 50000000   ops3: 33158384<br />SA restart 26<br />32767 2147483647<br /><br />Score = 39.9715<br /> New best: 39.0843<br /> ops: 311367067   ops2: 52000000   ops3: 34487039<br />SA restart 27<br />32767 2147483647<br /><br />Score = 40.8159<br /> New best: 39.0843<br /> ops: 323375403   ops2: 54000000   ops3: 35814499<br />SA restart 28<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 335381146   ops2: 56000000   ops3: 37140178<br />SA restart 29<br />32767 2147483647<br /><br />Score = 40.2196<br /> New best: 39.0843<br /> ops: 347404687   ops2: 58000000   ops3: 38466776<br />SA restart 30<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 359360406   ops2: 60000000   ops3: 39791015<br />SA restart 31<br />32767 2147483647<br /><br />Score = 39.1788<br /> New best: 39.0843<br /> ops: 371312307   ops2: 62000000   ops3: 41115385<br />SA restart 32<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 383320317   ops2: 64000000   ops3: 42442507<br />SA restart 33<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 395331334   ops2: 66000000   ops3: 43768262<br />SA restart 34<br />32767 2147483647<br /><br />Score = 40.3295<br /> New best: 39.0843<br /> ops: 407393740   ops2: 68000000   ops3: 45095680<br />SA restart 35<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 419398559   ops2: 70000000   ops3: 46423661<br />SA restart 36<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 431417244   ops2: 72000000   ops3: 47751641<br />SA restart 37<br />32767 2147483647<br /><br />Score = 39.9715<br /> New best: 39.0843<br /> ops: 443387636   ops2: 74000000   ops3: 49080238<br />SA restart 38<br />32767 2147483647<br /><br />Score = 40.6893<br /> New best: 39.0843<br /> ops: 455312277   ops2: 76000000   ops3: 50408247<br />SA restart 39<br />32767 2147483647<br /><br />Score = 39.0843<br /> New best: 39.0843<br /> ops: 467332716   ops2: 78000000   ops3: 51735715<br />SA restart 40<br />32767 2147483647<br /><br />Score = 47.7073<br /> New best: 39.0843<br /> ops: 473019441   ops2: 78918655   ops3: 52010370<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>2) Score: 1579.071370464517
+                    
+                    Run Time: 9808 ms
+                    
+                    
+                    Peak Memory Used: 97.828MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 3
+N = 200
+Edge probability = 8.700000000000001%
+Number of edges = 1737
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 200&#160;&#160;&#160;&#160;E = 1737<br />SA restart 1<br />32767 2147483647<br /><br />Score = 1579.1666<br /> New best: 1579.0714<br /> ops: 62242658   ops2: 2000000   ops3: 1480767<br />SA restart 2<br />32767 2147483647<br /><br />Score = 1590.7276<br /> New best: 1579.0714<br /> ops: 124504035   ops2: 4000000   ops3: 2961639<br />SA restart 3<br />32767 2147483647<br /><br />Score = 1587.6470<br /> New best: 1579.0714<br /> ops: 186791121   ops2: 6000000   ops3: 4440835<br />SA restart 4<br />32767 2147483647<br /><br />Score = 1587.3869<br /> New best: 1579.0714<br /> ops: 249056663   ops2: 8000000   ops3: 5922016<br />SA restart 5<br />32767 2147483647<br /><br />Score = 1586.2707<br /> New best: 1579.0714<br /> ops: 311329055   ops2: 10000000   ops3: 7403083<br />SA restart 6<br />32767 2147483647<br /><br />Score = 1586.9564<br /> New best: 1579.0714<br /> ops: 373599049   ops2: 12000000   ops3: 8883842<br />SA restart 7<br />32767 2147483647<br /><br />Score = 1590.9128<br /> New best: 1579.0714<br /> ops: 435874520   ops2: 14000000   ops3: 10364903<br />SA restart 8<br />32767 2147483647<br /><br />Score = 1580.9878<br /> New best: 1579.0714<br /> ops: 498164139   ops2: 16000000   ops3: 11845487<br />SA restart 9<br />32767 2147483647<br /><br />Score = 1589.0207<br /> New best: 1579.0714<br /> ops: 560434861   ops2: 18000000   ops3: 13325342<br />SA restart 10<br />32767 2147483647<br /><br />Score = 1586.2890<br /> New best: 1579.0714<br /> ops: 622707187   ops2: 20000000   ops3: 14804461<br />SA restart 11<br />32767 2147483647<br /><br />Score = 1587.5722<br /> New best: 1579.0714<br /> ops: 684953934   ops2: 22000000   ops3: 16285149<br />SA restart 12<br />32767 2147483647<br /><br />Score = 1582.1883<br /> New best: 1579.0714<br /> ops: 747241621   ops2: 24000000   ops3: 17766242<br />SA restart 13<br />32767 2147483647<br /><br />Score = 1589.3041<br /> New best: 1579.0714<br /> ops: 809515172   ops2: 26000000   ops3: 19245779<br />SA restart 14<br />32767 2147483647<br /><br />Score = 1589.8207<br /> New best: 1579.0714<br /> ops: 871778410   ops2: 28000000   ops3: 20727157<br />SA restart 15<br />32767 2147483647<br /><br />Score = 1589.0348<br /> New best: 1579.0714<br /> ops: 934071109   ops2: 30000000   ops3: 22207460<br />SA restart 16<br />32767 2147483647<br /><br />Score = 2233.0284<br /> New best: 1579.0714<br /> ops: 937191240   ops2: 30099455   ops3: 22212102<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>3) Score: 1211.3118029765747
+                    
+                    Run Time: 9814 ms
+                    
+                    
+                    Peak Memory Used: 93.801MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 4
+N = 141
+Edge probability = 12.700000000000001%
+Number of edges = 1288
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 141&#160;&#160;&#160;&#160;E = 1288<br />SA restart 1<br />32767 2147483647<br /><br />Score = 1211.4475<br /> New best: 1211.3118<br /> ops: 61979918   ops2: 2000000   ops3: 1480125<br />SA restart 2<br />32767 2147483647<br /><br />Score = 1213.1635<br /> New best: 1211.3118<br /> ops: 123974480   ops2: 4000000   ops3: 2959137<br />SA restart 3<br />32767 2147483647<br /><br />Score = 1212.9871<br /> New best: 1211.3118<br /> ops: 185955116   ops2: 6000000   ops3: 4436946<br />SA restart 4<br />32767 2147483647<br /><br />Score = 1215.5189<br /> New best: 1211.3118<br /> ops: 247957806   ops2: 8000000   ops3: 5914884<br />SA restart 5<br />32767 2147483647<br /><br />Score = 1220.9661<br /> New best: 1211.3118<br /> ops: 310031066   ops2: 10000000   ops3: 7392892<br />SA restart 6<br />32767 2147483647<br /><br />Score = 1211.6817<br /> New best: 1211.3118<br /> ops: 372024533   ops2: 12000000   ops3: 8873220<br />SA restart 7<br />32767 2147483647<br /><br />Score = 1212.1197<br /> New best: 1211.3118<br /> ops: 433996932   ops2: 14000000   ops3: 10351405<br />SA restart 8<br />32767 2147483647<br /><br />Score = 1211.8718<br /> New best: 1211.3118<br /> ops: 495989722   ops2: 16000000   ops3: 11830942<br />SA restart 9<br />32767 2147483647<br /><br />Score = 1216.2055<br /> New best: 1211.3118<br /> ops: 557956108   ops2: 18000000   ops3: 13308665<br />SA restart 10<br />32767 2147483647<br /><br />Score = 1212.0766<br /> New best: 1211.3118<br /> ops: 619915716   ops2: 20000000   ops3: 14789248<br />SA restart 11<br />32767 2147483647<br /><br />Score = 1215.1510<br /> New best: 1211.3118<br /> ops: 681932571   ops2: 22000000   ops3: 16269150<br />SA restart 12<br />32767 2147483647<br /><br />Score = 1212.8366<br /> New best: 1211.3118<br /> ops: 743899199   ops2: 24000000   ops3: 17748899<br />SA restart 13<br />32767 2147483647<br /><br />Score = 1217.3295<br /> New best: 1211.3118<br /> ops: 805872605   ops2: 26000000   ops3: 19225618<br />SA restart 14<br />32767 2147483647<br /><br />Score = 1213.7557<br /> New best: 1211.3118<br /> ops: 867827809   ops2: 28000000   ops3: 20706372<br />SA restart 15<br />32767 2147483647<br /><br />Score = 1218.2611<br /> New best: 1211.3118<br /> ops: 929800736   ops2: 30000000   ops3: 22186296<br />SA restart 16<br />32767 2147483647<br /><br />Score = 1216.3786<br /> New best: 1211.3118<br /> ops: 989855007   ops2: 31934463   ops3: 23600367<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>4) Score: 1022.9407024110355
+                    
+                    Run Time: 9813 ms
+                    
+                    
+                    Peak Memory Used: 93.836MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 5
+N = 156
+Edge probability = 9.600000000000001%
+Number of edges = 1160
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 156&#160;&#160;&#160;&#160;E = 1160<br />SA restart 1<br />32767 2147483647<br /><br />Score = 1032.0266<br /> New best: 1031.8898<br /> ops: 52544233   ops2: 2000000   ops3: 1465868<br />SA restart 2<br />32767 2147483647<br /><br />Score = 1026.2550<br /> New best: 1026.0867<br /> ops: 105056271   ops2: 4000000   ops3: 2933826<br />SA restart 3<br />32767 2147483647<br /><br />Score = 1025.8217<br /> New best: 1025.7899<br /> ops: 157594017   ops2: 6000000   ops3: 4400068<br />SA restart 4<br />32767 2147483647<br /><br />Score = 1024.4851<br /> New best: 1024.3713<br /> ops: 210092489   ops2: 8000000   ops3: 5866182<br />SA restart 5<br />32767 2147483647<br /><br />Score = 1024.4818<br /> New best: 1024.3713<br /> ops: 262607346   ops2: 10000000   ops3: 7332508<br />SA restart 6<br />32767 2147483647<br /><br />Score = 1022.9574<br /> New best: 1022.9407<br /> ops: 315148062   ops2: 12000000   ops3: 8799055<br />SA restart 7<br />32767 2147483647<br /><br />Score = 1026.2758<br /> New best: 1022.9407<br /> ops: 367709061   ops2: 14000000   ops3: 10267154<br />SA restart 8<br />32767 2147483647<br /><br />Score = 1025.1292<br /> New best: 1022.9407<br /> ops: 420226855   ops2: 16000000   ops3: 11731150<br />SA restart 9<br />32767 2147483647<br /><br />Score = 1023.9547<br /> New best: 1022.9407<br /> ops: 472781889   ops2: 18000000   ops3: 13198223<br />SA restart 10<br />32767 2147483647<br /><br />Score = 1023.0283<br /> New best: 1022.9407<br /> ops: 525296736   ops2: 20000000   ops3: 14666768<br />SA restart 11<br />32767 2147483647<br /><br />Score = 1028.7981<br /> New best: 1022.9407<br /> ops: 577848001   ops2: 22000000   ops3: 16134000<br />SA restart 12<br />32767 2147483647<br /><br />Score = 1030.3195<br /> New best: 1022.9407<br /> ops: 630359190   ops2: 24000000   ops3: 17599961<br />SA restart 13<br />32767 2147483647<br /><br />Score = 1025.8768<br /> New best: 1022.9407<br /> ops: 682874861   ops2: 26000000   ops3: 19066489<br />SA restart 14<br />32767 2147483647<br /><br />Score = 1024.3053<br /> New best: 1022.9407<br /> ops: 735405045   ops2: 28000000   ops3: 20533287<br />SA restart 15<br />32767 2147483647<br /><br />Score = 1023.3615<br /> New best: 1022.9407<br /> ops: 787933660   ops2: 30000000   ops3: 21999536<br />SA restart 16<br />32767 2147483647<br /><br />Score = 1024.7144<br /> New best: 1022.9407<br /> ops: 840407601   ops2: 32000000   ops3: 23466929<br />SA restart 17<br />32767 2147483647<br /><br />Score = 1026.2340<br /> New best: 1022.9407<br /> ops: 892921255   ops2: 34000000   ops3: 24933091<br />SA restart 18<br />32767 2147483647<br /><br />Score = 1084.9666<br /> New best: 1022.9407<br /> ops: 915563008   ops2: 34853119   ops3: 25278804<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>5) Score: 162.07667357624337
+                    
+                    Run Time: 9811 ms
+                    
+                    
+                    Peak Memory Used: 90.555MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 6
+N = 82
+Edge probability = 6.6000000000000005%
+Number of edges = 246
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 82&#160;&#160;&#160;&#160;E = 246<br />SA restart 1<br />32767 2147483647<br /><br />Score = 162.5028<br /> New best: 162.3687<br /> ops: 21184096   ops2: 2000000   ops3: 1390428<br />SA restart 2<br />32767 2147483647<br /><br />Score = 163.1558<br /> New best: 162.3687<br /> ops: 42398259   ops2: 4000000   ops3: 2779721<br />SA restart 3<br />32767 2147483647<br /><br />Score = 162.4748<br /> New best: 162.3687<br /> ops: 63614785   ops2: 6000000   ops3: 4169827<br />SA restart 4<br />32767 2147483647<br /><br />Score = 162.5769<br /> New best: 162.3396<br /> ops: 84809841   ops2: 8000000   ops3: 5561663<br />SA restart 5<br />32767 2147483647<br /><br />Score = 163.3100<br /> New best: 162.3396<br /> ops: 106044981   ops2: 10000000   ops3: 6954417<br />SA restart 6<br />32767 2147483647<br /><br />Score = 162.5667<br /> New best: 162.3396<br /> ops: 127239595   ops2: 12000000   ops3: 8344809<br />SA restart 7<br />32767 2147483647<br /><br />Score = 162.8294<br /> New best: 162.3396<br /> ops: 148465606   ops2: 14000000   ops3: 9734844<br />SA restart 8<br />32767 2147483647<br /><br />Score = 163.4543<br /> New best: 162.3396<br /> ops: 169647879   ops2: 16000000   ops3: 11125990<br />SA restart 9<br />32767 2147483647<br /><br />Score = 166.9966<br /> New best: 162.3396<br /> ops: 190861107   ops2: 18000000   ops3: 12515818<br />SA restart 10<br />32767 2147483647<br /><br />Score = 163.5473<br /> New best: 162.3396<br /> ops: 212079716   ops2: 20000000   ops3: 13905354<br />SA restart 11<br />32767 2147483647<br /><br />Score = 162.6134<br /> New best: 162.3269<br /> ops: 233265157   ops2: 22000000   ops3: 15297275<br />SA restart 12<br />32767 2147483647<br /><br />Score = 162.4863<br /> New best: 162.3269<br /> ops: 254463589   ops2: 24000000   ops3: 16687957<br />SA restart 13<br />32767 2147483647<br /><br />Score = 162.5257<br /> New best: 162.2733<br /> ops: 275654653   ops2: 26000000   ops3: 18080406<br />SA restart 14<br />32767 2147483647<br /><br />Score = 164.5049<br /> New best: 162.2733<br /> ops: 296877005   ops2: 28000000   ops3: 19470470<br />SA restart 15<br />32767 2147483647<br /><br />Score = 162.3341<br /> New best: 162.2216<br /> ops: 318052493   ops2: 30000000   ops3: 20858953<br />SA restart 16<br />32767 2147483647<br /><br />Score = 163.8016<br /> New best: 162.2216<br /> ops: 339249546   ops2: 32000000   ops3: 22245755<br />SA restart 17<br />32767 2147483647<br /><br />Score = 164.7042<br /> New best: 162.2216<br /> ops: 360434824   ops2: 34000000   ops3: 23633639<br />SA restart 18<br />32767 2147483647<br /><br />Score = 162.9667<br /> New best: 162.2216<br /> ops: 381645104   ops2: 36000000   ops3: 25024611<br />SA restart 19<br />32767 2147483647<br /><br />Score = 162.8494<br /> New best: 162.2216<br /> ops: 402857001   ops2: 38000000   ops3: 26416098<br />SA restart 20<br />32767 2147483647<br /><br />Score = 165.2438<br /> New best: 162.2216<br /> ops: 424056858   ops2: 40000000   ops3: 27807359<br />SA restart 21<br />32767 2147483647<br /><br />Score = 162.2459<br /> New best: 162.2216<br /> ops: 445274658   ops2: 42000000   ops3: 29197526<br />SA restart 22<br />32767 2147483647<br /><br />Score = 162.9285<br /> New best: 162.2216<br /> ops: 466454474   ops2: 44000000   ops3: 30589255<br />SA restart 23<br />32767 2147483647<br /><br />Score = 164.0169<br /> New best: 162.2216<br /> ops: 487660641   ops2: 46000000   ops3: 31980687<br />SA restart 24<br />32767 2147483647<br /><br />Score = 162.9041<br /> New best: 162.2216<br /> ops: 508876388   ops2: 48000000   ops3: 33373161<br />SA restart 25<br />32767 2147483647<br /><br />Score = 162.0801<br /> New best: 162.0767<br /> ops: 530075576   ops2: 50000000   ops3: 34764400<br />SA restart 26<br />32767 2147483647<br /><br />Score = 162.7323<br /> New best: 162.0767<br /> ops: 551270186   ops2: 52000000   ops3: 36155984<br />SA restart 27<br />32767 2147483647<br /><br />Score = 162.5430<br /> New best: 162.0767<br /> ops: 572470662   ops2: 54000000   ops3: 37545759<br />SA restart 28<br />32767 2147483647<br /><br />Score = 162.4729<br /> New best: 162.0767<br /> ops: 593631289   ops2: 56000000   ops3: 38936564<br />SA restart 29<br />32767 2147483647<br /><br />Score = 180.7087<br /> New best: 162.0767<br /> ops: 604325494   ops2: 56984191   ops3: 39329752<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>6) Score: 1157.654925908311
+                    
+                    Run Time: 9812 ms
+                    
+                    
+                    Peak Memory Used: 92.746MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 7
+N = 112
+Edge probability = 18.900000000000002%
+Number of edges = 1185
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 112&#160;&#160;&#160;&#160;E = 1185<br />SA restart 1<br />32767 2147483647<br /><br />Score = 1157.7110<br /> New best: 1157.6549<br /> ops: 66550735   ops2: 2000000   ops3: 1481924<br />SA restart 2<br />32767 2147483647<br /><br />Score = 1157.6732<br /> New best: 1157.6549<br /> ops: 133114924   ops2: 4000000   ops3: 2965877<br />SA restart 3<br />32767 2147483647<br /><br />Score = 1162.9894<br /> New best: 1157.6549<br /> ops: 199654471   ops2: 6000000   ops3: 4451825<br />SA restart 4<br />32767 2147483647<br /><br />Score = 1171.2921<br /> New best: 1157.6549<br /> ops: 266285220   ops2: 8000000   ops3: 5936158<br />SA restart 5<br />32767 2147483647<br /><br />Score = 1158.3781<br /> New best: 1157.6549<br /> ops: 332869986   ops2: 10000000   ops3: 7418787<br />SA restart 6<br />32767 2147483647<br /><br />Score = 1158.0787<br /> New best: 1157.6549<br /> ops: 399435463   ops2: 12000000   ops3: 8902842<br />SA restart 7<br />32767 2147483647<br /><br />Score = 1160.9509<br /> New best: 1157.6549<br /> ops: 466000560   ops2: 14000000   ops3: 10388291<br />SA restart 8<br />32767 2147483647<br /><br />Score = 1158.3881<br /> New best: 1157.6549<br /> ops: 532550447   ops2: 16000000   ops3: 11873774<br />SA restart 9<br />32767 2147483647<br /><br />Score = 1158.7416<br /> New best: 1157.6549<br /> ops: 599118280   ops2: 18000000   ops3: 13357141<br />SA restart 10<br />32767 2147483647<br /><br />Score = 1160.8164<br /> New best: 1157.6549<br /> ops: 665631675   ops2: 20000000   ops3: 14842284<br />SA restart 11<br />32767 2147483647<br /><br />Score = 1158.8372<br /> New best: 1157.6549<br /> ops: 732209965   ops2: 22000000   ops3: 16325477<br />SA restart 12<br />32767 2147483647<br /><br />Score = 1160.4837<br /> New best: 1157.6549<br /> ops: 798737394   ops2: 24000000   ops3: 17810653<br />SA restart 13<br />32767 2147483647<br /><br />Score = 1162.3919<br /> New best: 1157.6549<br /> ops: 865312657   ops2: 26000000   ops3: 19295121<br />SA restart 14<br />32767 2147483647<br /><br />Score = 1158.8405<br /> New best: 1157.6549<br /> ops: 931889307   ops2: 28000000   ops3: 20781127<br />SA restart 15<br />32767 2147483647<br /><br />Score = 1159.3420<br /> New best: 1157.6549<br /> ops: 998386793   ops2: 30000000   ops3: 22266682<br />SA restart 16<br />32767 2147483647<br /><br />Score = 1174.3856<br /> New best: 1157.6549<br /> ops: 1037024236   ops2: 31148031   ops3: 22908462<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>7) Score: 388.83069603547256
+                    
+                    Run Time: 9812 ms
+                    
+                    
+                    Peak Memory Used: 91.199MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 8
+N = 105
+Edge probability = 9.5%
+Number of edges = 495
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 105&#160;&#160;&#160;&#160;E = 495<br />SA restart 1<br />32767 2147483647<br /><br />Score = 390.2976<br /> New best: 390.2918<br /> ops: 33079721   ops2: 2000000   ops3: 1427153<br />SA restart 2<br />32767 2147483647<br /><br />Score = 389.6192<br /> New best: 389.5364<br /> ops: 66228972   ops2: 4000000   ops3: 2853991<br />SA restart 3<br />32767 2147483647<br /><br />Score = 391.4711<br /> New best: 389.5364<br /> ops: 99322184   ops2: 6000000   ops3: 4283905<br />SA restart 4<br />32767 2147483647<br /><br />Score = 390.1993<br /> New best: 389.5364<br /> ops: 132437827   ops2: 8000000   ops3: 5712396<br />SA restart 5<br />32767 2147483647<br /><br />Score = 388.9771<br /> New best: 388.9003<br /> ops: 165551463   ops2: 10000000   ops3: 7141858<br />SA restart 6<br />32767 2147483647<br /><br />Score = 389.6884<br /> New best: 388.9003<br /> ops: 198646135   ops2: 12000000   ops3: 8569386<br />SA restart 7<br />32767 2147483647<br /><br />Score = 389.1315<br /> New best: 388.9003<br /> ops: 231760297   ops2: 14000000   ops3: 9997244<br />SA restart 8<br />32767 2147483647<br /><br />Score = 389.0176<br /> New best: 388.9003<br /> ops: 264870450   ops2: 16000000   ops3: 11425042<br />SA restart 9<br />32767 2147483647<br /><br />Score = 389.2352<br /> New best: 388.9003<br /> ops: 298002760   ops2: 18000000   ops3: 12851643<br />SA restart 10<br />32767 2147483647<br /><br />Score = 389.1525<br /> New best: 388.9003<br /> ops: 331143802   ops2: 20000000   ops3: 14282677<br />SA restart 11<br />32767 2147483647<br /><br />Score = 389.6664<br /> New best: 388.9003<br /> ops: 364235220   ops2: 22000000   ops3: 15709246<br />SA restart 12<br />32767 2147483647<br /><br />Score = 389.9240<br /> New best: 388.9003<br /> ops: 397349325   ops2: 24000000   ops3: 17136892<br />SA restart 13<br />32767 2147483647<br /><br />Score = 388.8375<br /> New best: 388.8307<br /> ops: 430455189   ops2: 26000000   ops3: 18565069<br />SA restart 14<br />32767 2147483647<br /><br />Score = 388.8512<br /> New best: 388.8307<br /> ops: 463572631   ops2: 28000000   ops3: 19993890<br />SA restart 15<br />32767 2147483647<br /><br />Score = 389.0862<br /> New best: 388.8307<br /> ops: 496707454   ops2: 30000000   ops3: 21421217<br />SA restart 16<br />32767 2147483647<br /><br />Score = 392.6209<br /> New best: 388.8307<br /> ops: 529840777   ops2: 32000000   ops3: 22847126<br />SA restart 17<br />32767 2147483647<br /><br />Score = 389.6516<br /> New best: 388.8307<br /> ops: 563004295   ops2: 34000000   ops3: 24275573<br />SA restart 18<br />32767 2147483647<br /><br />Score = 389.5193<br /> New best: 388.8307<br /> ops: 596112318   ops2: 36000000   ops3: 25703930<br />SA restart 19<br />32767 2147483647<br /><br />Score = 390.9857<br /> New best: 388.8307<br /> ops: 629264658   ops2: 38000000   ops3: 27133525<br />SA restart 20<br />32767 2147483647<br /><br />Score = 393.7454<br /> New best: 388.8307<br /> ops: 662382287   ops2: 40000000   ops3: 28560601<br />SA restart 21<br />32767 2147483647<br /><br />Score = 389.3210<br /> New best: 388.8307<br /> ops: 695506343   ops2: 42000000   ops3: 29987454<br />SA restart 22<br />32767 2147483647<br /><br />Score = 389.3378<br /> New best: 388.8307<br /> ops: 728636672   ops2: 44000000   ops3: 31414149<br />SA restart 23<br />32767 2147483647<br /><br />Score = 392.0582<br /> New best: 388.8307<br /> ops: 761744916   ops2: 46000000   ops3: 32841186<br />SA restart 24<br />32767 2147483647<br /><br />Score = 657.8185<br /> New best: 388.8307<br /> ops: 762314448   ops2: 46033919   ops3: 32842160<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>8) Score: 68.23292391566298
+                    
+                    Run Time: 9809 ms
+                    
+                    
+                    Peak Memory Used: 90.039MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 9
+N = 41
+Edge probability = 11.8%
+Number of edges = 96
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 41&#160;&#160;&#160;&#160;E = 96<br />SA restart 1<br />32767 2147483647<br /><br />Score = 70.3340<br /> New best: 70.1041<br /> ops: 15306565   ops2: 2000000   ops3: 1349880<br />SA restart 2<br />32767 2147483647<br /><br />Score = 68.6769<br /> New best: 68.4682<br /> ops: 30532528   ops2: 4000000   ops3: 2707602<br />SA restart 3<br />32767 2147483647<br /><br />Score = 70.4203<br /> New best: 68.4682<br /> ops: 45846817   ops2: 6000000   ops3: 4063244<br />SA restart 4<br />32767 2147483647<br /><br />Score = 68.4331<br /> New best: 68.3468<br /> ops: 61125471   ops2: 8000000   ops3: 5418488<br />SA restart 5<br />32767 2147483647<br /><br />Score = 68.3468<br /> New best: 68.3468<br /> ops: 76380966   ops2: 10000000   ops3: 6774076<br />SA restart 6<br />32767 2147483647<br /><br />Score = 68.8720<br /> New best: 68.3468<br /> ops: 91665213   ops2: 12000000   ops3: 8122891<br />SA restart 7<br />32767 2147483647<br /><br />Score = 68.5805<br /> New best: 68.3468<br /> ops: 106918647   ops2: 14000000   ops3: 9480327<br />SA restart 8<br />32767 2147483647<br /><br />Score = 68.4553<br /> New best: 68.3468<br /> ops: 122190538   ops2: 16000000   ops3: 10836856<br />SA restart 9<br />32767 2147483647<br /><br />Score = 69.1941<br /> New best: 68.3468<br /> ops: 137407893   ops2: 18000000   ops3: 12195002<br />SA restart 10<br />32767 2147483647<br /><br />Score = 68.7100<br /> New best: 68.3388<br /> ops: 152725347   ops2: 20000000   ops3: 13552724<br />SA restart 11<br />32767 2147483647<br /><br />Score = 69.1530<br /> New best: 68.3388<br /> ops: 167939444   ops2: 22000000   ops3: 14910634<br />SA restart 12<br />32767 2147483647<br /><br />Score = 69.4258<br /> New best: 68.2878<br /> ops: 183269763   ops2: 24000000   ops3: 16267581<br />SA restart 13<br />32767 2147483647<br /><br />Score = 68.8843<br /> New best: 68.2878<br /> ops: 198523327   ops2: 26000000   ops3: 17622014<br />SA restart 14<br />32767 2147483647<br /><br />Score = 68.4682<br /> New best: 68.2878<br /> ops: 213766054   ops2: 28000000   ops3: 18977801<br />SA restart 15<br />32767 2147483647<br /><br />Score = 68.5834<br /> New best: 68.2878<br /> ops: 229006037   ops2: 30000000   ops3: 20335303<br />SA restart 16<br />32767 2147483647<br /><br />Score = 68.3515<br /> New best: 68.2878<br /> ops: 244299097   ops2: 32000000   ops3: 21691435<br />SA restart 17<br />32767 2147483647<br /><br />Score = 69.3228<br /> New best: 68.2329<br /> ops: 259530328   ops2: 34000000   ops3: 23047685<br />SA restart 18<br />32767 2147483647<br /><br />Score = 68.7224<br /> New best: 68.2329<br /> ops: 274731728   ops2: 36000000   ops3: 24398644<br />SA restart 19<br />32767 2147483647<br /><br />Score = 68.7700<br /> New best: 68.2329<br /> ops: 290012915   ops2: 38000000   ops3: 25754610<br />SA restart 20<br />32767 2147483647<br /><br />Score = 69.6381<br /> New best: 68.2329<br /> ops: 305310756   ops2: 40000000   ops3: 27108019<br />SA restart 21<br />32767 2147483647<br /><br />Score = 69.3626<br /> New best: 68.2329<br /> ops: 320579244   ops2: 42000000   ops3: 28463150<br />SA restart 22<br />32767 2147483647<br /><br />Score = 70.4290<br /> New best: 68.2329<br /> ops: 335934858   ops2: 44000000   ops3: 29814922<br />SA restart 23<br />32767 2147483647<br /><br />Score = 68.4620<br /> New best: 68.2329<br /> ops: 351225149   ops2: 46000000   ops3: 31168486<br />SA restart 24<br />32767 2147483647<br /><br />Score = 69.9888<br /> New best: 68.2329<br /> ops: 366473709   ops2: 48000000   ops3: 32518661<br />SA restart 25<br />32767 2147483647<br /><br />Score = 69.6582<br /> New best: 68.2329<br /> ops: 381791076   ops2: 50000000   ops3: 33870860<br />SA restart 26<br />32767 2147483647<br /><br />Score = 68.4135<br /> New best: 68.2329<br /> ops: 397085859   ops2: 52000000   ops3: 35224892<br />SA restart 27<br />32767 2147483647<br /><br />Score = 69.9162<br /> New best: 68.2329<br /> ops: 412400556   ops2: 54000000   ops3: 36579754<br />SA restart 28<br />32767 2147483647<br /><br />Score = 68.3468<br /> New best: 68.2329<br /> ops: 427654861   ops2: 56000000   ops3: 37936355<br />SA restart 29<br />32767 2147483647<br /><br />Score = 69.6339<br /> New best: 68.2329<br /> ops: 442988369   ops2: 58000000   ops3: 39294471<br />SA restart 30<br />32767 2147483647<br /><br />Score = 68.6413<br /> New best: 68.2329<br /> ops: 458258271   ops2: 60000000   ops3: 40649862<br />SA restart 31<br />32767 2147483647<br /><br />Score = 68.3388<br /> New best: 68.2329<br /> ops: 473576295   ops2: 62000000   ops3: 42007767<br />SA restart 32<br />32767 2147483647<br /><br />Score = 68.5012<br /> New best: 68.2329<br /> ops: 488843213   ops2: 64000000   ops3: 43357124<br />SA restart 33<br />32767 2147483647<br /><br />Score = 69.1799<br /> New best: 68.2329<br /> ops: 504126674   ops2: 66000000   ops3: 44709393<br />SA restart 34<br />32767 2147483647<br /><br />Score = 68.8005<br /> New best: 68.2329<br /> ops: 519423741   ops2: 68000000   ops3: 46062258<br />SA restart 35<br />32767 2147483647<br /><br />Score = 72.7309<br /> New best: 68.2329<br /> ops: 530018655   ops2: 69344639   ops3: 46764429<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>9) Score: 51.419109092691336
+                    
+                    Run Time: 9806 ms
+                    
+                    
+                    Peak Memory Used: 90.039MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 10
+N = 46
+Edge probability = 9.9%
+Number of edges = 86
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 46&#160;&#160;&#160;&#160;E = 86<br />SA restart 1<br />32767 2147483647<br /><br />Score = 52.0879<br /> New best: 51.9961<br /> ops: 12506138   ops2: 2000000   ops3: 1313864<br />SA restart 2<br />32767 2147483647<br /><br />Score = 52.6787<br /> New best: 51.9961<br /> ops: 25031874   ops2: 4000000   ops3: 2631352<br />SA restart 3<br />32767 2147483647<br /><br />Score = 52.5578<br /> New best: 51.4593<br /> ops: 37566574   ops2: 6000000   ops3: 3943228<br />SA restart 4<br />32767 2147483647<br /><br />Score = 51.4593<br /> New best: 51.4593<br /> ops: 50074679   ops2: 8000000   ops3: 5258773<br />SA restart 5<br />32767 2147483647<br /><br />Score = 53.1127<br /> New best: 51.4593<br /> ops: 62612689   ops2: 10000000   ops3: 6575326<br />SA restart 6<br />32767 2147483647<br /><br />Score = 51.4593<br /> New best: 51.4593<br /> ops: 75120086   ops2: 12000000   ops3: 7889454<br />SA restart 7<br />32767 2147483647<br /><br />Score = 52.0026<br /> New best: 51.4593<br /> ops: 87646999   ops2: 14000000   ops3: 9203835<br />SA restart 8<br />32767 2147483647<br /><br />Score = 51.8925<br /> New best: 51.4593<br /> ops: 100177772   ops2: 16000000   ops3: 10523365<br />SA restart 9<br />32767 2147483647<br /><br />Score = 51.4191<br /> New best: 51.4191<br /> ops: 112697561   ops2: 18000000   ops3: 11843334<br />SA restart 10<br />32767 2147483647<br /><br />Score = 52.0026<br /> New best: 51.4191<br /> ops: 125221866   ops2: 20000000   ops3: 13157328<br />SA restart 11<br />32767 2147483647<br /><br />Score = 51.4191<br /> New best: 51.4191<br /> ops: 137744855   ops2: 22000000   ops3: 14476463<br />SA restart 12<br />32767 2147483647<br /><br />Score = 53.5310<br /> New best: 51.4191<br /> ops: 150325026   ops2: 24000000   ops3: 15789330<br />SA restart 13<br />32767 2147483647<br /><br />Score = 51.4593<br /> New best: 51.4191<br /> ops: 162827776   ops2: 26000000   ops3: 17105693<br />SA restart 14<br />32767 2147483647<br /><br />Score = 54.0039<br /> New best: 51.4191<br /> ops: 175438489   ops2: 28000000   ops3: 18423751<br />SA restart 15<br />32767 2147483647<br /><br />Score = 51.4929<br /> New best: 51.4191<br /> ops: 187947472   ops2: 30000000   ops3: 19738678<br />SA restart 16<br />32767 2147483647<br /><br />Score = 53.3269<br /> New best: 51.4191<br /> ops: 200493332   ops2: 32000000   ops3: 21059123<br />SA restart 17<br />32767 2147483647<br /><br />Score = 52.2640<br /> New best: 51.4191<br /> ops: 213004246   ops2: 34000000   ops3: 22377124<br />SA restart 18<br />32767 2147483647<br /><br />Score = 51.4191<br /> New best: 51.4191<br /> ops: 225532497   ops2: 36000000   ops3: 23697271<br />SA restart 19<br />32767 2147483647<br /><br />Score = 52.2896<br /> New best: 51.4191<br /> ops: 238078067   ops2: 38000000   ops3: 25016448<br />SA restart 20<br />32767 2147483647<br /><br />Score = 52.0026<br /> New best: 51.4191<br /> ops: 250603310   ops2: 40000000   ops3: 26330369<br />SA restart 21<br />32767 2147483647<br /><br />Score = 52.2537<br /> New best: 51.4191<br /> ops: 263105187   ops2: 42000000   ops3: 27649068<br />SA restart 22<br />32767 2147483647<br /><br />Score = 54.4678<br /> New best: 51.4191<br /> ops: 275668546   ops2: 44000000   ops3: 28968264<br />SA restart 23<br />32767 2147483647<br /><br />Score = 52.8520<br /> New best: 51.4191<br /> ops: 288227410   ops2: 46000000   ops3: 30289001<br />SA restart 24<br />32767 2147483647<br /><br />Score = 52.9577<br /> New best: 51.4191<br /> ops: 300808787   ops2: 48000000   ops3: 31604919<br />SA restart 25<br />32767 2147483647<br /><br />Score = 52.0025<br /> New best: 51.4191<br /> ops: 313333952   ops2: 50000000   ops3: 32917810<br />SA restart 26<br />32767 2147483647<br /><br />Score = 51.4443<br /> New best: 51.4191<br /> ops: 325862564   ops2: 52000000   ops3: 34238290<br />SA restart 27<br />32767 2147483647<br /><br />Score = 51.5455<br /> New best: 51.4191<br /> ops: 338394057   ops2: 54000000   ops3: 35556419<br />SA restart 28<br />32767 2147483647<br /><br />Score = 53.6418<br /> New best: 51.4191<br /> ops: 350979492   ops2: 56000000   ops3: 36868658<br />SA restart 29<br />32767 2147483647<br /><br />Score = 51.4443<br /> New best: 51.4191<br /> ops: 363504186   ops2: 58000000   ops3: 38186482<br />SA restart 30<br />32767 2147483647<br /><br />Score = 51.4606<br /> New best: 51.4191<br /> ops: 376012443   ops2: 60000000   ops3: 39501653<br />SA restart 31<br />32767 2147483647<br /><br />Score = 51.4191<br /> New best: 51.4191<br /> ops: 388539398   ops2: 62000000   ops3: 40820675<br />SA restart 32<br />32767 2147483647<br /><br />Score = 52.1657<br /> New best: 51.4191<br /> ops: 401073676   ops2: 64000000   ops3: 42134550<br />SA restart 33<br />32767 2147483647<br /><br />Score = 51.5455<br /> New best: 51.4191<br /> ops: 413607050   ops2: 66000000   ops3: 43452793<br />SA restart 34<br />32767 2147483647<br /><br />Score = 51.5657<br /> New best: 51.4191<br /> ops: 426115534   ops2: 68000000   ops3: 44771804<br />SA restart 35<br />32767 2147483647<br /><br />Score = 51.4606<br /> New best: 51.4191<br /> ops: 438621819   ops2: 70000000   ops3: 46087520<br />SA restart 36<br />32767 2147483647<br /><br />Score = 53.0349<br /> New best: 51.4191<br /> ops: 451178492   ops2: 72000000   ops3: 47399291<br />SA restart 37<br />32767 2147483647<br /><br />Score = 73.7752<br /> New best: 51.4191<br /> ops: 456528463   ops2: 72820351   ops3: 47600312<br /></pre>
+                </p>
+                <hr />
+                
+            
+
+
+        </td>
+
+        
+        <td width="170">
+            
+
+
+
+<script type="text/javascript" language="javascript">
+
+</script>
+
+
+
+
+    <div style="width:150px;">
+        &nbsp;
+    </div>
+
+
+        </td>
+        
+
+        <td width="10"><img src="/i/clear.gif" width="10" height="1" border="0" alt="" /></td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+                    
+                    
+
+
+                        
+                            
+                                
+                            
+                        
+
+                        
+                    
+                
+                
+                    
+                         
+                              
+                                 
+                                     
+
+                                 
+                              
+                             
+                         
+
+
+                
+                
+                    
+                    
+                        
+                    
+                    
+                
+                
+            
+            
+                
+                    
+                        
+                        
+                            
+                            
+                            
+                            
+                        
+                        
+                    
+                    
+                        
+                            
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+                            
+
+                        
+                    
+                
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                
+            
+        
+
+        <footer class="bottom-footer"><!-- Footer links-->
+            <nav class="menu-item">
+                <div class="menu-item-header show-small">OTHERS</div>
+                <ul class="submenu">
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/sitemap">SITEMAP</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/about/">ABOUT US</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://help.topcoder.com/hc/en-us/articles/219069687-Contact-Support">CONTACT US</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://help.topcoder.com/">HELP CENTER</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/community/how-it-works/privacy-policy/">PRIVACY POLICY</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/community/how-it-works/terms/">TERMS</a></li>
+                </ul>
+            </nav>
+            <!-- Social links-->
+            <div class="social-links"><p>topcoder is also on</p><a class="fb-link" href="https://www.facebook.com/topcoder"></a><a
+                    class="twitter-link" href="http://www.twitter.com/topcoder"></a><a class="linkedin-link" href="https://www.linkedin.com/company/topcoder"></a><a
+                    class="google-link" href="https://plus.google.com/+topcoder/posts"></a></div>
+            <p class="copyright-notice">&copy; 2015 topcoder. All Rights Reserved</p></footer>
+    
+    
+
+
+
+
+
+
+<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("p4hJvXxilb4KtBW6BMYN4o9FoNtCrp4E");
+  analytics.page();
+  }}();
+</script>
+
+
+<!-- Start of topcoder Zendesk Widget script -->
+<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","topcoder.zendesk.com");
+/*]]>*/</script>
+<!-- End of topcoder Zendesk Widget script -->
+
+
+</body>
+</html>

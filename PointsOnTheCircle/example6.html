@@ -1,0 +1,1059 @@
+
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title>TopCoder</title>
+
+
+
+
+
+
+<script type="text/javascript" src="/js/reskin/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/js/reskin/jquery-migrate-1.2.1.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/js/reskin/html5shiv.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/js/reskin/jquery.jfeed.pack.js"></script>
+<script type="text/javascript" src="/js/reskin/newTCScript.js"></script>
+
+
+<script type="text/javascript">var _kmq = _kmq || [];
+  var _kmk = _kmk || 'aa23cd43c455ef33b6a0df3de81a79af9ea30f75';
+  function _kms(u){
+    setTimeout(function(){
+      var d = document, f = d.getElementsByTagName('script')[0],
+      s = d.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = u;
+      f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+  _kms('//i.kissmetrics.com/i.js');
+  _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300' rel='stylesheet' type='text/css'/>
+    
+    <link type="text/css" rel="stylesheet" href="/css/coders.css" />
+    <link type="text/css" rel="stylesheet" href="/css/login.css" />
+    <link type="text/css" rel="stylesheet" href="/css/reskin/myHome.css" />
+    <!--[if IE]>
+    <link type="text/css" rel="stylesheet" href="/css/ie.css" />
+    <![endif]-->
+    
+<link type="text/css" rel="stylesheet" href="/css/reskin/newStyles.css"/>
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="/css/reskin/newStyles_ie8.css"/>
+<![endif]-->
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+<script>
+    $(document).ready(function(){
+        $("a.new-btn-login").attr('href', $("a.new-btn-login").attr('href') + "?next=" + window.location.href);
+    })
+</script>
+
+
+    
+
+        <!-- new theme -->
+
+        <div class="header-wrapper">
+            <!-- Main header element-->
+            <header class="top-header new-topcoder-header">
+                <!-- Header content visible on small screens-->
+                <div class="show-small mobile-heading"><span class="tc-text-logo">[ topcoder ]</span>
+                    <button type="button" class="btn-open-menu">Menu</button>
+                    <button type="button" class="btn-close-menu"></button>
+
+                    
+
+                     <!-- for logged in user-->
+
+                        <a href="javascript:;" class="user-link">
+                            <img src="/i/m/nophoto_submit.gif" alt="User Avatar" class="user-avatar">
+                        </a>
+                    
+
+
+
+                </div>
+                <!-- main menu -->
+                <ul class="main-menu">
+                    <!-- search container-->
+                    <li class="menu-item search-wrapper">
+                        <div class="menu-item-header search-header show-large">
+                            <button type="button" class="btn-expand-search search-icon"></button>
+                        </div>
+                        <div class="submenu">
+                            <form action="https://www.topcoder.com/search/members/" method="get">
+                                <input type="text" id="searchBox" style="font-size: 12px"  placeholder="FIND MEMBERS BY USERNAME OR SKILL" name="q">
+                                <input type="submit"
+                                       style="position: absolute; left: -9999px; width: 1px; height: 1px;"
+                                       tabindex="-1" />
+                             </form>
+                            <!-- Suggestion list container-->
+                            <ul class="suggestion-list"></ul>
+                        </div>
+                    </li>
+
+
+
+                    
+
+                        <!-- for logged in user-->
+
+                        <li class="menu-item link-group user-menu">
+                            <div class="authenticated-options">
+                                <div class="menu-item-header">
+                                    <img class="user-avatar" alt="User Avatar" src="/i/m/nophoto_submit.gif">
+                                    <span class="username">thinfaifai</span>
+                                </div>
+                                <a class="btn-link btn-edit-profile show-small" href="https://www.topcoder.com/settings/profile/">EDIT</a>
+                                <ul class="submenu">
+                                    <li class="submenu-item"><a class="menu-link menu-link-dashboard" href="https://www.topcoder.com//my-dashboard/">DASHBOARD</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-profile" href="https://www.topcoder.com/members/thinfaifai/">MY PROFILE</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-payments" target="_blank" href="https://community.topcoder.com/PactsMemberServlet?module=PaymentHistory&full_list=false">PAYMENTS</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-settings" href="https://www.topcoder.com/settings/profile/" target="_blank">SETTINGS</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-logout" href="javascript:doLogOutTC();">LOG OUT</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+                    
+
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">COMPETE</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/design/active" class="menu-link menu-link-design">DESIGN CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/develop/active" class="menu-link menu-link-dev">DEVELOPMENT CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/data/active" class="menu-link menu-link-data">DATA SCIENCE CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://arena.topcoder.com" class="menu-link menu-link-arena">COMPETITIVE PROGRAMMING</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <!-- 'LEARN' link group-->
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">LEARN</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/member-onboarding/" class="menu-link menu-link-learn-started">GET STARTED</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/design/" class="menu-link menu-link-learn-design">DESIGN</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/development/" class="menu-link menu-link-learn-dev">DEVELOPMENT</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/data-science/" class="menu-link menu-link-learn-data">DATA SCIENCE</a>
+                            </li>
+                            <li class="submenu-item"><a href="http://www.topcoder.com/community/competitive%20programming/" class="menu-link menu-link-learn-competition">COMPETITIVE PROGRAMMING</a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <!-- 'COMMUNITY' link group-->
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">COMMUNITY</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/members/" class="menu-link menu-link-community-members">OVERVIEW</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/tco" class="menu-link menu-link-community-tco17">TCO</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/member-programs/" class="menu-link menu-link-community-programs">PROGRAMS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://apps.topcoder.com/forums/" class="menu-link menu-link-community-forums" target="_blank">FORUMS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/statistics/" class="menu-link menu-link-community-stats">STATISTICS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/events/" class="menu-link menu-link-community-events">EVENTS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/blog/" class="menu-link menu-link-community-blog">BLOG</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </header>
+        </div>
+    
+    
+
+
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+        
+        <td width="180">
+         
+
+
+
+
+
+
+
+    
+        
+            
+            
+        
+
+
+
+
+
+
+<div style="width: 185px;" class="leftNavWrapper">
+    
+<input type="hidden" id="nodeName" value="m_long_contests"/>
+<script language="JavaScript" type="text/javascript" src="/js/arena.js"></script>
+
+    <section class="get-time" style="margin-bottom:15px">
+        
+        <span class="date"></span>
+        <a href="javascript:tcTime();">Get Time</a>
+    </section>
+    <!-- End .get-time -->
+
+    <section class="navigation">
+    <ul>
+        <li><a id="copilot_posting_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Copilot%20Posting">Copilot Posting</a></li>
+        <li><a href="http://www.topcoder.com/active-challenges/design/">Design</a></li>
+        <li>
+            <a href="javascript:;">Develop<i></i></a>
+            <ul class="hide">
+                <li><a id="conceptualization_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Conceptualization">Conceptualization</a></li>
+                <li><a id="specification_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Specification">Specification</a></li>
+                <li><a id="architecture_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Architecture">Architecture</a></li>
+                <li><a id="ui_prototype_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=UI%20Prototype%20Competition">UI Prototype</a></li>
+                <li><a id="assembly_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Assembly%20Competition">Assembly</a></li>
+                <li><a id="first2finish_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=First2Finish">First2Finish</a></li>
+                <li><a id="code_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Code">Code</a></li>
+                <li><a id="des_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Design">Component Design</a></li>
+                <li><a id="dev_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Development">Component Development</a></li>
+                <li><a id="test_suites_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Test%20Suites">Test Suites</a></li>
+                <li><a id="content_creation_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Content%20Creation">Content Creation</a></li>
+                <li><a id="test_scenarios_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Test%20Scenarios">Test Scenarios</a></li>
+                <li><a id="bug_hunt_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Bug%20Hunt">Bug Hunt</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Review Opportunities<i></i></a>
+            <ul class="hide">
+                <li>
+                    <dl>
+                        <dt>Conceptualization</dt>
+                        <dd><a id="conceptualization_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=23">Review Opportunities</a></dd>
+                        <dd><a id="conceptualization_review_border" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=23">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Specification</dt>
+                        <dd><a id="specification_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=6">Review Opportunities</a></dd>
+                        <dd><a id="specification_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=6">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Architecture</dt>
+                        <dd><a id="architecture_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=7">Review Opportunities</a></dd>
+                        <dd><a id="architecture_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=7">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Component Design</dt>
+                        <dd><a id="des_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=1">Review Opportunities</a></dd>
+                        <dd><a id="des_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=1 ">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Component Development</dt>
+                        <dd><a id="dev_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=2">Review Opportunities</a></dd>
+                        <dd><a id="dev_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=2">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Assembly</dt>
+                        <dd><a id="assembly_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=14">Review Opportunities</a></dd>
+                        <dd><a id="assembly_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=14">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>First2Finish</dt>
+                        <dd><a id="first2finish_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=38">Review Opportunities</a></dd>
+                        <dd><a id="first2finish_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=38">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Code</dt>
+                        <dd><a id="code_review"href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=39">Review Opportunities</a></dd>
+                        <dd><a id="code_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=39">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Test Suites</dt>
+                        <dd><a id="test_suites_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=13">Review Opportunities</a></dd>
+                        <dd><a id="test_suites_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=13">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Report</dt>
+                        <dd><a id="reporting_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=36">Review Opportunities</a></dd>
+                        <dd><a id="reporting_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=36">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>UI prototype</dt>
+                        <dd><a id="ui_prototype_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=19">Review Opportunities</a></dd>
+                        <dd><a id="ui_prototype_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=19">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>RIA Build</dt>
+                        <dd><a id="ria_build_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=24">Review Opportunities</a></dd>
+                        <dd><a id="ria_build_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=24">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Content Creation</dt>
+                        <dd><a id="content_creation_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=35">Review Opportunities</a></dd>
+                        <dd><a id="content_creation_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=35">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Test Scenarios</dt>
+                        <dd><a id="test_scenarios_review"  href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=26">Review Opportunities</a></dd>
+                        <dd><a id="test_scenarios_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=26">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="last-item">
+                        <dt>Bug Hunt</dt>
+                        <dd><a id="bug_hunt_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=9">Review Opportunities</a></dd>
+                        <dd><a id="bug_hunt_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=9">Meet the review board</a></dd>
+                    </dl>
+                </li>
+
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Algorithm (SRM)<i></i></a>
+            <ul class="hide">
+                <li><a href="http://www.topcoder.com/active-challenges/data/">Single Round Matches (SRM)</a></li>
+                <li><a id="algo_match_archive" href="http://www.topcoder.com/tc?module=MatchList">Match Archive</a></li>
+                <li><a id="algo_match_overviews" href="http://www.topcoder.com/stat?c=round_overview">Match Overviews</a></li>
+                <li><a id="algo_match_winners" href="http://www.topcoder.com/tc?module=SrmDivisionWins">Match Winners</a></li>
+                <li><a id="algo_match_results" href="http://www.topcoder.com/stat?c=last_match">Match Results</a></li>
+                <li><a href="http://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis">Match Editorials</a></li>
+                <li><a id="algo_problem_archive" href="http://www.topcoder.com/tc?module=ProblemArchive">Problem Archive</a></li>
+                <li><a id="algo_color_changes" href="http://www.topcoder.com/tc?module=ColorChange&ratid=1">Recent Color Changes</a></li>
+                <li><a href="http://apps.topcoder.com/wiki/display/tc/Algorithm+Data+Feeds">Data Feeds</a></li>
+                <li><a href="javascript:arena();">Launch Arena</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Marathon Match<i></i></a>
+            <ul class="hide">
+                <li><a id="long_compete" href="http://www.topcoder.com/challenges/data/active/">Challenges</a></li>
+                <li><a id="long_match_archive" href="http://www.topcoder.com/challenges/data/past/">Match Archive</a></li>
+                <li><a id="long_match_overview" href="http://www.topcoder.com/longcontest/stats/?module=ViewOverview">Match Overview</a></li>
+                <li><a id="long_match_winners" href="http://www.topcoder.com/longcontest/stats/?module=MatchWinners">Match Winners</a></li>
+                <li><a id="long_editorials" href="http://www.topcoder.com/longcontest/?module=Static&d1=match_editorials&d2=archive">Match Editorials</a></li>
+                <li><a id="long_data_feeds" href="http://www.topcoder.com/longcontest/?module=Static&d1=support&d2=dataFeed">Data Feeds</a></li>
+                <li><a id="long_practice" href="http://www.topcoder.com/longcontest/?module=ViewPractice">Practice</a></li>
+                <li><a id="long_queue" href="http://www.topcoder.com/longcontest/?module=ViewQueue">Queue Status</a></li>
+            </ul>
+        </li>
+        
+        <li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+        <li>
+            <a href="javascript:;">topcoder Networks<i></i></a>
+            <ul class="hide">
+                <li><a href="http://community.topcoder.com/ntl/">NASA Tournament Lab</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.topcoder.com/community/events/">Events</a></li>
+        <li>
+            <a href="javascript:;">Statistics<i></i></a>
+            <ul class="hide">
+                <li>
+                    <dl>
+                        <dt>Top Ranked</dt>
+                        <dd><a id="top_rated_algo" href="http://www.topcoder.com/tc?module=AlgoRank">Algorithm</a></dd>
+                        <dd><a id="top_rated_hs" href="http://www.topcoder.com/tc?module=HSRank">High School</a></dd>
+                        <dd><a id="top_rated_long" href="http://www.topcoder.com/longcontest/stats/?module=CoderRank">Marathon Match</a></dd>
+                        <dd><a id="top_rated_conceptors" href="http://www.topcoder.com/stat?c=top_conceptors">Conceptualization</a></dd>
+                        <dd><a id="top_rated_specificators" href="http://www.topcoder.com/stat?c=top_specificators">Specification</a></dd>
+                        <dd><a id="top_rated_architects" href="http://www.topcoder.com/stat?c=top_architects">Architecture</a></dd>
+                        <dd><a id="top_rated_des" href="http://www.topcoder.com/stat?c=top_designers">Design</a></dd>
+                        <dd><a id="top_rated_dev" href="http://www.topcoder.com/stat?c=top_developers">Development</a></dd>
+                        <dd><a id="top_rated_assemblers" href="http://www.topcoder.com/stat?c=top_assemblers">Assembly</a></dd>
+                        <dd><a id="top_rated_testers" href="http://www.topcoder.com/stat?c=top_testers">Test Suites</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Record Book</dt>
+                        <dd><a  id="algo_recordbook" href="http://www.topcoder.com/tc?module=Static&d1=statistics&d2=recordbook_home">Algorithm</a></dd>
+                        <dd><a  id="comp_recordbook" href="http://www.topcoder.com/tc?module=Static&d1=compstats&d2=comp_recordbook_home">Component</a></dd>
+                        <dd><a  id="long_recordbook" href="http://www.topcoder.com/longcontest/?module=Static&d1=stats&d2=recordbook_home">Marathon Match</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="last-item">
+                        <dt>Coder of the Month</dt>
+                        <dd><a  id="algo_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=5">Algorithm</a></dd>
+                        <dd><a  id="des_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=6">Design</a></dd>
+                        <dd><a  id="dev_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=7">Development</a></dd>
+                    </dl>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Tutorials<i></i></a>
+            <ul class="hide">
+                <li><a  id="algo_tutorials" href="http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/">Algorithm Tutorials</a></li>
+                <li><a id="comp_tutorials" href="http://help.topcoder.com/development/competing-in-development-challenges/development-tutorials/ ">Software Tutorials</a></li>
+                <li><a id="mm_tutorials" href="http://help.topcoder.com/data-science/competing-in-algorithm-challenges/marathon-match-tutorials/">Marathon Tutorials</a></li>
+            </ul>
+        </li>
+        <li><a href="https://apps.topcoder.com/forums/" id="forums">Forums</a></li>
+        <li><a href="https://www.topcoder.com/tc?module=MyHome" id="my_topcoder">My topcoder</a></li>
+    </ul>
+</section>
+<!-- End .navigation -->
+<section class="member-search">
+    <h3>Member Search</h3>
+    <div class="form">
+        <form action="http://community.topcoder.com/tc" method="get" name="simpleSearchForm" class="noSpace" id="simpleSearchForm">
+            <input class="noSpace" type="hidden" name="module" value="SimpleSearch" />
+            <input class="noSpace" type="text" name="ha" value="Handle:" size="12" maxlength="15" onfocus="javascript: if (document.simpleSearchForm.ha.value=='Handle:') document.simpleSearchForm.ha.value = '';" onblur="javascript:if (document.simpleSearchForm.ha.value == '')document.simpleSearchForm.ha.value = 'Handle:';" />
+            <a href="javascript:javascript:void document.simpleSearchForm.submit();" class="btn btn-search-member"><i>SEARCH</i></a>
+        </form>
+    </div>
+</section>
+
+<!-- End .member-search -->
+
+</div>
+
+    
+    
+
+
+
+        </td>
+        
+
+        
+        <td class="statTableSpacer" width="100%" valign="top">
+
+            
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" class="pageTitleTable">
+    <tr>
+        <td width="100%" class="pageTitle">
+
+
+            
+                
+                    
+                    <img border="0" src="/i/header_long_comps_topcoder.gif" alt="long_comps_topcoder"/>
+                
+                
+            
+
+
+        </td>
+        <td align="right" class="pageSubtitle">&#160;Example Results</td>
+    </tr>
+</table>
+
+
+
+            <span class="bigHandle">Contest: 
+
+
+
+
+
+<a href="/longcontest/?module=ViewStandings&amp;rd=17063" class="bcLink">
+    Marathon Match 97
+</a></span><br/>                
+            <span class="bodySubtitle">Problem: 
+
+
+
+
+
+
+
+<a href="/longcontest/?module=ViewProblemStatement&amp;rd=17063&amp;pm=14816" class='bcLink '>
+    PointsOnTheCircle
+</a>
+ </span><br/>
+            <span class="bodySubtitle">Coder: <a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22716606&amp;tab=long" class="coderTextYellow">thinfaifai</a></span><br/>
+
+            
+            
+            
+                <h2>0) Score: 9.917234075792756
+                    
+                    Run Time: 9506 ms
+                    
+                    
+                    Peak Memory Used: 90.039MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 1
+N = 8
+Edge probability = 20.0%
+Number of edges = 9
+0 0 0 0 1 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 1 0 0 1 
+0 0 0 0 1 0 1 0 
+1 1 1 1 0 0 1 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 1 0 0 1 
+0 0 1 0 0 1 1 0 
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 8&#160;&#160;&#160;&#160;E = 32<br />SA restart 1<br />SA restart 1<br /><br />Score = 11.6485<br /> New best: 9.9172<br />SA restart 2<br />SA restart 2<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 3<br />SA restart 3<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 4<br />SA restart 4<br /><br />Score = 10.3508<br /> New best: 9.9172<br />SA restart 5<br />SA restart 5<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 6<br />SA restart 6<br /><br />Score = 11.1519<br /> New best: 9.9172<br />SA restart 7<br />SA restart 7<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 8<br />SA restart 8<br /><br />Score = 10.0695<br /> New best: 9.9172<br />SA restart 9<br />SA restart 9<br /><br />Score = 11.5854<br /> New best: 9.9172<br />SA restart 10<br />SA restart 10<br /><br />Score = 11.0888<br /> New best: 9.9172<br />SA restart 11<br />SA restart 11<br /><br />Score = 11.1519<br /> New best: 9.9172<br />SA restart 12<br />SA restart 12<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 13<br />SA restart 13<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 14<br />SA restart 14<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 15<br />SA restart 15<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 16<br />SA restart 16<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 17<br />SA restart 17<br /><br />Score = 11.1519<br /> New best: 9.9172<br />SA restart 18<br />SA restart 18<br /><br />Score = 11.8007<br /> New best: 9.9172<br />SA restart 19<br />SA restart 19<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 20<br />SA restart 20<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 21<br />SA restart 21<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 22<br />SA restart 22<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 23<br />SA restart 23<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 24<br />SA restart 24<br /><br />Score = 11.1519<br /> New best: 9.9172<br />SA restart 25<br />SA restart 25<br /><br />Score = 12.3865<br /> New best: 9.9172<br />SA restart 26<br />SA restart 26<br /><br />Score = 10.3508<br /> New best: 9.9172<br />SA restart 27<br />SA restart 27<br /><br />Score = 11.5854<br /> New best: 9.9172<br />SA restart 28<br />SA restart 28<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 29<br />SA restart 29<br /><br />Score = 13.4689<br /> New best: 9.9172<br />SA restart 30<br />SA restart 30<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 31<br />SA restart 31<br /><br />Score = 11.1519<br /> New best: 9.9172<br />SA restart 32<br />SA restart 32<br /><br />Score = 11.5854<br /> New best: 9.9172<br />SA restart 33<br />SA restart 33<br /><br />Score = 12.6678<br /> New best: 9.9172<br />SA restart 34<br />SA restart 34<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 35<br />SA restart 35<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 36<br />SA restart 36<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 37<br />SA restart 37<br /><br />Score = 11.5854<br /> New best: 9.9172<br />SA restart 38<br />SA restart 38<br /><br />Score = 10.3508<br /> New best: 9.9172<br />SA restart 39<br />SA restart 39<br /><br />Score = 12.6678<br /> New best: 9.9172<br />SA restart 40<br />SA restart 40<br /><br />Score = 13.4689<br /> New best: 9.9172<br />SA restart 41<br />SA restart 41<br /><br />Score = 12.1712<br /> New best: 9.9172<br />SA restart 42<br />SA restart 42<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 43<br />SA restart 43<br /><br />Score = 11.5854<br /> New best: 9.9172<br />SA restart 44<br />SA restart 44<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 45<br />SA restart 45<br /><br />Score = 10.3508<br /> New best: 9.9172<br />SA restart 46<br />SA restart 46<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 47<br />SA restart 47<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 48<br />SA restart 48<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 49<br />SA restart 49<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 50<br />SA restart 50<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 51<br />SA restart 51<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 52<br />SA restart 52<br /><br />Score = 11.5854<br /> New best: 9.9172<br />SA restart 53<br />SA restart 53<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 54<br />SA restart 54<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 55<br />SA restart 55<br /><br />Score = 10.0695<br /> New best: 9.9172<br />SA restart 56<br />SA restart 56<br /><br />Score = 13.4689<br /> New best: 9.9172<br />SA restart 57<br />SA restart 57<br /><br />Score = 11.5854<br /> New best: 9.9172<br />SA restart 58<br />SA restart 58<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 59<br />SA restart 59<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 60<br />SA restart 60<br /><br />Score = 11.5854<br /> New best: 9.9172<br />SA restart 61<br />SA restart 61<br /><br />Score = 11.8007<br /> New best: 9.9172<br />SA restart 62<br />SA restart 62<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 63<br />SA restart 63<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 64<br />SA restart 64<br /><br />Score = 13.0353<br /> New best: 9.9172<br />SA restart 65<br />SA restart 65<br /><br />Score = 13.1644<br /> New best: 9.9172<br />SA restart 66<br />SA restart 66<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 67<br />SA restart 67<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 68<br />SA restart 68<br /><br />Score = 12.6678<br /> New best: 9.9172<br />SA restart 69<br />SA restart 69<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 70<br />SA restart 70<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 71<br />SA restart 71<br /><br />Score = 11.1519<br /> New best: 9.9172<br />SA restart 72<br />SA restart 72<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 73<br />SA restart 73<br /><br />Score = 13.1644<br /> New best: 9.9172<br />SA restart 74<br />SA restart 74<br /><br />Score = 12.1712<br /> New best: 9.9172<br />SA restart 75<br />SA restart 75<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 76<br />SA restart 76<br /><br />Score = 12.3865<br /> New best: 9.9172<br />SA restart 77<br />SA restart 77<br /><br />Score = 13.4689<br /> New best: 9.9172<br />SA restart 78<br />SA restart 78<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 79<br />SA restart 79<br /><br />Score = 13.1644<br /> New best: 9.9172<br />SA restart 80<br />SA restart 80<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 81<br />SA restart 81<br /><br />Score = 10.5030<br /> New best: 9.9172<br />SA restart 82<br />SA restart 82<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 83<br />SA restart 83<br /><br />Score = 10.5030<br /> New best: 9.9172<br />SA restart 84<br />SA restart 84<br /><br />Score = 10.5030<br /> New best: 9.9172<br />SA restart 85<br />SA restart 85<br /><br />Score = 11.1519<br /> New best: 9.9172<br />SA restart 86<br />SA restart 86<br /><br />Score = 13.0353<br /> New best: 9.9172<br />SA restart 87<br />SA restart 87<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 88<br />SA restart 88<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 89<br />SA restart 89<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 90<br />SA restart 90<br /><br />Score = 12.1712<br /> New best: 9.9172<br />SA restart 91<br />SA restart 91<br /><br />Score = 12.4496<br /> New best: 9.9172<br />SA restart 92<br />SA restart 92<br /><br />Score = 11.8007<br /> New best: 9.9172<br />SA restart 93<br />SA restart 93<br /><br />Score = 11.0888<br /> New best: 9.9172<br />SA restart 94<br />SA restart 94<br /><br />Score = 11.1519<br /> New best: 9.9172<br />SA restart 95<br />SA restart 95<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 96<br />SA restart 96<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 97<br />SA restart 97<br /><br />Score = 11.5854<br /> New best: 9.9172<br />SA restart 98<br />SA restart 98<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 99<br />SA restart 99<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 100<br />SA restart 100<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 101<br />SA restart 101<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 102<br />SA restart 102<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 103<br />SA restart 103<br /><br />Score = 12.0190<br /> New best: 9.9172<br />SA restart 104<br />SA restart 104<br /><br />Score = 11.8007<br /> New best: 9.9172<br />SA restart 105<br />SA restart 105<br /><br />Score = 11.1519<br /> New best: 9.9172<br />SA restart 106<br />SA restart 106<br /><br />Score = 12.6678<br /> New best: 9.9172<br />SA restart 107<br />SA restart 107<br /><br />Score = 12.6678<br /> New best: 9.9172<br />SA restart 108<br />SA restart 108<br /><br />Score = 12.2343<br /> New best: 9.9172<br />SA restart 109<br />SA restart 109<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 110<br />SA restart 110<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 111<br />SA restart 111<br /><br />Score = 10.9996<br /> New best: 9.9172<br />SA restart 112<br />SA restart 112<br /><br />Score = 10.3508<br /> New best: 9.9172<br />SA restart 113<br />SA restart 113<br /><br />Score = 11.1519<br /> New best: 9.9172<br />SA restart 114<br />SA restart 114<br /><br />Score = 11.4332<br /> New best: 9.9172<br />SA restart 115<br />SA restart 115<br /><br />Score = 10.3508<br /> New best: 9.9172<br />SA restart 116<br />SA restart 116<br /><br />Score = 12.0820<br /> New best: 9.9172<br />SA restart 117<br />SA restart 117<br /><br />Score = 13.1644<br /> New best: 9.9172<br />SA restart 118<br />SA restart 118<br /><br />Score = 10.3508<br /> New best: 9.9172<br />SA restart 119<br />SA restart 119<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 120<br />SA restart 120<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 121<br />SA restart 121<br /><br />Score = 13.4689<br /> New best: 9.9172<br />SA restart 122<br />SA restart 122<br /><br />Score = 9.9172<br /> New best: 9.9172<br />SA restart 123<br />SA restart 123<br /><br />Score = 10.5030<br /> New best: 9.9172<br />SA restart 124<br />SA restart 124<br /><br />Score = 12.6678<br /> New best: 9.9172<br />SA restart 125<br />SA restart 125<br /><br />Score = 11.6485<br /> New best: 9.9172<br />SA restart 126<br />SA restart 126<br /><br />Score = 10.5661<br /> New best: 9.9172<br />SA restart 127<br />SA restart 127<br /><br />Score = 13.0353<br /> New best: 9.9172<br />SA restart 128<br />SA restart 128<br /><br />Score = 10.0695<br /> New best: 9.9172<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>1) Score: 39.084253231682
+                    
+                    Run Time: 9505 ms
+                    
+                    
+                    Peak Memory Used: 90.039MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 2
+N = 20
+Edge probability = 17.1%
+Number of edges = 46
+0 0 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 
+0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 1 1 0 
+1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 
+1 1 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1 
+0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 
+1 1 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 0 
+1 0 1 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 
+0 0 1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 
+0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 1 
+0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 1<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 20&#160;&#160;&#160;&#160;E = 200<br />SA restart 1<br />SA restart 1<br /><br />Score = 39.2274<br /> New best: 39.1788<br />SA restart 2<br />SA restart 2<br /><br />Score = 44.5274<br /> New best: 39.0843<br />SA restart 3<br />SA restart 3<br /><br />Score = 45.2921<br /> New best: 39.0843<br />SA restart 4<br />SA restart 4<br /><br />Score = 42.0916<br /> New best: 39.0843<br />SA restart 5<br />SA restart 5<br /><br />Score = 39.8600<br /> New best: 39.0843<br />SA restart 6<br />SA restart 6<br /><br />Score = 46.9224<br /> New best: 39.0843<br />SA restart 7<br />SA restart 7<br /><br />Score = 40.6570<br /> New best: 39.0843<br />SA restart 8<br />SA restart 8<br /><br />Score = 47.4242<br /> New best: 39.0843<br />SA restart 9<br />SA restart 9<br /><br />Score = 46.3781<br /> New best: 39.0843<br />SA restart 10<br />SA restart 10<br /><br />Score = 43.9533<br /> New best: 39.0843<br />SA restart 11<br />SA restart 11<br /><br />Score = 45.2921<br /> New best: 39.0843<br />SA restart 12<br />SA restart 12<br /><br />Score = 42.7604<br /> New best: 39.0843<br />SA restart 13<br />SA restart 13<br /><br />Score = 40.9365<br /> New best: 39.0843<br />SA restart 14<br />SA restart 14<br /><br />Score = 39.8600<br /> New best: 39.0843<br />SA restart 15<br />SA restart 15<br /><br />Score = 48.2018<br /> New best: 39.0843<br />SA restart 16<br />SA restart 16<br /><br />Score = 40.8462<br /> New best: 39.0843<br />SA restart 17<br />SA restart 17<br /><br />Score = 48.5849<br /> New best: 39.0843<br />SA restart 18<br />SA restart 18<br /><br />Score = 44.6667<br /> New best: 39.0843<br />SA restart 19<br />SA restart 19<br /><br />Score = 44.2969<br /> New best: 39.0843<br />SA restart 20<br />SA restart 20<br /><br />Score = 43.0426<br /> New best: 39.0843<br />SA restart 21<br />SA restart 21<br /><br />Score = 46.7666<br /> New best: 39.0843<br />SA restart 22<br />SA restart 22<br /><br />Score = 43.1904<br /> New best: 39.0843<br />SA restart 23<br />SA restart 23<br /><br />Score = 45.4615<br /> New best: 39.0843<br />SA restart 24<br />SA restart 24<br /><br />Score = 45.0601<br /> New best: 39.0843<br />SA restart 25<br />SA restart 25<br /><br />Score = 39.2235<br /> New best: 39.0843<br />SA restart 26<br />SA restart 26<br /><br />Score = 44.7524<br /> New best: 39.0843<br />SA restart 27<br />SA restart 27<br /><br />Score = 46.5972<br /> New best: 39.0843<br />SA restart 28<br />SA restart 28<br /><br />Score = 39.8863<br /> New best: 39.0843<br />SA restart 29<br />SA restart 29<br /><br />Score = 42.6293<br /> New best: 39.0843<br />SA restart 30<br />SA restart 30<br /><br />Score = 46.4163<br /> New best: 39.0843<br />SA restart 31<br />SA restart 31<br /><br />Score = 42.6293<br /> New best: 39.0843<br />SA restart 32<br />SA restart 32<br /><br />Score = 44.6583<br /> New best: 39.0843<br />SA restart 33<br />SA restart 33<br /><br />Score = 44.8434<br /> New best: 39.0843<br />SA restart 34<br />SA restart 34<br /><br />Score = 43.2788<br /> New best: 39.0843<br />SA restart 35<br />SA restart 35<br /><br />Score = 39.0843<br /> New best: 39.0843<br />SA restart 36<br />SA restart 36<br /><br />Score = 42.0460<br /> New best: 39.0843<br />SA restart 37<br />SA restart 37<br /><br />Score = 43.3792<br /> New best: 39.0843<br />SA restart 38<br />SA restart 38<br /><br />Score = 41.6672<br /> New best: 39.0843<br />SA restart 39<br />SA restart 39<br /><br />Score = 50.1877<br /> New best: 39.0843<br />SA restart 40<br />SA restart 40<br /><br />Score = 40.8488<br /> New best: 39.0843<br />SA restart 41<br />SA restart 41<br /><br />Score = 40.2541<br /> New best: 39.0843<br />SA restart 42<br />SA restart 42<br /><br />Score = 41.2204<br /> New best: 39.0843<br />SA restart 43<br />SA restart 43<br /><br />Score = 47.8425<br /> New best: 39.0843<br />SA restart 44<br />SA restart 44<br /><br />Score = 39.8890<br /> New best: 39.0843<br />SA restart 45<br />SA restart 45<br /><br />Score = 43.6755<br /> New best: 39.0843<br />SA restart 46<br />SA restart 46<br /><br />Score = 44.6412<br /> New best: 39.0843<br />SA restart 47<br />SA restart 47<br /><br />Score = 39.0843<br /> New best: 39.0843<br />SA restart 48<br />SA restart 48<br /><br />Score = 40.7431<br /> New best: 39.0843<br />SA restart 49<br />SA restart 49<br /><br />Score = 39.7329<br /> New best: 39.0843<br />SA restart 50<br />SA restart 50<br /><br />Score = 40.8821<br /> New best: 39.0843<br />SA restart 51<br />SA restart 51<br /><br />Score = 41.8640<br /> New best: 39.0843<br />SA restart 52<br />SA restart 52<br /><br />Score = 45.1051<br /> New best: 39.0843<br />SA restart 53<br />SA restart 53<br /><br />Score = 41.0092<br /> New best: 39.0843<br />SA restart 54<br />SA restart 54<br /><br />Score = 48.8593<br /> New best: 39.0843<br />SA restart 55<br />SA restart 55<br /><br />Score = 41.2958<br /> New best: 39.0843<br />SA restart 56<br />SA restart 56<br /><br />Score = 46.9869<br /> New best: 39.0843<br />SA restart 57<br />SA restart 57<br /><br />Score = 49.2060<br /> New best: 39.0843<br />SA restart 58<br />SA restart 58<br /><br />Score = 42.1089<br /> New best: 39.0843<br />SA restart 59<br />SA restart 59<br /><br />Score = 46.5815<br /> New best: 39.0843<br />SA restart 60<br />SA restart 60<br /><br />Score = 42.8015<br /> New best: 39.0843<br />SA restart 61<br />SA restart 61<br /><br />Score = 45.2359<br /> New best: 39.0843<br />SA restart 62<br />SA restart 62<br /><br />Score = 44.2666<br /> New best: 39.0843<br />SA restart 63<br />SA restart 63<br /><br />Score = 40.9779<br /> New best: 39.0843<br />SA restart 64<br />SA restart 64<br /><br />Score = 40.8661<br /> New best: 39.0843<br />SA restart 65<br />SA restart 65<br /><br />Score = 45.9003<br /> New best: 39.0843<br />SA restart 66<br />SA restart 66<br /><br />Score = 46.4273<br /> New best: 39.0843<br />SA restart 67<br />SA restart 67<br /><br />Score = 39.5525<br /> New best: 39.0843<br />SA restart 68<br />SA restart 68<br /><br />Score = 39.2896<br /> New best: 39.0843<br />SA restart 69<br />SA restart 69<br /><br />Score = 46.7421<br /> New best: 39.0843<br />SA restart 70<br />SA restart 70<br /><br />Score = 39.4552<br /> New best: 39.0843<br />SA restart 71<br />SA restart 71<br /><br />Score = 42.1407<br /> New best: 39.0843<br />SA restart 72<br />SA restart 72<br /><br />Score = 41.9877<br /> New best: 39.0843<br />SA restart 73<br />SA restart 73<br /><br />Score = 40.8488<br /> New best: 39.0843<br />SA restart 74<br />SA restart 74<br /><br />Score = 47.0798<br /> New best: 39.0843<br />SA restart 75<br />SA restart 75<br /><br />Score = 44.2969<br /> New best: 39.0843<br />SA restart 76<br />SA restart 76<br /><br />Score = 48.5738<br /> New best: 39.0843<br />SA restart 77<br />SA restart 77<br /><br />Score = 45.1916<br /> New best: 39.0843<br />SA restart 78<br />SA restart 78<br /><br />Score = 42.5073<br /> New best: 39.0843<br />SA restart 79<br />SA restart 79<br /><br />Score = 41.8529<br /> New best: 39.0843<br />SA restart 80<br />SA restart 80<br /><br />Score = 39.4552<br /> New best: 39.0843<br />SA restart 81<br />SA restart 81<br /><br />Score = 43.8277<br /> New best: 39.0843<br />SA restart 82<br />SA restart 82<br /><br />Score = 44.2734<br /> New best: 39.0843<br />SA restart 83<br />SA restart 83<br /><br />Score = 39.9344<br /> New best: 39.0843<br />SA restart 84<br />SA restart 84<br /><br />Score = 44.4127<br /> New best: 39.0843<br />SA restart 85<br />SA restart 85<br /><br />Score = 39.4552<br /> New best: 39.0843<br />SA restart 86<br />SA restart 86<br /><br />Score = 46.4753<br /> New best: 39.0843<br />SA restart 87<br />SA restart 87<br /><br />Score = 39.8600<br /> New best: 39.0843<br />SA restart 88<br />SA restart 88<br /><br />Score = 46.2084<br /> New best: 39.0843<br />SA restart 89<br />SA restart 89<br /><br />Score = 50.2476<br /> New best: 39.0843<br />SA restart 90<br />SA restart 90<br /><br />Score = 42.4432<br /> New best: 39.0843<br />SA restart 91<br />SA restart 91<br /><br />Score = 41.9877<br /> New best: 39.0843<br />SA restart 92<br />SA restart 92<br /><br />Score = 44.0112<br /> New best: 39.0843<br />SA restart 93<br />SA restart 93<br /><br />Score = 46.5337<br /> New best: 39.0843<br />SA restart 94<br />SA restart 94<br /><br />Score = 47.5872<br /> New best: 39.0843<br />SA restart 95<br />SA restart 95<br /><br />Score = 47.1002<br /> New best: 39.0843<br />SA restart 96<br />SA restart 96<br /><br />Score = 40.5964<br /> New best: 39.0843<br />SA restart 97<br />SA restart 97<br /><br />Score = 45.8742<br /> New best: 39.0843<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>2) Score: 1579.1549374987587
+                    
+                    Run Time: 9511 ms
+                    
+                    
+                    Peak Memory Used: 97.828MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 3
+N = 200
+Edge probability = 8.700000000000001%
+Number of edges = 1737
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 200&#160;&#160;&#160;&#160;E = 20000<br />SA restart 1<br />SA restart 1<br /><br />Score = 1616.3814<br /> New best: 1587.7799<br />SA restart 2<br />SA restart 2<br /><br />Score = 1584.2350<br /> New best: 1583.9949<br />SA restart 3<br />SA restart 3<br /><br />Score = 1605.0273<br /> New best: 1583.9949<br />SA restart 4<br />SA restart 4<br /><br />Score = 1617.4079<br /> New best: 1583.9949<br />SA restart 5<br />SA restart 5<br /><br />Score = 1612.1844<br /> New best: 1583.9949<br />SA restart 6<br />SA restart 6<br /><br />Score = 1591.1584<br /> New best: 1583.9949<br />SA restart 7<br />SA restart 7<br /><br />Score = 1597.7686<br /> New best: 1583.9949<br />SA restart 8<br />SA restart 8<br /><br />Score = 1588.5753<br /> New best: 1583.9910<br />SA restart 9<br />SA restart 9<br /><br />Score = 1600.2138<br /> New best: 1583.9910<br />SA restart 10<br />SA restart 10<br /><br />Score = 1609.7861<br /> New best: 1583.9910<br />SA restart 11<br />SA restart 11<br /><br />Score = 1599.2423<br /> New best: 1583.9910<br />SA restart 12<br />SA restart 12<br /><br />Score = 1615.1567<br /> New best: 1583.9910<br />SA restart 13<br />SA restart 13<br /><br />Score = 1611.3129<br /> New best: 1583.9910<br />SA restart 14<br />SA restart 14<br /><br />Score = 1592.0849<br /> New best: 1583.9910<br />SA restart 15<br />SA restart 15<br /><br />Score = 1596.7010<br /> New best: 1583.9910<br />SA restart 16<br />SA restart 16<br /><br />Score = 1591.7146<br /> New best: 1583.9910<br />SA restart 17<br />SA restart 17<br /><br />Score = 1598.5779<br /> New best: 1579.1549<br />SA restart 18<br />SA restart 18<br /><br />Score = 1593.6008<br /> New best: 1579.1549<br />SA restart 19<br />SA restart 19<br /><br />Score = 1591.8999<br /> New best: 1579.1549<br />SA restart 20<br />SA restart 20<br /><br />Score = 1592.7300<br /> New best: 1579.1549<br />SA restart 21<br />SA restart 21<br /><br />Score = 1616.6495<br /> New best: 1579.1549<br />SA restart 22<br />SA restart 22<br /><br />Score = 1588.6740<br /> New best: 1579.1549<br />SA restart 23<br />SA restart 23<br /><br />Score = 1615.4123<br /> New best: 1579.1549<br />SA restart 24<br />SA restart 24<br /><br />Score = 1611.4792<br /> New best: 1579.1549<br />SA restart 25<br />SA restart 25<br /><br />Score = 1612.7680<br /> New best: 1579.1549<br />SA restart 26<br />SA restart 26<br /><br />Score = 1593.8885<br /> New best: 1579.1549<br />SA restart 27<br />SA restart 27<br /><br />Score = 1594.7584<br /> New best: 1579.1549<br />SA restart 28<br />SA restart 28<br /><br />Score = 1604.5718<br /> New best: 1579.1549<br />SA restart 29<br />SA restart 29<br /><br />Score = 1593.6293<br /> New best: 1579.1549<br />SA restart 30<br />SA restart 30<br /><br />Score = 1619.4848<br /> New best: 1579.1549<br />SA restart 31<br />SA restart 31<br /><br />Score = 1600.1447<br /> New best: 1579.1549<br />SA restart 32<br />SA restart 32<br /><br />Score = 1600.6148<br /> New best: 1579.1549<br />SA restart 33<br />SA restart 33<br /><br />Score = 2208.7701<br /> New best: 1579.1549<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>3) Score: 1211.7108967847482
+                    
+                    Run Time: 9509 ms
+                    
+                    
+                    Peak Memory Used: 93.801MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 4
+N = 141
+Edge probability = 12.700000000000001%
+Number of edges = 1288
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 141&#160;&#160;&#160;&#160;E = 9940<br />SA restart 1<br />SA restart 1<br /><br />Score = 1217.9831<br /> New best: 1213.6713<br />SA restart 2<br />SA restart 2<br /><br />Score = 1244.4044<br /> New best: 1213.6713<br />SA restart 3<br />SA restart 3<br /><br />Score = 1223.0626<br /> New best: 1213.6713<br />SA restart 4<br />SA restart 4<br /><br />Score = 1224.9297<br /> New best: 1213.6713<br />SA restart 5<br />SA restart 5<br /><br />Score = 1223.0205<br /> New best: 1212.9588<br />SA restart 6<br />SA restart 6<br /><br />Score = 1236.7153<br /> New best: 1212.9588<br />SA restart 7<br />SA restart 7<br /><br />Score = 1232.4999<br /> New best: 1212.9588<br />SA restart 8<br />SA restart 8<br /><br />Score = 1215.2017<br /> New best: 1212.9588<br />SA restart 9<br />SA restart 9<br /><br />Score = 1233.9744<br /> New best: 1212.9588<br />SA restart 10<br />SA restart 10<br /><br />Score = 1217.0309<br /> New best: 1212.3047<br />SA restart 11<br />SA restart 11<br /><br />Score = 1218.9486<br /> New best: 1212.3047<br />SA restart 12<br />SA restart 12<br /><br />Score = 1212.9333<br /> New best: 1211.7109<br />SA restart 13<br />SA restart 13<br /><br />Score = 1226.5932<br /> New best: 1211.7109<br />SA restart 14<br />SA restart 14<br /><br />Score = 1229.1553<br /> New best: 1211.7109<br />SA restart 15<br />SA restart 15<br /><br />Score = 1233.3664<br /> New best: 1211.7109<br />SA restart 16<br />SA restart 16<br /><br />Score = 1230.6826<br /> New best: 1211.7109<br />SA restart 17<br />SA restart 17<br /><br />Score = 1227.3522<br /> New best: 1211.7109<br />SA restart 18<br />SA restart 18<br /><br />Score = 1228.5828<br /> New best: 1211.7109<br />SA restart 19<br />SA restart 19<br /><br />Score = 1214.8381<br /> New best: 1211.7109<br />SA restart 20<br />SA restart 20<br /><br />Score = 1238.9406<br /> New best: 1211.7109<br />SA restart 21<br />SA restart 21<br /><br />Score = 1215.4196<br /> New best: 1211.7109<br />SA restart 22<br />SA restart 22<br /><br />Score = 1230.7160<br /> New best: 1211.7109<br />SA restart 23<br />SA restart 23<br /><br />Score = 1236.9022<br /> New best: 1211.7109<br />SA restart 24<br />SA restart 24<br /><br />Score = 1227.6934<br /> New best: 1211.7109<br />SA restart 25<br />SA restart 25<br /><br />Score = 1231.5463<br /> New best: 1211.7109<br />SA restart 26<br />SA restart 26<br /><br />Score = 1230.4639<br /> New best: 1211.7109<br />SA restart 27<br />SA restart 27<br /><br />Score = 1221.1972<br /> New best: 1211.7109<br />SA restart 28<br />SA restart 28<br /><br />Score = 1223.8109<br /> New best: 1211.7109<br />SA restart 29<br />SA restart 29<br /><br />Score = 1220.9187<br /> New best: 1211.7109<br />SA restart 30<br />SA restart 30<br /><br />Score = 1231.0371<br /> New best: 1211.7109<br />SA restart 31<br />SA restart 31<br /><br />Score = 1220.6433<br /> New best: 1211.7109<br />SA restart 32<br />SA restart 32<br /><br />Score = 1232.9066<br /> New best: 1211.7109<br />SA restart 33<br />SA restart 33<br /><br />Score = 1229.5286<br /> New best: 1211.7109<br />SA restart 34<br />SA restart 34<br /><br />Score = 1669.3782<br /> New best: 1211.7109<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>4) Score: 1023.3281062700023
+                    
+                    Run Time: 9510 ms
+                    
+                    
+                    Peak Memory Used: 93.836MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 5
+N = 156
+Edge probability = 9.600000000000001%
+Number of edges = 1160
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 156&#160;&#160;&#160;&#160;E = 12168<br />SA restart 1<br />SA restart 1<br /><br />Score = 1036.8545<br /> New best: 1026.7391<br />SA restart 2<br />SA restart 2<br /><br />Score = 1044.9959<br /> New best: 1025.8957<br />SA restart 3<br />SA restart 3<br /><br />Score = 1048.8178<br /> New best: 1025.8957<br />SA restart 4<br />SA restart 4<br /><br />Score = 1061.3255<br /> New best: 1025.8957<br />SA restart 5<br />SA restart 5<br /><br />Score = 1043.5720<br /> New best: 1025.8957<br />SA restart 6<br />SA restart 6<br /><br />Score = 1043.7325<br /> New best: 1025.8957<br />SA restart 7<br />SA restart 7<br /><br />Score = 1053.1237<br /> New best: 1025.8957<br />SA restart 8<br />SA restart 8<br /><br />Score = 1036.9558<br /> New best: 1025.8957<br />SA restart 9<br />SA restart 9<br /><br />Score = 1041.0343<br /> New best: 1025.8957<br />SA restart 10<br />SA restart 10<br /><br />Score = 1040.6013<br /> New best: 1025.8835<br />SA restart 11<br />SA restart 11<br /><br />Score = 1050.3823<br /> New best: 1025.8835<br />SA restart 12<br />SA restart 12<br /><br />Score = 1042.7565<br /> New best: 1025.8835<br />SA restart 13<br />SA restart 13<br /><br />Score = 1037.5417<br /> New best: 1025.8835<br />SA restart 14<br />SA restart 14<br /><br />Score = 1054.3188<br /> New best: 1025.8835<br />SA restart 15<br />SA restart 15<br /><br />Score = 1032.6004<br /> New best: 1025.8835<br />SA restart 16<br />SA restart 16<br /><br />Score = 1032.3585<br /> New best: 1025.8835<br />SA restart 17<br />SA restart 17<br /><br />Score = 1047.8166<br /> New best: 1025.8835<br />SA restart 18<br />SA restart 18<br /><br />Score = 1023.8985<br /> New best: 1023.3281<br />SA restart 19<br />SA restart 19<br /><br />Score = 1040.1114<br /> New best: 1023.3281<br />SA restart 20<br />SA restart 20<br /><br />Score = 1026.7806<br /> New best: 1023.3281<br />SA restart 21<br />SA restart 21<br /><br />Score = 1048.4016<br /> New best: 1023.3281<br />SA restart 22<br />SA restart 22<br /><br />Score = 1033.1873<br /> New best: 1023.3281<br />SA restart 23<br />SA restart 23<br /><br />Score = 1034.7437<br /> New best: 1023.3281<br />SA restart 24<br />SA restart 24<br /><br />Score = 1046.5671<br /> New best: 1023.3281<br />SA restart 25<br />SA restart 25<br /><br />Score = 1035.0538<br /> New best: 1023.3281<br />SA restart 26<br />SA restart 26<br /><br />Score = 1031.0589<br /> New best: 1023.3281<br />SA restart 27<br />SA restart 27<br /><br />Score = 1036.7565<br /> New best: 1023.3281<br />SA restart 28<br />SA restart 28<br /><br />Score = 1038.5421<br /> New best: 1023.3281<br />SA restart 29<br />SA restart 29<br /><br />Score = 1049.8425<br /> New best: 1023.3281<br />SA restart 30<br />SA restart 30<br /><br />Score = 1042.1836<br /> New best: 1023.3281<br />SA restart 31<br />SA restart 31<br /><br />Score = 1043.8144<br /> New best: 1023.3281<br />SA restart 32<br />SA restart 32<br /><br />Score = 1033.2927<br /> New best: 1023.3281<br />SA restart 33<br />SA restart 33<br /><br />Score = 1031.7809<br /> New best: 1023.3281<br />SA restart 34<br />SA restart 34<br /><br />Score = 1036.0333<br /> New best: 1023.3281<br />SA restart 35<br />SA restart 35<br /><br />Score = 1025.8328<br /> New best: 1023.3281<br />SA restart 36<br />SA restart 36<br /><br />Score = 1034.4609<br /> New best: 1023.3281<br />SA restart 37<br />SA restart 37<br /><br />Score = 1463.2195<br /> New best: 1023.3281<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>5) Score: 162.0056882489278
+                    
+                    Run Time: 9508 ms
+                    
+                    
+                    Peak Memory Used: 90.555MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 6
+N = 82
+Edge probability = 6.6000000000000005%
+Number of edges = 246
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 1<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 82&#160;&#160;&#160;&#160;E = 3362<br />SA restart 1<br />SA restart 1<br /><br />Score = 165.6344<br /> New best: 163.8066<br />SA restart 2<br />SA restart 2<br /><br />Score = 174.5936<br /> New best: 162.5884<br />SA restart 3<br />SA restart 3<br /><br />Score = 169.5708<br /> New best: 162.5589<br />SA restart 4<br />SA restart 4<br /><br />Score = 169.6106<br /> New best: 162.5589<br />SA restart 5<br />SA restart 5<br /><br />Score = 162.9709<br /> New best: 162.4542<br />SA restart 6<br />SA restart 6<br /><br />Score = 172.3930<br /> New best: 162.4542<br />SA restart 7<br />SA restart 7<br /><br />Score = 177.4080<br /> New best: 162.4542<br />SA restart 8<br />SA restart 8<br /><br />Score = 175.8468<br /> New best: 162.4542<br />SA restart 9<br />SA restart 9<br /><br />Score = 171.0281<br /> New best: 162.4542<br />SA restart 10<br />SA restart 10<br /><br />Score = 162.7487<br /> New best: 162.1608<br />SA restart 11<br />SA restart 11<br /><br />Score = 173.0508<br /> New best: 162.1608<br />SA restart 12<br />SA restart 12<br /><br />Score = 180.2190<br /> New best: 162.1608<br />SA restart 13<br />SA restart 13<br /><br />Score = 168.9027<br /> New best: 162.1608<br />SA restart 14<br />SA restart 14<br /><br />Score = 165.8610<br /> New best: 162.1608<br />SA restart 15<br />SA restart 15<br /><br />Score = 170.8802<br /> New best: 162.1608<br />SA restart 16<br />SA restart 16<br /><br />Score = 173.9930<br /> New best: 162.1608<br />SA restart 17<br />SA restart 17<br /><br />Score = 167.6595<br /> New best: 162.1608<br />SA restart 18<br />SA restart 18<br /><br />Score = 173.4806<br /> New best: 162.0057<br />SA restart 19<br />SA restart 19<br /><br />Score = 162.6497<br /> New best: 162.0057<br />SA restart 20<br />SA restart 20<br /><br />Score = 171.9700<br /> New best: 162.0057<br />SA restart 21<br />SA restart 21<br /><br />Score = 169.1224<br /> New best: 162.0057<br />SA restart 22<br />SA restart 22<br /><br />Score = 168.5745<br /> New best: 162.0057<br />SA restart 23<br />SA restart 23<br /><br />Score = 170.7111<br /> New best: 162.0057<br />SA restart 24<br />SA restart 24<br /><br />Score = 172.5064<br /> New best: 162.0057<br />SA restart 25<br />SA restart 25<br /><br />Score = 165.3922<br /> New best: 162.0057<br />SA restart 26<br />SA restart 26<br /><br />Score = 166.9611<br /> New best: 162.0057<br />SA restart 27<br />SA restart 27<br /><br />Score = 166.0820<br /> New best: 162.0057<br />SA restart 28<br />SA restart 28<br /><br />Score = 174.5331<br /> New best: 162.0057<br />SA restart 29<br />SA restart 29<br /><br />Score = 171.2025<br /> New best: 162.0057<br />SA restart 30<br />SA restart 30<br /><br />Score = 176.4897<br /> New best: 162.0057<br />SA restart 31<br />SA restart 31<br /><br />Score = 179.9499<br /> New best: 162.0057<br />SA restart 32<br />SA restart 32<br /><br />Score = 166.1347<br /> New best: 162.0057<br />SA restart 33<br />SA restart 33<br /><br />Score = 173.4941<br /> New best: 162.0057<br />SA restart 34<br />SA restart 34<br /><br />Score = 175.8224<br /> New best: 162.0057<br />SA restart 35<br />SA restart 35<br /><br />Score = 168.0953<br /> New best: 162.0057<br />SA restart 36<br />SA restart 36<br /><br />Score = 176.3418<br /> New best: 162.0057<br />SA restart 37<br />SA restart 37<br /><br />Score = 170.8098<br /> New best: 162.0057<br />SA restart 38<br />SA restart 38<br /><br />Score = 176.3752<br /> New best: 162.0057<br />SA restart 39<br />SA restart 39<br /><br />Score = 162.4689<br /> New best: 162.0057<br />SA restart 40<br />SA restart 40<br /><br />Score = 164.7117<br /> New best: 162.0057<br />SA restart 41<br />SA restart 41<br /><br />Score = 171.2623<br /> New best: 162.0057<br />SA restart 42<br />SA restart 42<br /><br />Score = 166.6525<br /> New best: 162.0057<br />SA restart 43<br />SA restart 43<br /><br />Score = 166.6705<br /> New best: 162.0057<br />SA restart 44<br />SA restart 44<br /><br />Score = 166.2441<br /> New best: 162.0057<br />SA restart 45<br />SA restart 45<br /><br />Score = 177.2781<br /> New best: 162.0057<br />SA restart 46<br />SA restart 46<br /><br />Score = 176.7383<br /> New best: 162.0057<br />SA restart 47<br />SA restart 47<br /><br />Score = 179.3688<br /> New best: 162.0057<br />SA restart 48<br />SA restart 48<br /><br />Score = 167.8334<br /> New best: 162.0057<br />SA restart 49<br />SA restart 49<br /><br />Score = 167.4049<br /> New best: 162.0057<br />SA restart 50<br />SA restart 50<br /><br />Score = 162.3637<br /> New best: 162.0057<br />SA restart 51<br />SA restart 51<br /><br />Score = 166.3698<br /> New best: 162.0057<br />SA restart 52<br />SA restart 52<br /><br />Score = 164.9494<br /> New best: 162.0057<br />SA restart 53<br />SA restart 53<br /><br />Score = 171.8497<br /> New best: 162.0057<br />SA restart 54<br />SA restart 54<br /><br />Score = 169.2142<br /> New best: 162.0057<br />SA restart 55<br />SA restart 55<br /><br />Score = 162.0341<br /> New best: 162.0057<br />SA restart 56<br />SA restart 56<br /><br />Score = 174.1523<br /> New best: 162.0057<br />SA restart 57<br />SA restart 57<br /><br />Score = 176.8269<br /> New best: 162.0057<br />SA restart 58<br />SA restart 58<br /><br />Score = 171.6523<br /> New best: 162.0057<br />SA restart 59<br />SA restart 59<br /><br />Score = 164.1990<br /> New best: 162.0057<br />SA restart 60<br />SA restart 60<br /><br />Score = 162.6477<br /> New best: 162.0057<br />SA restart 61<br />SA restart 61<br /><br />Score = 171.6075<br /> New best: 162.0057<br />SA restart 62<br />SA restart 62<br /><br />Score = 169.4742<br /> New best: 162.0057<br />SA restart 63<br />SA restart 63<br /><br />Score = 172.3485<br /> New best: 162.0057<br />SA restart 64<br />SA restart 64<br /><br />Score = 171.1863<br /> New best: 162.0057<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>6) Score: 1157.6618746702336
+                    
+                    Run Time: 9507 ms
+                    
+                    
+                    Peak Memory Used: 92.746MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 7
+N = 112
+Edge probability = 18.900000000000002%
+Number of edges = 1185
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 112&#160;&#160;&#160;&#160;E = 6272<br />SA restart 1<br />SA restart 1<br /><br />Score = 1187.2323<br /> New best: 1160.6995<br />SA restart 2<br />SA restart 2<br /><br />Score = 1179.7423<br /> New best: 1160.6995<br />SA restart 3<br />SA restart 3<br /><br />Score = 1180.7654<br /> New best: 1158.6820<br />SA restart 4<br />SA restart 4<br /><br />Score = 1186.5530<br /> New best: 1157.7217<br />SA restart 5<br />SA restart 5<br /><br />Score = 1171.0300<br /> New best: 1157.7217<br />SA restart 6<br />SA restart 6<br /><br />Score = 1167.8820<br /> New best: 1157.7217<br />SA restart 7<br />SA restart 7<br /><br />Score = 1183.0306<br /> New best: 1157.6619<br />SA restart 8<br />SA restart 8<br /><br />Score = 1174.3529<br /> New best: 1157.6619<br />SA restart 9<br />SA restart 9<br /><br />Score = 1170.3338<br /> New best: 1157.6619<br />SA restart 10<br />SA restart 10<br /><br />Score = 1161.3776<br /> New best: 1157.6619<br />SA restart 11<br />SA restart 11<br /><br />Score = 1188.1777<br /> New best: 1157.6619<br />SA restart 12<br />SA restart 12<br /><br />Score = 1168.3369<br /> New best: 1157.6619<br />SA restart 13<br />SA restart 13<br /><br />Score = 1165.6560<br /> New best: 1157.6619<br />SA restart 14<br />SA restart 14<br /><br />Score = 1166.3186<br /> New best: 1157.6619<br />SA restart 15<br />SA restart 15<br /><br />Score = 1184.4143<br /> New best: 1157.6619<br />SA restart 16<br />SA restart 16<br /><br />Score = 1179.1989<br /> New best: 1157.6619<br />SA restart 17<br />SA restart 17<br /><br />Score = 1189.9671<br /> New best: 1157.6619<br />SA restart 18<br />SA restart 18<br /><br />Score = 1176.5133<br /> New best: 1157.6619<br />SA restart 19<br />SA restart 19<br /><br />Score = 1160.7783<br /> New best: 1157.6619<br />SA restart 20<br />SA restart 20<br /><br />Score = 1185.7788<br /> New best: 1157.6619<br />SA restart 21<br />SA restart 21<br /><br />Score = 1178.4087<br /> New best: 1157.6619<br />SA restart 22<br />SA restart 22<br /><br />Score = 1160.4022<br /> New best: 1157.6619<br />SA restart 23<br />SA restart 23<br /><br />Score = 1180.5151<br /> New best: 1157.6619<br />SA restart 24<br />SA restart 24<br /><br />Score = 1184.2279<br /> New best: 1157.6619<br />SA restart 25<br />SA restart 25<br /><br />Score = 1181.6223<br /> New best: 1157.6619<br />SA restart 26<br />SA restart 26<br /><br />Score = 1165.6074<br /> New best: 1157.6619<br />SA restart 27<br />SA restart 27<br /><br />Score = 1166.0281<br /> New best: 1157.6619<br />SA restart 28<br />SA restart 28<br /><br />Score = 1160.9208<br /> New best: 1157.6619<br />SA restart 29<br />SA restart 29<br /><br />Score = 1159.0184<br /> New best: 1157.6619<br />SA restart 30<br />SA restart 30<br /><br />Score = 1183.5573<br /> New best: 1157.6619<br />SA restart 31<br />SA restart 31<br /><br />Score = 1159.4527<br /> New best: 1157.6619<br />SA restart 32<br />SA restart 32<br /><br />Score = 1178.9359<br /> New best: 1157.6619<br />SA restart 33<br />SA restart 33<br /><br />Score = 1552.5333<br /> New best: 1157.6619<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>7) Score: 388.68731558291535
+                    
+                    Run Time: 9509 ms
+                    
+                    
+                    Peak Memory Used: 91.199MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 8
+N = 105
+Edge probability = 9.5%
+Number of edges = 495
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 105&#160;&#160;&#160;&#160;E = 5512<br />SA restart 1<br />SA restart 1<br /><br />Score = 397.3509<br /> New best: 389.0086<br />SA restart 2<br />SA restart 2<br /><br />Score = 397.4965<br /> New best: 389.0086<br />SA restart 3<br />SA restart 3<br /><br />Score = 393.2464<br /> New best: 389.0086<br />SA restart 4<br />SA restart 4<br /><br />Score = 389.3771<br /> New best: 389.0086<br />SA restart 5<br />SA restart 5<br /><br />Score = 399.9332<br /> New best: 389.0086<br />SA restart 6<br />SA restart 6<br /><br />Score = 408.7008<br /> New best: 389.0086<br />SA restart 7<br />SA restart 7<br /><br />Score = 394.8926<br /> New best: 388.8414<br />SA restart 8<br />SA restart 8<br /><br />Score = 407.0259<br /> New best: 388.8414<br />SA restart 9<br />SA restart 9<br /><br />Score = 397.9965<br /> New best: 388.8414<br />SA restart 10<br />SA restart 10<br /><br />Score = 403.9868<br /> New best: 388.8414<br />SA restart 11<br />SA restart 11<br /><br />Score = 407.9538<br /> New best: 388.7666<br />SA restart 12<br />SA restart 12<br /><br />Score = 396.0262<br /> New best: 388.7666<br />SA restart 13<br />SA restart 13<br /><br />Score = 389.4571<br /> New best: 388.7666<br />SA restart 14<br />SA restart 14<br /><br />Score = 392.9128<br /> New best: 388.7666<br />SA restart 15<br />SA restart 15<br /><br />Score = 402.9579<br /> New best: 388.7666<br />SA restart 16<br />SA restart 16<br /><br />Score = 389.9623<br /> New best: 388.7666<br />SA restart 17<br />SA restart 17<br /><br />Score = 402.9665<br /> New best: 388.7666<br />SA restart 18<br />SA restart 18<br /><br />Score = 408.6338<br /> New best: 388.7666<br />SA restart 19<br />SA restart 19<br /><br />Score = 401.8188<br /> New best: 388.7666<br />SA restart 20<br />SA restart 20<br /><br />Score = 390.7200<br /> New best: 388.7666<br />SA restart 21<br />SA restart 21<br /><br />Score = 399.1327<br /> New best: 388.7666<br />SA restart 22<br />SA restart 22<br /><br />Score = 407.6626<br /> New best: 388.7666<br />SA restart 23<br />SA restart 23<br /><br />Score = 394.5964<br /> New best: 388.7666<br />SA restart 24<br />SA restart 24<br /><br />Score = 409.1940<br /> New best: 388.7666<br />SA restart 25<br />SA restart 25<br /><br />Score = 396.6287<br /> New best: 388.7666<br />SA restart 26<br />SA restart 26<br /><br />Score = 404.2045<br /> New best: 388.7666<br />SA restart 27<br />SA restart 27<br /><br />Score = 401.5731<br /> New best: 388.7666<br />SA restart 28<br />SA restart 28<br /><br />Score = 394.8942<br /> New best: 388.7666<br />SA restart 29<br />SA restart 29<br /><br />Score = 396.7572<br /> New best: 388.7666<br />SA restart 30<br />SA restart 30<br /><br />Score = 403.3298<br /> New best: 388.6873<br />SA restart 31<br />SA restart 31<br /><br />Score = 390.1308<br /> New best: 388.6873<br />SA restart 32<br />SA restart 32<br /><br />Score = 404.6757<br /> New best: 388.6873<br />SA restart 33<br />SA restart 33<br /><br />Score = 405.0656<br /> New best: 388.6873<br />SA restart 34<br />SA restart 34<br /><br />Score = 396.6598<br /> New best: 388.6873<br />SA restart 35<br />SA restart 35<br /><br />Score = 406.3157<br /> New best: 388.6873<br />SA restart 36<br />SA restart 36<br /><br />Score = 389.9370<br /> New best: 388.6873<br />SA restart 37<br />SA restart 37<br /><br />Score = 405.8966<br /> New best: 388.6873<br />SA restart 38<br />SA restart 38<br /><br />Score = 415.3040<br /> New best: 388.6873<br />SA restart 39<br />SA restart 39<br /><br />Score = 393.7758<br /> New best: 388.6873<br />SA restart 40<br />SA restart 40<br /><br />Score = 397.7521<br /> New best: 388.6873<br />SA restart 41<br />SA restart 41<br /><br />Score = 400.1404<br /> New best: 388.6873<br />SA restart 42<br />SA restart 42<br /><br />Score = 390.7401<br /> New best: 388.6873<br />SA restart 43<br />SA restart 43<br /><br />Score = 394.3958<br /> New best: 388.6873<br />SA restart 44<br />SA restart 44<br /><br />Score = 402.1099<br /> New best: 388.6873<br />SA restart 45<br />SA restart 45<br /><br />Score = 399.5211<br /> New best: 388.6873<br />SA restart 46<br />SA restart 46<br /><br />Score = 389.9718<br /> New best: 388.6873<br />SA restart 47<br />SA restart 47<br /><br />Score = 404.6963<br /> New best: 388.6873<br />SA restart 48<br />SA restart 48<br /><br />Score = 400.9423<br /> New best: 388.6873<br />SA restart 49<br />SA restart 49<br /><br />Score = 400.6350<br /> New best: 388.6873<br />SA restart 50<br />SA restart 50<br /><br />Score = 390.8712<br /> New best: 388.6873<br />SA restart 51<br />SA restart 51<br /><br />Score = 642.9842<br /> New best: 388.6873<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>8) Score: 68.23292391566301
+                    
+                    Run Time: 9506 ms
+                    
+                    
+                    Peak Memory Used: 90.039MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 9
+N = 41
+Edge probability = 11.8%
+Number of edges = 96
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 41&#160;&#160;&#160;&#160;E = 840<br />SA restart 1<br />SA restart 1<br /><br />Score = 69.2052<br /> New best: 68.3016<br />SA restart 2<br />SA restart 2<br /><br />Score = 73.9454<br /> New best: 68.3016<br />SA restart 3<br />SA restart 3<br /><br />Score = 70.7324<br /> New best: 68.3016<br />SA restart 4<br />SA restart 4<br /><br />Score = 75.4584<br /> New best: 68.3016<br />SA restart 5<br />SA restart 5<br /><br />Score = 78.7638<br /> New best: 68.3016<br />SA restart 6<br />SA restart 6<br /><br />Score = 75.6841<br /> New best: 68.3016<br />SA restart 7<br />SA restart 7<br /><br />Score = 76.2525<br /> New best: 68.3016<br />SA restart 8<br />SA restart 8<br /><br />Score = 75.0098<br /> New best: 68.3016<br />SA restart 9<br />SA restart 9<br /><br />Score = 73.5492<br /> New best: 68.3016<br />SA restart 10<br />SA restart 10<br /><br />Score = 77.4205<br /> New best: 68.3016<br />SA restart 11<br />SA restart 11<br /><br />Score = 77.0247<br /> New best: 68.3016<br />SA restart 12<br />SA restart 12<br /><br />Score = 74.5340<br /> New best: 68.2867<br />SA restart 13<br />SA restart 13<br /><br />Score = 75.3731<br /> New best: 68.2329<br />SA restart 14<br />SA restart 14<br /><br />Score = 71.5431<br /> New best: 68.2329<br />SA restart 15<br />SA restart 15<br /><br />Score = 71.5679<br /> New best: 68.2329<br />SA restart 16<br />SA restart 16<br /><br />Score = 69.9611<br /> New best: 68.2329<br />SA restart 17<br />SA restart 17<br /><br />Score = 80.6427<br /> New best: 68.2329<br />SA restart 18<br />SA restart 18<br /><br />Score = 71.0715<br /> New best: 68.2329<br />SA restart 19<br />SA restart 19<br /><br />Score = 74.7126<br /> New best: 68.2329<br />SA restart 20<br />SA restart 20<br /><br />Score = 78.1215<br /> New best: 68.2329<br />SA restart 21<br />SA restart 21<br /><br />Score = 71.3905<br /> New best: 68.2329<br />SA restart 22<br />SA restart 22<br /><br />Score = 70.6723<br /> New best: 68.2329<br />SA restart 23<br />SA restart 23<br /><br />Score = 80.7204<br /> New best: 68.2329<br />SA restart 24<br />SA restart 24<br /><br />Score = 69.6698<br /> New best: 68.2329<br />SA restart 25<br />SA restart 25<br /><br />Score = 74.2755<br /> New best: 68.2329<br />SA restart 26<br />SA restart 26<br /><br />Score = 73.5865<br /> New best: 68.2329<br />SA restart 27<br />SA restart 27<br /><br />Score = 72.2656<br /> New best: 68.2329<br />SA restart 28<br />SA restart 28<br /><br />Score = 69.0231<br /> New best: 68.2329<br />SA restart 29<br />SA restart 29<br /><br />Score = 75.7896<br /> New best: 68.2329<br />SA restart 30<br />SA restart 30<br /><br />Score = 69.7965<br /> New best: 68.2329<br />SA restart 31<br />SA restart 31<br /><br />Score = 68.6436<br /> New best: 68.2329<br />SA restart 32<br />SA restart 32<br /><br />Score = 74.0100<br /> New best: 68.2329<br />SA restart 33<br />SA restart 33<br /><br />Score = 80.6784<br /> New best: 68.2329<br />SA restart 34<br />SA restart 34<br /><br />Score = 71.4474<br /> New best: 68.2329<br />SA restart 35<br />SA restart 35<br /><br />Score = 71.1479<br /> New best: 68.2329<br />SA restart 36<br />SA restart 36<br /><br />Score = 75.3669<br /> New best: 68.2329<br />SA restart 37<br />SA restart 37<br /><br />Score = 74.0823<br /> New best: 68.2329<br />SA restart 38<br />SA restart 38<br /><br />Score = 79.0889<br /> New best: 68.2329<br />SA restart 39<br />SA restart 39<br /><br />Score = 77.0876<br /> New best: 68.2329<br />SA restart 40<br />SA restart 40<br /><br />Score = 73.8234<br /> New best: 68.2329<br />SA restart 41<br />SA restart 41<br /><br />Score = 71.1877<br /> New best: 68.2329<br />SA restart 42<br />SA restart 42<br /><br />Score = 75.3779<br /> New best: 68.2329<br />SA restart 43<br />SA restart 43<br /><br />Score = 69.3767<br /> New best: 68.2329<br />SA restart 44<br />SA restart 44<br /><br />Score = 68.9611<br /> New best: 68.2329<br />SA restart 45<br />SA restart 45<br /><br />Score = 74.3374<br /> New best: 68.2329<br />SA restart 46<br />SA restart 46<br /><br />Score = 75.3028<br /> New best: 68.2329<br />SA restart 47<br />SA restart 47<br /><br />Score = 75.8761<br /> New best: 68.2329<br />SA restart 48<br />SA restart 48<br /><br />Score = 75.0014<br /> New best: 68.2329<br />SA restart 49<br />SA restart 49<br /><br />Score = 79.9159<br /> New best: 68.2329<br />SA restart 50<br />SA restart 50<br /><br />Score = 75.0570<br /> New best: 68.2329<br />SA restart 51<br />SA restart 51<br /><br />Score = 75.3951<br /> New best: 68.2329<br />SA restart 52<br />SA restart 52<br /><br />Score = 69.1527<br /> New best: 68.2329<br />SA restart 53<br />SA restart 53<br /><br />Score = 80.8235<br /> New best: 68.2329<br />SA restart 54<br />SA restart 54<br /><br />Score = 71.8765<br /> New best: 68.2329<br />SA restart 55<br />SA restart 55<br /><br />Score = 69.4294<br /> New best: 68.2329<br />SA restart 56<br />SA restart 56<br /><br />Score = 74.3235<br /> New best: 68.2329<br />SA restart 57<br />SA restart 57<br /><br />Score = 72.2952<br /> New best: 68.2329<br />SA restart 58<br />SA restart 58<br /><br />Score = 78.1436<br /> New best: 68.2329<br />SA restart 59<br />SA restart 59<br /><br />Score = 76.1559<br /> New best: 68.2329<br />SA restart 60<br />SA restart 60<br /><br />Score = 76.0081<br /> New best: 68.2329<br />SA restart 61<br />SA restart 61<br /><br />Score = 69.6241<br /> New best: 68.2329<br />SA restart 62<br />SA restart 62<br /><br />Score = 80.2636<br /> New best: 68.2329<br />SA restart 63<br />SA restart 63<br /><br />Score = 80.3286<br /> New best: 68.2329<br />SA restart 64<br />SA restart 64<br /><br />Score = 80.6961<br /> New best: 68.2329<br />SA restart 65<br />SA restart 65<br /><br />Score = 69.4746<br /> New best: 68.2329<br />SA restart 66<br />SA restart 66<br /><br />Score = 69.3456<br /> New best: 68.2329<br />SA restart 67<br />SA restart 67<br /><br />Score = 73.6818<br /> New best: 68.2329<br />SA restart 68<br />SA restart 68<br /><br />Score = 71.8912<br /> New best: 68.2329<br />SA restart 69<br />SA restart 69<br /><br />Score = 75.9959<br /> New best: 68.2329<br />SA restart 70<br />SA restart 70<br /><br />Score = 82.8415<br /> New best: 68.2329<br />SA restart 71<br />SA restart 71<br /><br />Score = 83.2368<br /> New best: 68.2329<br />SA restart 72<br />SA restart 72<br /><br />Score = 76.4024<br /> New best: 68.2329<br />SA restart 73<br />SA restart 73<br /><br />Score = 79.2563<br /> New best: 68.2329<br />SA restart 74<br />SA restart 74<br /><br />Score = 72.4188<br /> New best: 68.2329<br />SA restart 75<br />SA restart 75<br /><br />Score = 76.1341<br /> New best: 68.2329<br />SA restart 76<br />SA restart 76<br /><br />Score = 78.6913<br /> New best: 68.2329<br />SA restart 77<br />SA restart 77<br /><br />Score = 76.9335<br /> New best: 68.2329<br />SA restart 78<br />SA restart 78<br /><br />Score = 77.0536<br /> New best: 68.2329<br />SA restart 79<br />SA restart 79<br /><br />Score = 81.4121<br /> New best: 68.2329<br />SA restart 80<br />SA restart 80<br /><br />Score = 78.6361<br /> New best: 68.2329<br />SA restart 81<br />SA restart 81<br /><br />Score = 74.8085<br /> New best: 68.2329<br />SA restart 82<br />SA restart 82<br /><br />Score = 76.2459<br /> New best: 68.2329<br />SA restart 83<br />SA restart 83<br /><br />Score = 70.5968<br /> New best: 68.2329<br /></pre>
+                </p>
+                <hr />
+                
+            
+                <h2>9) Score: 51.419109092691336
+                    
+                    Run Time: 9507 ms
+                    
+                    
+                    Peak Memory Used: 90.039MB
+                    
+                </h2>
+                <p>
+                    <span class="bodySubtitle">Example Case: </span><br />
+                    <pre>seed = 10
+N = 46
+Edge probability = 9.9%
+Number of edges = 86
+</pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Fatal Errors: </span><br />
+                    <pre></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Out: </span><br />
+                    <pre>startup = 2<br /></pre>
+                </p>
+                <p>
+                    <span class="bodySubtitle">Standard Error: </span><br />
+                    <pre>N = 46&#160;&#160;&#160;&#160;E = 1058<br />SA restart 1<br />SA restart 1<br /><br />Score = 52.1823<br /> New best: 51.4191<br />SA restart 2<br />SA restart 2<br /><br />Score = 62.3145<br /> New best: 51.4191<br />SA restart 3<br />SA restart 3<br /><br />Score = 58.4982<br /> New best: 51.4191<br />SA restart 4<br />SA restart 4<br /><br />Score = 59.3533<br /> New best: 51.4191<br />SA restart 5<br />SA restart 5<br /><br />Score = 58.2848<br /> New best: 51.4191<br />SA restart 6<br />SA restart 6<br /><br />Score = 53.7233<br /> New best: 51.4191<br />SA restart 7<br />SA restart 7<br /><br />Score = 61.4745<br /> New best: 51.4191<br />SA restart 8<br />SA restart 8<br /><br />Score = 51.4606<br /> New best: 51.4191<br />SA restart 9<br />SA restart 9<br /><br />Score = 52.0694<br /> New best: 51.4191<br />SA restart 10<br />SA restart 10<br /><br />Score = 54.2943<br /> New best: 51.4191<br />SA restart 11<br />SA restart 11<br /><br />Score = 56.0264<br /> New best: 51.4191<br />SA restart 12<br />SA restart 12<br /><br />Score = 52.4816<br /> New best: 51.4191<br />SA restart 13<br />SA restart 13<br /><br />Score = 61.3160<br /> New best: 51.4191<br />SA restart 14<br />SA restart 14<br /><br />Score = 53.1701<br /> New best: 51.4191<br />SA restart 15<br />SA restart 15<br /><br />Score = 52.6507<br /> New best: 51.4191<br />SA restart 16<br />SA restart 16<br /><br />Score = 54.2666<br /> New best: 51.4191<br />SA restart 17<br />SA restart 17<br /><br />Score = 52.0891<br /> New best: 51.4191<br />SA restart 18<br />SA restart 18<br /><br />Score = 54.9384<br /> New best: 51.4191<br />SA restart 19<br />SA restart 19<br /><br />Score = 63.9316<br /> New best: 51.4191<br />SA restart 20<br />SA restart 20<br /><br />Score = 57.8870<br /> New best: 51.4191<br />SA restart 21<br />SA restart 21<br /><br />Score = 59.1385<br /> New best: 51.4191<br />SA restart 22<br />SA restart 22<br /><br />Score = 55.5207<br /> New best: 51.4191<br />SA restart 23<br />SA restart 23<br /><br />Score = 57.6120<br /> New best: 51.4191<br />SA restart 24<br />SA restart 24<br /><br />Score = 56.9947<br /> New best: 51.4191<br />SA restart 25<br />SA restart 25<br /><br />Score = 55.4095<br /> New best: 51.4191<br />SA restart 26<br />SA restart 26<br /><br />Score = 62.2376<br /> New best: 51.4191<br />SA restart 27<br />SA restart 27<br /><br />Score = 56.3658<br /> New best: 51.4191<br />SA restart 28<br />SA restart 28<br /><br />Score = 55.0221<br /> New best: 51.4191<br />SA restart 29<br />SA restart 29<br /><br />Score = 61.0962<br /> New best: 51.4191<br />SA restart 30<br />SA restart 30<br /><br />Score = 55.1349<br /> New best: 51.4191<br />SA restart 31<br />SA restart 31<br /><br />Score = 57.4591<br /> New best: 51.4191<br />SA restart 32<br />SA restart 32<br /><br />Score = 56.4068<br /> New best: 51.4191<br />SA restart 33<br />SA restart 33<br /><br />Score = 58.8104<br /> New best: 51.4191<br />SA restart 34<br />SA restart 34<br /><br />Score = 53.9783<br /> New best: 51.4191<br />SA restart 35<br />SA restart 35<br /><br />Score = 52.3167<br /> New best: 51.4191<br />SA restart 36<br />SA restart 36<br /><br />Score = 56.6487<br /> New best: 51.4191<br />SA restart 37<br />SA restart 37<br /><br />Score = 62.2947<br /> New best: 51.4191<br />SA restart 38<br />SA restart 38<br /><br />Score = 63.2955<br /> New best: 51.4191<br />SA restart 39<br />SA restart 39<br /><br />Score = 59.0740<br /> New best: 51.4191<br />SA restart 40<br />SA restart 40<br /><br />Score = 56.3451<br /> New best: 51.4191<br />SA restart 41<br />SA restart 41<br /><br />Score = 55.1306<br /> New best: 51.4191<br />SA restart 42<br />SA restart 42<br /><br />Score = 57.9929<br /> New best: 51.4191<br />SA restart 43<br />SA restart 43<br /><br />Score = 53.9178<br /> New best: 51.4191<br />SA restart 44<br />SA restart 44<br /><br />Score = 51.4778<br /> New best: 51.4191<br />SA restart 45<br />SA restart 45<br /><br />Score = 53.7448<br /> New best: 51.4191<br />SA restart 46<br />SA restart 46<br /><br />Score = 54.3407<br /> New best: 51.4191<br />SA restart 47<br />SA restart 47<br /><br />Score = 53.9244<br /> New best: 51.4191<br />SA restart 48<br />SA restart 48<br /><br />Score = 55.1086<br /> New best: 51.4191<br />SA restart 49<br />SA restart 49<br /><br />Score = 54.1407<br /> New best: 51.4191<br />SA restart 50<br />SA restart 50<br /><br />Score = 55.3910<br /> New best: 51.4191<br />SA restart 51<br />SA restart 51<br /><br />Score = 57.2553<br /> New best: 51.4191<br />SA restart 52<br />SA restart 52<br /><br />Score = 56.5484<br /> New best: 51.4191<br />SA restart 53<br />SA restart 53<br /><br />Score = 58.7496<br /> New best: 51.4191<br />SA restart 54<br />SA restart 54<br /><br />Score = 54.1799<br /> New best: 51.4191<br />SA restart 55<br />SA restart 55<br /><br />Score = 59.2459<br /> New best: 51.4191<br />SA restart 56<br />SA restart 56<br /><br />Score = 62.0454<br /> New best: 51.4191<br />SA restart 57<br />SA restart 57<br /><br />Score = 53.2934<br /> New best: 51.4191<br />SA restart 58<br />SA restart 58<br /><br />Score = 56.8487<br /> New best: 51.4191<br />SA restart 59<br />SA restart 59<br /><br />Score = 58.2234<br /> New best: 51.4191<br />SA restart 60<br />SA restart 60<br /><br />Score = 58.9654<br /> New best: 51.4191<br />SA restart 61<br />SA restart 61<br /><br />Score = 57.2931<br /> New best: 51.4191<br />SA restart 62<br />SA restart 62<br /><br />Score = 53.0370<br /> New best: 51.4191<br />SA restart 63<br />SA restart 63<br /><br />Score = 58.9654<br /> New best: 51.4191<br />SA restart 64<br />SA restart 64<br /><br />Score = 57.4122<br /> New best: 51.4191<br />SA restart 65<br />SA restart 65<br /><br />Score = 64.4350<br /> New best: 51.4191<br />SA restart 66<br />SA restart 66<br /><br />Score = 53.7837<br /> New best: 51.4191<br />SA restart 67<br />SA restart 67<br /><br />Score = 58.1171<br /> New best: 51.4191<br />SA restart 68<br />SA restart 68<br /><br />Score = 55.2188<br /> New best: 51.4191<br />SA restart 69<br />SA restart 69<br /><br />Score = 60.3827<br /> New best: 51.4191<br />SA restart 70<br />SA restart 70<br /><br />Score = 54.1203<br /> New best: 51.4191<br />SA restart 71<br />SA restart 71<br /><br />Score = 54.7472<br /> New best: 51.4191<br />SA restart 72<br />SA restart 72<br /><br />Score = 61.5394<br /> New best: 51.4191<br />SA restart 73<br />SA restart 73<br /><br />Score = 58.7463<br /> New best: 51.4191<br />SA restart 74<br />SA restart 74<br /><br />Score = 54.1034<br /> New best: 51.4191<br />SA restart 75<br />SA restart 75<br /><br />Score = 56.2189<br /> New best: 51.4191<br />SA restart 76<br />SA restart 76<br /><br />Score = 60.3021<br /> New best: 51.4191<br />SA restart 77<br />SA restart 77<br /><br />Score = 53.2719<br /> New best: 51.4191<br />SA restart 78<br />SA restart 78<br /><br />Score = 60.0393<br /> New best: 51.4191<br />SA restart 79<br />SA restart 79<br /><br />Score = 60.8166<br /> New best: 51.4191<br />SA restart 80<br />SA restart 80<br /><br />Score = 55.5476<br /> New best: 51.4191<br />SA restart 81<br />SA restart 81<br /><br />Score = 51.4593<br /> New best: 51.4191<br />SA restart 82<br />SA restart 82<br /><br />Score = 54.0319<br /> New best: 51.4191<br />SA restart 83<br />SA restart 83<br /><br />Score = 55.7478<br /> New best: 51.4191<br />SA restart 84<br />SA restart 84<br /><br />Score = 54.6127<br /> New best: 51.4191<br />SA restart 85<br />SA restart 85<br /><br />Score = 55.9125<br /> New best: 51.4191<br />SA restart 86<br />SA restart 86<br /><br />Score = 58.5451<br /> New best: 51.4191<br />SA restart 87<br />SA restart 87<br /><br />Score = 57.6519<br /> New best: 51.4191<br />SA restart 88<br />SA restart 88<br /><br />Score = 53.5290<br /> New best: 51.4191<br /></pre>
+                </p>
+                <hr />
+                
+            
+
+
+        </td>
+
+        
+        <td width="170">
+            
+
+
+
+<script type="text/javascript" language="javascript">
+
+</script>
+
+
+
+
+    <div style="width:150px;">
+        &nbsp;
+    </div>
+
+
+        </td>
+        
+
+        <td width="10"><img src="/i/clear.gif" width="10" height="1" border="0" alt="" /></td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+                    
+                    
+
+
+                        
+                            
+                                
+                            
+                        
+
+                        
+                    
+                
+                
+                    
+                         
+                              
+                                 
+                                     
+
+                                 
+                              
+                             
+                         
+
+
+                
+                
+                    
+                    
+                        
+                    
+                    
+                
+                
+            
+            
+                
+                    
+                        
+                        
+                            
+                            
+                            
+                            
+                        
+                        
+                    
+                    
+                        
+                            
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+                            
+
+                        
+                    
+                
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                
+            
+        
+
+        <footer class="bottom-footer"><!-- Footer links-->
+            <nav class="menu-item">
+                <div class="menu-item-header show-small">OTHERS</div>
+                <ul class="submenu">
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/sitemap">SITEMAP</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/about/">ABOUT US</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://help.topcoder.com/hc/en-us/articles/219069687-Contact-Support">CONTACT US</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://help.topcoder.com/">HELP CENTER</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/community/how-it-works/privacy-policy/">PRIVACY POLICY</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/community/how-it-works/terms/">TERMS</a></li>
+                </ul>
+            </nav>
+            <!-- Social links-->
+            <div class="social-links"><p>topcoder is also on</p><a class="fb-link" href="https://www.facebook.com/topcoder"></a><a
+                    class="twitter-link" href="http://www.twitter.com/topcoder"></a><a class="linkedin-link" href="https://www.linkedin.com/company/topcoder"></a><a
+                    class="google-link" href="https://plus.google.com/+topcoder/posts"></a></div>
+            <p class="copyright-notice">&copy; 2015 topcoder. All Rights Reserved</p></footer>
+    
+    
+
+
+
+
+
+
+<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("p4hJvXxilb4KtBW6BMYN4o9FoNtCrp4E");
+  analytics.page();
+  }}();
+</script>
+
+
+<!-- Start of topcoder Zendesk Widget script -->
+<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","topcoder.zendesk.com");
+/*]]>*/</script>
+<!-- End of topcoder Zendesk Widget script -->
+
+
+</body>
+</html>

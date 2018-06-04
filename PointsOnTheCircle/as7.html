@@ -1,0 +1,3366 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title>TopCoder</title>
+
+
+
+
+
+
+<script type="text/javascript" src="/js/reskin/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/js/reskin/jquery-migrate-1.2.1.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/js/reskin/html5shiv.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/js/reskin/jquery.jfeed.pack.js"></script>
+<script type="text/javascript" src="/js/reskin/newTCScript.js"></script>
+
+
+<script type="text/javascript">var _kmq = _kmq || [];
+  var _kmk = _kmk || 'aa23cd43c455ef33b6a0df3de81a79af9ea30f75';
+  function _kms(u){
+    setTimeout(function(){
+      var d = document, f = d.getElementsByTagName('script')[0],
+      s = d.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = u;
+      f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+  _kms('//i.kissmetrics.com/i.js');
+  _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300' rel='stylesheet' type='text/css'/>
+    
+    <link type="text/css" rel="stylesheet" href="/css/coders.css" />
+    <link type="text/css" rel="stylesheet" href="/css/login.css" />
+    <link type="text/css" rel="stylesheet" href="/css/reskin/myHome.css" />
+    <!--[if IE]>
+    <link type="text/css" rel="stylesheet" href="/css/ie.css" />
+    <![endif]-->
+    
+<link type="text/css" rel="stylesheet" href="/css/reskin/newStyles.css"/>
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="/css/reskin/newStyles_ie8.css"/>
+<![endif]-->
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script type="text/javascript">
+        function next() {
+            var myForm = document.standingsForm;
+            myForm.sr.value=1+parseInt(myForm.nr.value);
+            myForm.sc.value='';
+            myForm.sd.value='';
+            myForm.submit();
+        }
+        function previous() {
+            var myForm = document.standingsForm;
+            myForm.sr.value=1-parseInt(myForm.nr.value);
+            myForm.sc.value='';
+            myForm.sd.value='';
+            myForm.submit();
+        }
+    </script>
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+<script>
+    $(document).ready(function(){
+        $("a.new-btn-login").attr('href', $("a.new-btn-login").attr('href') + "?next=" + window.location.href);
+    })
+</script>
+
+
+    
+
+        <!-- new theme -->
+
+        <div class="header-wrapper">
+            <!-- Main header element-->
+            <header class="top-header new-topcoder-header">
+                <!-- Header content visible on small screens-->
+                <div class="show-small mobile-heading"><span class="tc-text-logo">[ topcoder ]</span>
+                    <button type="button" class="btn-open-menu">Menu</button>
+                    <button type="button" class="btn-close-menu"></button>
+
+                    
+
+                     <!-- for logged in user-->
+
+                        <a href="javascript:;" class="user-link">
+                            <img src="/i/m/nophoto_submit.gif" alt="User Avatar" class="user-avatar">
+                        </a>
+                    
+
+
+
+                </div>
+                <!-- main menu -->
+                <ul class="main-menu">
+                    <!-- search container-->
+                    <li class="menu-item search-wrapper">
+                        <div class="menu-item-header search-header show-large">
+                            <button type="button" class="btn-expand-search search-icon"></button>
+                        </div>
+                        <div class="submenu">
+                            <form action="https://www.topcoder.com/search/members/" method="get">
+                                <input type="text" id="searchBox" style="font-size: 12px"  placeholder="FIND MEMBERS BY USERNAME OR SKILL" name="q">
+                                <input type="submit"
+                                       style="position: absolute; left: -9999px; width: 1px; height: 1px;"
+                                       tabindex="-1" />
+                             </form>
+                            <!-- Suggestion list container-->
+                            <ul class="suggestion-list"></ul>
+                        </div>
+                    </li>
+
+
+
+                    
+
+                        <!-- for logged in user-->
+
+                        <li class="menu-item link-group user-menu">
+                            <div class="authenticated-options">
+                                <div class="menu-item-header">
+                                    <img class="user-avatar" alt="User Avatar" src="/i/m/nophoto_submit.gif">
+                                    <span class="username">thinfaifai</span>
+                                </div>
+                                <a class="btn-link btn-edit-profile show-small" href="https://www.topcoder.com/settings/profile/">EDIT</a>
+                                <ul class="submenu">
+                                    <li class="submenu-item"><a class="menu-link menu-link-dashboard" href="https://www.topcoder.com//my-dashboard/">DASHBOARD</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-profile" href="https://www.topcoder.com/members/thinfaifai/">MY PROFILE</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-payments" target="_blank" href="https://community.topcoder.com/PactsMemberServlet?module=PaymentHistory&full_list=false">PAYMENTS</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-settings" href="https://www.topcoder.com/settings/profile/" target="_blank">SETTINGS</a></li>
+                                    <li class="submenu-item"><a class="menu-link menu-link-logout" href="javascript:doLogOutTC();">LOG OUT</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+                    
+
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">COMPETE</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/design/active" class="menu-link menu-link-design">DESIGN CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/develop/active" class="menu-link menu-link-dev">DEVELOPMENT CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/challenges/data/active" class="menu-link menu-link-data">DATA SCIENCE CHALLENGES</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://arena.topcoder.com" class="menu-link menu-link-arena">COMPETITIVE PROGRAMMING</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <!-- 'LEARN' link group-->
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">LEARN</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/member-onboarding/" class="menu-link menu-link-learn-started">GET STARTED</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/design/" class="menu-link menu-link-learn-design">DESIGN</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/development/" class="menu-link menu-link-learn-dev">DEVELOPMENT</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/data-science/" class="menu-link menu-link-learn-data">DATA SCIENCE</a>
+                            </li>
+                            <li class="submenu-item"><a href="http://www.topcoder.com/community/competitive%20programming/" class="menu-link menu-link-learn-competition">COMPETITIVE PROGRAMMING</a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <!-- 'COMMUNITY' link group-->
+                    <li class="menu-item link-group">
+                        <div class="menu-item-header">COMMUNITY</div>
+                        <ul class="submenu">
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/members/" class="menu-link menu-link-community-members">OVERVIEW</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/tco" class="menu-link menu-link-community-tco17">TCO</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/member-programs/" class="menu-link menu-link-community-programs">PROGRAMS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://apps.topcoder.com/forums/" class="menu-link menu-link-community-forums" target="_blank">FORUMS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/statistics/" class="menu-link menu-link-community-stats">STATISTICS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/community/events/" class="menu-link menu-link-community-events">EVENTS</a>
+                            </li>
+                            <li class="submenu-item"><a href="https://www.topcoder.com/blog/" class="menu-link menu-link-community-blog">BLOG</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </header>
+        </div>
+    
+    
+
+
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr valign="top">
+
+<td width="180">
+         
+
+
+
+
+
+
+
+    
+        
+            
+            
+        
+
+
+
+
+
+
+<div style="width: 185px;" class="leftNavWrapper">
+    
+<input type="hidden" id="nodeName" value="long_compete"/>
+<script language="JavaScript" type="text/javascript" src="/js/arena.js"></script>
+
+    <section class="get-time" style="margin-bottom:15px">
+        
+        <span class="date"></span>
+        <a href="javascript:tcTime();">Get Time</a>
+    </section>
+    <!-- End .get-time -->
+
+    <section class="navigation">
+    <ul>
+        <li><a id="copilot_posting_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Copilot%20Posting">Copilot Posting</a></li>
+        <li><a href="http://www.topcoder.com/active-challenges/design/">Design</a></li>
+        <li>
+            <a href="javascript:;">Develop<i></i></a>
+            <ul class="hide">
+                <li><a id="conceptualization_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Conceptualization">Conceptualization</a></li>
+                <li><a id="specification_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Specification">Specification</a></li>
+                <li><a id="architecture_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Architecture">Architecture</a></li>
+                <li><a id="ui_prototype_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=UI%20Prototype%20Competition">UI Prototype</a></li>
+                <li><a id="assembly_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Assembly%20Competition">Assembly</a></li>
+                <li><a id="first2finish_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=First2Finish">First2Finish</a></li>
+                <li><a id="code_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Code">Code</a></li>
+                <li><a id="des_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Design">Component Design</a></li>
+                <li><a id="dev_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Development">Component Development</a></li>
+                <li><a id="test_suites_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Test%20Suites">Test Suites</a></li>
+                <li><a id="content_creation_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Content%20Creation">Content Creation</a></li>
+                <li><a id="test_scenarios_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Test%20Scenarios">Test Scenarios</a></li>
+                <li><a id="bug_hunt_compete" href="http://www.topcoder.com/challenges/develop/active/?challengeTypes=Bug%20Hunt">Bug Hunt</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Review Opportunities<i></i></a>
+            <ul class="hide">
+                <li>
+                    <dl>
+                        <dt>Conceptualization</dt>
+                        <dd><a id="conceptualization_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=23">Review Opportunities</a></dd>
+                        <dd><a id="conceptualization_review_border" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=23">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Specification</dt>
+                        <dd><a id="specification_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=6">Review Opportunities</a></dd>
+                        <dd><a id="specification_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=6">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Architecture</dt>
+                        <dd><a id="architecture_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=7">Review Opportunities</a></dd>
+                        <dd><a id="architecture_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=7">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Component Design</dt>
+                        <dd><a id="des_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=1">Review Opportunities</a></dd>
+                        <dd><a id="des_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=1 ">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Component Development</dt>
+                        <dd><a id="dev_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=2">Review Opportunities</a></dd>
+                        <dd><a id="dev_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=2">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Assembly</dt>
+                        <dd><a id="assembly_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=14">Review Opportunities</a></dd>
+                        <dd><a id="assembly_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=14">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>First2Finish</dt>
+                        <dd><a id="first2finish_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=38">Review Opportunities</a></dd>
+                        <dd><a id="first2finish_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=38">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Code</dt>
+                        <dd><a id="code_review"href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=39">Review Opportunities</a></dd>
+                        <dd><a id="code_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=39">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Test Suites</dt>
+                        <dd><a id="test_suites_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=13">Review Opportunities</a></dd>
+                        <dd><a id="test_suites_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=13">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Report</dt>
+                        <dd><a id="reporting_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=36">Review Opportunities</a></dd>
+                        <dd><a id="reporting_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=36">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>UI prototype</dt>
+                        <dd><a id="ui_prototype_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=19">Review Opportunities</a></dd>
+                        <dd><a id="ui_prototype_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=19">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>RIA Build</dt>
+                        <dd><a id="ria_build_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=24">Review Opportunities</a></dd>
+                        <dd><a id="ria_build_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=24">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Content Creation</dt>
+                        <dd><a id="content_creation_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=35">Review Opportunities</a></dd>
+                        <dd><a id="content_creation_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=35">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Test Scenarios</dt>
+                        <dd><a id="test_scenarios_review"  href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=26">Review Opportunities</a></dd>
+                        <dd><a id="test_scenarios_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=26">Meet the review board</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="last-item">
+                        <dt>Bug Hunt</dt>
+                        <dd><a id="bug_hunt_review" href="http://www.topcoder.com/tc?module=ViewReviewAuctions&pt=9">Review Opportunities</a></dd>
+                        <dd><a id="bug_hunt_review_board" href="http://www.topcoder.com/tc?module=ReviewBoard&pt=9">Meet the review board</a></dd>
+                    </dl>
+                </li>
+
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Algorithm (SRM)<i></i></a>
+            <ul class="hide">
+                <li><a href="http://www.topcoder.com/active-challenges/data/">Single Round Matches (SRM)</a></li>
+                <li><a id="algo_match_archive" href="http://www.topcoder.com/tc?module=MatchList">Match Archive</a></li>
+                <li><a id="algo_match_overviews" href="http://www.topcoder.com/stat?c=round_overview">Match Overviews</a></li>
+                <li><a id="algo_match_winners" href="http://www.topcoder.com/tc?module=SrmDivisionWins">Match Winners</a></li>
+                <li><a id="algo_match_results" href="http://www.topcoder.com/stat?c=last_match">Match Results</a></li>
+                <li><a href="http://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis">Match Editorials</a></li>
+                <li><a id="algo_problem_archive" href="http://www.topcoder.com/tc?module=ProblemArchive">Problem Archive</a></li>
+                <li><a id="algo_color_changes" href="http://www.topcoder.com/tc?module=ColorChange&ratid=1">Recent Color Changes</a></li>
+                <li><a href="http://apps.topcoder.com/wiki/display/tc/Algorithm+Data+Feeds">Data Feeds</a></li>
+                <li><a href="javascript:arena();">Launch Arena</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Marathon Match<i></i></a>
+            <ul class="hide">
+                <li><a id="long_compete" href="http://www.topcoder.com/challenges/data/active/">Challenges</a></li>
+                <li><a id="long_match_archive" href="http://www.topcoder.com/challenges/data/past/">Match Archive</a></li>
+                <li><a id="long_match_overview" href="http://www.topcoder.com/longcontest/stats/?module=ViewOverview">Match Overview</a></li>
+                <li><a id="long_match_winners" href="http://www.topcoder.com/longcontest/stats/?module=MatchWinners">Match Winners</a></li>
+                <li><a id="long_editorials" href="http://www.topcoder.com/longcontest/?module=Static&d1=match_editorials&d2=archive">Match Editorials</a></li>
+                <li><a id="long_data_feeds" href="http://www.topcoder.com/longcontest/?module=Static&d1=support&d2=dataFeed">Data Feeds</a></li>
+                <li><a id="long_practice" href="http://www.topcoder.com/longcontest/?module=ViewPractice">Practice</a></li>
+                <li><a id="long_queue" href="http://www.topcoder.com/longcontest/?module=ViewQueue">Queue Status</a></li>
+            </ul>
+        </li>
+        
+        <li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+        <li>
+            <a href="javascript:;">topcoder Networks<i></i></a>
+            <ul class="hide">
+                <li><a href="http://community.topcoder.com/ntl/">NASA Tournament Lab</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.topcoder.com/community/events/">Events</a></li>
+        <li>
+            <a href="javascript:;">Statistics<i></i></a>
+            <ul class="hide">
+                <li>
+                    <dl>
+                        <dt>Top Ranked</dt>
+                        <dd><a id="top_rated_algo" href="http://www.topcoder.com/tc?module=AlgoRank">Algorithm</a></dd>
+                        <dd><a id="top_rated_hs" href="http://www.topcoder.com/tc?module=HSRank">High School</a></dd>
+                        <dd><a id="top_rated_long" href="http://www.topcoder.com/longcontest/stats/?module=CoderRank">Marathon Match</a></dd>
+                        <dd><a id="top_rated_conceptors" href="http://www.topcoder.com/stat?c=top_conceptors">Conceptualization</a></dd>
+                        <dd><a id="top_rated_specificators" href="http://www.topcoder.com/stat?c=top_specificators">Specification</a></dd>
+                        <dd><a id="top_rated_architects" href="http://www.topcoder.com/stat?c=top_architects">Architecture</a></dd>
+                        <dd><a id="top_rated_des" href="http://www.topcoder.com/stat?c=top_designers">Design</a></dd>
+                        <dd><a id="top_rated_dev" href="http://www.topcoder.com/stat?c=top_developers">Development</a></dd>
+                        <dd><a id="top_rated_assemblers" href="http://www.topcoder.com/stat?c=top_assemblers">Assembly</a></dd>
+                        <dd><a id="top_rated_testers" href="http://www.topcoder.com/stat?c=top_testers">Test Suites</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>Record Book</dt>
+                        <dd><a  id="algo_recordbook" href="http://www.topcoder.com/tc?module=Static&d1=statistics&d2=recordbook_home">Algorithm</a></dd>
+                        <dd><a  id="comp_recordbook" href="http://www.topcoder.com/tc?module=Static&d1=compstats&d2=comp_recordbook_home">Component</a></dd>
+                        <dd><a  id="long_recordbook" href="http://www.topcoder.com/longcontest/?module=Static&d1=stats&d2=recordbook_home">Marathon Match</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="last-item">
+                        <dt>Coder of the Month</dt>
+                        <dd><a  id="algo_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=5">Algorithm</a></dd>
+                        <dd><a  id="des_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=6">Design</a></dd>
+                        <dd><a  id="dev_com" href="http://www.topcoder.com/tc?module=COMHistory&achtid=7">Development</a></dd>
+                    </dl>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:;">Tutorials<i></i></a>
+            <ul class="hide">
+                <li><a  id="algo_tutorials" href="http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/">Algorithm Tutorials</a></li>
+                <li><a id="comp_tutorials" href="http://help.topcoder.com/development/competing-in-development-challenges/development-tutorials/ ">Software Tutorials</a></li>
+                <li><a id="mm_tutorials" href="http://help.topcoder.com/data-science/competing-in-algorithm-challenges/marathon-match-tutorials/">Marathon Tutorials</a></li>
+            </ul>
+        </li>
+        <li><a href="https://apps.topcoder.com/forums/" id="forums">Forums</a></li>
+        <li><a href="https://www.topcoder.com/tc?module=MyHome" id="my_topcoder">My topcoder</a></li>
+    </ul>
+</section>
+<!-- End .navigation -->
+<section class="member-search">
+    <h3>Member Search</h3>
+    <div class="form">
+        <form action="http://community.topcoder.com/tc" method="get" name="simpleSearchForm" class="noSpace" id="simpleSearchForm">
+            <input class="noSpace" type="hidden" name="module" value="SimpleSearch" />
+            <input class="noSpace" type="text" name="ha" value="Handle:" size="12" maxlength="15" onfocus="javascript: if (document.simpleSearchForm.ha.value=='Handle:') document.simpleSearchForm.ha.value = '';" onblur="javascript:if (document.simpleSearchForm.ha.value == '')document.simpleSearchForm.ha.value = 'Handle:';" />
+            <a href="javascript:javascript:void document.simpleSearchForm.submit();" class="btn btn-search-member"><i>SEARCH</i></a>
+        </form>
+    </div>
+</section>
+
+<!-- End .member-search -->
+
+</div>
+
+    
+    
+
+
+
+</td>
+
+
+
+<td class="statTableSpacer" width="100%" valign="top">
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" class="pageTitleTable">
+    <tr>
+        <td width="100%" class="pageTitle">
+
+
+            
+                
+                    
+                    <img border="0" src="/i/header_long_comps_topcoder.gif" alt="long_comps_topcoder"/>
+                
+                
+            
+
+
+        </td>
+        <td align="right" class="pageSubtitle">&#160;Standings</td>
+    </tr>
+</table>
+
+
+
+<div style="float:right; padding: 0px 0px 0px 5px; font-size:13px">
+
+    <a href="/longcontest/?module=ViewProblemStatement&amp;rd=17063&amp;compid=60730">Problem Statement</a>
+
+    &nbsp;|&nbsp;
+
+    <a href="/tc?module=MatchDetails&amp;rd=17063">Register & Rules</a>
+
+    &nbsp;|&nbsp;
+
+    <a href="https://apps.topcoder.com/forums/?module=ThreadList&forumID=621186">Forum</a>
+
+   &#160;
+
+</div>
+
+<span class="bigHandle">Contest: Marathon Match 97</span><br/>                
+<span class="bodySubtitle">Problem: 
+
+
+
+
+
+
+
+<a href="/longcontest/?module=ViewProblemStatement&amp;rd=17063&amp;pm=14816" class='bcLink '>
+    PointsOnTheCircle
+</a>
+ </span><br/>
+    
+    
+        <span class="bodySubtitle">Registrants: <a href="/longcontest/?module=ViewRegistrants&amp;rd=17063" class="bcLink">
+
+               155</a></span>
+            <br/>
+            
+<span class="bodySubtitle">Competitors:  105</span><br/>
+<span class="bodySubtitle">Submissions:  </span>
+<br>
+<form name="standingsForm" action='/longcontest/' method="get">
+    <input type="hidden" name="sc" />
+    <input type="hidden" name="sd" />
+    <input type="hidden" name="nr" value="100" />
+    <input type="hidden" name="sr" value="1" />
+    <input type="hidden" name="rd" value="17063" />
+    <input type="hidden" name="module" value="ViewStandings" />
+
+
+<div style="clear: both;" align="center">
+   <div class="pagingBox">
+   &lt;&lt; prev
+       | <a href="Javascript:next()" class="bcLink">next &gt;&gt;</a>
+   </div>
+</div>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="statTableHolder">
+    <tr>
+        <td>
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="statTable">
+
+                <tr>
+                    <td class="tableTitle" colspan="7">Standings</td>
+                </tr>
+                <tr>
+                    <td class="tableHeader" width="20">
+                        <A href="/longcontest/?&amp;sc=8&amp;sd=asc&amp;module=ViewStandings&amp;rd=17063">Handle</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="right" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=5&amp;sd=desc&amp;module=ViewStandings&amp;rd=17063">Score</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="center" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=5&amp;sd=desc&amp;module=ViewStandings&amp;rd=17063">Rank</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="center" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=10&amp;sd=desc&amp;module=ViewStandings&amp;rd=17063">Last Submission Time</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="center" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=11&amp;sd=asc&amp;module=ViewStandings&amp;rd=17063">Language</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="center" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=7&amp;sd=asc&amp;module=ViewStandings&amp;rd=17063">Example Tests</A>
+                    </td>
+                    <td class="tableHeader" width="20%" align="center" nowrap="nowrap">
+                        <A href="/longcontest/?&amp;sc=6&amp;sd=desc&amp;module=ViewStandings&amp;rd=17063">Submissions</A>
+                    </td>
+                </tr>
+                
+                
+                
+                <tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22924522&amp;tab=long" class="coderTextRed">hakomo</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+928883.50</td>
+<td class="statLt" align="center">
+1</td>
+<td class="statLt" align="center">
+01.30.2018 08:22:59</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22924522&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22924522&rd=17063&compid=60730" class="statLink">
+8
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=7213681&amp;tab=long" class="coderTextRed">wleite</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+918495.15</td>
+<td class="statDk" align="center">
+2</td>
+<td class="statDk" align="center">
+01.29.2018 22:45:51</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=7213681&rd=17063&compid=60730" class="statLink">
+11
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=7213681&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22868771&amp;tab=long" class="coderTextYellow">Masa-Y</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+916893.20</td>
+<td class="statLt" align="center">
+3</td>
+<td class="statLt" align="center">
+01.30.2018 09:20:55</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22868771&rd=17063&compid=60730" class="statLink">
+40
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22868771&rd=17063&compid=60730" class="statLink">
+23
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22781940&amp;tab=long" class="coderTextYellow">sdya</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+916407.77</td>
+<td class="statDk" align="center">
+4</td>
+<td class="statDk" align="center">
+01.30.2018 17:46:30</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22781940&rd=17063&compid=60730" class="statLink">
+19
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22781940&rd=17063&compid=60730" class="statLink">
+29
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22697669&amp;tab=long" class="coderTextYellow">fetetriste</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+900631.07</td>
+<td class="statLt" align="center">
+5</td>
+<td class="statLt" align="center">
+01.30.2018 17:58:41</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22697669&rd=17063&compid=60730" class="statLink">
+13
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22697669&rd=17063&compid=60730" class="statLink">
+15
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23026506&amp;tab=long" class="coderTextRed">eldidou</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+897912.62</td>
+<td class="statDk" align="center">
+6</td>
+<td class="statDk" align="center">
+01.28.2018 16:56:59</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23026506&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23026506&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23100980&amp;tab=long" class="coderTextYellow">EvbCFfp1XB</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+894708.74</td>
+<td class="statLt" align="center">
+7</td>
+<td class="statLt" align="center">
+01.29.2018 16:50:00</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23100980&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23100980&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40523623&amp;tab=long" class="coderTextYellow">PItS</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+892475.73</td>
+<td class="statDk" align="center">
+8</td>
+<td class="statDk" align="center">
+01.30.2018 00:01:13</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40523623&rd=17063&compid=60730" class="statLink">
+17
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40523623&rd=17063&compid=60730" class="statLink">
+12
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22768223&amp;tab=long" class="coderTextYellow">Daiver19</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+878349.51</td>
+<td class="statLt" align="center">
+9</td>
+<td class="statLt" align="center">
+01.30.2018 11:45:10</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22768223&rd=17063&compid=60730" class="statLink">
+28
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22768223&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23078492&amp;tab=long" class="coderTextYellow">tsukasa_diary</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+859951.46</td>
+<td class="statDk" align="center">
+10</td>
+<td class="statDk" align="center">
+01.30.2018 16:03:46</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23078492&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23078492&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=20315020&amp;tab=long" class="coderTextRed">nika</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+854563.11</td>
+<td class="statLt" align="center">
+11</td>
+<td class="statLt" align="center">
+01.30.2018 17:22:17</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=20315020&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=20315020&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22716606&amp;tab=long" class="coderTextYellow">thinfaifai</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+852330.10</td>
+<td class="statDk" align="center">
+12</td>
+<td class="statDk" align="center">
+01.30.2018 18:23:25</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22716606&rd=17063&compid=60730" class="statLink">
+15
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22716606&rd=17063&compid=60730" class="statLink">
+7
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22846688&amp;tab=long" class="coderTextBlue">Pag2</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+835970.87</td>
+<td class="statLt" align="center">
+13</td>
+<td class="statLt" align="center">
+01.30.2018 16:38:18</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22846688&rd=17063&compid=60730" class="statLink">
+14
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22846688&rd=17063&compid=60730" class="statLink">
+14
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40564389&amp;tab=long" class="coderTextYellow">shamal</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+820679.61</td>
+<td class="statDk" align="center">
+14</td>
+<td class="statDk" align="center">
+01.27.2018 10:44:01</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40564389&rd=17063&compid=60730" class="statLink">
+9
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40564389&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=10544397&amp;tab=long" class="coderTextRed">CatalinT</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+814077.67</td>
+<td class="statLt" align="center">
+15</td>
+<td class="statLt" align="center">
+01.27.2018 02:26:41</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=10544397&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=10544397&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23012630&amp;tab=long" class="coderTextGreen">torus711</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+801747.57</td>
+<td class="statDk" align="center">
+16</td>
+<td class="statDk" align="center">
+01.30.2018 06:00:43</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23012630&rd=17063&compid=60730" class="statLink">
+19
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23012630&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40014801&amp;tab=long" class="coderTextYellow">y_kawano</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+801165.05</td>
+<td class="statLt" align="center">
+17</td>
+<td class="statLt" align="center">
+01.30.2018 13:30:27</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40014801&rd=17063&compid=60730" class="statLink">
+17
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40014801&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40443608&amp;tab=long" class="coderTextYellow">kurenai3110</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+796747.57</td>
+<td class="statDk" align="center">
+18</td>
+<td class="statDk" align="center">
+01.28.2018 02:35:52</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40443608&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40443608&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22926652&amp;tab=long" class="coderTextGreen">tatsubon</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+786941.75</td>
+<td class="statLt" align="center">
+19</td>
+<td class="statLt" align="center">
+01.30.2018 17:13:29</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22926652&rd=17063&compid=60730" class="statLink">
+14
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22926652&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22729239&amp;tab=long" class="coderTextYellow">yowa</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+786359.22</td>
+<td class="statDk" align="center">
+20</td>
+<td class="statDk" align="center">
+01.27.2018 14:49:41</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22729239&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22729239&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40188699&amp;tab=long" class="coderTextBlue">kosakkun</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+785873.79</td>
+<td class="statLt" align="center">
+21</td>
+<td class="statLt" align="center">
+01.30.2018 16:43:32</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40188699&rd=17063&compid=60730" class="statLink">
+33
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40188699&rd=17063&compid=60730" class="statLink">
+19
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40309917&amp;tab=long" class="coderTextYellow">suikkee</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+785048.54</td>
+<td class="statDk" align="center">
+22</td>
+<td class="statDk" align="center">
+01.28.2018 11:01:30</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40309917&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40309917&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=7461533&amp;tab=long" class="coderTextGreen">mmammel</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+779611.65</td>
+<td class="statLt" align="center">
+23</td>
+<td class="statLt" align="center">
+01.25.2018 16:35:43</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=7461533&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=7461533&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23193535&amp;tab=long" class="coderTextBlue">damekamo</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+770533.98</td>
+<td class="statDk" align="center">
+24</td>
+<td class="statDk" align="center">
+01.30.2018 12:57:22</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23193535&rd=17063&compid=60730" class="statLink">
+7
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23193535&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22906337&amp;tab=long" class="coderTextYellow">hoshi524</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+770000.00</td>
+<td class="statLt" align="center">
+25</td>
+<td class="statLt" align="center">
+01.30.2018 04:37:21</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22906337&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22906337&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40430021" class="coderTextBlack">prasoontrivedi</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+766456.31</td>
+<td class="statDk" align="center">
+26</td>
+<td class="statDk" align="center">
+01.29.2018 18:28:56</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40430021&rd=17063&compid=60730" class="statLink">
+6
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40430021&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22744169&amp;tab=long" class="coderTextYellow">NobuMiu</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+749854.37</td>
+<td class="statLt" align="center">
+27</td>
+<td class="statLt" align="center">
+01.28.2018 06:11:36</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22744169&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22744169&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23122212&amp;tab=long" class="coderTextYellow">simanman</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+748737.86</td>
+<td class="statDk" align="center">
+28</td>
+<td class="statDk" align="center">
+01.26.2018 12:44:25</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23122212&rd=17063&compid=60730" class="statLink">
+9
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23122212&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40130436&amp;tab=long" class="coderTextBlue">tashikani</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+748446.60</td>
+<td class="statLt" align="center">
+29</td>
+<td class="statLt" align="center">
+01.30.2018 10:16:04</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40130436&rd=17063&compid=60730" class="statLink">
+14
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40130436&rd=17063&compid=60730" class="statLink">
+9
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40586177&amp;tab=long" class="coderTextBlue">ebicochineal</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+742766.99</td>
+<td class="statDk" align="center">
+30</td>
+<td class="statDk" align="center">
+01.30.2018 10:38:41</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40586177&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40586177&rd=17063&compid=60730" class="statLink">
+18
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40270737" class="coderTextBlack">yassin-</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+737427.18</td>
+<td class="statLt" align="center">
+31</td>
+<td class="statLt" align="center">
+01.30.2018 07:04:38</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40270737&rd=17063&compid=60730" class="statLink">
+17
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40270737&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23016887&amp;tab=long" class="coderTextBlue">iehn</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+735776.70</td>
+<td class="statDk" align="center">
+32</td>
+<td class="statDk" align="center">
+01.28.2018 01:57:03</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23016887&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23016887&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40390925&amp;tab=long" class="coderTextGray">parkleito</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+727330.10</td>
+<td class="statLt" align="center">
+33</td>
+<td class="statLt" align="center">
+01.30.2018 10:17:30</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40390925&rd=17063&compid=60730" class="statLink">
+12
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40390925&rd=17063&compid=60730" class="statLink">
+6
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40501311&amp;tab=long" class="coderTextYellow">niwatori_</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+725776.70</td>
+<td class="statDk" align="center">
+34</td>
+<td class="statDk" align="center">
+01.27.2018 02:28:39</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40501311&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40501311&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40661549" class="coderTextBlack">USERHACKER</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+705097.09</td>
+<td class="statLt" align="center">
+35</td>
+<td class="statLt" align="center">
+01.30.2018 17:14:37</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40661549&rd=17063&compid=60730" class="statLink">
+54
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40661549&rd=17063&compid=60730" class="statLink">
+27
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40361537&amp;tab=long" class="coderTextYellow">gardn999</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+703834.95</td>
+<td class="statDk" align="center">
+36</td>
+<td class="statDk" align="center">
+01.30.2018 13:37:28</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40361537&rd=17063&compid=60730" class="statLink">
+7
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40361537&rd=17063&compid=60730" class="statLink">
+8
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22886772&amp;tab=long" class="coderTextBlue">LLI_E_P_JI_O_K</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+682572.82</td>
+<td class="statLt" align="center">
+37</td>
+<td class="statLt" align="center">
+01.30.2018 17:12:19</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22886772&rd=17063&compid=60730" class="statLink">
+13
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22886772&rd=17063&compid=60730" class="statLink">
+6
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23001154&amp;tab=long" class="coderTextGreen">bdomokos74</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+675533.98</td>
+<td class="statDk" align="center">
+38</td>
+<td class="statDk" align="center">
+01.28.2018 17:22:31</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23001154&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23001154&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22931891&amp;tab=long" class="coderTextBlue">natsugiri</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+669077.67</td>
+<td class="statLt" align="center">
+39</td>
+<td class="statLt" align="center">
+01.29.2018 09:07:26</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+0
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22931891&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22753197&amp;tab=long" class="coderTextYellow">AlexeyProkopnev</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+668689.32</td>
+<td class="statDk" align="center">
+40</td>
+<td class="statDk" align="center">
+01.26.2018 02:07:21</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22753197&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22753197&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22688672&amp;tab=long" class="coderTextBlue">vi002</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+662815.53</td>
+<td class="statLt" align="center">
+41</td>
+<td class="statLt" align="center">
+01.30.2018 17:29:47</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22688672&rd=17063&compid=60730" class="statLink">
+14
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22688672&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23088109&amp;tab=long" class="coderTextGray">masakt</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+655436.89</td>
+<td class="statDk" align="center">
+42</td>
+<td class="statDk" align="center">
+01.30.2018 04:31:19</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23088109&rd=17063&compid=60730" class="statLink">
+28
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23088109&rd=17063&compid=60730" class="statLink">
+17
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40511723&amp;tab=long" class="coderTextGreen">fal_rnd</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+606407.77</td>
+<td class="statLt" align="center">
+43</td>
+<td class="statLt" align="center">
+01.29.2018 05:49:31</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40511723&rd=17063&compid=60730" class="statLink">
+23
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40511723&rd=17063&compid=60730" class="statLink">
+14
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22000198&amp;tab=long" class="coderTextYellow">murrayr</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+596116.50</td>
+<td class="statDk" align="center">
+44</td>
+<td class="statDk" align="center">
+01.29.2018 17:41:17</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22000198&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22000198&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22718910&amp;tab=long" class="coderTextYellow">tygrysek</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+589902.91</td>
+<td class="statLt" align="center">
+45</td>
+<td class="statLt" align="center">
+01.30.2018 16:59:42</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22718910&rd=17063&compid=60730" class="statLink">
+20
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22718910&rd=17063&compid=60730" class="statLink">
+11
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23170396&amp;tab=long" class="coderTextYellow">iwashi31</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+589320.39</td>
+<td class="statDk" align="center">
+46</td>
+<td class="statDk" align="center">
+01.30.2018 18:05:46</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23170396&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23170396&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40333188&amp;tab=long" class="coderTextBlue">kotamanegi</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+588058.25</td>
+<td class="statLt" align="center">
+47</td>
+<td class="statLt" align="center">
+01.27.2018 02:33:43</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40333188&rd=17063&compid=60730" class="statLink">
+8
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40333188&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40645709" class="coderTextBlack">gurualo</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+574805.83</td>
+<td class="statDk" align="center">
+48</td>
+<td class="statDk" align="center">
+01.29.2018 09:34:27</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40645709&rd=17063&compid=60730" class="statLink">
+21
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40645709&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40016240&amp;tab=long" class="coderTextBlue">akagenorobin</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+565291.26</td>
+<td class="statLt" align="center">
+49</td>
+<td class="statLt" align="center">
+01.30.2018 14:42:41</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40016240&rd=17063&compid=60730" class="statLink">
+8
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40016240&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22734926&amp;tab=long" class="coderTextGreen">m_dz</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+565000.00</td>
+<td class="statDk" align="center">
+50</td>
+<td class="statDk" align="center">
+01.30.2018 18:10:27</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22734926&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22734926&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40564512&amp;tab=long" class="coderTextYellow">WA_TLE</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+555825.24</td>
+<td class="statLt" align="center">
+51</td>
+<td class="statLt" align="center">
+01.28.2018 19:51:17</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40564512&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40564512&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23331190&amp;tab=long" class="coderTextBlue">LienTran.V</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+529854.37</td>
+<td class="statDk" align="center">
+52</td>
+<td class="statDk" align="center">
+01.27.2018 07:27:41</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23331190&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23331190&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22825875&amp;tab=long" class="coderTextYellow">bcurcio</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+525679.61</td>
+<td class="statLt" align="center">
+53</td>
+<td class="statLt" align="center">
+01.29.2018 12:37:48</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22825875&rd=17063&compid=60730" class="statLink">
+9
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22825875&rd=17063&compid=60730" class="statLink">
+7
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40704219" class="coderTextBlack">Contemplation</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+522718.45</td>
+<td class="statDk" align="center">
+54</td>
+<td class="statDk" align="center">
+01.29.2018 13:28:10</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40704219&rd=17063&compid=60730" class="statLink">
+30
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40704219&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23285989&amp;tab=long" class="coderTextBlue">kuuso1</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+519902.91</td>
+<td class="statLt" align="center">
+55</td>
+<td class="statLt" align="center">
+01.30.2018 17:02:05</td>
+<td class="statLt" align="center">
+C#</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23285989&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23285989&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23287658&amp;tab=long" class="coderTextBlue">saltcandy123</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+518640.78</td>
+<td class="statDk" align="center">
+56</td>
+<td class="statDk" align="center">
+01.30.2018 10:56:03</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23287658&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23287658&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22874914&amp;tab=long" class="coderTextBlue">abundrew</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+505291.26</td>
+<td class="statLt" align="center">
+57</td>
+<td class="statLt" align="center">
+01.28.2018 22:35:08</td>
+<td class="statLt" align="center">
+C#</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22874914&rd=17063&compid=60730" class="statLink">
+7
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22874914&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22674904&amp;tab=long" class="coderTextGray">tanzaku</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+502864.08</td>
+<td class="statDk" align="center">
+58</td>
+<td class="statDk" align="center">
+01.26.2018 10:27:52</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22674904&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22674904&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40599327&amp;tab=long" class="coderTextBlue">fmhr</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+501796.12</td>
+<td class="statLt" align="center">
+59</td>
+<td class="statLt" align="center">
+01.29.2018 04:45:40</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40599327&rd=17063&compid=60730" class="statLink">
+17
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40599327&rd=17063&compid=60730" class="statLink">
+12
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40106381&amp;tab=long" class="coderTextBlue">neetsdkasu</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+473252.43</td>
+<td class="statDk" align="center">
+60</td>
+<td class="statDk" align="center">
+01.30.2018 15:31:47</td>
+<td class="statDk" align="center">
+VB</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40106381&rd=17063&compid=60730" class="statLink">
+19
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40106381&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40480823&amp;tab=long" class="coderTextBlue">olphe</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+462621.36</td>
+<td class="statLt" align="center">
+61</td>
+<td class="statLt" align="center">
+01.30.2018 16:54:17</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40480823&rd=17063&compid=60730" class="statLink">
+29
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40480823&rd=17063&compid=60730" class="statLink">
+8
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22725462&amp;tab=long" class="coderTextBlue">knstqq</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+390436.89</td>
+<td class="statDk" align="center">
+62</td>
+<td class="statDk" align="center">
+01.29.2018 16:40:19</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22725462&rd=17063&compid=60730" class="statLink">
+6
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22725462&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=158782&amp;tab=long" class="coderTextBlue">BCSEiny</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+388252.43</td>
+<td class="statLt" align="center">
+63</td>
+<td class="statLt" align="center">
+01.28.2018 21:54:55</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=158782&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=158782&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22828541&amp;tab=long" class="coderTextYellow">andresduque</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+385679.61</td>
+<td class="statDk" align="center">
+64</td>
+<td class="statDk" align="center">
+01.28.2018 23:56:11</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22828541&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22828541&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40704311" class="coderTextBlack">DoURLYWannaKnow</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+384417.48</td>
+<td class="statLt" align="center">
+65</td>
+<td class="statLt" align="center">
+01.30.2018 03:33:17</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40704311&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40704311&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40293157&amp;tab=long" class="coderTextGreen">daisyo</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+373932.04</td>
+<td class="statDk" align="center">
+66</td>
+<td class="statDk" align="center">
+01.27.2018 02:03:40</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40293157&rd=17063&compid=60730" class="statLink">
+19
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40293157&rd=17063&compid=60730" class="statLink">
+9
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22912209&amp;tab=long" class="coderTextYellow">okazaki</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+367718.45</td>
+<td class="statLt" align="center">
+67</td>
+<td class="statLt" align="center">
+01.29.2018 10:51:31</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22912209&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22912209&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40093748&amp;tab=long" class="coderTextGreen">MitI_7</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+365582.52</td>
+<td class="statDk" align="center">
+68</td>
+<td class="statDk" align="center">
+01.29.2018 22:39:24</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40093748&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40093748&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22923054&amp;tab=long" class="coderTextYellow">dtaka</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+365048.54</td>
+<td class="statLt" align="center">
+69</td>
+<td class="statLt" align="center">
+01.28.2018 10:10:16</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22923054&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22923054&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40136338&amp;tab=long" class="coderTextBlue">krismaz</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+364029.13</td>
+<td class="statDk" align="center">
+70</td>
+<td class="statDk" align="center">
+01.26.2018 15:16:57</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40136338&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40136338&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23177901&amp;tab=long" class="coderTextGray">Hec</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+362766.99</td>
+<td class="statLt" align="center">
+71</td>
+<td class="statLt" align="center">
+01.28.2018 11:46:34</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23177901&rd=17063&compid=60730" class="statLink">
+6
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23177901&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22906664&amp;tab=long" class="coderTextGreen">shilov</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+343786.41</td>
+<td class="statDk" align="center">
+72</td>
+<td class="statDk" align="center">
+01.27.2018 02:01:01</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22906664&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22906664&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22898655&amp;tab=long" class="coderTextGreen">ty70</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+332281.55</td>
+<td class="statLt" align="center">
+73</td>
+<td class="statLt" align="center">
+01.30.2018 14:17:30</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22898655&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22898655&rd=17063&compid=60730" class="statLink">
+9
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=15781032&amp;tab=long" class="coderTextBlue">brajeshlkw</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+331504.85</td>
+<td class="statDk" align="center">
+74</td>
+<td class="statDk" align="center">
+01.30.2018 11:57:46</td>
+<td class="statDk" align="center">
+VB</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=15781032&rd=17063&compid=60730" class="statLink">
+7
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=15781032&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=21688563&amp;tab=long" class="coderTextYellow">H_a_s_h</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+316116.50</td>
+<td class="statLt" align="center">
+75</td>
+<td class="statLt" align="center">
+01.29.2018 14:34:58</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=21688563&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=21688563&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40580667" class="coderTextBlack">inmir</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+313058.25</td>
+<td class="statDk" align="center">
+76</td>
+<td class="statDk" align="center">
+01.28.2018 01:58:24</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40580667&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40580667&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22630497&amp;tab=long" class="coderTextBlue">cs_lewy</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+313009.71</td>
+<td class="statLt" align="center">
+77</td>
+<td class="statLt" align="center">
+01.28.2018 07:44:58</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22630497&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22630497&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22780146" class="coderTextBlack">Kozyr</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+309708.74</td>
+<td class="statDk" align="center">
+78</td>
+<td class="statDk" align="center">
+01.30.2018 16:23:14</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22780146&rd=17063&compid=60730" class="statLink">
+10
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22780146&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40651481" class="coderTextBlack">tdye</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+301116.50</td>
+<td class="statLt" align="center">
+79</td>
+<td class="statLt" align="center">
+01.30.2018 15:33:14</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40651481&rd=17063&compid=60730" class="statLink">
+6
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40651481&rd=17063&compid=60730" class="statLink">
+11
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23095311&amp;tab=long" class="coderTextGreen">sokian</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+299466.02</td>
+<td class="statDk" align="center">
+80</td>
+<td class="statDk" align="center">
+01.29.2018 00:53:40</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23095311&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23095311&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40329498&amp;tab=long" class="coderTextGreen">mamorun</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+259563.11</td>
+<td class="statLt" align="center">
+81</td>
+<td class="statLt" align="center">
+01.29.2018 02:48:49</td>
+<td class="statLt" align="center">
+C#</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40329498&rd=17063&compid=60730" class="statLink">
+9
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40329498&rd=17063&compid=60730" class="statLink">
+6
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22741614&amp;tab=long" class="coderTextGreen">mcw1142</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+231893.20</td>
+<td class="statDk" align="center">
+82</td>
+<td class="statDk" align="center">
+01.30.2018 14:00:49</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22741614&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22741614&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23105580&amp;tab=long" class="coderTextGreen">deflat</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+228252.43</td>
+<td class="statLt" align="center">
+83</td>
+<td class="statLt" align="center">
+01.30.2018 17:41:56</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23105580&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23105580&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40080422&amp;tab=long" class="coderTextGreen">gpbencke</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+205776.70</td>
+<td class="statDk" align="center">
+84</td>
+<td class="statDk" align="center">
+01.30.2018 13:36:55</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40080422&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40080422&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40315743&amp;tab=long" class="coderTextGreen">Zodist</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+192669.90</td>
+<td class="statLt" align="center">
+85</td>
+<td class="statLt" align="center">
+01.29.2018 08:38:50</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40315743&rd=17063&compid=60730" class="statLink">
+7
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40315743&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22535512&amp;tab=long" class="coderTextGreen">osadly</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+191019.42</td>
+<td class="statDk" align="center">
+86</td>
+<td class="statDk" align="center">
+01.29.2018 19:36:46</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22535512&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22535512&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40137723&amp;tab=long" class="coderTextBlue">alpha_virginis</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+184077.67</td>
+<td class="statLt" align="center">
+87</td>
+<td class="statLt" align="center">
+01.25.2018 21:21:02</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40137723&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40137723&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40695317" class="coderTextBlack">TheOni1976</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+172378.64</td>
+<td class="statDk" align="center">
+88</td>
+<td class="statDk" align="center">
+01.28.2018 18:40:04</td>
+<td class="statDk" align="center">
+Java</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40695317&rd=17063&compid=60730" class="statLink">
+7
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40695317&rd=17063&compid=60730" class="statLink">
+4
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22781646&amp;tab=long" class="coderTextGreen">r2d1</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+154805.83</td>
+<td class="statLt" align="center">
+89</td>
+<td class="statLt" align="center">
+01.27.2018 20:16:44</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22781646&rd=17063&compid=60730" class="statLink">
+20
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22781646&rd=17063&compid=60730" class="statLink">
+5
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40007510" class="coderTextBlack">charleswhammer</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+153689.32</td>
+<td class="statDk" align="center">
+90</td>
+<td class="statDk" align="center">
+01.29.2018 14:29:55</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40007510&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40007510&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23128776&amp;tab=long" class="coderTextGray">kossi_tg</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+152378.64</td>
+<td class="statLt" align="center">
+91</td>
+<td class="statLt" align="center">
+01.27.2018 03:08:00</td>
+<td class="statLt" align="center">
+Java</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23128776&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23128776&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23038943&amp;tab=long" class="coderTextGray">Incred</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+135679.61</td>
+<td class="statDk" align="center">
+92</td>
+<td class="statDk" align="center">
+01.28.2018 16:39:13</td>
+<td class="statDk" align="center">
+C#</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23038943&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23038943&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40700454" class="coderTextBlack">savinvadim</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+111650.49</td>
+<td class="statLt" align="center">
+93</td>
+<td class="statLt" align="center">
+01.26.2018 15:11:48</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+0
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40700454&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=23285191&amp;tab=long" class="coderTextGreen">myam</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+69077.67</td>
+<td class="statDk" align="center">
+94</td>
+<td class="statDk" align="center">
+01.26.2018 23:18:18</td>
+<td class="statDk" align="center">
+Python</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=23285191&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=23285191&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40705465" class="coderTextBlack">reihg9g9</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+68640.78</td>
+<td class="statLt" align="center">
+95</td>
+<td class="statLt" align="center">
+01.29.2018 17:22:40</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+0
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40705465&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40411945&amp;tab=long" class="coderTextGreen">satanic0258</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+68640.78</td>
+<td class="statDk" align="center">
+95</td>
+<td class="statDk" align="center">
+01.25.2018 10:36:58</td>
+<td class="statDk" align="center">
+C++</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40411945&rd=17063&compid=60730" class="statLink">
+3
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40411945&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40099798&amp;tab=long" class="coderTextGray">henriqdp</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+68446.60</td>
+<td class="statLt" align="center">
+97</td>
+<td class="statLt" align="center">
+01.26.2018 14:00:33</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40099798&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40099798&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=141650&amp;tab=long" class="coderTextGray">id</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+68446.60</td>
+<td class="statDk" align="center">
+97</td>
+<td class="statDk" align="center">
+01.25.2018 14:52:22</td>
+<td class="statDk" align="center">
+C#</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=141650&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=141650&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statLt">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=22704094&amp;tab=long" class="coderTextGreen">kphmd</a></td>
+<td class="statLt" align="right" style="padding-right: 7px;">
+68446.60</td>
+<td class="statLt" align="center">
+97</td>
+<td class="statLt" align="center">
+01.30.2018 07:43:48</td>
+<td class="statLt" align="center">
+C++</td></td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=22704094&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statLt" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=22704094&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+</tr><tr>
+<td class="statDk">
+<a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=40243869&amp;tab=long" class="coderTextGray">zamini</a></td>
+<td class="statDk" align="right" style="padding-right: 7px;">
+68203.88</td>
+<td class="statDk" align="center">
+100</td>
+<td class="statDk" align="center">
+01.30.2018 04:05:43</td>
+<td class="statDk" align="center">
+C#</td></td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewExampleHistory&cr=40243869&rd=17063&compid=60730" class="statLink">
+1
+</A>
+
+</td>
+<td class="statDk" align="center">
+
+<A href="/longcontest/?module=ViewSubmissionHistory&cr=40243869&rd=17063&compid=60730" class="statLink">
+2
+</A>
+
+</td>
+</tr>
+                
+            </table>
+        </td>
+    </tr>
+</table>
+    <p>* Indicates that this competitor's most recent test or submission has not yet been processed</p>
+
+<div class="pagingBox">
+&lt;&lt; prev
+    | <a href="Javascript:next()" class="bcLink">next &gt;&gt;</a>
+</div>
+</form>
+
+</td>
+
+
+<td width="170">
+    
+
+
+
+<script type="text/javascript" language="javascript">
+
+</script>
+
+
+
+
+    <div style="width:150px;">
+        &nbsp;
+    </div>
+
+
+</td>
+
+
+<td width="10"><img src="/i/clear.gif" width="10" height="1" border="0"></td>
+</tr>
+</table>
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script>
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+__gaTracker('create', 'UA-6340959-1', 'auto');
+
+</script>
+<!-- End Google Analytics -->
+<script type="text/javascript">
+window.onload = function() {
+  var getHandle = function(callback) {
+    var self = this;
+    var tcjwt = $.cookie('tcjwt');
+
+
+    if (typeof tcjwt === 'undefined') {
+      callback(self.handle);
+    }
+    else if (typeof tcjwt !== 'undefined') {
+      $.ajax({
+        type: "GET",
+        url: 'https://api.topcoder.com/v2' + '/user/identity',
+        dataType: 'json',
+        headers: {
+          'Authorization': 'Bearer ' + tcjwt
+        },
+        success: function(data) {
+          self.handle = data.handle;
+          callback(self.handle);
+        }
+      }).fail(function() {
+        document.cookie = 'tcsso=; path=/; domain=.topcoder.com; expires=' + new Date(0).toUTCString();
+        document.cookie = 'tcjwt=; path=/; domain=.topcoder.com; expires=' + new Date(0).toUTCString();
+        location.reload();
+      });
+    }
+  };
+  var probName = naame = 'PointsOnTheCircle';
+  var roundId = iid = 17063;
+  getHandle(function(handle) {
+    __gaTracker('send', 'event', 'mmViewStandings', roundId + ': ' + probName, handle || 'anonymous', roundId);
+  });
+  __gaTracker('send', 'pageview');
+};
+</script>
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+                    
+                    
+
+
+                        
+                            
+                                
+                            
+                        
+
+                        
+                    
+                
+                
+                    
+                         
+                              
+                                 
+                                     
+
+                                 
+                              
+                             
+                         
+
+
+                
+                
+                    
+                    
+                        
+                    
+                    
+                
+                
+            
+            
+                
+                    
+                        
+                        
+                            
+                            
+                            
+                            
+                        
+                        
+                    
+                    
+                        
+                            
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+                            
+
+                        
+                    
+                
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                
+            
+        
+
+        <footer class="bottom-footer"><!-- Footer links-->
+            <nav class="menu-item">
+                <div class="menu-item-header show-small">OTHERS</div>
+                <ul class="submenu">
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/sitemap">SITEMAP</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/about/">ABOUT US</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://help.topcoder.com/hc/en-us/articles/219069687-Contact-Support">CONTACT US</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://help.topcoder.com/">HELP CENTER</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/community/how-it-works/privacy-policy/">PRIVACY POLICY</a></li>
+                    <li class="submenu-item"><a class="menu-link" href="https://www.topcoder.com/community/how-it-works/terms/">TERMS</a></li>
+                </ul>
+            </nav>
+            <!-- Social links-->
+            <div class="social-links"><p>topcoder is also on</p><a class="fb-link" href="https://www.facebook.com/topcoder"></a><a
+                    class="twitter-link" href="http://www.twitter.com/topcoder"></a><a class="linkedin-link" href="https://www.linkedin.com/company/topcoder"></a><a
+                    class="google-link" href="https://plus.google.com/+topcoder/posts"></a></div>
+            <p class="copyright-notice">&copy; 2015 topcoder. All Rights Reserved</p></footer>
+    
+    
+
+
+
+
+
+
+<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("p4hJvXxilb4KtBW6BMYN4o9FoNtCrp4E");
+  analytics.page();
+  }}();
+</script>
+
+
+<!-- Start of topcoder Zendesk Widget script -->
+<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","topcoder.zendesk.com");
+/*]]>*/</script>
+<!-- End of topcoder Zendesk Widget script -->
+
+
+</body>
+</html>
